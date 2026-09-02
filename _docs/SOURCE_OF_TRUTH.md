@@ -415,11 +415,34 @@ users/{uid}/
   if configured.
 
 ### Accessibility
+
+**General**
 - All buttons keyboard reachable.
 - Focus rings preserved.
 - Colour contrast meets WCAG AA against both light and dark themes.
 - Quiz timer is decorative — students are not penalised for time over
   budget; they are simply auto-submitted.
+
+**Accessibility Modal** (`#a11yModal`, opened via `#a11yBtn` in the header)
+
+Managed by `js/accessibility.js`. Closes via close button, footer "Done"
+button, backdrop click, or `Escape` key.
+
+| Section              | Feature          | `data-feature`   | Effect                                                   |
+|----------------------|------------------|------------------|----------------------------------------------------------|
+| Vision               | High Contrast    | `high_contrast`  | Adds `body.high-contrast` — stronger borders & brighter text |
+| Vision               | Large Text       | `large_text`     | Sets `html` `font-size` to `120%`                        |
+| Hearing / Speech     | Read Aloud (TTS) | `tts`            | Enables Web Speech API TTS via `app.speak(text)`         |
+| Hearing / Speech     | Slow Speech      | `slow_speech`    | Reduces TTS rate from `0.9` to `0.65`                    |
+| Hearing / Speech     | Sound            | `sound`          | Toggles background ambience and sound effects            |
+| Reading / Cognition  | Simple Language   | `simple_mode`    | Adds `body.simple-mode` — signals simpler vocabulary     |
+| Reading / Cognition  | Reduce Motion    | `reduce_motion`  | Adds `body.reduce-motion` — disables all CSS animations  |
+
+Each toggle is an iOS-style pill (`role="switch"`, `aria-checked`) styled by
+`.toggle-btn`. All preferences persist to `localStorage` (`a11y-*` keys) and
+restore on page load. The module exposes `app.a11y` (state object),
+`app.speak()`, `app.openA11y()`, and `app.closeA11y()` for use by other
+modules.
 
 ---
 

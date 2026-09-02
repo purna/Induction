@@ -89,6 +89,10 @@
     app.state.correct = correct;
     app.state.total = questions.length;
 
+    if (app.speak) {
+      app.speak('You scored ' + correct + ' out of ' + questions.length + '. ' + (pct >= 80 ? 'You passed.' : 'You did not pass.'));
+    }
+
     app.saveQuizResult(app.state.section, app.state.level, app.state.quizVariant, pct, correct, questions.length);
 
     const hero = document.createElement('div');
@@ -97,7 +101,7 @@
       ? '<span class="pass-badge">PASS</span>'
       : '<span class="fail-badge">FAIL</span>';
     hero.innerHTML =
-      '<p class="settings-hint" style="margin:0;padding:0.5rem 0;">' + app.sectionTitle() + '</p>' +
+      '<p class="settings-hint" style="margin:0;padding:1rem 0;">' + app.sectionTitle() + '</p>' +
       passBadge +
       '<p class="results-score">' + pct + '%</p>' +
       '<p class="results-sub">' + correct + ' of ' + questions.length + ' correct</p>';
@@ -298,7 +302,7 @@
     const hero = document.createElement('div');
     hero.className = 'results-hero';
     hero.innerHTML =
-      '<p class="settings-hint" style="margin:0;padding:0.5rem 0;">' + app.sectionTitle() + '</p>' +
+      '<p class="settings-hint" style="margin:0;padding:1rem 0;">' + app.sectionTitle() + '</p>' +
       '<p class="results-score" style="font-size:2.2rem;">' + (traits[topKey] || topKey) + '</p>' +
       '<p class="results-sub">Your strongest tendency in this attempt</p>';
     wrap.appendChild(hero);

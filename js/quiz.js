@@ -38,7 +38,8 @@
       });
   };
 
-  app.renderQuestion = function () {
+  app.renderQuestion = function (opts) {
+    opts = opts || {};
     app.state.selectedTileValue = null;
     const q = app.state.data.questions[app.state.index];
     const total = app.state.data.questions.length;
@@ -80,6 +81,16 @@
     app.el.prevBtn.disabled = app.state.index === 0;
     app.el.nextBtn.textContent = app.state.index === total - 1 ? 'Finish' : 'Next';
     app.resetPqTimer();
+
+    if (app.speak && !opts.silent) {
+      var parts = ['Question ' + (app.state.index + 1) + '. ' + q.prompt];
+      var optionLabels = card.querySelectorAll('.option-text, .exercise-option, .option-label');
+      optionLabels.forEach(function (el) {
+        var t = (el.textContent || '').trim();
+        if (t) parts.push(t);
+      });
+      app.speak(parts.join('. '));
+    }
   };
 
   app.renderTextOptions = function (card, q) {
@@ -283,11 +294,11 @@
 
     options.forEach(function (opt, i) {
       const btn = document.createElement('button');
-      btn.className = 'exercise-option';
+      btn.className = 'exercise-option' + (selected === i ? ' selected' : '');
       btn.textContent = opt;
       btn.addEventListener('click', function () {
         app.state.answers[q.id] = [i];
-        app.renderQuestion();
+        app.renderQuestion({ silent: true });
       });
       optionsWrap.appendChild(btn);
     });

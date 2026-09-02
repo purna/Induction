@@ -81,6 +81,30 @@
     app.el.learnPrevBtn.disabled = app.state.learnIndex === 0;
     app.el.learnNextBtn.textContent = app.state.learnIndex === data.slides.length - 1 ? 'Start Quiz' : 'Next';
 
+    if (app.speak) {
+      var parts = [];
+      if (data.title) parts.push(data.title);
+      if (slide.title) parts.push(slide.title);
+      if (slide.content) parts.push(slide.content);
+      if (slide.exampleOutput) parts.push('Output: ' + slide.exampleOutput);
+      if (slide.exercise && slide.exercise.prompt) parts.push(slide.exercise.prompt);
+
+      var optionEls = app.el.exerciseArea.querySelectorAll('.exercise-option');
+      optionEls.forEach(function (el) {
+        var t = (el.textContent || '').trim();
+        if (t) parts.push(t);
+      });
+
+      var placeholderEl = app.el.exerciseArea.querySelector('.exercise-blank');
+      if (placeholderEl) {
+        var before = (slide.exercise && slide.exercise.before) || '';
+        var after = (slide.exercise && slide.exercise.after) || '';
+        if (before || after) parts.push('Fill in the blank: ' + before + ' blank ' + after);
+      }
+
+      app.speak(parts.join('. '));
+    }
+
     app.saveLearnProgress(app.state.section, app.state.level, app.state.learnIndex, app.state.learnIndex === data.slides.length - 1, data.slides.length);
   };
 
@@ -98,6 +122,33 @@
       app.renderLearnScored(exercise);
     } else if (exercise.type === 'multi') {
       app.renderLearnMulti(exercise);
+    } else if (exercise.type === 'insert') {
+      app.renderLearnInsert(exercise);
+    }
+  };
+
+  app.resetLearnExercise = function () {
+    if (app.el.exerciseCheckBtn) app.el.exerciseCheckBtn.classList.remove('hidden');
+    if (app.el.exerciseFeedback) {
+      app.el.exerciseFeedback.textContent = '';
+      app.el.exerciseFeedback.className = 'exercise-feedback';
+    }
+    app.el.exerciseArea.querySelectorAll('.exercise-option').forEach(function (el) { el.classList.remove('selected', 'correct', 'wrong'); });
+    const input = app.el.exerciseArea.querySelector('input.exercise-option');
+    if (input) {
+      input.style.borderColor = '';
+      input.style.background = '';
+    }
+    const editor = app.el.exerciseArea.querySelector('textarea.exercise-editor');
+    if (editor) {
+      editor.style.borderColor = '';
+      editor.style.background = '';
+    }
+    const output = app.el.exerciseArea.querySelector('.exercise-output');
+    if (output) {
+      output.textContent = 'Output will appear here...';
+      output.style.color = '';
+      output.style.borderColor = '';
     }
   };
 
@@ -112,27 +163,50 @@
     options.style.gap = '0.5rem';
 
     const shuffled = exercise.options.slice().sort(function () { return Math.random() - 0.5; });
+    let selectedValue = null;
+    let selectedBtn = null;
+
     shuffled.forEach(function (opt) {
       const btn = document.createElement('button');
       btn.className = 'exercise-option';
       btn.textContent = opt;
       btn.addEventListener('click', function () {
-        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected', 'correct', 'wrong'); });
-        if (opt === exercise.answer) {
-          btn.classList.add('correct');
-          app.el.exerciseFeedback.textContent = 'Correct! Well done!';
-          app.el.exerciseFeedback.className = 'exercise-feedback correct';
-          app.el.exerciseCheckBtn.classList.add('hidden');
-        } else {
-          btn.classList.add('wrong');
-          app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
-          app.el.exerciseFeedback.className = 'exercise-feedback wrong';
-        }
+        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected'); });
+        btn.classList.add('selected');
+        selectedValue = opt;
+        selectedBtn = btn;
       });
       options.appendChild(btn);
     });
+
     wrap.appendChild(options);
     app.el.exerciseArea.appendChild(wrap);
+
+    app.el.exerciseCheckBtn.onclick = function () {
+      if (selectedValue === null) {
+        app.el.exerciseFeedback.textContent = 'Please select an option.';
+        app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        return;
+      }
+      if (selectedValue === exercise.answer) {
+        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected', 'correct', 'wrong'); });
+        if (selectedBtn) selectedBtn.classList.add('correct');
+        app.el.exerciseFeedback.textContent = 'Correct! Well done!';
+        app.el.exerciseFeedback.className = 'exercise-feedback correct';
+        app.el.exerciseCheckBtn.classList.add('hidden');
+      } else {
+        if (selectedBtn) {
+          selectedBtn.classList.remove('selected');
+          selectedBtn.classList.add('wrong');
+        }
+        options.querySelectorAll('.exercise-option').forEach(function (b) {
+          if (b.textContent === exercise.answer) b.classList.add('correct');
+        });
+        app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
+        app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        setTimeout(function () { app.resetLearnExercise(); }, 2000);
+      }
+    };
   };
 
   app.renderLearnScored = function (exercise) {
@@ -147,6 +221,8 @@
 
     const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
     const answerIndex = exercise.answerIndex;
+    let selectedIndex = null;
+    let selectedBtn = null;
 
     (exercise.options || []).forEach(function (opt, i) {
       const label = typeof opt === 'string' ? opt : '';
@@ -154,23 +230,42 @@
       btn.className = 'exercise-option';
       btn.innerHTML = '<span class="option-marker">' + (letters[i] || (i + 1)) + '</span><span>' + label + '</span>';
       btn.addEventListener('click', function () {
-        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected', 'correct', 'wrong'); });
-        if (i === answerIndex) {
-          btn.classList.add('correct');
-          app.el.exerciseFeedback.textContent = 'Correct! Well done!';
-          app.el.exerciseFeedback.className = 'exercise-feedback correct';
-          app.el.exerciseCheckBtn.classList.add('hidden');
-        } else {
-          btn.classList.add('wrong');
-          app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
-          app.el.exerciseFeedback.className = 'exercise-feedback wrong';
-        }
+        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected'); });
+        btn.classList.add('selected');
+        selectedIndex = i;
+        selectedBtn = btn;
       });
       options.appendChild(btn);
     });
 
     wrap.appendChild(options);
     app.el.exerciseArea.appendChild(wrap);
+
+    app.el.exerciseCheckBtn.onclick = function () {
+      if (selectedIndex === null) {
+        app.el.exerciseFeedback.textContent = 'Please select an option.';
+        app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        return;
+      }
+      if (selectedIndex === answerIndex) {
+        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected', 'correct', 'wrong'); });
+        if (selectedBtn) selectedBtn.classList.add('correct');
+        app.el.exerciseFeedback.textContent = 'Correct! Well done!';
+        app.el.exerciseFeedback.className = 'exercise-feedback correct';
+        app.el.exerciseCheckBtn.classList.add('hidden');
+      } else {
+        if (selectedBtn) {
+          selectedBtn.classList.remove('selected');
+          selectedBtn.classList.add('wrong');
+        }
+        options.querySelectorAll('.exercise-option').forEach(function (b, i) {
+          if (i === answerIndex) b.classList.add('correct');
+        });
+        app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
+        app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        setTimeout(function () { app.resetLearnExercise(); }, 2000);
+      }
+    };
   };
 
   app.renderLearnMulti = function (exercise) {
@@ -244,6 +339,7 @@
       } else {
         app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
         app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        setTimeout(function () { app.resetLearnExercise(); }, 2000);
       }
     };
   };
@@ -284,12 +380,82 @@
         input.style.background = 'var(--bad-soft)';
         app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
         app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        setTimeout(function () { app.resetLearnExercise(); }, 2000);
       }
     };
 
     wrap.appendChild(input);
     app.el.exerciseArea.appendChild(wrap);
     input.focus();
+  };
+
+  app.renderLearnInsert = function (exercise) {
+    const wrap = document.createElement('div');
+    wrap.className = 'exercise-insert';
+
+    const template = document.createElement('p');
+    template.className = 'exercise-template';
+    template.style.fontFamily = 'var(--font-mono)';
+    template.style.background = 'var(--bg)';
+    template.style.padding = '0.75rem';
+    template.style.borderRadius = '8px';
+    template.style.border = '1px solid var(--border)';
+    template.style.marginBottom = '0.75rem';
+    template.style.fontSize = '0.95rem';
+    template.textContent = (exercise.template || exercise.prompt || '').replace(/____+/g, '_____');
+    wrap.appendChild(template);
+
+    const options = document.createElement('div');
+    options.className = 'exercise-options';
+    options.style.display = 'flex';
+    options.style.flexWrap = 'wrap';
+    options.style.gap = '0.5rem';
+
+    const answerIndex = exercise.answerIndex;
+    let selectedIndex = null;
+    let selectedBtn = null;
+
+    (exercise.options || []).forEach(function (opt, i) {
+      const btn = document.createElement('button');
+      btn.className = 'exercise-option';
+      btn.textContent = opt;
+      btn.addEventListener('click', function () {
+        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected'); });
+        btn.classList.add('selected');
+        selectedIndex = i;
+        selectedBtn = btn;
+      });
+      options.appendChild(btn);
+    });
+
+    wrap.appendChild(options);
+    app.el.exerciseArea.appendChild(wrap);
+
+    app.el.exerciseCheckBtn.onclick = function () {
+      if (selectedIndex === null) {
+        app.el.exerciseFeedback.textContent = 'Please select an option.';
+        app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        return;
+      }
+      if (selectedIndex === answerIndex) {
+        options.querySelectorAll('.exercise-option').forEach(function (b) { b.classList.remove('selected', 'correct', 'wrong'); });
+        if (selectedBtn) selectedBtn.classList.add('correct');
+        app.el.exerciseFeedback.textContent = 'Correct! Well done!';
+        app.el.exerciseFeedback.className = 'exercise-feedback correct';
+        app.el.exerciseCheckBtn.classList.add('hidden');
+      } else {
+        if (selectedBtn) {
+          selectedBtn.classList.remove('selected');
+          selectedBtn.classList.add('wrong');
+        }
+        options.querySelectorAll('.exercise-option').forEach(function (b, i) {
+          if (i === answerIndex) b.classList.add('correct');
+        });
+        app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
+        app.el.exerciseFeedback.className = 'exercise-feedback wrong';
+        setTimeout(function () { app.resetLearnExercise(); }, 2000);
+      }
+    };
   };
 
   app.renderLearnDragDrop = function (exercise) {

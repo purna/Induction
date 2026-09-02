@@ -1,4 +1,4 @@
-const CACHE_NAME = 'induction-quiz-v3';
+const CACHE_NAME = 'induction-quiz-v11';
 
 const APP_SHELL = [
   './',
@@ -202,6 +202,7 @@ const APP_SHELL = [
   './gfx/logo_black.svg',
   './gfx/logo_white.png',
   './gfx/logo_white.svg',
+  './sfx/ping_pong.mp3',
 ];
 
 self.addEventListener('install', function (event) {
