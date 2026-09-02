@@ -1,4 +1,4 @@
-const CACHE_NAME = 'induction-quiz-v11';
+const CACHE_NAME = 'induction-quiz-v12';
 
 const APP_SHELL = [
   './',
