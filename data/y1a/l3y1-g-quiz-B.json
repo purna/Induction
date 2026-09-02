@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "section": "l3y1-g",
+    "level": "l3",
+    "year": "y1",
+    "module": "G",
+    "title": "Looking After Myself",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-g-B01",
+      "type": "scored",
+      "prompt": "What's the highest-leverage sleep change the deck recommends?",
+      "options": [
+        "Buy a new mattress",
+        "Anchor your wake time - same time every day, including one weekend day",
+        "Avoid all screens",
+        "Take sleeping pills"
+      ],
+      "answerIndex": 1,
+      "explanation": "Anchor your wake time - same time every day, including one weekend day."
+    },
+    {
+      "id": "l3y1-g-B02",
+      "type": "scored",
+      "prompt": "How does the deck reframe money worries?",
+      "options": [
+        "Something to keep quiet",
+        "Money worries are a reason to talk to us - not a reason to disappear",
+        "Only students with debt qualify",
+        "They're rare"
+      ],
+      "answerIndex": 1,
+      "explanation": "Money worries are a reason to talk to us - not a reason to disappear."
+    },
+    {
+      "id": "l3y1-g-B03",
+      "type": "scored",
+      "prompt": "How does the deck describe the Hardship Fund?",
+      "options": [
+        "A loan",
+        "Emergency financial support for travel, food, equipment, sudden changes at home - asking is confidential, and far more common than you'd think",
+        "Only for travel",
+        "Restricted to international students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Emergency financial support - asking is confidential, and far more common than you'd think."
+    },
+    {
+      "id": "l3y1-g-B04",
+      "type": "insert",
+      "prompt": "Fill in the blank: MIND is ____.",
+      "template": "MIND is ____.",
+      "options": [
+        "116 123",
+        "0300 123 3393 / mind.org.uk",
+        "07848 442081",
+        "999"
+      ],
+      "answerIndex": 1,
+      "explanation": "MIND: 0300 123 3393 / mind.org.uk."
+    },
+    {
+      "id": "l3y1-g-B05",
+      "type": "scored",
+      "prompt": "What's the deck's three-step pathway for support?",
+      "options": [
+        "Fill in form, wait, get a letter",
+        "Say something -> Referral -> Support arranged",
+        "Tell your parents -> wait -> email your tutor",
+        "Apply online -> take a test -> get a result"
+      ],
+      "answerIndex": 1,
+      "explanation": "Say something -> Referral -> Support arranged."
+    },
+    {
+      "id": "l3y1-g-B06",
+      "type": "scored",
+      "prompt": "What's the deck's view on self-disclosing a disability or learning need?",
+      "options": [
+        "Don't bother",
+        "Sharing it means support can actually be arranged - exam access, adjustments, the right help at the right time",
+        "Only if it affects attendance",
+        "Only at enrolment"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sharing it means support can actually be arranged."
+    },
+    {
+      "id": "l3y1-g-B07",
+      "type": "scored",
+      "prompt": "Mental health exists on:",
+      "options": [
+        "A timetable",
+        "A grading scale",
+        "Two levels",
+        "A spectrum"
+      ],
+      "answerIndex": 3,
+      "explanation": "A spectrum"
+    },
+    {
+      "id": "l3y1-g-B08",
+      "type": "scored",
+      "prompt": "Which factor affects mental health?",
+      "options": [
+        "Shoe size",
+        "Handwriting",
+        "Favourite colour",
+        "Sleep"
+      ],
+      "answerIndex": 3,
+      "explanation": "Sleep"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y1-c",
+    "level": "l3",
+    "year": "y1",
+    "module": "C",
+    "variant": "B",
+    "title": "Health & Safety"
+  },
+  "questions": [
+    {
+      "id": "l3y1-c-B01",
+      "type": "scored",
+      "prompt": "Most accidents happen because:",
+      "options": [
+        "People intentionally break rules",
+        "People stop noticing hazards",
+        "Equipment always fails",
+        "Students are careless"
+      ],
+      "answerIndex": 1,
+      "explanation": "People stop noticing hazards"
+    },
+    {
+      "id": "l3y1-c-B02",
+      "type": "scored",
+      "prompt": "Which of these can reduce awareness?",
+      "options": [
+        "Distraction",
+        "Reporting hazards",
+        "Working as a team",
+        "Paying attention"
+      ],
+      "answerIndex": 0,
+      "explanation": "Distraction"
+    },
+    {
+      "id": "l3y1-c-B03",
+      "type": "scored",
+      "prompt": "Who should you tell first if you spot a hazard?",
+      "options": [
+        "Your teacher",
+        "Nobody",
+        "Social media",
+        "A friend"
+      ],
+      "answerIndex": 0,
+      "explanation": "Your teacher"
+    },
+    {
+      "id": "l3y1-c-B04",
+      "type": "scored",
+      "prompt": "What PROUD value is highlighted in Module C?",
+      "options": [
+        "Work Together",
+        "Show Respect",
+        "Seek Opportunity",
+        "Lead"
+      ],
+      "answerIndex": 1,
+      "explanation": "Show Respect"
+    },
+    {
+      "id": "l3y1-c-B05",
+      "type": "scored",
+      "prompt": "Why are sandbags used on lighting stands?",
+      "options": [
+        "For storage",
+        "To improve lighting",
+        "To stop them toppling",
+        "To make them easier to carry"
+      ],
+      "answerIndex": 2,
+      "explanation": "To stop them toppling"
+    },
+    {
+      "id": "l3y1-c-B06",
+      "type": "scored",
+      "prompt": "Which statement is correct?",
+      "options": [
+        "Safety is only important in practical lessons",
+        "Safety is the college's responsibility only",
+        "Safety is the teacher's responsibility only",
+        "Safety is everyone's shared responsibility"
+      ],
+      "answerIndex": 3,
+      "explanation": "Safety is everyone's shared responsibility"
+    },
+    {
+      "id": "l3y1-c-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Show Respect'? Select all that apply.",
+      "options": [
+        "Tidy up",
+        "Report damage",
+        "Leave things as you found them",
+        "Do not interfere with their equipment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Show Respect."
+    },
+    {
+      "id": "l3y1-c-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'If Something Feels Unsafe'? Select all that apply.",
+      "options": [
+        "A space feels unsafe",
+        "An activity feels unsafe",
+        "Someone's behaviour makes you uncomfortable"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are part of If Something Feels Unsafe."
+    }
+  ]
+}

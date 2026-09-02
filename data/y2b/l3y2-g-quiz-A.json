@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-g",
+    "level": "l3",
+    "year": "y2",
+    "module": "G",
+    "variant": "A",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "id": "l3y2-g-A01",
+      "type": "scored",
+      "prompt": "What is one major Year 2 pressure?",
+      "options": [
+        "Final Major Project",
+        "SATs",
+        "Uniform rules",
+        "Primary school homework"
+      ],
+      "answerIndex": 0,
+      "explanation": "Final Major Project"
+    },
+    {
+      "id": "l3y2-g-A02",
+      "type": "scored",
+      "prompt": "What is a common stress response?",
+      "options": [
+        "Avoidance",
+        "Increased focus",
+        "More energy",
+        "Better time management"
+      ],
+      "answerIndex": 0,
+      "explanation": "Avoidance"
+    },
+    {
+      "id": "l3y2-g-A03",
+      "type": "scored",
+      "prompt": "Which statement is true?",
+      "options": [
+        "Support is only for Year 1",
+        "Support should only be used in crises",
+        "Many students stop using support when they need it most",
+        "Year 2 students rarely need support"
+      ],
+      "answerIndex": 2,
+      "explanation": "Many students stop using support when they need it most"
+    },
+    {
+      "id": "l3y2-g-A04",
+      "type": "scored",
+      "prompt": "What should you do if circumstances change during Year 2?",
+      "options": [
+        "Tell the college early",
+        "Wait until exams",
+        "Withdraw from college",
+        "Keep it private"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tell the college early"
+    },
+    {
+      "id": "l3y2-g-A05",
+      "type": "scored",
+      "prompt": "Why are Year 2 students well placed to support peers?",
+      "options": [
+        "They become counsellors",
+        "They know each other better",
+        "They replace staff",
+        "They write safeguarding reports"
+      ],
+      "answerIndex": 1,
+      "explanation": "They know each other better"
+    },
+    {
+      "id": "l3y2-g-A06",
+      "type": "scored",
+      "prompt": "Which wellbeing strategy is evidence-based?",
+      "options": [
+        "Reduce sleep",
+        "Avoid people",
+        "Talk to someone",
+        "Ignore problems"
+      ],
+      "answerIndex": 2,
+      "explanation": "Talk to someone"
+    },
+    {
+      "id": "l3y2-g-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Is Heavier'?",
+      "options": [
+        "It is only assessed in exams",
+        "Common Year 2 pressures include: Final Major Projects",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Common Year 2 pressures include: Final Major Projects"
+    },
+    {
+      "id": "l3y2-g-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Mental Health Still Moves'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Recognising your own warning signs is important",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Recognising your own warning signs is important"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "section": "l3y1-a",
+    "level": "l3",
+    "year": "y1",
+    "module": "A",
+    "variant": "C",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y1-a-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Belonging Matters'? Select all that apply.",
+      "options": [
+        "You know people in your group",
+        "You feel comfortable asking questions",
+        "You have staff you can approach",
+        "You build positive connections early"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Belonging Matters."
+    },
+    {
+      "id": "l3y1-a-C02",
+      "type": "scored",
+      "prompt": "According to the deck, belonging is…",
+      "options": [
+        "A bonus, but not really essential",
+        "The single biggest factor in whether students stay, attend and succeed",
+        "Only a concern for new students",
+        "Something the college expects students to sort out for themselves"
+      ],
+      "answerIndex": 1,
+      "explanation": "Belonging is the single biggest factor in whether students stay, attend and succeed."
+    },
+    {
+      "id": "l3y1-a-C03",
+      "type": "insert",
+      "prompt": "Fill in the blank: for T-Level students, work-related learning is ____.",
+      "template": "For T-Level students, work-related learning is ____.",
+      "options": [
+        "optional",
+        "recommended",
+        "mandatory",
+        "not available"
+      ],
+      "answerIndex": 2,
+      "explanation": "For T-Level students, work-related learning is mandatory."
+    },
+    {
+      "id": "l3y1-a-C04",
+      "type": "multi",
+      "prompt": "Your study programme is more than just lessons. Which of these are part of it? Select all that apply.",
+      "options": [
+        "Your Digital or Media qualification",
+        "English & maths (if you haven't yet achieved them)",
+        "Work-related learning",
+        "Tutorial & personal development"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are part of your study programme."
+    },
+    {
+      "id": "l3y1-a-C05",
+      "type": "scored",
+      "prompt": "What does the deck say Pro Portal is used for?",
+      "options": [
+        "Only to book enrichment trips",
+        "Your timetable, messages from teachers, attendance and progress",
+        "Just to submit coursework",
+        "Only to report safeguarding concerns"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pro Portal is your digital home: timetable, messages from teachers, attendance, progress and links to learning and services."
+    },
+    {
+      "id": "l3y1-a-C06",
+      "type": "scored",
+      "prompt": "Which kind of college support covers someone to talk to if you're struggling, stressed or low?",
+      "options": [
+        "Learning support",
+        "Wellbeing & mental health",
+        "Money & practical help",
+        "Careers & next steps"
+      ],
+      "answerIndex": 1,
+      "explanation": "Wellbeing & mental health is someone to talk to if you're struggling, stressed or low."
+    },
+    {
+      "id": "l3y1-a-C07",
+      "type": "insert",
+      "prompt": "Fill in the blank: in the next couple of ____ your campus runs a Freshers Fair.",
+      "template": "In the next couple of ____ your campus runs a Freshers Fair.",
+      "options": [
+        "days",
+        "weeks",
+        "terms",
+        "years"
+      ],
+      "answerIndex": 1,
+      "explanation": "In the next couple of weeks your campus runs a Freshers Fair."
+    },
+    {
+      "id": "l3y1-a-C08",
+      "type": "scored",
+      "prompt": "What does the deck say you can do if something isn't working at college?",
+      "options": [
+        "Keep it to yourself and try to cope",
+        "Tell your teacher early so we can sort it",
+        "Wait until parents' evening",
+        "Switch course immediately"
+      ],
+      "answerIndex": 1,
+      "explanation": "If something isn't working, the worst thing you can do is stay quiet. Tell us early and we can sort it."
+    }
+  ]
+}

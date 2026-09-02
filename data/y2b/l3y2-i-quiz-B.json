@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-i",
+    "level": "l3",
+    "year": "y2",
+    "module": "I",
+    "variant": "B",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "id": "l3y2-i-B01",
+      "type": "scored",
+      "prompt": "What is the main difference in Year 2?",
+      "options": [
+        "Skills no longer matter",
+        "References stop being important",
+        "Evidence is used in real applications",
+        "No evidence is needed"
+      ],
+      "answerIndex": 2,
+      "explanation": "Evidence is used in real applications"
+    },
+    {
+      "id": "l3y2-i-B02",
+      "type": "scored",
+      "prompt": "Which source usually provides the strongest evidence?",
+      "options": [
+        "A guess",
+        "Hopes for the future",
+        "General opinions",
+        "Placement experience"
+      ],
+      "answerIndex": 3,
+      "explanation": "Placement experience"
+    },
+    {
+      "id": "l3y2-i-B03",
+      "type": "scored",
+      "prompt": "What should you compare in the Skills Assessment?",
+      "options": [
+        "Yourself with social media",
+        "Year 1 and Year 2 development",
+        "Yourself with celebrities",
+        "Yourself with primary school students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Year 1 and Year 2 development"
+    },
+    {
+      "id": "l3y2-i-B04",
+      "type": "scored",
+      "prompt": "Which statement is strongest?",
+      "options": [
+        "\"When the brief changed during placement, I reorganised the project plan and delivered on time.\"",
+        "\"I'm hard working.\"",
+        "\"I'm adaptable.\"",
+        "\"People like me.\""
+      ],
+      "answerIndex": 0,
+      "explanation": "\"When the brief changed during placement, I reorganised the project plan and delivered on time.\""
+    },
+    {
+      "id": "l3y2-i-B05",
+      "type": "scored",
+      "prompt": "Which statement about references is true?",
+      "options": [
+        "They only use Year 1 information",
+        "They are random",
+        "Recent behaviour matters significantly",
+        "Students write them themselves"
+      ],
+      "answerIndex": 2,
+      "explanation": "Recent behaviour matters significantly"
+    },
+    {
+      "id": "l3y2-i-B06",
+      "type": "scored",
+      "prompt": "Why should Navigate be updated?",
+      "options": [
+        "To reduce attendance",
+        "To build application-ready evidence",
+        "To replace assignments",
+        "To avoid career planning"
+      ],
+      "answerIndex": 1,
+      "explanation": "To build application-ready evidence"
+    },
+    {
+      "id": "l3y2-i-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Create Application-Ready Strength Statements'? Select all that apply.",
+      "options": [
+        "Specific",
+        "Verifiable",
+        "Memorable",
+        "Evidence-based"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Create Application-Ready Strength Statements."
+    },
+    {
+      "id": "l3y2-i-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Placement Evidence Is Valuable'? Select all that apply.",
+      "options": [
+        "Industry placements",
+        "Final projects",
+        "Professional work",
+        "Real clients"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Placement Evidence Is Valuable."
+    }
+  ]
+}

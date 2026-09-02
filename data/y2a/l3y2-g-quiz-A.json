@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-g",
+    "level": "l3",
+    "year": "y2",
+    "module": "G",
+    "variant": "A",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this Year 2 wellbeing session?",
+      "options": [
+        "It's a lecture about eating vegetables",
+        "It's a new-starter welcome",
+        "It's ninety minutes on the things that actually decide whether this year goes well - sleep, stress, money, and knowing where the doors are",
+        "It's a placement briefing"
+      ],
+      "answerIndex": 2,
+      "explanation": "It's ninety minutes on the things that actually decide whether this year goes well - sleep, stress, money, and knowing where the doors are.",
+      "id": "l3y2-g-A01"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is one thing that is 'heavier' in Year 2?",
+      "options": [
+        "Travelling to college",
+        "Workload, expectations, placements - the fact that everything counts now. FMP or ESP building alongside ongoing unit deadlines",
+        "Fewer deadlines",
+        "Uniform requirements"
+      ],
+      "answerIndex": 1,
+      "explanation": "Workload, expectations, placements - the fact that everything counts now.",
+      "id": "l3y2-g-A02"
+    },
+    {
+      "type": "scored",
+      "prompt": "How does the deck describe the line between mental health states?",
+      "options": [
+        "Fixed for life",
+        "It is a private matter, never to be discussed",
+        "Everyone is somewhere on this line and everyone moves along it - in both directions",
+        "Only people with diagnosed conditions are on it"
+      ],
+      "answerIndex": 2,
+      "explanation": "Everyone is somewhere on this line and everyone moves along it - in both directions.",
+      "id": "l3y2-g-A03"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is one of the four 'what actually works' moves for stress?",
+      "options": [
+        "Buy more equipment",
+        "Move - regular physical activity, a walk counts",
+        "Hide from the problem",
+        "Work through the night"
+      ],
+      "answerIndex": 1,
+      "explanation": "Move - regular physical activity, a walk counts - is one of the four highest-return moves.",
+      "id": "l3y2-g-A04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the 'sleep hygiene' definition the deck gives?",
+      "options": [
+        "The routines and conditions that make good sleep likely",
+        "Taking sleeping pills",
+        "Going to bed early every night",
+        "Washing your face before bed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sleep hygiene - the routines and conditions that make good sleep likely.",
+      "id": "l3y2-g-A05"
+    },
+    {
+      "type": "scored",
+      "prompt": "How does the deck frame financial stress?",
+      "options": [
+        "It's a personal failing",
+        "It's the easiest problem to fix alone",
+        "It's not a college matter",
+        "It's circumstance, not character - and it makes everything else on the list harder (sleep, concentration, mood, showing up)"
+      ],
+      "answerIndex": 3,
+      "explanation": "It's circumstance, not character. Worry about money makes everything else on today's list harder.",
+      "id": "l3y2-g-A06"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the 'Year 2 paradox'?",
+      "options": [
+        "Year 2 has no support",
+        "The year people most need support is the year they stop going",
+        "Year 2 students are better off without support",
+        "Tutors forget Year 2 students"
+      ],
+      "answerIndex": 1,
+      "explanation": "The year people most need support is the year they stop going. The door works exactly like it did last year.",
+      "id": "l3y2-g-A07"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which three-step sequence does the deck recommend for looking out for each other?",
+      "options": [
+        "Notice, Ask, Tell someone",
+        "Listen, Judge, Decide",
+        "Watch, Wait, Walk away",
+        "Post, Tag, Share"
+      ],
+      "answerIndex": 0,
+      "explanation": "Notice, Ask, Tell someone - that is the Encourage Unity in practice sequence.",
+      "id": "l3y2-g-A08"
+    }
+  ]
+}

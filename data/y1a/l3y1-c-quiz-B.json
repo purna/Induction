@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y1-c",
+    "level": "l3",
+    "year": "y1",
+    "module": "C",
+    "variant": "B",
+    "title": "Health & Safety: looking after yourself, looking after each other"
+  },
+  "questions": [
+    {
+      "id": "l3y1-c-B01",
+      "type": "scored",
+      "prompt": "Most accidents happen because:",
+      "options": [
+        "People intentionally break rules",
+        "People stop noticing hazards",
+        "Equipment always fails",
+        "Students are careless"
+      ],
+      "answerIndex": 1,
+      "explanation": "People stop noticing hazards"
+    },
+    {
+      "id": "l3y1-c-B02",
+      "type": "multi",
+      "prompt": "Which of these 'switch noticing back on'? Select all that apply.",
+      "options": [
+        "Take two seconds — is this normal, or has it just become normal?",
+        "Say it out loud to one other person",
+        "Treat a near miss as information, not an embarrassment",
+        "Move on quickly so nobody notices"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "The three things that switch noticing back on are the two-second check, saying it out loud, and treating near misses as information."
+    },
+    {
+      "id": "l3y1-c-B03",
+      "type": "scored",
+      "prompt": "Why must you not assume the fire evacuation route is the same as another room you use?",
+      "options": [
+        "All routes are the same — the signs are uniform",
+        "Studios, computer labs and production spaces have different exits",
+        "There is only one exit per building",
+        "Routes only matter at lunch time"
+      ],
+      "answerIndex": 1,
+      "explanation": "Different rooms and buildings have different exits — confirm the route for the specific room you're in."
+    },
+    {
+      "id": "l3y1-c-B04",
+      "type": "scored",
+      "prompt": "The deck says messing with someone's camera rig 'as a joke' is…",
+      "options": [
+        "Harmless banter",
+        "A safety issue with someone else's name on it",
+        "Encouraged as a team-building exercise",
+        "Only a problem if the camera is expensive"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Messing with someone's camera rig \"as a joke\" isn't banter — it's a safety issue with someone else's name on it.'"
+    },
+    {
+      "id": "l3y1-c-B05",
+      "type": "scored",
+      "prompt": "Which programme uses COSHH substances and requires gloves and eye protection?",
+      "options": [
+        "All studio programmes",
+        "Only computer labs",
+        "Darkroom / analogue photography — developer, stop bath, fixer",
+        "All T-Level placements"
+      ],
+      "answerIndex": 2,
+      "explanation": "Darkroom/analogue photography uses developer, stop bath and fixer — these are COSHH chemicals; gloves and eye protection are mandatory."
+    },
+    {
+      "id": "l3y1-c-B06",
+      "type": "insert",
+      "prompt": "Fill in the blank: for any location filming, a written ____ assessment must be approved by your tutor before any off-campus shoot.",
+      "template": "For any location filming, a written ____ assessment must be approved by your tutor before any off-campus shoot.",
+      "options": [
+        "health",
+        "risk",
+        "travel",
+        "budget"
+      ],
+      "answerIndex": 1,
+      "explanation": "A written risk assessment approved by your tutor is required before any off-campus shoot."
+    },
+    {
+      "id": "l3y1-c-B07",
+      "type": "scored",
+      "prompt": "The deck widens reporting beyond physical hazards. Which of these counts too?",
+      "options": [
+        "Only trips and falls",
+        "Only broken equipment",
+        "A space, an activity, or someone's behaviour that has made you feel uncomfortable or unsafe",
+        "Only things that happen in studios"
+      ],
+      "answerIndex": 2,
+      "explanation": "Reporting covers hazards and anything — a space, an activity, the way someone's behaving — that's made you feel uncomfortable or unsafe."
+    },
+    {
+      "id": "l3y1-c-B08",
+      "type": "scored",
+      "prompt": "Which of these can reduce awareness?",
+      "options": [
+        "Distraction",
+        "Reporting hazards",
+        "Working as a team",
+        "Paying attention"
+      ],
+      "answerIndex": 0,
+      "explanation": "Distraction"
+    }
+  ]
+}

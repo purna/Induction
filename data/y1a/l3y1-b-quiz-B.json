@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y1-b",
+    "level": "l3",
+    "year": "y1",
+    "module": "B",
+    "variant": "B",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y1-b-B01",
+      "type": "scored",
+      "prompt": "What is the biggest difference between school and college?",
+      "options": [
+        "Shorter lessons",
+        "More homework",
+        "Greater personal responsibility",
+        "Less coursework"
+      ],
+      "answerIndex": 2,
+      "explanation": "Greater personal responsibility"
+    },
+    {
+      "id": "l3y1-b-B02",
+      "type": "scored",
+      "prompt": "The deck says most missed work doesn't punish you that week — it punishes you…",
+      "options": [
+        "The next day",
+        "The next week",
+        "A couple of months later",
+        "At the end of term"
+      ],
+      "answerIndex": 2,
+      "explanation": "The deck calls this 'the long fuse' — consequences land a couple of months later."
+    },
+    {
+      "id": "l3y1-b-B03",
+      "type": "scored",
+      "prompt": "What does the \"Long Fuse\" idea mean?",
+      "options": [
+        "Consequences happen immediately",
+        "Problems often appear much later",
+        "Lessons are longer",
+        "Deadlines are longer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Problems often appear much later"
+    },
+    {
+      "id": "l3y1-b-B04",
+      "type": "scored",
+      "prompt": "The deck says confidence isn't a personality trait — it's what you build by…",
+      "options": [
+        "Reading the right books",
+        "Doing things you weren't sure you could",
+        "Avoiding anything that scares you",
+        "Being told you're good at it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Confidence is what you build by doing things you weren't sure you could."
+    },
+    {
+      "id": "l3y1-b-B05",
+      "type": "multi",
+      "prompt": "Which of these are 'real barriers' to attendance named in the deck? Select all that apply.",
+      "options": [
+        "Mental health — anxiety, low mood, sleep that doesn't come",
+        "Money and travel — when bus fares add up",
+        "Things at home — caring responsibilities, family pressure, unsafe situations",
+        "Being in the wrong friendship group at break"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Mental health, money & travel, and things at home are three of the five named barriers. (Neurodivergence / chronic health and friendships/fitting in are also listed.)"
+    },
+    {
+      "id": "l3y1-b-B06",
+      "type": "scored",
+      "prompt": "Which phrase from the deck captures the key line on barriers?",
+      "options": [
+        "'Tough it out — that's what college is.'",
+        "'A barrier we know about is one we can help with.'",
+        "'Attendance is the only measure that matters.'",
+        "'If you're struggling, you should switch course.'"
+      ],
+      "answerIndex": 1,
+      "explanation": "'A barrier we know about is one we can help with. A barrier we don't know about is one that quietly takes you out.'"
+    },
+    {
+      "id": "l3y1-b-B07",
+      "type": "scored",
+      "prompt": "Which PROUD value is highlighted in Module B?",
+      "options": [
+        "Respect Others",
+        "Lead by Example",
+        "Seek Opportunity",
+        "Work Together"
+      ],
+      "answerIndex": 2,
+      "explanation": "Seek Opportunity"
+    },
+    {
+      "id": "l3y1-b-B08",
+      "type": "insert",
+      "prompt": "Fill in the blank: habits change behaviour; ____ don't.",
+      "template": "Habits change behaviour; ____ don't.",
+      "options": [
+        "plans",
+        "grades",
+        "timetables",
+        "references"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Habits change behaviour. Plans don't.'"
+    }
+  ]
+}

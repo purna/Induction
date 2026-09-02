@@ -1,0 +1,227 @@
+{
+  "section": "l3y2-k",
+  "level": "l3",
+  "year": "y2",
+  "module": "K",
+  "title": "Progression Opportunities & Setting Goals",
+  "slides": [
+    {
+      "title": "The Application Cycle Is Live",
+      "content": "Year 2 is no longer about exploring possibilities. It is about: Making applications. Meeting deadlines. Using evidence. Making decisions. Progression is now active, not theoretical.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Application Cycle Is Live'? Select all that apply.",
+        "options": [
+          "Making applications",
+          "Meeting deadlines",
+          "Using evidence",
+          "Making decisions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Application Cycle Is Live."
+      }
+    },
+    {
+      "title": "Dates Matter",
+      "content": "Major deadlines include: UCAS applications. Apprenticeship applications. Internal reference deadlines. Predicted grade deadlines. The key message is: Early beats on-time. On-time is the new late.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Dates Matter'? Select all that apply.",
+        "options": [
+          "UCAS applications",
+          "Apprenticeship applications",
+          "Internal reference deadlines",
+          "Predicted grade deadlines"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Dates Matter."
+      }
+    },
+    {
+      "title": "Navigate Becomes Application Material",
+      "content": "Your Navigate record should now supply: UCAS content. Apprenticeship evidence. Portfolio evidence. References. Interview preparation. Year 2 is about using the evidence collected in Year 1.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Navigate Becomes Application Material'? Select all that apply.",
+        "options": [
+          "UCAS content",
+          "Apprenticeship evidence",
+          "Portfolio evidence",
+          "References"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Navigate Becomes Application Material."
+      }
+    },
+    {
+      "title": "Audit Your Record",
+      "content": "Ask yourself: Is my Digital CV current? Are projects fully logged? Are placements recorded? Is my skills evidence visible? Gaps become harder to fix later.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Audit Your Record'? Select all that apply.",
+        "options": [
+          "Is my Digital CV current",
+          "Are projects fully logged",
+          "Are placements recorded",
+          "Is my skills evidence visible"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Audit Your Record."
+      }
+    },
+    {
+      "title": "Goals Must Have Margin",
+      "content": "Year 2 goals require: Specific deadlines. Early completion targets. Clear first steps. Goals should be designed to beat deadlines rather than merely meet them.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Goals Must Have Margin'? Select all that apply.",
+        "options": [
+          "Specific deadlines",
+          "Early completion targets",
+          "Clear first steps"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Goals Must Have Margin."
+      }
+    },
+    {
+      "title": "Work Backwards From Results Day",
+      "content": "Planning should start with: Then work backwards through: Then: This ensures the important outcome stays visible.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Work Backwards From Results Day'?",
+        "options": [
+          "It applies only to certain students",
+          "Planning should start with: Then work backwards through: Then: This ensures the important outcome stays visible",
+          "It is optional and not required",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 1,
+        "explanation": "Planning should start with: Then work backwards through: Then: This ensures the important outcome stays visible"
+      }
+    },
+    {
+      "title": "References Matter More Than Ever",
+      "content": "Year 2 behaviour influences: References. Applications. Offers. Interviews. Professional standards remain essential.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'References Matter More Than Ever'? Select all that apply.",
+        "options": [
+          "References",
+          "Applications",
+          "Offers",
+          "Interviews"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on References Matter More Than Ever."
+      }
+    },
+    {
+      "title": "It Is Still Possible to Change Direction",
+      "content": "Year 2 conversations often involve: Support and clarification may help. Course or destination changes may still be possible. Delaying these conversations reduces available options.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'It Is Still Possible to Change Direction'?",
+        "options": [
+          "Year 2 conversations often involve: Support and clarification may help",
+          "It is only assessed in exams",
+          "It is optional and not required",
+          "It applies only to certain students"
+        ],
+        "answerIndex": 0,
+        "explanation": "Year 2 conversations often involve: Support and clarification may help"
+      }
+    },
+    {
+      "title": "The Last Lap Matters Most",
+      "content": "Year 2 is about: Applications. Assessment. Portfolios. Placements. All of these happen in parallel. Planning early protects the time needed for achieving strong grades.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Last Lap Matters Most'? Select all that apply.",
+        "options": [
+          "Applications",
+          "Assessment",
+          "Portfolios",
+          "Placements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Last Lap Matters Most."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Applications are now active Audit your evidence regularly Work backwards from deadlines Build goals with clear dates and margin Use support when needed Don't fumble the final year: applications, portfolio work and grades all matter simultaneously. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Applications are now active",
+          "Audit your evidence regularly",
+          "Work backwards from deadlines",
+          "Build goals with clear dates and margin"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "section": "l3y1-h",
+    "level": "l3",
+    "year": "y1",
+    "module": "H",
+    "title": "How to Use Navigate",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-h-B01",
+      "type": "scored",
+      "prompt": "What's the deck's view of the Skills Assessment?",
+      "options": [
+        "It's an objective test",
+        "It's a self-report - its value depends entirely on your honesty",
+        "It's marked by your tutor",
+        "It doesn't matter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Its value depends entirely on your honesty - inflate it and you get a useless picture of yourself."
+    },
+    {
+      "id": "l3y1-h-B02",
+      "type": "scored",
+      "prompt": "What does the deck say UCAS requires, and when?",
+      "options": [
+        "UCAS runs in Year 1; the material for a personal statement is built in Year 2",
+        "UCAS runs in Year 2; the material for a personal statement is built in Year 1",
+        "UCAS runs after you leave college",
+        "UCAS is optional"
+      ],
+      "answerIndex": 1,
+      "explanation": "UCAS runs in Year 2; the material for a personal statement is built in Year 1."
+    },
+    {
+      "id": "l3y1-h-B03",
+      "type": "insert",
+      "prompt": "Fill in the blank: the T Levels require ____ hours of industry placement.",
+      "template": "The T Levels require ____ hours of industry placement.",
+      "options": [
+        "50",
+        "100",
+        "200",
+        "315"
+      ],
+      "answerIndex": 3,
+      "explanation": "Industry placement - 315 hours on the T Levels."
+    },
+    {
+      "id": "l3y1-h-B04",
+      "type": "scored",
+      "prompt": "What's the deck's logging rule?",
+      "options": [
+        "Log at the end of year 2",
+        "One entry per activity, logged the same week, tagged to the skills it evidences - ten minutes now saves an afternoon in Year 2",
+        "Only log assessed units",
+        "Only log live media"
+      ],
+      "answerIndex": 1,
+      "explanation": "One entry per activity, logged the same week, tagged to the skills it evidences."
+    },
+    {
+      "id": "l3y1-h-B05",
+      "type": "scored",
+      "prompt": "What does the deck say about Year 1 in relation to Year 2?",
+      "options": [
+        "Year 1 is a warm-up",
+        "Year 1 sets the trajectory of Year 2 - it is not a warm-up",
+        "Year 1 doesn't count",
+        "Year 1 is just induction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Year 1 sets the trajectory of Year 2 - it is not a warm-up."
+    },
+    {
+      "id": "l3y1-h-B06",
+      "type": "multi",
+      "prompt": "Which of these are in the first-two-weeks checklist? Select all that apply.",
+      "options": [
+        "Skills Assessment completed honestly",
+        "Next Destination set, entry requirements checked",
+        "Career Quiz completed, every profile reviewed",
+        "Digital CV Introduction written"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are in the eight-item checklist."
+    },
+    {
+      "id": "l3y1-h-B07",
+      "type": "scored",
+      "prompt": "What does the deck say about part-time work?",
+      "options": [
+        "Don't bother logging it",
+        "Professionalism and communication are the same skills - log it",
+        "It doesn't help your Digital CV",
+        "Only paid work in the industry counts"
+      ],
+      "answerIndex": 1,
+      "explanation": "Part-time work - professionalism and communication are the same skills."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-h",
+    "level": "l3",
+    "year": "y1",
+    "module": "H",
+    "variant": "B",
+    "title": "Navigate, Digital CV & Career Planning"
+  },
+  "questions": [
+    {
+      "id": "l3y1-h-B01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Navigate?",
+      "options": [
+        "Playing games",
+        "Tracking development and building evidence",
+        "Recording attendance only",
+        "Replacing lessons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tracking development and building evidence"
+    },
+    {
+      "id": "l3y1-h-B02",
+      "type": "scored",
+      "prompt": "What does a Green result represent?",
+      "options": [
+        "A target grade",
+        "A weakness",
+        "A disciplinary issue",
+        "A strength"
+      ],
+      "answerIndex": 3,
+      "explanation": "A strength"
+    },
+    {
+      "id": "l3y1-h-B03",
+      "type": "scored",
+      "prompt": "Which area usually offers the biggest improvement opportunities?",
+      "options": [
+        "Blue",
+        "Amber",
+        "Green",
+        "Purple"
+      ],
+      "answerIndex": 1,
+      "explanation": "Amber"
+    },
+    {
+      "id": "l3y1-h-B04",
+      "type": "scored",
+      "prompt": "What should a good reflection include?",
+      "options": [
+        "Description only",
+        "One sentence",
+        "Feelings only",
+        "Decisions, evidence and learning"
+      ],
+      "answerIndex": 3,
+      "explanation": "Decisions, evidence and learning"
+    },
+    {
+      "id": "l3y1-h-B05",
+      "type": "scored",
+      "prompt": "Why should you log activities regularly?",
+      "options": [
+        "To avoid building evidence",
+        "To avoid projects",
+        "To create more homework",
+        "To make future applications easier"
+      ],
+      "answerIndex": 3,
+      "explanation": "To make future applications easier"
+    },
+    {
+      "id": "l3y1-h-B06",
+      "type": "scored",
+      "prompt": "Which statement is correct?",
+      "options": [
+        "A vague ambition is enough",
+        "A destination should be researched properly",
+        "Entry requirements do not matter",
+        "Career research is unnecessary"
+      ],
+      "answerIndex": 1,
+      "explanation": "A destination should be researched properly"
+    },
+    {
+      "id": "l3y1-h-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Plan Your Destination'? Select all that apply.",
+      "options": [
+        "University goals",
+        "Degree pathways",
+        "Apprenticeships",
+        "Employment routes"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Plan Your Destination."
+    },
+    {
+      "id": "l3y1-h-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Research Careers Properly'? Select all that apply.",
+      "options": [
+        "Entry routes",
+        "Qualification requirements",
+        "Day-to-day responsibilities",
+        "Salary and progression"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Research Careers Properly."
+    }
+  ]
+}

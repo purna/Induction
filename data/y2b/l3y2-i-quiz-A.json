@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-i",
+    "level": "l3",
+    "year": "y2",
+    "module": "I",
+    "variant": "A",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "id": "l3y2-i-A01",
+      "type": "scored",
+      "prompt": "What is the main difference in Year 2?",
+      "options": [
+        "Skills no longer matter",
+        "No evidence is needed",
+        "Evidence is used in real applications",
+        "References stop being important"
+      ],
+      "answerIndex": 2,
+      "explanation": "Evidence is used in real applications"
+    },
+    {
+      "id": "l3y2-i-A02",
+      "type": "scored",
+      "prompt": "Which source usually provides the strongest evidence?",
+      "options": [
+        "Placement experience",
+        "Hopes for the future",
+        "A guess",
+        "General opinions"
+      ],
+      "answerIndex": 0,
+      "explanation": "Placement experience"
+    },
+    {
+      "id": "l3y2-i-A03",
+      "type": "scored",
+      "prompt": "What should you compare in the Skills Assessment?",
+      "options": [
+        "Yourself with primary school students",
+        "Yourself with social media",
+        "Yourself with celebrities",
+        "Year 1 and Year 2 development"
+      ],
+      "answerIndex": 3,
+      "explanation": "Year 1 and Year 2 development"
+    },
+    {
+      "id": "l3y2-i-A04",
+      "type": "scored",
+      "prompt": "Which statement is strongest?",
+      "options": [
+        "\"People like me.\"",
+        "\"When the brief changed during placement, I reorganised the project plan and delivered on time.\"",
+        "\"I'm hard working.\"",
+        "\"I'm adaptable.\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"When the brief changed during placement, I reorganised the project plan and delivered on time.\""
+    },
+    {
+      "id": "l3y2-i-A05",
+      "type": "scored",
+      "prompt": "Which statement about references is true?",
+      "options": [
+        "Recent behaviour matters significantly",
+        "They only use Year 1 information",
+        "Students write them themselves",
+        "They are random"
+      ],
+      "answerIndex": 0,
+      "explanation": "Recent behaviour matters significantly"
+    },
+    {
+      "id": "l3y2-i-A06",
+      "type": "scored",
+      "prompt": "Why should Navigate be updated?",
+      "options": [
+        "To reduce attendance",
+        "To build application-ready evidence",
+        "To replace assignments",
+        "To avoid career planning"
+      ],
+      "answerIndex": 1,
+      "explanation": "To build application-ready evidence"
+    },
+    {
+      "id": "l3y2-i-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Is About Using Evidence'?",
+      "options": [
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "In Year 1 you built evidence"
+      ],
+      "answerIndex": 3,
+      "explanation": "In Year 1 you built evidence"
+    },
+    {
+      "id": "l3y2-i-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'The Standard Has Not Changed'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "The same expectations remain: Punctuality"
+      ],
+      "answerIndex": 3,
+      "explanation": "The same expectations remain: Punctuality"
+    }
+  ]
+}

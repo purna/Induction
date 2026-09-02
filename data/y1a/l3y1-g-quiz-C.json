@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "section": "l3y1-g",
+    "level": "l3",
+    "year": "y1",
+    "module": "G",
+    "title": "Looking After Myself",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-g-C01",
+      "type": "scored",
+      "prompt": "What is a key point about 'Mental Health Is Health'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Thriving",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Thriving"
+    },
+    {
+      "id": "l3y1-g-C02",
+      "type": "scored",
+      "prompt": "What's the deck's headline framing of mental health?",
+      "options": [
+        "Mental health is private",
+        "Mental health is health - and the line can be moved",
+        "Mental health is overdiagnosed",
+        "Mental health is for tutors to worry about"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mental health is health - and the line can be moved."
+    },
+    {
+      "id": "l3y1-g-C03",
+      "type": "scored",
+      "prompt": "How does the deck describe naming your stress to a friend?",
+      "options": [
+        "It makes it worse",
+        "Naming it to someone halves its size, every time",
+        "Only useful with a counsellor",
+        "Only in writing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Naming it to someone halves its size, every time."
+    },
+    {
+      "id": "l3y1-g-C04",
+      "type": "multi",
+      "prompt": "Which contacts does the deck say students MUST leave with? Select all that apply.",
+      "options": [
+        "Samaritans 116 123",
+        "MIND 0300 123 3393 / mind.org.uk",
+        "iRock - drop-in support for young people in East Sussex",
+        "TogetherAll - free, anonymous online support community"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are on the contacts card students must leave with."
+    },
+    {
+      "id": "l3y1-g-C05",
+      "type": "scored",
+      "prompt": "What's the deck's view on asking the Wellbeing Team for help?",
+      "options": [
+        "It's a last resort",
+        "Any door works - you can go straight to the Wellbeing Team; no referral needed",
+        "Only with a doctor's note",
+        "Only in writing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Any door works - you can go straight to the Wellbeing Team."
+    },
+    {
+      "id": "l3y1-g-C06",
+      "type": "insert",
+      "prompt": "Fill in the blank: the deck's sleep line is 'memory is built while you ____'.",
+      "template": "The deck's sleep line is 'memory is built while you ____'.",
+      "options": [
+        "study",
+        "sleep",
+        "scroll",
+        "snack"
+      ],
+      "answerIndex": 1,
+      "explanation": "Memory is built while you sleep."
+    },
+    {
+      "id": "l3y1-g-C07",
+      "type": "scored",
+      "prompt": "What's the deck's 'ask' line for looking out for each other?",
+      "options": [
+        "\"Are you OK?\" (no follow-up)",
+        "\"You alright? Actually alright?\" - then listen to the answer",
+        "\"Why aren't you in lessons?\"",
+        "\"Snap out of it.\""
+      ],
+      "answerIndex": 1,
+      "explanation": "'You alright? Actually alright?' Then listen to the answer."
+    },
+    {
+      "id": "l3y1-g-C08",
+      "type": "scored",
+      "prompt": "How does the deck describe asking for help at ESCG?",
+      "options": [
+        "Something embarrassing",
+        "Normal and expected - and it goes on no record that follows you",
+        "Only for diagnosed students",
+        "A sign of weakness"
+      ],
+      "answerIndex": 1,
+      "explanation": "Normal and expected - and it goes on no record that follows you."
+    }
+  ]
+}

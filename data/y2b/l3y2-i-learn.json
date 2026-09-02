@@ -1,0 +1,227 @@
+{
+  "section": "l3y2-i",
+  "level": "l3",
+  "year": "y2",
+  "module": "I",
+  "title": "Professional Behaviour & Personal Strengths",
+  "slides": [
+    {
+      "title": "Year 2 Is About Using Evidence",
+      "content": "In Year 1 you built evidence. In Year 2 you use it for: University applications. Apprenticeships. Placements. Employment. Interviews. Applications require examples, not opinions.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is About Using Evidence'? Select all that apply.",
+        "options": [
+          "University applications",
+          "Apprenticeships",
+          "Placements",
+          "Employment"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is About Using Evidence."
+      }
+    },
+    {
+      "title": "The Standard Has Not Changed",
+      "content": "The same expectations remain: Punctuality. Reliability. Professional communication. Respect. Accountability. The difference is that referees and employers are now paying closer attention.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Standard Has Not Changed'? Select all that apply.",
+        "options": [
+          "Punctuality",
+          "Reliability",
+          "Professional communication",
+          "Respect"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Standard Has Not Changed."
+      }
+    },
+    {
+      "title": "References Are Now Active",
+      "content": "Year 2 references are: Being requested. Being written. Being read. Recent behaviour often has the greatest influence on current references.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'References Are Now Active'? Select all that apply.",
+        "options": [
+          "Being requested",
+          "Being written",
+          "Being read"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on References Are Now Active."
+      }
+    },
+    {
+      "title": "Human Skills Become Interview Currency",
+      "content": "Interview questions often assess: Communication. Teamwork. Reliability. Problem solving. Adaptability. Initiative. Your placement experiences provide valuable evidence for these.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Human Skills Become Interview Currency'? Select all that apply.",
+        "options": [
+          "Communication",
+          "Teamwork",
+          "Reliability",
+          "Problem solving"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Human Skills Become Interview Currency."
+      }
+    },
+    {
+      "title": "Look for Skill Movement",
+      "content": "The key Year 2 question is: What has improved since Year 1? Employers and universities want evidence of growth as well as achievement.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Look for Skill Movement'?",
+        "options": [
+          "It applies only to certain students",
+          "The key Year 2 question is: What has improved since Year 1",
+          "It is optional and not required",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 1,
+        "explanation": "The key Year 2 question is: What has improved since Year 1"
+      }
+    },
+    {
+      "title": "Evidence Matters More Than Ever",
+      "content": "Weak application: \"I am reliable.\" Strong application: \"I solved a file-access problem during placement and produced guidance for future users.\" Evidence creates stronger applications and stronger interviews.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Evidence Matters More Than Ever'?",
+        "options": [
+          "It is optional and not required",
+          "It is only assessed in exams",
+          "Weak application: \"I am reliable.\" Strong application: \"I solved a file-access problem during placement and produced gui",
+          "It applies only to certain students"
+        ],
+        "answerIndex": 2,
+        "explanation": "Weak application: \"I am reliable.\" Strong application: \"I solved a file-access problem during placement and produced gui"
+      }
+    },
+    {
+      "title": "Create Application-Ready Strength Statements",
+      "content": "The recommended structure is: What happened? What you did. What it demonstrates. Strong statements are: Specific. Verifiable. Memorable. Evidence-based.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Create Application-Ready Strength Statements'? Select all that apply.",
+        "options": [
+          "Specific",
+          "Verifiable",
+          "Memorable",
+          "Evidence-based"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Create Application-Ready Strength Statements."
+      }
+    },
+    {
+      "title": "Placement Evidence Is Valuable",
+      "content": "Year 2 students should prioritise evidence from: Industry placements. Final projects. Professional work. Real clients. Significant responsibilities. This evidence is often stronger than classroom examples.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Placement Evidence Is Valuable'? Select all that apply.",
+        "options": [
+          "Industry placements",
+          "Final projects",
+          "Professional work",
+          "Real clients"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Placement Evidence Is Valuable."
+      }
+    },
+    {
+      "title": "Independence Matters",
+      "content": "Professional independence includes: Identifying development priorities. Acting on feedback. Updating Navigate. Seeking support early. Maintaining standards consistently. Asking for help remains a professional skill.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Independence Matters'? Select all that apply.",
+        "options": [
+          "Identifying development priorities",
+          "Acting on feedback",
+          "Updating Navigate",
+          "Seeking support early"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Independence Matters."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Use evidence from Year 1 and placements Prepare applications and interviews Track how skills have improved Build application-ready statements Use Navigate as a live portfolio Maintain professional standards because references and applications are now active. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Use evidence from Year 1 and placements",
+          "Prepare applications and interviews",
+          "Track how skills have improved",
+          "Build application-ready statements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

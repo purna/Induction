@@ -1,0 +1,181 @@
+{
+  "section": "l3y2-i",
+  "level": "l3",
+  "year": "y2",
+  "module": "I",
+  "title": "Professional Behaviour & Personal Strengths",
+  "slides": [
+    {
+      "title": "Why this is a deployment, not a repeat",
+      "content": "You built the evidence last year. This year you use it. About 90 minutes. Requires Navigate. PROUD anchor: Show Respect. Last year you were building an evidence bank - this year applications open, and today we get that bank application-ready. Everything you produce this morning goes into something live.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the framing of this Year 2 professional behaviour session, according to the deck?",
+        "options": [
+          "A repeat of last year",
+          "Deployment, not repetition - last year you built the evidence bank; this year you use it",
+          "A new-starter welcome",
+          "A pass/fail test"
+        ],
+        "answerIndex": 1,
+        "explanation": "You built the evidence last year. This year you use it. The framing is deployment, not repetition."
+      }
+    },
+    {
+      "title": "The session in eight beats",
+      "content": "Eight beats in about 90 minutes: (1) Settling in - Year 2, week three (10) (2) The standard didn't reset (15) (3) Your reference goes live this year (10) (4) Human skills - interview currency (15) (5) Skills Assessment - what moved? (15) (6) Claims versus evidence - sharper (10) (7) Three strengths, application-ready (10) (8) One thing (5). The outputs go straight into this year's applications.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is About Using Evidence'? Select all that apply.",
+        "options": [
+          "University applications",
+          "Apprenticeships",
+          "Placements",
+          "Employment"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is About Using Evidence."
+      }
+    },
+    {
+      "title": "The standard didn't reset - and this year counts double",
+      "content": "You know the standard - you kept it for a year, including on placement. Year 2 isn't about learning it. It's about not fumbling it in the year that counts double. The list you already know: turning up - on time, kit charged, files backed up; flagging problems early - before a deadline or a deliverable slips; how you speak to people - in the room, in the group chat, and online; owning mistakes and putting them right, rather than hiding them. This is Show Respect in practice - respect for people's time, for the work, and for your own future. You practised it all last year. This year, referees are watching.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Why does the deck say 'this year counts double'?",
+        "options": [
+          "Because you get two grades",
+          "Because this is the year referees and interviewers are actually watching - applications open, references get read",
+          "Because you have double the work",
+          "Because there are two of you"
+        ],
+        "answerIndex": 1,
+        "explanation": "This year counts double because this is the year referees and interviewers are actually watching."
+      }
+    },
+    {
+      "title": "Your reference goes live this year",
+      "content": "Last year we told you your reference was being written. This year it gets read - applications for apprenticeships, jobs and degrees, including at University Centre Hastings, go out in the months ahead. What gets drawn on: references reflect attendance, punctuality and reliability across the whole record - employers, providers and admissions teams ask for exactly that. Recent pattern weighs heaviest: referees write from the freshest evidence. Whatever last year looked like, this term is the one sitting in front of them. A strong finish is in your control. The record is built from small, repeated behaviours - which makes the last lap the easiest one to get right on purpose.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what matters most for the reference?",
+        "options": [
+          "Year 1 attendance only",
+          "Recent pattern - referees write from the freshest evidence, and this term is the one sitting in front of them",
+          "How many courses you took",
+          "Your predicted grades"
+        ],
+        "answerIndex": 1,
+        "explanation": "Recent pattern weighs heaviest - referees write from the freshest evidence."
+      }
+    },
+    {
+      "title": "Human skills - interview currency",
+      "content": "You've now seen these in the wild - on placement, on projects, in part-time work. At interview, nearly every question is secretly about one of them. Six skills: Communication (explaining your work clearly - to a team, a client or an audience); Teamwork (being someone people want to work with again); Reliability (delivering what you promised, on the date you promised it); Problem-solving (working it out when there's no tutorial and no template); Adaptability (coping well when the brief, the kit or the client changes); Initiative (spotting what needs doing without being asked). Quick audit: which two did placement prove you're strongest at? Which one would your placement supervisor say needs work?",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the deck's claim about interview questions?",
+        "options": [
+          "They are all about technical skill",
+          "At interview, nearly every question is secretly about one of the human skills (communication, teamwork, reliability, problem-solving, adaptability, initiative)",
+          "They are random",
+          "They are about personality tests only"
+        ],
+        "answerIndex": 1,
+        "explanation": "At interview, nearly every question is secretly about one of the six human skills."
+      }
+    },
+    {
+      "title": "Skills Assessment - what moved?",
+      "content": "You have a Year 1 baseline. Today's question isn't 'what are my skills?' - it's 'what moved, and what does that prove?' Steps: (1) Open your results (log in to Navigate). (2) Compare against last year - what moved? What didn't? Placement should show up here - does it? (3) Pick two things: one strength with a year of evidence behind it, and the one development priority that matters for your applications. (4) Cross-check with a partner who knows your work. Movement is the story. A skill that shifted over a year, with placement evidence behind it, is exactly what interviewers ask about.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the Year 2 reframe of the Skills Assessment, according to the deck?",
+        "options": [
+          "Same as Year 1 - what are my skills?",
+          "What moved, and what does that prove? - movement is the story",
+          "Pass or fail",
+          "A self-assessment only"
+        ],
+        "answerIndex": 1,
+        "explanation": "Today's question isn't 'what are my skills?' - it's 'what moved, and what does that prove?'"
+      }
+    },
+    {
+      "title": "Claims versus evidence - sharper",
+      "content": "'I'm reliable and hard-working.' A claim. Every application form says it - it costs nothing, proves nothing, and shortlisters skim straight past it. 'On placement I fixed a file nobody else could open - then wrote a one-page guide so the next person could do it without me.' Evidence. Specific, checkable, memorable - and only you can say it. SITUATION -> WHAT YOU ACTUALLY DO -> WHAT IT SHOWS. You have a year the Year 1s don't: placement, briefs you delivered, part-time work, everything you made or fixed. Mine all of it. You are the best-evidenced applicants this college produces. Most of you just haven't written it down yet.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, which of these is 'evidence' rather than a claim?",
+        "options": [
+          "'I'm reliable and hard-working'",
+          "'On placement I fixed a file nobody else could open - then wrote a one-page guide so the next person could do it without me'",
+          "'I'm a team player'",
+          "'I work well under pressure'"
+        ],
+        "answerIndex": 1,
+        "explanation": "'On placement I fixed a file nobody else could open - then wrote a one-page guide' is specific, checkable, memorable evidence."
+      }
+    },
+    {
+      "title": "Three strengths, application-ready",
+      "content": "Not a worksheet. These are your interview answers and application paragraphs, in draft. Steps: (1) Choose three - draw on placement and the whole of last year; pick the three with the strongest evidence, the ones a referee would recognise. (2) Draft each as an evidenced statement - Situation -> what you actually do -> what it shows. Placement evidence first where you have it. (3) Test on a partner - their only job is to ask 'what's your evidence?' until they believe you - then ask the interview follow-up: 'what happened next?' (4) Refine - then update Navigate. Replace last year's versions. These go into live applications this term. Write them like they'll be read by the person deciding whether to interview you - because this year, they will be.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What should students do with the three strengths at the end of this activity?",
+        "options": [
+          "Keep them in a folder",
+          "Replace last year's versions in Navigate - they go into live applications this term",
+          "Memorise them word for word",
+          "Email them to the safeguarding team"
+        ],
+        "answerIndex": 1,
+        "explanation": "Replace last year's versions. These go into live applications this term."
+      }
+    },
+    {
+      "title": "One thing - this week",
+      "content": "Pick one. Write it down, make it specific, hand it in. Your tutor keeps the cards - and will ask you how it went. (1) Act on my applications-critical development priority - one concrete step, named. (2) Use one of my three statements in something live - an application, my Navigate CV, an interview prep answer. (3) Reset the professional habit that slipped over summer - name it, and name where. (4) Tell someone about something that's making it hard to show up. Small and done beats impressive and imaginary.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Standard Has Not Changed'? Select all that apply.",
+        "options": [
+          "Punctuality",
+          "Reliability",
+          "Professional communication",
+          "Respect"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Standard Has Not Changed."
+      }
+    }
+  ]
+}

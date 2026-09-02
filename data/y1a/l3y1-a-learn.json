@@ -1,0 +1,162 @@
+{
+  "section": "l3y1-a",
+  "level": "l3",
+  "year": "y1",
+  "module": "A",
+  "title": "Welcome, Belonging & Support",
+  "slides": [
+    {
+      "title": "What we'll do in this session",
+      "content": "There's nothing to revise and nothing to get wrong today. This is your very first session on your Digital or Media course — about 55–60 minutes to settle in, meet the people you'll work with, and understand what this year asks of you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multiplechoice",
+        "prompt": "Which best describes the purpose of today's Module A session?",
+        "options": [
+          "Pass an entrance test for the course",
+          "Settle in, meet people and understand what the year asks of you",
+          "Cover safeguarding law in detail",
+          "Choose your modules for the year"
+        ],
+        "answer": "Settle in, meet people and understand what the year asks of you"
+      }
+    },
+    {
+      "title": "The session in six steps",
+      "content": "Six things will happen today: meet your group, meet your teachers, your study programme, your timetable & Pro Portal, support at college, and enrichment & Freshers.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Belonging Matters'? Select all that apply.",
+        "options": [
+          "You know people in your group",
+          "You feel comfortable asking questions",
+          "You have staff you can approach",
+          "You build positive connections early"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Belonging Matters."
+      }
+    },
+    {
+      "title": "Belonging is the point",
+      "content": "Belonging is the single biggest factor in whether students stay, attend and succeed. Knowing even a couple of friendly faces makes everything that follows feel easier. You will not click with everyone — that's normal. The goal today is that no one feels alone.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what is the single biggest factor in whether students stay, attend and succeed?",
+        "options": [
+          "Tight deadlines",
+          "Belonging",
+          "High-stakes testing",
+          "Strict uniform rules"
+        ],
+        "answerIndex": 1,
+        "explanation": "Belonging is the single biggest factor in whether students stay, attend and succeed."
+      }
+    },
+    {
+      "title": "Your study programme",
+      "content": "Your study programme is more than just lessons. It has four parts: your Digital or Media qualification (the core course — coursework, portfolio and final projects), English & maths (if you haven't yet achieved these), work-related learning (industry placements, live briefs and real creative experience — for T-Level students this is mandatory), and tutorial & personal development time.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are part of your study programme? Select all that apply.",
+        "options": [
+          "Your Digital or Media qualification",
+          "English & maths (if you haven't yet achieved them)",
+          "Work-related learning",
+          "Tutorial & personal development"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "title": "Timetable & Pro Portal — the golden rule",
+      "content": "Pro Portal is your digital home at college: your timetable, messages from teachers, attendance, progress and links to learning and services. The golden rule is to check Pro Portal every morning before you set off — it's the first place any room or timetable changes appear.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: check your Pro Portal every ____ before you set off.",
+        "template": "Check your Pro Portal every ____ before you set off.",
+        "options": [
+          "morning",
+          "week",
+          "term",
+          "year"
+        ],
+        "answerIndex": 0,
+        "explanation": "Check your Pro Portal every morning before you set off."
+      }
+    },
+    {
+      "title": "You're not on your own",
+      "content": "Everyone needs help sometimes — it's a sign of sense, not weakness. There are four kinds of support at college: learning support (studies, extra needs, exam access), wellbeing & mental health (someone to talk to if you're struggling, stressed or low), money & practical help (bursary, travel, equipment), and careers & next steps (jobs, university, apprenticeships and your future).",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which kind of college support covers bursary, travel and equipment?",
+        "options": [
+          "Learning support",
+          "Wellbeing & mental health",
+          "Money & practical help",
+          "Careers & next steps"
+        ],
+        "answerIndex": 2,
+        "explanation": "Money & practical help covers bursary, travel, equipment and other practical support."
+      }
+    },
+    {
+      "title": "More than your course",
+      "content": "College is also where you try things, meet people and build a life outside lessons. The ESC enrichment programme is the clubs, sports, societies and activities available this year. Your Freshers Fair runs in the next couple of weeks — stalls, clubs, freebies and a chance to sign up. Go along, even if you go with one new friend from today.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "When does your Freshers Fair happen, according to the deck?",
+        "options": [
+          "On your first day",
+          "In the next couple of weeks",
+          "At the end of term",
+          "Next summer"
+        ],
+        "answerIndex": 1,
+        "explanation": "In the next couple of weeks your campus runs a Freshers Fair."
+      }
+    },
+    {
+      "title": "What's next",
+      "content": "Over the next three weeks you'll have more short induction sessions — staying safe, looking after yourself, and getting ready for your future. None of them are tests; they're here to help you settle and succeed.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe the induction sessions coming up over the next three weeks?",
+        "options": [
+          "They are pass-or-fail assessments",
+          "They are mocks of your final exams",
+          "They are short, supportive sessions, not tests",
+          "They replace your normal lessons"
+        ],
+        "answerIndex": 2,
+        "explanation": "None of them are tests. They're here to help you settle and succeed."
+      }
+    }
+  ]
+}

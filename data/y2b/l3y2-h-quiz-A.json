@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-h",
+    "level": "l3",
+    "year": "y2",
+    "module": "H",
+    "variant": "A",
+    "title": "Navigate, Digital CV & Career Planning"
+  },
+  "questions": [
+    {
+      "id": "l3y2-h-A01",
+      "type": "scored",
+      "prompt": "Why is the Digital CV important in Year 2?",
+      "options": [
+        "It replaces assignments",
+        "It provides evidence of skills and achievements",
+        "It creates exam grades",
+        "It tracks attendance"
+      ],
+      "answerIndex": 1,
+      "explanation": "It provides evidence of skills and achievements"
+    },
+    {
+      "id": "l3y2-h-A02",
+      "type": "scored",
+      "prompt": "Which skills category often provides the greatest opportunity for growth?",
+      "options": [
+        "Amber",
+        "Gold",
+        "Green",
+        "Blue"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amber"
+    },
+    {
+      "id": "l3y2-h-A03",
+      "type": "scored",
+      "prompt": "What is a useful outcome of career research?",
+      "options": [
+        "Avoiding all decisions",
+        "Ignoring entry requirements",
+        "Eliminating unsuitable options",
+        "Following friends"
+      ],
+      "answerIndex": 2,
+      "explanation": "Eliminating unsuitable options"
+    },
+    {
+      "id": "l3y2-h-A04",
+      "type": "scored",
+      "prompt": "Which reflection is strongest?",
+      "options": [
+        "\"I completed the task.\"",
+        "\"It went okay.\"",
+        "One that explains decisions, evidence and learning",
+        "One sentence only"
+      ],
+      "answerIndex": 2,
+      "explanation": "One that explains decisions, evidence and learning"
+    },
+    {
+      "id": "l3y2-h-A05",
+      "type": "scored",
+      "prompt": "What should be logged in Navigate?",
+      "options": [
+        "Only exam results",
+        "Projects, placements and achievements",
+        "Only grades",
+        "Only attendance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Projects, placements and achievements"
+    },
+    {
+      "id": "l3y2-h-A06",
+      "type": "scored",
+      "prompt": "Which statement reflects Year 2 expectations?",
+      "options": [
+        "Portfolios can wait until the end",
+        "Planning is unnecessary",
+        "Students should work independently and seek help early",
+        "Tutors manage everything"
+      ],
+      "answerIndex": 2,
+      "explanation": "Students should work independently and seek help early"
+    },
+    {
+      "id": "l3y2-h-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'The Purpose of Navigate Is More Important Now'?",
+      "options": [
+        "By Year 2: Applications are approaching",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "By Year 2: Applications are approaching"
+    },
+    {
+      "id": "l3y2-h-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Your Skills Assessment Should Drive Development'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Use the assessment to: Identify weaknesses"
+      ],
+      "answerIndex": 3,
+      "explanation": "Use the assessment to: Identify weaknesses"
+    }
+  ]
+}

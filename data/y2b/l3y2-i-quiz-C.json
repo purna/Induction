@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "section": "l3y2-i",
+    "level": "l3",
+    "year": "y2",
+    "module": "I",
+    "variant": "C",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "id": "l3y2-i-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is About Using Evidence'? Select all that apply.",
+      "options": [
+        "University applications",
+        "Apprenticeships",
+        "Placements",
+        "Employment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is About Using Evidence."
+    },
+    {
+      "id": "l3y2-i-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Standard Has Not Changed'? Select all that apply.",
+      "options": [
+        "Punctuality",
+        "Reliability",
+        "Professional communication",
+        "Respect"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Standard Has Not Changed."
+    },
+    {
+      "id": "l3y2-i-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'References Are Now Active'? Select all that apply.",
+      "options": [
+        "Being requested",
+        "Being written",
+        "Being read"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on References Are Now Active."
+    },
+    {
+      "id": "l3y2-i-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Human Skills Become Interview Currency'? Select all that apply.",
+      "options": [
+        "Communication",
+        "Teamwork",
+        "Reliability",
+        "Problem solving"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Human Skills Become Interview Currency."
+    },
+    {
+      "id": "l3y2-i-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Create Application-Ready Strength Statements'? Select all that apply.",
+      "options": [
+        "Specific",
+        "Verifiable",
+        "Memorable",
+        "Evidence-based"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Create Application-Ready Strength Statements."
+    },
+    {
+      "id": "l3y2-i-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Placement Evidence Is Valuable'? Select all that apply.",
+      "options": [
+        "Industry placements",
+        "Final projects",
+        "Professional work",
+        "Real clients"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Placement Evidence Is Valuable."
+    },
+    {
+      "id": "l3y2-i-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Independence Matters'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Identifying development priorities"
+      ],
+      "answerIndex": 3,
+      "explanation": "Identifying development priorities"
+    },
+    {
+      "id": "l3y2-i-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Placement Evidence Is Valuable'?",
+      "options": [
+        "It is only assessed in exams",
+        "Year 2 students should prioritise evidence from: Industry placements",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Year 2 students should prioritise evidence from: Industry placements"
+    }
+  ]
+}

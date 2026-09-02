@@ -1,0 +1,211 @@
+{
+  "section": "l3y2-c",
+  "level": "l3",
+  "year": "y2",
+  "module": "C",
+  "title": "Health & Safety",
+  "slides": [
+    {
+      "title": "Familiarity Is the Biggest Risk",
+      "content": "In Year 1 everything felt new. In Year 2: You become comfortable. You assume things are fine. Habits become automatic. Hazards can stop standing out. Familiarity can lead to shortcuts and missed risks.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Familiarity Is the Biggest Risk'? Select all that apply.",
+        "options": [
+          "You become comfortable",
+          "You assume things are fine",
+          "Habits become automatic",
+          "Hazards can stop standing out"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Familiarity Is the Biggest Risk."
+      }
+    },
+    {
+      "title": "Common Year 2 Slips",
+      "content": "Examples include: Not wearing lanyards consistently. Skipping familiar safety checks. Assuming someone else checked equipment. Ignoring things that would have been reported in Year 1. Taking shortcuts with risk assessments.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Common Year 2 Slips'? Select all that apply.",
+        "options": [
+          "Not wearing lanyards consistently",
+          "Skipping familiar safety checks",
+          "Assuming someone else checked equipment",
+          "Ignoring things that would have been reported in Year 1"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Common Year 2 Slips."
+      }
+    },
+    {
+      "title": "Refresh the Basics",
+      "content": "Even in Year 2 you must still remember: Fire exits. Assembly points. Reporting routes. PPE requirements. Safe working practices. The standards have not changed.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Refresh the Basics'? Select all that apply.",
+        "options": [
+          "Fire exits",
+          "Assembly points",
+          "Reporting routes",
+          "PPE requirements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Refresh the Basics."
+      }
+    },
+    {
+      "title": "Show Respect Still Matters",
+      "content": "The same expectations apply: Respect spaces. Respect equipment. Respect other people. Respect safety instructions. The difference is that Year 2 students have less excuse for not knowing these expectations.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Show Respect Still Matters'? Select all that apply.",
+        "options": [
+          "Respect spaces",
+          "Respect equipment",
+          "Respect other people",
+          "Respect safety instructions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Show Respect Still Matters."
+      }
+    },
+    {
+      "title": "New Year 2 Responsibilities",
+      "content": "Depending on your pathway, this may include: Live media production. Broadcasting responsibilities. Editorial duties. Industry placements. Larger projects. More independent work. These activities bring additional professional responsibilities.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'New Year 2 Responsibilities'? Select all that apply.",
+        "options": [
+          "Live media production",
+          "Broadcasting responsibilities",
+          "Editorial duties",
+          "Industry placements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on New Year 2 Responsibilities."
+      }
+    },
+    {
+      "title": "Risk Assessments Still Matter",
+      "content": "A common mistake is saying: \"We've filmed there before.\" This is not a valid reason to skip a risk assessment. Every location shoot still requires appropriate approval and planning.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Risk Assessments Still Matter'?",
+        "options": [
+          "It is only assessed in exams",
+          "A common mistake is saying: \"We've filmed there before.\" This is not a valid reason to skip a risk assessment",
+          "It is optional and not required",
+          "It applies only to certain students"
+        ],
+        "answerIndex": 1,
+        "explanation": "A common mistake is saying: \"We've filmed there before.\" This is not a valid reason to skip a risk assessment"
+      }
+    },
+    {
+      "title": "Equipment Responsibility",
+      "content": "Year 2 students must: Return equipment correctly. Report faults. Store equipment properly. Avoid assuming someone else has done it. If you are the last user, responsibility is yours.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Equipment Responsibility'? Select all that apply.",
+        "options": [
+          "Return equipment correctly",
+          "Report faults",
+          "Store equipment properly",
+          "Avoid assuming someone else has done it"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Equipment Responsibility."
+      }
+    },
+    {
+      "title": "Speak Up Early",
+      "content": "The core message remains: Notice hazards. Notice unsafe behaviour. Notice uncomfortable situations. Tell someone early. Professional practice includes reporting concerns when necessary.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Speak Up Early'? Select all that apply.",
+        "options": [
+          "Notice hazards",
+          "Notice unsafe behaviour",
+          "Notice uncomfortable situations",
+          "Tell someone early"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Speak Up Early."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Familiarity creates risk Avoid complacency Re-check your habits Complete risk assessments every time Take professional responsibility for safety Speak up early when something is not right. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Familiarity creates risk",
+          "Avoid complacency",
+          "Re-check your habits",
+          "Complete risk assessments every time"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y2-h",
+    "level": "l3",
+    "year": "y2",
+    "module": "H",
+    "variant": "A",
+    "title": "Why Navigate Matters Here"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What question does the deck say university, an apprenticeship and the studio all ask?",
+      "options": [
+        "What can you actually do, and how do you know? Your Digital CV is your answer",
+        "What's your favourite film?",
+        "What are your predicted grades?",
+        "What school did you go to?"
+      ],
+      "answerIndex": 0,
+      "explanation": "University, an apprenticeship and the studio all ask: what can you actually do, and how do you know? Your Digital CV is your answer.",
+      "id": "l3y2-h-A01"
+    },
+    {
+      "type": "scored",
+      "prompt": "Where are the real gains in a Skills Assessment?",
+      "options": [
+        "It doesn't matter - just tick the boxes",
+        "Red - because it's hardest",
+        "Green - by claiming strength",
+        "Amber - inconsistent under pressure, where most people sit. Red is usually already obvious"
+      ],
+      "answerIndex": 3,
+      "explanation": "Amber is where the real gains are - Red is usually already obvious to you.",
+      "id": "l3y2-h-A02"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's 'one honest point' about UCAS and Year 1?",
+      "options": [
+        "UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1",
+        "UCAS is optional",
+        "UCAS only matters for university",
+        "Year 1 doesn't matter for UCAS"
+      ],
+      "answerIndex": 0,
+      "explanation": "UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1.",
+      "id": "l3y2-h-A03"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is 'the most useful outcome' of the careers quiz?",
+      "options": [
+        "Skipping the quiz",
+        "A clear YES - finding the perfect role",
+        "A clear NO - ruling something out is progress, faster than drifting into it",
+        "Picking the highest-paid job"
+      ],
+      "answerIndex": 2,
+      "explanation": "The most useful outcome of this quiz is a clear NO.",
+      "id": "l3y2-h-A04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the 'ten minutes now' rule the deck recommends?",
+      "options": [
+        "One entry per activity, logged the same week, tagged to the skills it evidences - ten minutes now saves an afternoon in Year 2",
+        "Take ten minutes off your placement",
+        "Spend ten minutes on social media",
+        "Spend ten minutes on your portfolio per term"
+      ],
+      "answerIndex": 0,
+      "explanation": "One entry per activity, logged the same week, tagged to the skills it evidences.",
+      "id": "l3y2-h-A05"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the difference between the 'descriptive' and 'analytical' reflection examples?",
+      "options": [
+        "Analytical removes emotion",
+        "Descriptive is always better",
+        "The analytical one names the decision, the reasoning, the evidence and the change in practice - the level a personal statement or a professional portfolio needs",
+        "There is no difference"
+      ],
+      "answerIndex": 2,
+      "explanation": "The analytical one names the decision, the reasoning, the evidence and the change in practice.",
+      "id": "l3y2-h-A06"
+    },
+    {
+      "type": "multi",
+      "prompt": "Which of these are among the eight 'first two weeks' tasks? Select all that apply.",
+      "options": [
+        "App or shortcut set up",
+        "Results interpreted - Green, Amber and Red",
+        "Skills Assessment completed honestly",
+        "One activity logged, with a strong reflection"
+      ],
+      "correctIndices": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "explanation": "All four are among the eight tasks to complete by the end of week two.",
+      "id": "l3y2-h-A07"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's 'Amber' definition in the Skills Assessment?",
+      "options": [
+        "Inconsistent under pressure - most people sit here",
+        "Your development priority this term",
+        "Not relevant",
+        "Evidenced strength"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amber: Inconsistent under pressure - most people sit here.",
+      "id": "l3y2-h-A08"
+    }
+  ]
+}

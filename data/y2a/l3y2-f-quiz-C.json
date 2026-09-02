@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-f",
+    "level": "l3",
+    "year": "y2",
+    "module": "F",
+    "variant": "C",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "How does the deck say AI-generated content posted as your own affects you in Year 2?",
+      "options": [
+        "It's reputation risk as well as academic risk - placement employers, commissioners and admissions tutors are the people searching",
+        "It's only an academic risk",
+        "It's not a risk at all",
+        "It's only an issue for final-year projects"
+      ],
+      "answerIndex": 0,
+      "explanation": "AI-generated content posted as your own is reputation risk as well as academic risk.",
+      "id": "l3y2-f-C01"
+    },
+    {
+      "id": "l3y2-f-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Biggest Year 2 Risk Is Complacency'? Select all that apply.",
+      "options": [
+        "Assuming problems are fine",
+        "Not reporting concerns",
+        "Becoming casual about safety",
+        "Thinking support is no longer needed"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Biggest Year 2 Risk Is Complacency."
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the second step in 'How ESCG keeps you safe'?",
+      "options": [
+        "Students are sent home",
+        "Right person told same-day - staff do not investigate themselves; Safeguarding Manager informed; logged on ProMonitor",
+        "Concern is investigated by the student",
+        "The concern is posted on Pro Portal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Right person told same-day - staff do not investigate themselves. Safeguarding Manager informed. All logged on ProMonitor.",
+      "id": "l3y2-f-C03"
+    },
+    {
+      "id": "l3y2-f-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Pressures Are Different'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "UCAS and progression applications",
+        "Industry placements",
+        "Financial pressures"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Pressures Are Different."
+    },
+    {
+      "type": "scored",
+      "prompt": "Why do Year 2 students tend to under-report concerns, according to the deck?",
+      "options": [
+        "Because the safeguarding team is closed",
+        "Because they have no concerns",
+        "Because reporting is now banned",
+        "Because they feel they should manage independently - the expectation that you should handle everything yourself is wrong"
+      ],
+      "answerIndex": 3,
+      "explanation": "Year 2 students are less likely to report concerns - because they feel they should manage independently. The expectation that you should handle everything yourself is wrong.",
+      "id": "l3y2-f-C05"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which PROUD value is the anchor for this Year 2 safeguarding session?",
+      "options": [
+        "Bring Positivity",
+        "Show Respect",
+        "Celebrate Diversity",
+        "Encourage Unity"
+      ],
+      "answerIndex": 3,
+      "explanation": "PROUD anchor: Encourage Unity - looking out for peers, reporting concern, not coasting.",
+      "id": "l3y2-f-C06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is one of the three 'what changes in Year 2' for safeguarding?",
+      "options": [
+        "Tutors are no longer point of contact",
+        "New pressures, complacency risk, peer responsibility",
+        "Safeguarding no longer applies",
+        "You have to report yourself monthly"
+      ],
+      "answerIndex": 1,
+      "explanation": "The three Year 2 changes are: new pressures, complacency risk, and peer responsibility.",
+      "id": "l3y2-f-C07"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is a Year 2 vulnerability factor for Prevent?",
+      "options": [
+        "Working in a studio",
+        "Too many friends",
+        "Financial stress and debt - hard drives, printing and portfolio costs alongside travel to placement",
+        "Having too much free time"
+      ],
+      "answerIndex": 2,
+      "explanation": "Financial stress and debt is a Year 2 vulnerability factor.",
+      "id": "l3y2-f-C08"
+    }
+  ]
+}

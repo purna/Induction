@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "section": "l3y1-h",
+    "level": "l3",
+    "year": "y1",
+    "module": "H",
+    "title": "How to Use Navigate",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-h-A01",
+      "type": "scored",
+      "prompt": "What's the deck's headline question that Navigate's Digital CV answers?",
+      "options": [
+        "Who are your friends?",
+        "What can you actually do, and how do you know?",
+        "How much homework do you have?",
+        "When do exams start?"
+      ],
+      "answerIndex": 1,
+      "explanation": "What can you actually do, and how do you know?"
+    },
+    {
+      "id": "l3y1-h-A02",
+      "type": "insert",
+      "prompt": "Fill in the blank: ____ is where the real gains are - Red is usually already obvious to you.",
+      "template": "____ is where the real gains are - Red is usually already obvious to you.",
+      "options": [
+        "Green",
+        "Amber",
+        "All three",
+        "None of them"
+      ],
+      "answerIndex": 1,
+      "explanation": "Amber is where the real gains are."
+    },
+    {
+      "id": "l3y1-h-A03",
+      "type": "scored",
+      "prompt": "What does the deck say about BA (Hons) at University Centre Hastings?",
+      "options": [
+        "You have to leave East Sussex",
+        "It's a degree without moving",
+        "It's only for Level 2 students",
+        "It's not part of Level 3"
+      ],
+      "answerIndex": 1,
+      "explanation": "BA (Hons) at University Centre Hastings - a degree without moving."
+    },
+    {
+      "id": "l3y1-h-A04",
+      "type": "scored",
+      "prompt": "What does the deck say is the most useful outcome of the careers quiz?",
+      "options": [
+        "Picking the highest-paid job",
+        "A clear NO - ruling something out is progress, and it is faster than drifting into it",
+        "Matching your parents' expectations",
+        "Choosing the first option"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ruling something out is progress, and it is faster than drifting into it."
+    },
+    {
+      "id": "l3y1-h-A05",
+      "type": "multi",
+      "prompt": "Which of these should you log into Navigate? Select all that apply.",
+      "options": [
+        "Edits, builds and tests (Premiere Pro, DaVinci, Blender)",
+        "Live media - Youth Radio, Tag magazine, The Depot",
+        "Industry placement - 315 hours on the T Levels",
+        "Only Final Major Projects"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Edits/builds/tests, live media, and the 315-hour placement are all on the logging list."
+    },
+    {
+      "id": "l3y1-h-A06",
+      "type": "scored",
+      "prompt": "What does the deck say makes the analytical reflection better?",
+      "options": [
+        "It's longer",
+        "It names the decision, the reasoning, the evidence and the change in practice",
+        "It uses technical vocabulary",
+        "It avoids emotion"
+      ],
+      "answerIndex": 1,
+      "explanation": "The analytical version names the decision, the reasoning, the evidence and the change in practice."
+    },
+    {
+      "id": "l3y1-h-A07",
+      "type": "scored",
+      "prompt": "How does the deck frame asking for help on the Navigate tasks?",
+      "options": [
+        "As weakness",
+        "As a professional skill, not a weakness",
+        "As a last resort",
+        "As something to avoid"
+      ],
+      "answerIndex": 1,
+      "explanation": "Asking early is a professional skill, not a weakness."
+    }
+  ]
+}

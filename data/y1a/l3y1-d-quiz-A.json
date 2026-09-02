@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "section": "l3y1-d",
+    "level": "l3",
+    "year": "y1",
+    "module": "D",
+    "title": "Students' Voice & Student Rep Elections",
+    "note": "Content sourced from the Year 2 / L3 variant of this deck (see SOURCE_OF_TRUTH note in the PowerPoint's teacher appendix). Swap when a true Year 1 deck is provided.",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-d-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value is Module D grounded in?",
+      "options": [
+        "Seek Opportunity",
+        "Show Respect",
+        "Encourage Unity",
+        "Be Proud"
+      ],
+      "answerIndex": 2,
+      "explanation": "Module D is grounded in Encourage Unity."
+    },
+    {
+      "id": "l3y1-d-A02",
+      "type": "scored",
+      "prompt": "Which of these is an example of feedback that 'names the thing'?",
+      "options": [
+        "'The software is rubbish'",
+        "'Four edit stations can't run Premiere'",
+        "'The course could be better'",
+        "'Things would be good if they were better'"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Four edit stations can't run Premiere' beats 'the software is rubbish'."
+    },
+    {
+      "id": "l3y1-d-A03",
+      "type": "multi",
+      "prompt": "Which are the four 'ways to get involved' in the deck? Select all that apply.",
+      "options": [
+        "Student Rep",
+        "Student Governor",
+        "NUS Membership (TOTUM card)",
+        "Surveys & Forums"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the ways to get involved."
+    },
+    {
+      "id": "l3y1-d-A04",
+      "type": "scored",
+      "prompt": "What is the main purpose of Students' Voice?",
+      "options": [
+        "Creating coursework",
+        "Organising parties",
+        "Raising money",
+        "Giving students influence over college improvements"
+      ],
+      "answerIndex": 3,
+      "explanation": "Giving students influence over college improvements"
+    },
+    {
+      "id": "l3y1-d-A05",
+      "type": "scored",
+      "prompt": "How many Student Governor places are on the Main Governing Board?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "answerIndex": 1,
+      "explanation": "There are 3 Student Governor places on the Main Governing Board."
+    },
+    {
+      "id": "l3y1-d-A06",
+      "type": "multi",
+      "prompt": "Which of these are examples of useful, specific feedback? Select all that apply.",
+      "options": [
+        "\"Four edit stations cannot run Premiere.\"",
+        "\"Nothing works.\"",
+        "\"The software is rubbish.\"",
+        "\"Everything is bad.\""
+      ],
+      "correctIndices": [
+        0
+      ],
+      "explanation": "\"Four edit stations cannot run Premiere.\" names the thing and is useful feedback."
+    },
+    {
+      "id": "l3y1-d-A07",
+      "type": "scored",
+      "prompt": "How does the deck describe the difference between one person's complaint and a group's view?",
+      "options": [
+        "Both are opinions",
+        "One is an opinion; a group saying the same thing is evidence - and evidence is what changes decisions",
+        "A single complaint carries more weight than a group",
+        "Only written complaints count"
+      ],
+      "answerIndex": 1,
+      "explanation": "One person's complaint is an opinion. A group saying the same thing is evidence - and evidence is what changes decisions."
+    },
+    {
+      "id": "l3y1-d-A08",
+      "type": "multi",
+      "prompt": "Which are stages of the election in the deck? Select all that apply.",
+      "options": [
+        "Nominations",
+        "Candidate pitches",
+        "The vote",
+        "Confirm & register"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the stages: Nominations -> Pitches -> Vote -> Confirm & register."
+    }
+  ]
+}

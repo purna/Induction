@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "section": "l3y1-i",
+    "level": "l3",
+    "year": "y1",
+    "module": "I",
+    "title": "Professional Behaviour & Personal Strengths",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-i-B01",
+      "type": "scored",
+      "prompt": "What does the deck say about 'soft' skills?",
+      "options": [
+        "They're soft",
+        "There's nothing soft about being the person a team relies on - and they're the skills that don't automate",
+        "They're optional",
+        "They're for non-creative work only"
+      ],
+      "answerIndex": 1,
+      "explanation": "There's nothing soft about being the person a team relies on."
+    },
+    {
+      "id": "l3y1-i-B02",
+      "type": "scored",
+      "prompt": "How does the deck frame the Skills Assessment?",
+      "options": [
+        "A verdict",
+        "A starting point, not a verdict - it gives you language and a place to begin; the judgement stays yours",
+        "An exam",
+        "A pass/fail test"
+      ],
+      "answerIndex": 1,
+      "explanation": "The assessment is a starting point, not a verdict. The judgement stays yours."
+    },
+    {
+      "id": "l3y1-i-B03",
+      "type": "scored",
+      "prompt": "What's the formula the deck gives for writing an evidenced strength statement?",
+      "options": [
+        "Claim -> repeat -> claim",
+        "Situation -> what you actually do -> what it shows",
+        "Story -> lesson -> moral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Situation -> what you actually do -> what it shows."
+    },
+    {
+      "id": "l3y1-i-B04",
+      "type": "multi",
+      "prompt": "Which of these count as evidence, according to the deck? Select all that apply.",
+      "options": [
+        "Projects and placement",
+        "Part-time jobs",
+        "Caring for someone",
+        "Sport"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Evidence doesn't have to be paid work - projects, placement, part-time jobs, caring for someone, sport - it all counts."
+    },
+    {
+      "id": "l3y1-i-B05",
+      "type": "scored",
+      "prompt": "How should you choose which three strengths to draft?",
+      "options": [
+        "The ones that sound best",
+        "The three with the strongest evidence behind them - not the three that sound best",
+        "The ones your friends like",
+        "The ones you've never mentioned before"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pick the three with the strongest evidence behind them."
+    },
+    {
+      "id": "l3y1-i-B06",
+      "type": "scored",
+      "prompt": "What does the deck say is the partner's job when testing strength statements?",
+      "options": [
+        "To approve them",
+        "To ask 'what's your evidence?' until they believe you",
+        "To write them for you",
+        "To rank them"
+      ],
+      "answerIndex": 1,
+      "explanation": "Their only job is to ask 'what's your evidence?' until they believe you."
+    },
+    {
+      "id": "l3y1-i-B07",
+      "type": "scored",
+      "prompt": "Professional behaviour should be the same:",
+      "options": [
+        "Only in college",
+        "Only at work",
+        "In college, placements and employment",
+        "Only during interviews"
+      ],
+      "answerIndex": 2,
+      "explanation": "In college, placements and employment"
+    },
+    {
+      "id": "l3y1-i-B08",
+      "type": "scored",
+      "prompt": "Which of the following is a human skill?",
+      "options": [
+        "Exam technique",
+        "Punctuality",
+        "Reliability",
+        "Tuition"
+      ],
+      "answerIndex": 2,
+      "explanation": "Reliability"
+    }
+  ]
+}

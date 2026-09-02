@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-f",
+    "level": "l3",
+    "year": "y1",
+    "module": "F",
+    "variant": "A",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "id": "l3y1-f-A01",
+      "type": "scored",
+      "prompt": "What is safeguarding mainly about?",
+      "options": [
+        "Improving grades",
+        "Protecting people from harm",
+        "Timetables",
+        "Attendance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Protecting people from harm"
+    },
+    {
+      "id": "l3y1-f-A02",
+      "type": "scored",
+      "prompt": "What does Prevent aim to stop?",
+      "options": [
+        "Homework",
+        "Exams",
+        "Bullying only",
+        "Radicalisation and extremism"
+      ],
+      "answerIndex": 3,
+      "explanation": "Radicalisation and extremism"
+    },
+    {
+      "id": "l3y1-f-A03",
+      "type": "scored",
+      "prompt": "Which is an online safety risk?",
+      "options": [
+        "Grooming",
+        "Student Council",
+        "Revision",
+        "Tutorials"
+      ],
+      "answerIndex": 0,
+      "explanation": "Grooming"
+    },
+    {
+      "id": "l3y1-f-A04",
+      "type": "scored",
+      "prompt": "What should you do before using AI in assessed work?",
+      "options": [
+        "Hide its use",
+        "Ask and follow the rules",
+        "Submit it immediately",
+        "Ignore guidance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ask and follow the rules"
+    },
+    {
+      "id": "l3y1-f-A05",
+      "type": "scored",
+      "prompt": "Can you report a concern without proof?",
+      "options": [
+        "No",
+        "Only with witnesses",
+        "Only anonymously",
+        "Yes"
+      ],
+      "answerIndex": 3,
+      "explanation": "Yes"
+    },
+    {
+      "id": "l3y1-f-A06",
+      "type": "scored",
+      "prompt": "Which information should never be entered into public AI tools?",
+      "options": [
+        "Personal data",
+        "Published articles",
+        "Public facts",
+        "Book titles"
+      ],
+      "answerIndex": 0,
+      "explanation": "Personal data"
+    },
+    {
+      "id": "l3y1-f-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'What Safeguarding Means'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Safeguarding is about: Protecting students from harm"
+      ],
+      "answerIndex": 3,
+      "explanation": "Safeguarding is about: Protecting students from harm"
+    },
+    {
+      "id": "l3y1-f-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'College Is Different from School'?",
+      "options": [
+        "At college: You have more independence",
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "At college: You have more independence"
+    }
+  ]
+}

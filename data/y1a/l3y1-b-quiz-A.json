@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "section": "l3y1-b",
+    "level": "l3",
+    "year": "y1",
+    "module": "B",
+    "variant": "A",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y1-b-A01",
+      "type": "scored",
+      "prompt": "Which ESCG PROUD value is Module B grounded in?",
+      "options": ["Proud to Learn", "Seek Opportunity", "United", "Determined"],
+      "answerIndex": 1,
+      "explanation": "Module B is grounded in 'Seek Opportunity'."
+    },
+    {
+      "id": "l3y1-b-A02",
+      "type": "multi",
+      "prompt": "Which of these are school → college contrasts the deck makes? Select all that apply.",
+      "options": [
+        "At college your day is filled in for you by your tutor",
+        "At college no one chases — the work is yours, or it doesn't get done",
+        "At college a bad week shows up the next week",
+        "At college your teachers check you've done the reading every day"
+      ],
+      "correctIndices": [
+        1
+      ],
+      "explanation": "'No one chases. The work is yours — or it doesn't get done.' is one of the three contrasts."
+    },
+    {
+      "id": "l3y1-b-A03",
+      "type": "insert",
+      "prompt": "Fill in the blank: most missed work doesn't punish you that week — it punishes you a couple of ____ later.",
+      "template": "Most missed work doesn't punish you that week — it punishes you a couple of ____ later.",
+      "options": ["days", "weeks", "months", "terms"],
+      "answerIndex": 2,
+      "explanation": "The deck calls this 'the long fuse' — consequences land a couple of months later."
+    },
+    {
+      "id": "l3y1-b-A04",
+      "type": "insert",
+      "prompt": "Fill in the blank: the one move that actually helps with time at college is to decide in advance what each ____ is for.",
+      "template": "The one move that actually helps with time at college is to decide in advance what each ____ is for.",
+      "options": [
+        "lesson",
+        "free period",
+        "weekend",
+        "term"
+      ],
+      "answerIndex": 1,
+      "explanation": "Decide in advance what each free period is for — that's the one move."
+    },
+    {
+      "id": "l3y1-b-A05",
+      "type": "multi",
+      "prompt": "Which of these are 'Seek Opportunity' behaviours the deck lists? Select all that apply.",
+      "options": [
+        "Join clubs and volunteer — competitions, public portfolios, student media projects",
+        "Explore careers and build skills — degrees and Higher Apprenticeships",
+        "Treat mistakes as how you learn",
+        "Wait until your final year before thinking about careers"
+      ],
+      "correctIndices": [0, 1, 2],
+      "explanation": "The three Seek Opportunity behaviours are join clubs, explore careers & build skills, and treat mistakes as how you learn."
+    },
+    {
+      "id": "l3y1-b-A06",
+      "type": "scored",
+      "prompt": "How does the deck reframe 'I'm finding this hard'?",
+      "options": [
+        "'That means I'm not cut out for it — I should switch course'",
+        "'That means I'm doing it properly — and I should ask'",
+        "'That means the work is unfair — I should complain'",
+        "'That means I should work in silence until I figure it out'"
+      ],
+      "answerIndex": 1,
+      "explanation": "'I'm finding this hard. That means I'm doing it properly — and I should ask.'"
+    },
+    {
+      "id": "l3y1-b-A07",
+      "type": "multi",
+      "prompt": "According to the deck, what do you lose when you're not in the room? Select all that apply.",
+      "options": [
+        "The bit that isn't on the slides — off-script teaching, worked examples, questions",
+        "Spaced learning that actually sticks",
+        "The relationships that catch you when you slip",
+        "Being seen by the people writing your reference"
+      ],
+      "correctIndices": [0, 1, 2, 3],
+      "explanation": "All four are the plain-case arguments the deck uses for attendance."
+    },
+    {
+      "id": "l3y1-b-A08",
+      "type": "scored",
+      "prompt": "What does the deck say is the response when coming in is hard for a real reason?",
+      "options": [
+        "Issue a formal warning",
+        "Tell someone early so we can help",
+        "Wait until attendance drops below the threshold",
+        "Move the student to a different course"
+      ],
+      "answerIndex": 1,
+      "explanation": "A barrier we know about is one we can help with. Tell someone. Early."
+    }
+  ]
+}

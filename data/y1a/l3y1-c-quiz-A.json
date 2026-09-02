@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "section": "l3y1-c",
+    "level": "l3",
+    "year": "y1",
+    "module": "C",
+    "variant": "A",
+    "title": "Health & Safety: looking after yourself, looking after each other"
+  },
+  "questions": [
+    {
+      "id": "l3y1-c-A01",
+      "type": "scored",
+      "prompt": "How does the deck frame Health & Safety at college?",
+      "options": [
+        "A list of rules to memorise",
+        "A habit of mind — noticing",
+        "A fire-safety lecture",
+        "Something only technical staff do"
+      ],
+      "answerIndex": 1,
+      "explanation": "The deck says it is 'a habit of mind — noticing'."
+    },
+    {
+      "id": "l3y1-c-A02",
+      "type": "multi",
+      "prompt": "Which of these 'switch noticing off'? Select all that apply.",
+      "options": [
+        "Rushing",
+        "Thinking 'it's always been like that'",
+        "Distraction — phone, conversation, deadline",
+        "Not wanting to make a fuss"
+      ],
+      "correctIndices": [0, 1, 2, 3],
+      "explanation": "All four are listed as things that switch noticing off."
+    },
+    {
+      "id": "l3y1-c-A03",
+      "type": "multi",
+      "prompt": "What are good first points of contact if something isn't right? Select all that apply.",
+      "options": [
+        "Tell your teacher",
+        "Email head office",
+        "Post on the student Facebook group",
+        "Wait for the next staff meeting"
+      ],
+      "correctIndices": [
+        0
+      ],
+      "explanation": "Tell your teacher — that's the first point of contact."
+    },
+    {
+      "id": "l3y1-c-A04",
+      "type": "scored",
+      "prompt": "Which PROUD value is this module grounded in?",
+      "options": ["Seek Opportunity", "Proud to Learn", "Show Respect", "United"],
+      "answerIndex": 2,
+      "explanation": "Show Respect is the PROUD anchor for Module C."
+    },
+    {
+      "id": "l3y1-c-A05",
+      "type": "insert",
+      "prompt": "Fill in the blank: lighting stands need sandbags on base legs when extended — this is ____ and BECTU industry standard.",
+      "template": "Lighting stands need sandbags on base legs when extended — this is ____ and BECTU industry standard.",
+      "options": ["BBC", "NICE", "Ofcom", "NHS"],
+      "answerIndex": 0,
+      "explanation": "BBC and BECTU industry standard."
+    },
+    {
+      "id": "l3y1-c-A06",
+      "type": "multi",
+      "prompt": "Which of these are common trip hazards in broadcast environments? Select all that apply.",
+      "options": [
+        "Wet floors",
+        "Trailing cables",
+        "Loose carpets",
+        "Camera bags on the floor"
+      ],
+      "correctIndices": [
+        1,
+        3
+      ],
+      "explanation": "Trailing cables are the most common trip hazard in broadcast environments. Camera bags on the floor are also a hazard."
+    },
+    {
+      "id": "l3y1-c-A07",
+      "type": "multi",
+      "prompt": "Which of these are subject-specific safety rules in the deck? Select all that apply.",
+      "options": [
+        "Closed-toe shoes in studios with lighting equipment",
+        "Wrist strap always on the camera; tripod head locked",
+        "Boom poles pass through doorways horizontally below head height",
+        "Coil and store cables immediately after use"
+      ],
+      "correctIndices": [0, 1, 2, 3],
+      "explanation": "All four are subject-specific safety rules listed in the deck."
+    },
+    {
+      "id": "l3y1-c-A08",
+      "type": "scored",
+      "prompt": "How does the deck describe the act of reporting something that's not right?",
+      "options": [
+        "It's making a fuss",
+        "It's telling on people",
+        "It's not making a fuss — it's the system doing its job",
+        "It's something only staff should do"
+      ],
+      "answerIndex": 2,
+      "explanation": "Saying something is 'not making a fuss — not \"telling on\" anyone — just saying it, early.'"
+    }
+  ]
+}

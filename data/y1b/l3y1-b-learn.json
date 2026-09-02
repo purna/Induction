@@ -1,0 +1,191 @@
+{
+  "section": "l3y1-b",
+  "level": "l3",
+  "year": "y1",
+  "module": "B",
+  "title": "Confidence, Independence & Attendance",
+  "slides": [
+    {
+      "title": "The Shift from School to College",
+      "content": "College is different because: Nobody chases missing work. Responsibility is yours. You have more unstructured time and must manage it yourself. Problems often appear weeks or months after the original mistake. Independence is expected and developed through practice.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Shift from School to College'? Select all that apply.",
+        "options": [
+          "Nobody chases missing work. Responsibility is yours",
+          "You have more unstructured time and must manage it yourself",
+          "Problems often appear weeks or months after the original mistake",
+          "Independence is expected and developed through practice"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Shift from School to College."
+      }
+    },
+    {
+      "title": "The \"Long Fuse\" Principle",
+      "content": "A missed task today rarely causes an immediate problem. Instead: Missing brief reviews, lessons or coursework now creates gaps later. Catching up becomes harder when new work is arriving at the same time. Planning free periods in advance helps prevent this.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The \"Long Fuse\" Principle'? Select all that apply.",
+        "options": [
+          "Missing brief reviews, lessons or coursework now creates gaps later",
+          "Catching up becomes harder when new work is arriving at the same time",
+          "Planning free periods in advance helps prevent this"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on The \"Long Fuse\" Principle."
+      }
+    },
+    {
+      "title": "Seek Opportunity",
+      "content": "One of ESCG's PROUD values. This means: Join clubs and activities. Volunteer or take part in opportunities. Explore careers and progression routes. Build skills outside lessons. Treat mistakes as learning opportunities.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Seek Opportunity'? Select all that apply.",
+        "options": [
+          "Join clubs and activities",
+          "Volunteer or take part in opportunities",
+          "Explore careers and progression routes",
+          "Build skills outside lessons"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Seek Opportunity."
+      }
+    },
+    {
+      "title": "Confidence",
+      "content": "Confidence is not a personality trait. Real confidence comes from: Doing difficult things. Coping with challenges. Asking for help when needed. Understanding that feeling out of depth is normal.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Confidence'? Select all that apply.",
+        "options": [
+          "Doing difficult things",
+          "Coping with challenges",
+          "Asking for help when needed",
+          "Understanding that feeling out of depth is normal"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Confidence."
+      }
+    },
+    {
+      "title": "Attendance Matters Because...",
+      "content": "You miss more than slides when absent: Teacher explanations. Worked examples. Class discussions. Relationships with staff and classmates. Opportunities and strong references.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Attendance Matters Because...'? Select all that apply.",
+        "options": [
+          "Teacher explanations",
+          "Worked examples",
+          "Class discussions",
+          "Relationships with staff and classmates"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Attendance Matters Because...."
+      }
+    },
+    {
+      "title": "Attendance Barriers Are Real",
+      "content": "Barriers can include: Mental health difficulties. Financial or travel issues. Family pressures. Health conditions. Lack of support for neurodivergence. Feeling isolated or not fitting in. The important action is to tell someone early so support can be provided.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Attendance Barriers Are Real'? Select all that apply.",
+        "options": [
+          "Mental health difficulties",
+          "Financial or travel issues",
+          "Family pressures",
+          "Health conditions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Attendance Barriers Are Real."
+      }
+    },
+    {
+      "title": "One Habit Can Change Outcomes",
+      "content": "Successful change usually starts with one specific action, such as: Planning a free period. Asking for help. Taking a Seek Opportunity action. Talking about a barrier to attendance.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'One Habit Can Change Outcomes'? Select all that apply.",
+        "options": [
+          "Planning a free period",
+          "Asking for help",
+          "Taking a Seek Opportunity action",
+          "Talking about a barrier to attendance"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on One Habit Can Change Outcomes."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Adapt to college expectations Manage your own time Build confidence through challenge Seek opportunities Attend consistently Ask for help early",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Adapt to college expectations",
+          "Manage your own time",
+          "Build confidence through challenge",
+          "Seek opportunities"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

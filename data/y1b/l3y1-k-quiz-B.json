@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "variant": "B",
+    "title": "Progression Opportunities & Setting Goals"
+  },
+  "questions": [
+    {
+      "id": "l3y1-k-B01",
+      "type": "scored",
+      "prompt": "Which of these is a progression route?",
+      "options": [
+        "Degree apprenticeship",
+        "Employment",
+        "University",
+        "All of the above"
+      ],
+      "answerIndex": 3,
+      "explanation": "All of the above"
+    },
+    {
+      "id": "l3y1-k-B02",
+      "type": "scored",
+      "prompt": "Navigate should be used to:",
+      "options": [
+        "Replace coursework",
+        "Replace attendance",
+        "Build evidence",
+        "Avoid careers planning"
+      ],
+      "answerIndex": 2,
+      "explanation": "Build evidence"
+    },
+    {
+      "id": "l3y1-k-B03",
+      "type": "scored",
+      "prompt": "Which is an aspiration?",
+      "options": [
+        "\"I will attend a careers appointment.\"",
+        "\"By December I will complete a portfolio piece.\"",
+        "\"I want to work in cybersecurity.\"",
+        "\"I will update Navigate.\""
+      ],
+      "answerIndex": 2,
+      "explanation": "\"I want to work in cybersecurity.\""
+    },
+    {
+      "id": "l3y1-k-B04",
+      "type": "scored",
+      "prompt": "What makes a goal different from an aspiration?",
+      "options": [
+        "It costs money",
+        "It has a deadline and action",
+        "It is easier",
+        "It guarantees success"
+      ],
+      "answerIndex": 1,
+      "explanation": "It has a deadline and action"
+    },
+    {
+      "id": "l3y1-k-B05",
+      "type": "scored",
+      "prompt": "Which support route helps with progression planning?",
+      "options": [
+        "Other students only",
+        "Careers Team",
+        "Reception only",
+        "Social media"
+      ],
+      "answerIndex": 1,
+      "explanation": "Careers Team"
+    },
+    {
+      "id": "l3y1-k-B06",
+      "type": "scored",
+      "prompt": "Why is Navigate useful?",
+      "options": [
+        "It replaces applications",
+        "It records professional evidence",
+        "It writes references automatically",
+        "It creates qualifications"
+      ],
+      "answerIndex": 1,
+      "explanation": "It records professional evidence"
+    },
+    {
+      "id": "l3y1-k-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Aspirations and Goals Are Different'? Select all that apply.",
+      "options": [
+        "Specific outcomes",
+        "A deadline",
+        "An action",
+        "A first step"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Aspirations and Goals Are Different."
+    },
+    {
+      "id": "l3y1-k-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Careers Support Exists'? Select all that apply.",
+      "options": [
+        "Careers teams",
+        "Personal tutors",
+        "Heads of Curriculum"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are part of Careers Support Exists."
+    }
+  ]
+}

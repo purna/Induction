@@ -1,0 +1,209 @@
+{
+  "section": "l3y2-h",
+  "level": "l3",
+  "year": "y2",
+  "module": "H",
+  "title": "Navigate, Digital CV & Career Planning",
+  "slides": [
+    {
+      "title": "The Purpose of Navigate Is More Important Now",
+      "content": "By Year 2: Applications are approaching. Major assessments are taking place. Evidence matters more. Your Digital CV should now be demonstrating real achievements and growth.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Purpose of Navigate Is More Important Now'? Select all that apply.",
+        "options": [
+          "Applications are approaching",
+          "Major assessments are taking place",
+          "Evidence matters more"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on The Purpose of Navigate Is More Important Now."
+      }
+    },
+    {
+      "title": "Your Skills Assessment Should Drive Development",
+      "content": "Use the assessment to: Identify weaknesses. Set priorities. Track progress. Gather evidence of improvement. Amber areas often provide the best opportunities for growth.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Your Skills Assessment Should Drive Development'? Select all that apply.",
+        "options": [
+          "Identify weaknesses",
+          "Set priorities",
+          "Track progress",
+          "Gather evidence of improvement"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Your Skills Assessment Should Drive Development."
+      }
+    },
+    {
+      "title": "Your Destination Must Be Specific",
+      "content": "You should know: Where you want to go next. Relevant entry requirements. Qualification expectations. Deadlines and timelines. Vague ambitions become problems in Year 2.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Your Destination Must Be Specific'? Select all that apply.",
+        "options": [
+          "Where you want to go next",
+          "Relevant entry requirements",
+          "Qualification expectations",
+          "Deadlines and timelines"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Your Destination Must Be Specific."
+      }
+    },
+    {
+      "title": "Career Investigation Must Be Realistic",
+      "content": "Research careers carefully: Daily responsibilities. Working conditions. Progression routes. Required skills. Discovering that a career is not for you is valuable information.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Career Investigation Must Be Realistic'? Select all that apply.",
+        "options": [
+          "Daily responsibilities",
+          "Working conditions",
+          "Progression routes",
+          "Required skills"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Career Investigation Must Be Realistic."
+      }
+    },
+    {
+      "title": "Your Digital CV Should Contain Evidence",
+      "content": "Evidence might include: Final projects. Industry placements. Professional work. Creative productions. Technical projects. External competitions. Industry visits. Part-time jobs. Evidence should demonstrate skills and development.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Your Digital CV Should Contain Evidence'?",
+        "options": [
+          "Evidence matters more",
+          "Applications are approaching",
+          "Final projects",
+          "Major assessments are taking place"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Your Digital CV Should Contain Evidence."
+      }
+    },
+    {
+      "title": "Reflection Is a Professional Skill",
+      "content": "Strong reflection: Analyses decisions. Identifies causes. Evaluates outcomes. Explains improvements. Professional portfolios require analytical reflection rather than simple description.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Reflection Is a Professional Skill'? Select all that apply.",
+        "options": [
+          "Analyses decisions",
+          "Identifies causes",
+          "Evaluates outcomes",
+          "Explains improvements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Reflection Is a Professional Skill."
+      }
+    },
+    {
+      "title": "Logging Activities Saves Time Later",
+      "content": "Regular updates create: Better portfolios. Better personal statements. Better applications. Better evidence of employability. Ten minutes now can save hours later.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Logging Activities Saves Time Later'? Select all that apply.",
+        "options": [
+          "Better portfolios",
+          "Better personal statements",
+          "Better applications",
+          "Better evidence of employability"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Logging Activities Saves Time Later."
+      }
+    },
+    {
+      "title": "Independence Is Expected",
+      "content": "Year 2 students are expected to: Manage deadlines. Complete Navigate independently. Ask for help early when needed. Track progress consistently. Professional behaviour includes requesting support before problems become major barriers.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Independence Is Expected'? Select all that apply.",
+        "options": [
+          "Manage deadlines",
+          "Complete Navigate independently",
+          "Ask for help early when needed",
+          "Track progress consistently"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Independence Is Expected."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Use Navigate as evidence for progression Refine career and destination plans Log everything consistently Develop high-quality reflections Build a professional portfolio Take responsibility for your own progress and seek support early when needed. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Use Navigate as evidence for progression",
+          "Refine career and destination plans",
+          "Log everything consistently",
+          "Develop high-quality reflections"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

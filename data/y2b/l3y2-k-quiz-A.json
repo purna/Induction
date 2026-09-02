@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-k",
+    "level": "l3",
+    "year": "y2",
+    "module": "K",
+    "variant": "A",
+    "title": "Progression Opportunities & Setting Goals"
+  },
+  "questions": [
+    {
+      "id": "l3y2-k-A01",
+      "type": "scored",
+      "prompt": "What is the major difference between Year 1 and Year 2 progression planning?",
+      "options": [
+        "Year 2 involves active applications",
+        "Year 2 removes deadlines",
+        "Year 2 removes progression routes",
+        "Year 2 removes planning"
+      ],
+      "answerIndex": 0,
+      "explanation": "Year 2 involves active applications"
+    },
+    {
+      "id": "l3y2-k-A02",
+      "type": "scored",
+      "prompt": "What should Navigate provide in Year 2?",
+      "options": [
+        "Only attendance data",
+        "Evidence for applications",
+        "Only grades",
+        "Only project titles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Evidence for applications"
+    },
+    {
+      "id": "l3y2-k-A03",
+      "type": "scored",
+      "prompt": "What is the recommended planning strategy?",
+      "options": [
+        "Work forwards randomly",
+        "Avoid setting deadlines",
+        "Wait until January",
+        "Work backwards from results day"
+      ],
+      "answerIndex": 3,
+      "explanation": "Work backwards from results day"
+    },
+    {
+      "id": "l3y2-k-A04",
+      "type": "scored",
+      "prompt": "What is a strong Year 2 goal?",
+      "options": [
+        "\"Do better.\"",
+        "\"Submit my UCAS application before Christmas.\"",
+        "\"Think about applications.\"",
+        "\"Try harder.\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Submit my UCAS application before Christmas.\""
+    },
+    {
+      "id": "l3y2-k-A05",
+      "type": "scored",
+      "prompt": "If your chosen route seems wrong, you should:",
+      "options": [
+        "Have the conversation now",
+        "Wait until summer",
+        "Ignore it",
+        "Drop out immediately"
+      ],
+      "answerIndex": 0,
+      "explanation": "Have the conversation now"
+    },
+    {
+      "id": "l3y2-k-A06",
+      "type": "scored",
+      "prompt": "What is the main message of the final year?",
+      "options": [
+        "Grades no longer matter",
+        "Relax and see what happens",
+        "Applications can wait",
+        "Early action creates options"
+      ],
+      "answerIndex": 3,
+      "explanation": "Early action creates options"
+    },
+    {
+      "id": "l3y2-k-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'The Application Cycle Is Live'?",
+      "options": [
+        "It is optional and not required",
+        "Year 2 is no longer about exploring possibilities",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Year 2 is no longer about exploring possibilities"
+    },
+    {
+      "id": "l3y2-k-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Dates Matter'?",
+      "options": [
+        "It is only assessed in exams",
+        "Major deadlines include: UCAS applications",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Major deadlines include: UCAS applications"
+    }
+  ]
+}

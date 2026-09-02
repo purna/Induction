@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "section": "l3y2-h",
+    "level": "l3",
+    "year": "y2",
+    "module": "H",
+    "variant": "C",
+    "title": "Navigate, Digital CV & Career Planning"
+  },
+  "questions": [
+    {
+      "id": "l3y2-h-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Purpose of Navigate Is More Important Now'? Select all that apply.",
+      "options": [
+        "Applications are approaching",
+        "Major assessments are taking place",
+        "Evidence matters more"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on The Purpose of Navigate Is More Important Now."
+    },
+    {
+      "id": "l3y2-h-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Your Skills Assessment Should Drive Development'? Select all that apply.",
+      "options": [
+        "Identify weaknesses",
+        "Set priorities",
+        "Track progress",
+        "Gather evidence of improvement"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Your Skills Assessment Should Drive Development."
+    },
+    {
+      "id": "l3y2-h-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Your Destination Must Be Specific'? Select all that apply.",
+      "options": [
+        "Where you want to go next",
+        "Relevant entry requirements",
+        "Qualification expectations",
+        "Deadlines and timelines"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Your Destination Must Be Specific."
+    },
+    {
+      "id": "l3y2-h-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Career Investigation Must Be Realistic'? Select all that apply.",
+      "options": [
+        "Daily responsibilities",
+        "Working conditions",
+        "Progression routes",
+        "Required skills"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Career Investigation Must Be Realistic."
+    },
+    {
+      "id": "l3y2-h-C05",
+      "type": "scored",
+      "prompt": "What is a key point about 'Your Digital CV Should Contain Evidence'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "Final projects",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Final projects"
+    },
+    {
+      "id": "l3y2-h-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Reflection Is a Professional Skill'? Select all that apply.",
+      "options": [
+        "Analyses decisions",
+        "Identifies causes",
+        "Evaluates outcomes",
+        "Explains improvements"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Reflection Is a Professional Skill."
+    },
+    {
+      "id": "l3y2-h-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Logging Activities Saves Time Later'?",
+      "options": [
+        "Better portfolios",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Better portfolios"
+    },
+    {
+      "id": "l3y2-h-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Independence Is Expected'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Manage deadlines",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Manage deadlines"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "section": "l3y1-j",
+  "level": "l3",
+  "year": "y1",
+  "module": "J",
+  "title": "Work Experience",
+  "slides": [
+    {
+      "title": "Work Experience Is Part of Your Course",
+      "content": "Work experience is not an optional extra. It helps you: Build your portfolio. Gain real workplace experience. Collect references. Strengthen applications. Test possible career paths.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Work Experience Is Part of Your Course'? Select all that apply.",
+        "options": [
+          "Build your portfolio",
+          "Gain real workplace experience",
+          "Collect references",
+          "Strengthen applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Work Experience Is Part of Your Course."
+      }
+    },
+    {
+      "title": "Why Work Experience Matters",
+      "content": "Work experience supports: Employability: Provides evidence employers can trust. Progression: Supports applications for university, apprenticeships and jobs. Professional Identity: Helps you discover which areas of the industry suit you best.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Why Work Experience Matters'?",
+        "options": [
+          "It is only assessed in exams",
+          "It is optional and not required",
+          "Work experience supports: Employability: Provides evidence employers can trust",
+          "It applies only to certain students"
+        ],
+        "answerIndex": 2,
+        "explanation": "Work experience supports: Employability: Provides evidence employers can trust"
+      }
+    },
+    {
+      "title": "Work Experience Can Take Different Forms",
+      "content": "Options may include: Block placements. Employer visits. Volunteering. Live project briefs. Industry partnerships. Not every option suits every course.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Work Experience Can Take Different Forms'? Select all that apply.",
+        "options": [
+          "Block placements",
+          "Employer visits",
+          "Volunteering",
+          "Live project briefs"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Work Experience Can Take Different Forms."
+      }
+    },
+    {
+      "title": "If You Cannot Secure a Placement",
+      "content": "You can still take part through: Employer-set projects. Employer talks. Industry activities delivered in college. Skills Week is never wasted.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'If You Cannot Secure a Placement'? Select all that apply.",
+        "options": [
+          "Employer-set projects",
+          "Employer talks",
+          "Industry activities delivered in college"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on If You Cannot Secure a Placement."
+      }
+    },
+    {
+      "title": "Key Dates",
+      "content": "Important dates: **Skills Week:** 8 March 2027 **Placement Request Deadline:** 5 February 2027 Placement requests must be submitted early because employers require checks including: Health and safety checks. Insurance checks. Safeguarding checks.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Key Dates'? Select all that apply.",
+        "options": [
+          "**Skills Week:** 8 March 2027",
+          "**Placement Request Deadline:** 5 February 2027",
+          "Health and safety checks",
+          "Insurance checks"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Key Dates."
+      }
+    },
+    {
+      "title": "Using Navigate",
+      "content": "Before requesting a placement you need: Company name and address. Employer contact details. Dates and times. Tutor details. Placement role information. Navigate is accessed through: My Student Life. login.navigate.uk.com.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Using Navigate'?",
+        "options": [
+          "Build your portfolio",
+          "Collect references",
+          "Gain real workplace experience",
+          "Company name and address"
+        ],
+        "answerIndex": 3,
+        "explanation": "This is a key point from the section on Using Navigate."
+      }
+    },
+    {
+      "title": "Help Is Available",
+      "content": "If you need support: Contact Careers & Employability. Speak to your tutor. Ask for help early if a placement is not progressing. Support is available before and during placement.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Help Is Available'? Select all that apply.",
+        "options": [
+          "Contact Careers & Employability",
+          "Speak to your tutor",
+          "Ask for help early if a placement is not progressing"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Help Is Available."
+      }
+    },
+    {
+      "title": "Expectations During Placement",
+      "content": "You should: Be punctual. Follow dress codes. Communicate professionally. Complete placement journals. Log hours accurately. Raise concerns quickly. Professional standards matter from day one.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Expectations During Placement'? Select all that apply.",
+        "options": [
+          "Be punctual",
+          "Follow dress codes",
+          "Communicate professionally",
+          "Complete placement journals"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Expectations During Placement."
+      }
+    },
+    {
+      "title": "Placement Evidence Matters",
+      "content": "Employers value: References. Workplace experience. Demonstrated professionalism. A placement creates both experience and evidence.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Placement Evidence Matters'? Select all that apply.",
+        "options": [
+          "References",
+          "Workplace experience",
+          "Demonstrated professionalism"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Placement Evidence Matters."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Work experience is part of your course Learn the placement process Use Navigate correctly Know the key dates Develop professional behaviour Ask for help if you get stuck",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Work experience is part of your course",
+          "Learn the placement process",
+          "Use Navigate correctly",
+          "Know the key dates"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-b",
+    "level": "l3",
+    "year": "y2",
+    "module": "B",
+    "variant": "B",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y2-b-B01",
+      "type": "scored",
+      "prompt": "Year 2 is primarily focused on:",
+      "options": [
+        "Building foundations",
+        "Final outcomes and progression",
+        "Settling in",
+        "Freshers activities"
+      ],
+      "answerIndex": 1,
+      "explanation": "Final outcomes and progression"
+    },
+    {
+      "id": "l3y2-b-B02",
+      "type": "scored",
+      "prompt": "What happens to gaps from Year 1?",
+      "options": [
+        "They disappear",
+        "Teachers remove them",
+        "They compound over time",
+        "They no longer matter"
+      ],
+      "answerIndex": 2,
+      "explanation": "They compound over time"
+    },
+    {
+      "id": "l3y2-b-B03",
+      "type": "scored",
+      "prompt": "Which of these is a Year 2 Seek Opportunity action?",
+      "options": [
+        "Ignoring progression planning",
+        "Waiting until June",
+        "Avoiding placements",
+        "Building a portfolio"
+      ],
+      "answerIndex": 3,
+      "explanation": "Building a portfolio"
+    },
+    {
+      "id": "l3y2-b-B04",
+      "type": "scored",
+      "prompt": "Which confidence trap involves assuming no changes are needed?",
+      "options": [
+        "Coasting",
+        "The Wall",
+        "Burnout",
+        "Overplanning"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coasting"
+    },
+    {
+      "id": "l3y2-b-B05",
+      "type": "scored",
+      "prompt": "Why do staff references matter in Year 2?",
+      "options": [
+        "They only use attendance percentages",
+        "They are random",
+        "Students write them",
+        "They are based partly on what staff have observed"
+      ],
+      "answerIndex": 3,
+      "explanation": "They are based partly on what staff have observed"
+    },
+    {
+      "id": "l3y2-b-B06",
+      "type": "scored",
+      "prompt": "What should you do if Year 2 pressure becomes overwhelming?",
+      "options": [
+        "Tell someone early",
+        "Keep it to yourself",
+        "Ignore deadlines",
+        "Stop attending"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tell someone early"
+    },
+    {
+      "id": "l3y2-b-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Attendance Matters More in Year 2'? Select all that apply.",
+      "options": [
+        "Final assessment success",
+        "Understanding grade boundaries",
+        "Staff references",
+        "Industry and university applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Attendance Matters More in Year 2."
+    },
+    {
+      "id": "l3y2-b-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Barriers Still Need Support'? Select all that apply.",
+      "options": [
+        "Burnout",
+        "Pressure and stress",
+        "Financial difficulties",
+        "Family responsibilities"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Barriers Still Need Support."
+    }
+  ]
+}

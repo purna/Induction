@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "section": "l3y2-j",
+    "level": "l3",
+    "year": "y2",
+    "module": "J",
+    "variant": "C",
+    "title": "Work Experience - Skills Week, Aimed at Your Specialism"
+  },
+  "questions": [
+    {
+      "id": "l3y2-j-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'This Is Round Two'? Select all that apply.",
+      "options": [
+        "You already have experience",
+        "You can target your specialism",
+        "Applications are approaching",
+        "You can build on Year 1 evidence"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on This Is Round Two."
+    },
+    {
+      "type": "scored",
+      "prompt": "What are the college hours a placement must fit within?",
+      "options": [
+        "8am-6pm",
+        "8.30am-5.30pm, max 8-hour day",
+        "Anytime",
+        "9am-5pm"
+      ],
+      "answerIndex": 1,
+      "explanation": "Placements must fit within college hours (8.30am-5.30pm), max 8-hour day.",
+      "id": "l3y2-j-C02"
+    },
+    {
+      "id": "l3y2-j-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'A Second Placement Has More Value'? Select all that apply.",
+      "options": [
+        "More evidence",
+        "More references",
+        "Greater professional credibility",
+        "Stronger applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on A Second Placement Has More Value."
+    },
+    {
+      "type": "scored",
+      "prompt": "What should you do if you are running late or unwell for placement?",
+      "options": [
+        "Text a friend",
+        "Stay home and email your tutor only",
+        "Just turn up when you can",
+        "Contact the employer AND the college"
+      ],
+      "answerIndex": 3,
+      "explanation": "Running late or unwell? Contact the employer AND the college.",
+      "id": "l3y2-j-C04"
+    },
+    {
+      "id": "l3y2-j-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Connect Placement to Your Future'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "Occupational Specialisms",
+        "Career aspirations",
+        "UCAS applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Connect Placement to Your Future."
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the Year 2 framing of this work experience session?",
+      "options": [
+        "Building on what you know - this is a fresh run at it, not a repeat test",
+        "Skip it - you did it last year",
+        "Starting from zero",
+        "It's a placement-finding workshop"
+      ],
+      "answerIndex": 0,
+      "explanation": "You've done this once already - so this time we're building on what you know, not starting from zero.",
+      "id": "l3y2-j-C06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does a second placement matter more?",
+      "options": [
+        "It counts as a third course",
+        "It is worth double marks",
+        "Two placements beat one: two CV entries, two referees, a portfolio that shows range as well as skill",
+        "It's required by law"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two placements beat one: two entries on a CV, two referees, and a portfolio that shows range as well as skill.",
+      "id": "l3y2-j-C07"
+    },
+    {
+      "type": "scored",
+      "prompt": "What happens if you don't get a placement by Skills Week?",
+      "options": [
+        "You're marked absent",
+        "You take a 30-hour penalty",
+        "You fail the year",
+        "You come into college for an employer-set brief and employer talks instead. It still counts"
+      ],
+      "answerIndex": 3,
+      "explanation": "No placement by Skills Week? You come into college for an employer-set brief and employer talks instead.",
+      "id": "l3y2-j-C08"
+    }
+  ]
+}

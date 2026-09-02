@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-j",
+    "level": "l3",
+    "year": "y2",
+    "module": "J",
+    "variant": "B",
+    "title": "Work Experience"
+  },
+  "questions": [
+    {
+      "id": "l3y2-j-B01",
+      "type": "scored",
+      "prompt": "What is the key advantage of a second placement?",
+      "options": [
+        "Less work",
+        "No assessments",
+        "Fewer expectations",
+        "More evidence and stronger applications"
+      ],
+      "answerIndex": 3,
+      "explanation": "More evidence and stronger applications"
+    },
+    {
+      "id": "l3y2-j-B02",
+      "type": "scored",
+      "prompt": "What should Year 2 placements be focused on?",
+      "options": [
+        "Repeating Year 1 exactly",
+        "Specialisms and future goals",
+        "Convenience only",
+        "Social activities"
+      ],
+      "answerIndex": 1,
+      "explanation": "Specialisms and future goals"
+    },
+    {
+      "id": "l3y2-j-B03",
+      "type": "scored",
+      "prompt": "Do Year 1 placement hours count towards Year 2 requirements?",
+      "options": [
+        "Yes",
+        "Sometimes",
+        "Only for T Levels",
+        "No"
+      ],
+      "answerIndex": 3,
+      "explanation": "No"
+    },
+    {
+      "id": "l3y2-j-B04",
+      "type": "scored",
+      "prompt": "Why are recent placements useful?",
+      "options": [
+        "They replace qualifications",
+        "They strengthen progression applications",
+        "They remove deadlines",
+        "They reduce attendance requirements"
+      ],
+      "answerIndex": 1,
+      "explanation": "They strengthen progression applications"
+    },
+    {
+      "id": "l3y2-j-B05",
+      "type": "scored",
+      "prompt": "What should you do if a placement issue develops?",
+      "options": [
+        "Wait until the placement ends",
+        "Ignore it",
+        "Raise it early",
+        "Tell friends only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Raise it early"
+    },
+    {
+      "id": "l3y2-j-B06",
+      "type": "scored",
+      "prompt": "What is the main Year 2 risk identified in Module J?",
+      "options": [
+        "Lack of knowledge",
+        "Not enough lessons",
+        "Lack of placements",
+        "Complacency"
+      ],
+      "answerIndex": 3,
+      "explanation": "Complacency"
+    },
+    {
+      "id": "l3y2-j-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'The Process Is the Same'? Select all that apply.",
+      "options": [
+        "Navigate",
+        "Employer details",
+        "Placement requests",
+        "Placement journals"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of The Process Is the Same."
+    },
+    {
+      "id": "l3y2-j-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Raise Your Professional Standards'? Select all that apply.",
+      "options": [
+        "Strong communication",
+        "Professional conduct",
+        "Consistent attendance",
+        "Reliability"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Raise Your Professional Standards."
+    }
+  ]
+}

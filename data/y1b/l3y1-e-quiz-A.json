@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-e",
+    "level": "l3",
+    "year": "y1",
+    "module": "E",
+    "variant": "A",
+    "title": "Respect, Relationships & College Values"
+  },
+  "questions": [
+    {
+      "id": "l3y1-e-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value focuses on including others?",
+      "options": [
+        "Seek Opportunity",
+        "Show Respect",
+        "Bring Positivity",
+        "Encourage Unity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Encourage Unity"
+    },
+    {
+      "id": "l3y1-e-A02",
+      "type": "scored",
+      "prompt": "How many protected characteristics are covered by the Equality Act?",
+      "options": [
+        "9",
+        "5",
+        "7",
+        "12"
+      ],
+      "answerIndex": 0,
+      "explanation": "9"
+    },
+    {
+      "id": "l3y1-e-A03",
+      "type": "scored",
+      "prompt": "What is harassment?",
+      "options": [
+        "Enforcing rules",
+        "Giving feedback",
+        "Friendly disagreement",
+        "Unwanted behaviour creating a hostile environment"
+      ],
+      "answerIndex": 3,
+      "explanation": "Unwanted behaviour creating a hostile environment"
+    },
+    {
+      "id": "l3y1-e-A04",
+      "type": "scored",
+      "prompt": "Which British Value relates to elections and voting?",
+      "options": [
+        "Democracy",
+        "Rule of Law",
+        "Liberty",
+        "Tolerance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Democracy"
+    },
+    {
+      "id": "l3y1-e-A05",
+      "type": "scored",
+      "prompt": "Can online behaviour affect your college experience?",
+      "options": [
+        "No",
+        "Yes",
+        "Only on college computers",
+        "Only during lessons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Yes"
+    },
+    {
+      "id": "l3y1-e-A06",
+      "type": "scored",
+      "prompt": "What is usually the fastest reporting route?",
+      "options": [
+        "Social media",
+        "Student Rep",
+        "Tell your teacher",
+        "Anonymous reporting"
+      ],
+      "answerIndex": 2,
+      "explanation": "Tell your teacher"
+    },
+    {
+      "id": "l3y1-e-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Respect Looks Different in Different Settings'?",
+      "options": [
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "Respect applies: In college"
+      ],
+      "answerIndex": 3,
+      "explanation": "Respect applies: In college"
+    },
+    {
+      "id": "l3y1-e-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'The PROUD Values'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "These are the core ESCG values: Create a welcoming and supportive environment",
+        "It is optional and not required"
+      ],
+      "answerIndex": 2,
+      "explanation": "These are the core ESCG values: Create a welcoming and supportive environment"
+    }
+  ]
+}

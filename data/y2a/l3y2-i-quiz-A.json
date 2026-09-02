@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-i",
+    "level": "l3",
+    "year": "y2",
+    "module": "I",
+    "variant": "A",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this Year 2 professional behaviour session?",
+      "options": [
+        "A new-starter welcome",
+        "Deployment, not repetition - last year you built the evidence bank; this year you use it",
+        "A repeat of last year",
+        "A pass/fail test"
+      ],
+      "answerIndex": 1,
+      "explanation": "You built the evidence last year. This year you use it. The framing is deployment, not repetition.",
+      "id": "l3y2-i-A01"
+    },
+    {
+      "id": "l3y2-i-C07",
+      "type": "scored",
+      "prompt": "What is the main difference in Year 2?",
+      "options": [
+        "Skills no longer matter",
+        "No evidence is needed",
+        "Evidence is used in real applications",
+        "References stop being important"
+      ],
+      "answerIndex": 2,
+      "explanation": "Evidence is used in real applications"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does the deck say 'this year counts double'?",
+      "options": [
+        "Because you have double the work",
+        "Because there are two of you",
+        "Because you get two grades",
+        "Because this is the year referees and interviewers are actually watching - applications open, references get read"
+      ],
+      "answerIndex": 3,
+      "explanation": "This year counts double because this is the year referees and interviewers are actually watching.",
+      "id": "l3y2-i-A03"
+    },
+    {
+      "type": "scored",
+      "prompt": "What matters most for the reference, according to the deck?",
+      "options": [
+        "Recent pattern - referees write from the freshest evidence, and this term is the one sitting in front of them",
+        "Your predicted grades",
+        "How many courses you took",
+        "Year 1 attendance only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Recent pattern weighs heaviest - referees write from the freshest evidence.",
+      "id": "l3y2-i-A04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's claim about interview questions?",
+      "options": [
+        "At interview, nearly every question is secretly about one of the human skills (communication, teamwork, reliability, problem-solving, adaptability, initiative)",
+        "They are all about technical skill",
+        "They are random",
+        "They are about personality tests only"
+      ],
+      "answerIndex": 0,
+      "explanation": "At interview, nearly every question is secretly about one of the six human skills.",
+      "id": "l3y2-i-A05"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the Year 2 reframe of the Skills Assessment?",
+      "options": [
+        "A self-assessment only",
+        "What moved, and what does that prove? - movement is the story",
+        "Pass or fail",
+        "Same as Year 1 - what are my skills?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Today's question isn't 'what are my skills?' - it's 'what moved, and what does that prove?'",
+      "id": "l3y2-i-A06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which of these is 'evidence' rather than a claim, according to the deck?",
+      "options": [
+        "'I work well under pressure'",
+        "'On placement I fixed a file nobody else could open - then wrote a one-page guide so the next person could do it without me'",
+        "'I'm a team player'",
+        "'I'm reliable and hard-working'"
+      ],
+      "answerIndex": 1,
+      "explanation": "That is specific, checkable, memorable evidence - the level a personal statement or a professional portfolio needs.",
+      "id": "l3y2-i-A07"
+    },
+    {
+      "type": "scored",
+      "prompt": "What should students do with the three strengths at the end of the activity?",
+      "options": [
+        "Keep them in a folder",
+        "Memorise them word for word",
+        "Email them to the safeguarding team",
+        "Replace last year's versions in Navigate - they go into live applications this term"
+      ],
+      "answerIndex": 3,
+      "explanation": "Replace last year's versions. These go into live applications this term.",
+      "id": "l3y2-i-A08"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "section": "l3y1-j",
+    "level": "l3",
+    "year": "y1",
+    "module": "J",
+    "title": "Work Experience",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-j-B01",
+      "type": "scored",
+      "prompt": "What's the deck's headline about Skills Week?",
+      "options": [
+        "An optional week off",
+        "Your Work Experience week - the placement itself happens here",
+        "Only for Year 2 students",
+        "Cancelled this year"
+      ],
+      "answerIndex": 1,
+      "explanation": "This is your Work Experience week - the placement itself happens here."
+    },
+    {
+      "id": "l3y1-j-B02",
+      "type": "scored",
+      "prompt": "Why does the deck say the request deadline is 4 weeks before Skills Week?",
+      "options": [
+        "Arbitrary",
+        "It gives the Careers & Employability team time to check your employer - health & safety, insurance and safeguarding checks - before you're allowed to start",
+        "To give students a deadline",
+        "Because employers are slow"
+      ],
+      "answerIndex": 1,
+      "explanation": "It gives the team time to check your employer - H&S, insurance, safeguarding."
+    },
+    {
+      "id": "l3y1-j-B03",
+      "type": "scored",
+      "prompt": "Which room is the Eastbourne Careers & Employability team in?",
+      "options": [
+        "ECAT House, room 101",
+        "Careers Hub, Ground Floor",
+        "Cliffe Building, room 134",
+        "Ask at reception"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eastbourne: ECAT House, room 101."
+    },
+    {
+      "id": "l3y1-j-B04",
+      "type": "insert",
+      "prompt": "Fill in the blank: Lewes Careers & Employability is in the Cliffe Building, room ____.",
+      "template": "Lewes Careers & Employability is in the Cliffe Building, room ____.",
+      "options": [
+        "12",
+        "101",
+        "134",
+        "175"
+      ],
+      "answerIndex": 2,
+      "explanation": "Lewes: Cliffe Building, room 134."
+    },
+    {
+      "id": "l3y1-j-B05",
+      "type": "scored",
+      "prompt": "What's the deck's view of the no-placement fallback?",
+      "options": [
+        "Skills Week is wasted",
+        "You'll come into college and work on an employer-set brief - a real task from a real employer - plus employer talks",
+        "You have to find one",
+        "It counts as a fail"
+      ],
+      "answerIndex": 1,
+      "explanation": "Employer-set brief in college - still counted, still worthwhile."
+    },
+    {
+      "id": "l3y1-j-B06",
+      "type": "scored",
+      "prompt": "What does the deck say about dress code on placement?",
+      "options": [
+        "Always wear a suit",
+        "Check the dress code before you start; most studios, agencies and IT teams are smart casual; on a shoot or an install, wear something you can actually work in",
+        "Always wear your college uniform",
+        "It doesn't matter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Smart casual - except on shoots or installs."
+    },
+    {
+      "id": "l3y1-j-B07",
+      "type": "scored",
+      "prompt": "How does the deck reframe raising concerns on placement?",
+      "options": [
+        "Always wait until it gets worse",
+        "Speak to your employer contact first if it's minor; your tutor / Careers & Employability team if it isn't",
+        "Only escalate to the police",
+        "Don't raise them at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "Employer contact first if minor; tutor/Careers if it isn't."
+    },
+    {
+      "id": "l3y1-j-B08",
+      "type": "scored",
+      "prompt": "Work experience is:",
+      "options": [
+        "Extra homework",
+        "Part of your training",
+        "Optional",
+        "A holiday"
+      ],
+      "answerIndex": 1,
+      "explanation": "Part of your training"
+    }
+  ]
+}

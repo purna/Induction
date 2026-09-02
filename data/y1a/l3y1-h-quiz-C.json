@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "section": "l3y1-h",
+    "level": "l3",
+    "year": "y1",
+    "module": "H",
+    "title": "How to Use Navigate",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-h-C01",
+      "type": "scored",
+      "prompt": "What's the headline framing of Navigate in the deck?",
+      "options": [
+        "A timetabling tool",
+        "Where you build the evidence that you did",
+        "A library catalogue",
+        "A reporting system"
+      ],
+      "answerIndex": 1,
+      "explanation": "Navigate is where you build the evidence that you did."
+    },
+    {
+      "id": "l3y1-h-C02",
+      "type": "scored",
+      "prompt": "Which band says 'inconsistent under pressure - most people sit here'?",
+      "options": [
+        "Green",
+        "Amber",
+        "Red",
+        "None of them"
+      ],
+      "answerIndex": 1,
+      "explanation": "Amber - inconsistent under pressure; most people sit here."
+    },
+    {
+      "id": "l3y1-h-C03",
+      "type": "scored",
+      "prompt": "What does the deck say you should do with each careers quiz profile?",
+      "options": [
+        "Click through quickly",
+        "Interrogate each profile: entry route, qualification level, earnings, and what the job is like day to day",
+        "Pick the highest-paid one",
+        "Pick the first one"
+      ],
+      "answerIndex": 1,
+      "explanation": "Interrogate each profile: entry route, qualification level, earnings, and what the job is like day to day."
+    },
+    {
+      "id": "l3y1-h-C04",
+      "type": "insert",
+      "prompt": "Fill in the blank: two years of consistent logging becomes a portfolio; two years of good intentions becomes a ____ in February.",
+      "template": "Two years of consistent logging becomes a portfolio; two years of good intentions becomes a ____ in February.",
+      "options": [
+        "holiday",
+        "panic",
+        "win",
+        "vacancy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two years of good intentions becomes a panic in February."
+    },
+    {
+      "id": "l3y1-h-C05",
+      "type": "multi",
+      "prompt": "Which of these are on the deck's logging list? Select all that apply.",
+      "options": [
+        "Film, audio, graphics and code you plan, make and evaluate",
+        "Externally moderated projects and Final Major Projects",
+        "Visiting media professionals and industry visits",
+        "Cross-department work (e.g. photographing for Hair and Beauty)"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are on the logging list."
+    },
+    {
+      "id": "l3y1-h-C06",
+      "type": "scored",
+      "prompt": "What does the deck say about Reflection Coach?",
+      "options": [
+        "It does the reflection for you",
+        "It prompts you towards the standard - it does not do it for you, and an assessor can tell the difference",
+        "It's optional",
+        "It's not used in this department"
+      ],
+      "answerIndex": 1,
+      "explanation": "Reflection Coach prompts you towards this - it does not do it for you, and an assessor can tell the difference."
+    },
+    {
+      "id": "l3y1-h-C07",
+      "type": "scored",
+      "prompt": "By when must the eight first-two-weeks tasks be completed?",
+      "options": [
+        "End of week 1",
+        "End of week 2",
+        "End of week 4",
+        "End of term"
+      ],
+      "answerIndex": 1,
+      "explanation": "Complete these independently by the end of week two."
+    },
+    {
+      "id": "l3y1-h-C08",
+      "type": "scored",
+      "prompt": "What's the deck's framing of asking for help on these tasks?",
+      "options": [
+        "It's weakness",
+        "Asking early is a professional skill, not a weakness",
+        "It's only acceptable once",
+        "Only at the end"
+      ],
+      "answerIndex": 1,
+      "explanation": "Asking early is a professional skill, not a weakness."
+    }
+  ]
+}

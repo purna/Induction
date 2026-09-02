@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "section": "l3y2-c",
+    "level": "l3",
+    "year": "y2",
+    "module": "C",
+    "variant": "C",
+    "title": "Health & Safety"
+  },
+  "questions": [
+    {
+      "id": "l3y2-c-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Familiarity Is the Biggest Risk'? Select all that apply.",
+      "options": [
+        "You become comfortable",
+        "You assume things are fine",
+        "Habits become automatic",
+        "Hazards can stop standing out"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Familiarity Is the Biggest Risk."
+    },
+    {
+      "id": "l3y2-c-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Common Year 2 Slips'? Select all that apply.",
+      "options": [
+        "Not wearing lanyards consistently",
+        "Skipping familiar safety checks",
+        "Assuming someone else checked equipment",
+        "Ignoring things that would have been reported in Year 1"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Common Year 2 Slips."
+    },
+    {
+      "id": "l3y2-c-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Refresh the Basics'? Select all that apply.",
+      "options": [
+        "Fire exits",
+        "Assembly points",
+        "Reporting routes",
+        "PPE requirements"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Refresh the Basics."
+    },
+    {
+      "id": "l3y2-c-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Show Respect Still Matters'? Select all that apply.",
+      "options": [
+        "Respect spaces",
+        "Respect equipment",
+        "Respect other people",
+        "Respect safety instructions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Show Respect Still Matters."
+    },
+    {
+      "id": "l3y2-c-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'New Year 2 Responsibilities'? Select all that apply.",
+      "options": [
+        "Live media production",
+        "Broadcasting responsibilities",
+        "Editorial duties",
+        "Industry placements"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on New Year 2 Responsibilities."
+    },
+    {
+      "id": "l3y2-c-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Equipment Responsibility'? Select all that apply.",
+      "options": [
+        "Return equipment correctly",
+        "Report faults",
+        "Store equipment properly",
+        "Avoid assuming someone else has done it"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Equipment Responsibility."
+    },
+    {
+      "id": "l3y2-c-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Speak Up Early'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Notice hazards"
+      ],
+      "answerIndex": 3,
+      "explanation": "Notice hazards"
+    },
+    {
+      "id": "l3y2-c-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Speak Up Early'?",
+      "options": [
+        "It applies only to certain students",
+        "The core message remains: Notice hazards",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 1,
+      "explanation": "The core message remains: Notice hazards"
+    }
+  ]
+}

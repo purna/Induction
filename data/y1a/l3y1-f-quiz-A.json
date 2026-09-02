@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "section": "l3y1-f",
+    "level": "l3",
+    "year": "y1",
+    "module": "F",
+    "title": "Staying Safe at College",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-f-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value is this module grounded in?",
+      "options": [
+        "Seek Opportunity",
+        "Show Respect",
+        "Encourage Unity",
+        "Be Proud"
+      ],
+      "answerIndex": 2,
+      "explanation": "Encourage Unity - creating an environment where it's normal to look out for peers and report concern."
+    },
+    {
+      "id": "l3y1-f-A02",
+      "type": "multi",
+      "prompt": "Who holds part of the safeguarding duty around consent, conduct, and what you record? Select all that apply.",
+      "options": [
+        "You",
+        "Only the placement provider",
+        "Only the college safeguarding team",
+        "Only the unit lecturer"
+      ],
+      "correctIndices": [
+        0
+      ],
+      "explanation": "On placement and on a shoot you hold part of this duty yourself."
+    },
+    {
+      "id": "l3y1-f-A03",
+      "type": "scored",
+      "prompt": "How does the deck define extremism?",
+      "options": [
+        "Holding strong opinions",
+        "Vocal or active opposition to fundamental British values, or calls for violence against others",
+        "Asking difficult questions",
+        "Joining a political party"
+      ],
+      "answerIndex": 1,
+      "explanation": "Extremism is vocal or active opposition to fundamental British values, or calls for violence against others."
+    },
+    {
+      "id": "l3y1-f-A04",
+      "type": "scored",
+      "prompt": "Where does the deck say the greatest local risk of radicalisation comes from?",
+      "options": [
+        "Places of worship",
+        "Classrooms",
+        "The online space - particularly misogynistic and extreme right-wing content and lone-actor narratives",
+        "Student unions"
+      ],
+      "answerIndex": 2,
+      "explanation": "Locally, the greatest risk of radicalisation comes from the online space."
+    },
+    {
+      "id": "l3y1-f-A05",
+      "type": "scored",
+      "prompt": "Which of these is the deck's reframe of grooming?",
+      "options": [
+        "It's only a risk on dating apps",
+        "Adults who build 'relationships' online with young people for harmful purposes; county lines recruitment works the same way - it usually arrives as a DM offering paid portfolio, modelling or editing work",
+        "It's only a risk for under-16s",
+        "It only happens in person"
+      ],
+      "answerIndex": 1,
+      "explanation": "Grooming and exploitation: adults who build 'relationships' online with young people for harmful purposes; county lines recruitment works the same way."
+    },
+    {
+      "id": "l3y1-f-A06",
+      "type": "insert",
+      "prompt": "Fill in the blank: sharing intimate images without consent is a criminal offence; receiving or sharing ____ counts.",
+      "template": "Sharing intimate images without consent is a criminal offence; receiving or sharing ____ counts.",
+      "options": [
+        "sometimes",
+        "both",
+        "neither",
+        "only if public"
+      ],
+      "answerIndex": 1,
+      "explanation": "Receiving or sharing both count - and this includes AI-generated images."
+    },
+    {
+      "id": "l3y1-f-A07",
+      "type": "multi",
+      "prompt": "What are the key principles about using AI in assessments? Select all that apply.",
+      "options": [
+        "Use AI to support, not replace",
+        "Verify what AI tells you",
+        "Submit whatever AI produces",
+        "Never use AI"
+      ],
+      "correctIndices": [
+        0,
+        1
+      ],
+      "explanation": "Use AI to support, not replace; verify what AI tells you - AI tools fabricate facts."
+    },
+    {
+      "id": "l3y1-f-A08",
+      "type": "multi",
+      "prompt": "What can staff NOT promise when a safeguarding concern is raised? Select all that apply.",
+      "options": [
+        "Same-day logging",
+        "Secrecy",
+        "A referral to external agencies",
+        "ProMonitor access"
+      ],
+      "correctIndices": [
+        1
+      ],
+      "explanation": "Staff will not gossip or share unnecessarily, but they cannot promise secrecy."
+    },
+    {
+      "id": "l3y1-f-A09",
+      "type": "scored",
+      "prompt": "What does the deck say is the right framing for telling someone you're worried about a friend?",
+      "options": [
+        "It's a betrayal",
+        "It's the right thing to do - it's not a betrayal",
+        "It must wait until you're sure",
+        "Only your tutor can do it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Acting on concern for a friend is the right thing. It is not a betrayal."
+    }
+  ]
+}

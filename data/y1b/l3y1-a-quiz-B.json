@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-a",
+    "level": "l3",
+    "year": "y1",
+    "module": "A",
+    "variant": "B",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y1-a-B01",
+      "type": "scored",
+      "prompt": "Which of the following can you do using Pro Portal?",
+      "options": [
+        "Social media",
+        "Gaming",
+        "Coursework only",
+        "Timetables, messages and progress"
+      ],
+      "answerIndex": 3,
+      "explanation": "Timetables, messages and progress"
+    },
+    {
+      "id": "l3y1-a-B02",
+      "type": "scored",
+      "prompt": "What is included as part of your study programme?",
+      "options": [
+        "Driving lessons",
+        "Holidays",
+        "Work-related learning",
+        "Sports membership"
+      ],
+      "answerIndex": 2,
+      "explanation": "Work-related learning"
+    },
+    {
+      "id": "l3y1-a-B03",
+      "type": "scored",
+      "prompt": "What should you do when something at college is not working?",
+      "options": [
+        "Stay silent",
+        "Stop attending",
+        "Wait until summer",
+        "Tell staff early"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tell staff early"
+    },
+    {
+      "id": "l3y1-a-B04",
+      "type": "scored",
+      "prompt": "Which services does college support include?",
+      "options": [
+        "Wellbeing support",
+        "Careers support",
+        "All of the above",
+        "Learning support"
+      ],
+      "answerIndex": 2,
+      "explanation": "All of the above"
+    },
+    {
+      "id": "l3y1-a-B05",
+      "type": "scored",
+      "prompt": "What is the importance of belonging?",
+      "options": [
+        "It changes grades automatically",
+        "It affects bus fares",
+        "It helps students succeed",
+        "It removes coursework"
+      ],
+      "answerIndex": 2,
+      "explanation": "It helps students succeed"
+    },
+    {
+      "id": "l3y1-a-B06",
+      "type": "scored",
+      "prompt": "How frequently should you check Pro Portal?",
+      "options": [
+        "Only during exams",
+        "Daily",
+        "Weekly",
+        "Monthly"
+      ],
+      "answerIndex": 1,
+      "explanation": "Daily"
+    },
+    {
+      "id": "l3y1-a-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'It Is Normal to Have Worries'? Select all that apply.",
+      "options": [
+        "Workload",
+        "New software",
+        "Meeting people",
+        "Confidence"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of It Is Normal to Have Worries."
+    },
+    {
+      "id": "l3y1-a-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Support Exists'? Select all that apply.",
+      "options": [
+        "Learning support",
+        "Mental health and wellbeing support",
+        "Financial support",
+        "Careers advice"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Support Exists."
+    }
+  ]
+}

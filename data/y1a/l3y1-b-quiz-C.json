@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "section": "l3y1-b",
+    "level": "l3",
+    "year": "y1",
+    "module": "B",
+    "variant": "C",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y1-b-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Shift from School to College'? Select all that apply.",
+      "options": [
+        "Nobody chases missing work. Responsibility is yours",
+        "You have more unstructured time and must manage it yourself",
+        "Problems often appear weeks or months after the original mistake",
+        "Independence is expected and developed through practice"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Shift from School to College."
+    },
+    {
+      "id": "l3y1-b-C02",
+      "type": "scored",
+      "prompt": "Which of these is the deck's honest contrast between school and college?",
+      "options": [
+        "'At college, your day is filled in for you.'",
+        "'At college, a bad week shows up next week.'",
+        "'At college, no one chases — the work is yours, or it doesn't get done.'",
+        "'At college, teachers check your reading every morning.'"
+      ],
+      "answerIndex": 2,
+      "explanation": "'No one chases. The work is yours — or it doesn't get done.'"
+    },
+    {
+      "id": "l3y1-b-C03",
+      "type": "insert",
+      "prompt": "Fill in the blank: students who do better don't work harder — they just ____ in advance.",
+      "template": "Students who do better don't work harder — they just ____ in advance.",
+      "options": [
+        "decide",
+        "recover",
+        "submit",
+        "complain"
+      ],
+      "answerIndex": 0,
+      "explanation": "They just decide in advance what their free periods are for."
+    },
+    {
+      "id": "l3y1-b-C04",
+      "type": "multi",
+      "prompt": "Which of these does the deck suggest for Seek Opportunity? Select all that apply.",
+      "options": [
+        "Enter a short film or digital media competition",
+        "Build a public portfolio on Behance or Vimeo",
+        "Research BA degrees at University Centre Hastings or Higher Apprenticeship routes",
+        "Wait until your teacher tells you to start a portfolio"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All three are concrete examples of Seek Opportunity behaviours in the deck."
+    },
+    {
+      "id": "l3y1-b-C05",
+      "type": "scored",
+      "prompt": "How does the deck say most students feel in their first weeks at college?",
+      "options": [
+        "Settled and confident",
+        "Bored because it is easier than school",
+        "Out of depth — and that's a sign they've moved up, not that they're in the wrong place",
+        "Certain they chose the wrong course"
+      ],
+      "answerIndex": 2,
+      "explanation": "Most students feel out of depth in their first weeks — not some, most. It's a sign you've moved up, not that you're in the wrong place."
+    },
+    {
+      "id": "l3y1-b-C06",
+      "type": "scored",
+      "prompt": "On attendance, the deck deliberately uses…",
+      "options": [
+        "Specific percentage thresholds and warnings",
+        "A plain case about what you actually lose when you're not in the room",
+        "A list of formal consequences",
+        "Threats of course removal"
+      ],
+      "answerIndex": 1,
+      "explanation": "The deck deliberately avoids percentage thresholds. The case is made in terms of what you actually lose."
+    },
+    {
+      "id": "l3y1-b-C07",
+      "type": "multi",
+      "prompt": "Which of these are part of the deck's plain case for attendance? Select all that apply.",
+      "options": [
+        "The bit that isn't on the slides — off-script teaching, worked examples",
+        "Spaced learning that actually sticks",
+        "The relationships that catch you when you slip",
+        "Being seen by the people writing your reference"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the plain-case arguments the deck uses."
+    },
+    {
+      "id": "l3y1-b-C08",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The \"Long Fuse\" Principle'? Select all that apply.",
+      "options": [
+        "Missing brief reviews, lessons or coursework now creates gaps later",
+        "Catching up becomes harder when new work is arriving at the same time",
+        "Planning free periods in advance helps prevent this"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on The \"Long Fuse\" Principle."
+    }
+  ]
+}

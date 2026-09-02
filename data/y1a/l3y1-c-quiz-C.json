@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-c",
+    "level": "l3",
+    "year": "y1",
+    "module": "C",
+    "variant": "C",
+    "title": "Health & Safety: looking after yourself, looking after each other"
+  },
+  "questions": [
+    {
+      "id": "l3y1-c-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Health & Safety Starts with Noticing'? Select all that apply.",
+      "options": [
+        "Hazards become \"normal\"",
+        "People are rushing",
+        "People are distracted",
+        "People do not want to make a fuss"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Health & Safety Starts with Noticing."
+    },
+    {
+      "id": "l3y1-c-C02",
+      "type": "scored",
+      "prompt": "What does the deck say most accidents have in common?",
+      "options": [
+        "They happen because someone breaks a rule on purpose",
+        "They happen because someone stopped noticing",
+        "They happen because PPE was too uncomfortable",
+        "They happen because the fire alarm was off"
+      ],
+      "answerIndex": 1,
+      "explanation": "Most accidents don't happen because someone breaks a rule on purpose. They happen because someone stopped noticing."
+    },
+    {
+      "id": "l3y1-c-C03",
+      "type": "scored",
+      "prompt": "What's required in any studio where lighting equipment or stands are in use?",
+      "options": [
+        "A high-vis vest",
+        "Closed-toe shoes",
+        "Ear defenders",
+        "A first-aid certificate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Closed-toe shoes are required — a toppling lighting stand causes serious foot injury."
+    },
+    {
+      "id": "l3y1-c-C04",
+      "type": "scored",
+      "prompt": "Why does the deck say 'a tutor pausing a practical for a safety reason' is a good thing?",
+      "options": [
+        "Tutors like to show off",
+        "It's the system working as it should",
+        "It's a sign the tutor is nervous",
+        "It's an excuse to finish early"
+      ],
+      "answerIndex": 1,
+      "explanation": "When a tutor pauses a practical for a safety reason, that's not someone being precious — that's the system working as it should."
+    },
+    {
+      "id": "l3y1-c-C05",
+      "type": "multi",
+      "prompt": "Which responsibilities are yours, according to the deck? Select all that apply.",
+      "options": [
+        "Return all equipment to its storage position",
+        "Report faults before you leave",
+        "Submit risk assessments before any location shoot",
+        "PAT testing and electrical maintenance"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "You: return equipment, report faults, submit risk assessments. PAT testing and electrical maintenance are the technician / college's job."
+    },
+    {
+      "id": "l3y1-c-C06",
+      "type": "insert",
+      "prompt": "Fill in the blank: ____ cables are the most common trip hazard in broadcast environments.",
+      "template": "____ cables are the most common trip hazard in broadcast environments.",
+      "options": [
+        "Trailing",
+        "Optical",
+        "Coiled",
+        "HDMI"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trailing cables are the most common trip hazard in broadcast environments."
+    },
+    {
+      "id": "l3y1-c-C07",
+      "type": "scored",
+      "prompt": "How does the deck describe the act of reporting something that's not right?",
+      "options": [
+        "Making a fuss",
+        "Telling on people",
+        "Not making a fuss — saying it early",
+        "Something only safeguarding should do"
+      ],
+      "answerIndex": 2,
+      "explanation": "Saying something is 'not making a fuss — not \"telling on\" anyone — just saying it, early.'"
+    },
+    {
+      "id": "l3y1-c-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'What Switches Noticing Off'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Rushing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Rushing"
+    }
+  ]
+}

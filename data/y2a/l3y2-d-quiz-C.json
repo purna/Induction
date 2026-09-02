@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "section": "l3y2-d",
+    "level": "l3",
+    "year": "y2",
+    "module": "D",
+    "variant": "C",
+    "title": "Students' Voice & Student Rep Elections"
+  },
+  "questions": [
+    {
+      "type": "multi",
+      "prompt": "Which of these are 'ways to get involved'? Select all that apply.",
+      "options": [
+        "Surveys & Forums",
+        "Student Governor",
+        "NUS Membership (TOTUM card)",
+        "Student Rep"
+      ],
+      "correctIndices": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "explanation": "All four are ways to get involved.",
+      "id": "l3y2-d-C01"
+    },
+    {
+      "id": "l3y2-d-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Students Have Experience'? Select all that apply.",
+      "options": [
+        "Already experienced Students' Voice",
+        "Seen good and poor representation",
+        "Gained knowledge about how the college works"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Students Have Experience."
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the eligibility requirement to apply for Student Governor?",
+      "options": [
+        "Any current student, in any year",
+        "Planning to study at ESCG for at least one more year - L3 students progressing here qualify",
+        "Only Year 1 students",
+        "Only students with a UCAS offer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Planning to study at ESCG for at least one more year - L3 students progressing here qualify.",
+      "id": "l3y2-d-C03"
+    },
+    {
+      "id": "l3y2-d-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Makes Students' Voice Work?'? Select all that apply.",
+      "options": [
+        "Reps communicate with students",
+        "Feedback is evidence-based",
+        "Students engage with the process",
+        "Outcomes are followed up"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Makes Students' Voice Work?."
+    },
+    {
+      "type": "scored",
+      "prompt": "By when must Student Rep elections be completed?",
+      "options": [
+        "No later than the end of Week 2 of the academic year",
+        "Whenever the rep finds time",
+        "End of Week 1",
+        "End of term"
+      ],
+      "answerIndex": 0,
+      "explanation": "Student Rep elections must be completed and the rep confirmed no later than the end of Week 2.",
+      "id": "l3y2-d-C05"
+    },
+    {
+      "type": "scored",
+      "prompt": "How many reps does this group elect today?",
+      "options": [
+        "Two - a subject rep and a GCSE English/maths rep",
+        "One - the subject rep",
+        "Three - subject, English, and maths",
+        "None - they're elected next term"
+      ],
+      "answerIndex": 0,
+      "explanation": "This group elects two reps - subject rep and GCSE English/maths rep.",
+      "id": "l3y2-d-C06"
+    },
+    {
+      "id": "l3y2-d-C07",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Familiarity Is Both an Advantage and a Risk'? Select all that apply.",
+      "options": [
+        "You know staff",
+        "You know systems",
+        "You understand how decisions happen",
+        "Going through the motions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Familiarity Is Both an Advantage and a Risk."
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is feedback that 'names the thing'?",
+      "options": [
+        "'Things aren't great'",
+        "'It's all a bit rubbish'",
+        "'Feedback is bad'",
+        "'Coursework feedback arrives too late to act on'"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Coursework feedback arrives too late to act on' beats 'feedback is bad' - that's feedback that names the thing.",
+      "id": "l3y2-d-C08"
+    }
+  ]
+}

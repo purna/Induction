@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "section": "l3y2-c",
+    "level": "l3",
+    "year": "y2",
+    "module": "C",
+    "variant": "C",
+    "title": "Health & Safety - A Year In, Not Starting Again"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "If a session this year is in a different studio or building from last year, what should you do?",
+      "options": [
+        "Skip the briefing",
+        "Wait until an alarm to find out",
+        "Treat it as new information - do not assume it is unchanged",
+        "Assume the evacuation route is the same"
+      ],
+      "answerIndex": 2,
+      "explanation": "If your sessions this year use a different studio or building from last year, treat this as new information.",
+      "id": "l3y2-c-C01"
+    },
+    {
+      "type": "scored",
+      "prompt": "How has the 'show respect' excuse changed in Year 2?",
+      "options": [
+        "Show respect no longer applies",
+        "A year in, 'I didn't realise' carries less weight than it did in week one",
+        "There is now an excuse for everything",
+        "The standard has dropped"
+      ],
+      "answerIndex": 1,
+      "explanation": "A year in, 'I didn't realise' carries less weight than it did in week one.",
+      "id": "l3y2-c-C02"
+    },
+    {
+      "type": "scored",
+      "prompt": "What do Content Creation students now do that they didn't in Year 1?",
+      "options": [
+        "Run live media (Eastbourne Youth Radio, Tag magazine) - with contributor consent and editorial duty of care",
+        "Skip H&S briefings",
+        "Move to a different building",
+        "Stop using consent forms"
+      ],
+      "answerIndex": 0,
+      "explanation": "Content Creation students are now running live media - broadcasting and publishing carry different H&S obligations.",
+      "id": "l3y2-c-C03"
+    },
+    {
+      "type": "scored",
+      "prompt": "If you are the last person using a piece of equipment, who is responsible for returning it?",
+      "options": [
+        "Whoever signed it out first that day",
+        "You - regardless of who signed it out",
+        "Nobody - it can wait",
+        "The technician only"
+      ],
+      "answerIndex": 1,
+      "explanation": "If you are the last person using something, you are responsible for returning it, regardless of who signed it out.",
+      "id": "l3y2-c-C04"
+    },
+    {
+      "type": "scored",
+      "prompt": "Beyond physical hazards, what else counts as 'something's not right' to tell someone about?",
+      "options": [
+        "Anything - a space, an activity, or the way someone's behaving towards you or someone else - that's made you feel uncomfortable or unsafe",
+        "Only a fire",
+        "Only safeguarding team instructions",
+        "Only damage to college property"
+      ],
+      "answerIndex": 0,
+      "explanation": "If a space, an activity, or the way someone's behaving towards you or someone else has made you feel uncomfortable or unsafe, that counts too.",
+      "id": "l3y2-c-C05"
+    },
+    {
+      "type": "scored",
+      "prompt": "How does the Year 2 H&S session differ from Year 1's?",
+      "options": [
+        "It runs twice as long",
+        "It covers completely new content",
+        "It's a brisk refresher with a couple of genuinely new bits - familiarity is the risk now",
+        "It removes the safeguarding element"
+      ],
+      "answerIndex": 2,
+      "explanation": "It's a brisk refresher with a couple of genuinely new bits - familiarity is the risk now.",
+      "id": "l3y2-c-C06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why do habits like skipping sandbags stop registering in year two?",
+      "options": [
+        "Because you've become familiar - not careless. That's the trap",
+        "Because you've become careless",
+        "Because the equipment has changed",
+        "Because there's no time"
+      ],
+      "answerIndex": 0,
+      "explanation": "These stop registering not because you've become careless, but because you've become familiar.",
+      "id": "l3y2-c-C07"
+    },
+    {
+      "type": "multi",
+      "prompt": "Which are 'what slips' examples in year two? Select all that apply.",
+      "options": [
+        "Skipping the risk assessment for a familiar location because 'we've been there before'",
+        "Things you'd have flagged in week one but stopped noticing",
+        "Wearing the wrong colour lanyard",
+        "Lanyards worn 'most of the time'"
+      ],
+      "correctIndices": [
+        3,
+        0,
+        1
+      ],
+      "explanation": "Lanyards worn 'most of the time', skipping risk assessments for familiar locations, and things you'd have flagged in week one but stopped noticing are the year-two slips.",
+      "id": "l3y2-c-C08"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "section": "l3y1-b",
+    "level": "l3",
+    "year": "y1",
+    "module": "B",
+    "variant": "C",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y1-b-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Shift from School to College'? Select all that apply.",
+      "options": [
+        "Nobody chases missing work. Responsibility is yours",
+        "You have more unstructured time and must manage it yourself",
+        "Problems often appear weeks or months after the original mistake",
+        "Independence is expected and developed through practice"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Shift from School to College."
+    },
+    {
+      "id": "l3y1-b-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The \"Long Fuse\" Principle'? Select all that apply.",
+      "options": [
+        "Missing brief reviews, lessons or coursework now creates gaps later",
+        "Catching up becomes harder when new work is arriving at the same time",
+        "Planning free periods in advance helps prevent this"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on The \"Long Fuse\" Principle."
+    },
+    {
+      "id": "l3y1-b-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Seek Opportunity'? Select all that apply.",
+      "options": [
+        "Join clubs and activities",
+        "Volunteer or take part in opportunities",
+        "Explore careers and progression routes",
+        "Build skills outside lessons"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Seek Opportunity."
+    },
+    {
+      "id": "l3y1-b-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Confidence'? Select all that apply.",
+      "options": [
+        "Doing difficult things",
+        "Coping with challenges",
+        "Asking for help when needed",
+        "Understanding that feeling out of depth is normal"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Confidence."
+    },
+    {
+      "id": "l3y1-b-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Attendance Matters Because...'? Select all that apply.",
+      "options": [
+        "Teacher explanations",
+        "Worked examples",
+        "Class discussions",
+        "Relationships with staff and classmates"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Attendance Matters Because...."
+    },
+    {
+      "id": "l3y1-b-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Attendance Barriers Are Real'? Select all that apply.",
+      "options": [
+        "Mental health difficulties",
+        "Financial or travel issues",
+        "Family pressures",
+        "Health conditions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Attendance Barriers Are Real."
+    },
+    {
+      "id": "l3y1-b-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'One Habit Can Change Outcomes'?",
+      "options": [
+        "It is only assessed in exams",
+        "Planning a free period",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Planning a free period"
+    },
+    {
+      "id": "l3y1-b-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'The Shift from School to College'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "College is different because: Nobody chases missing work"
+      ],
+      "answerIndex": 3,
+      "explanation": "College is different because: Nobody chases missing work"
+    }
+  ]
+}

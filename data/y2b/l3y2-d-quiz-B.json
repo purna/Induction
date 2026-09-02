@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-d",
+    "level": "l3",
+    "year": "y2",
+    "module": "D",
+    "variant": "B",
+    "title": "Students' Voice & Student Representative Elections"
+  },
+  "questions": [
+    {
+      "id": "l3y2-d-B01",
+      "type": "scored",
+      "prompt": "What is a major Year 2 advantage?",
+      "options": [
+        "Less coursework",
+        "Fewer responsibilities",
+        "Institutional experience",
+        "More holidays"
+      ],
+      "answerIndex": 2,
+      "explanation": "Institutional experience"
+    },
+    {
+      "id": "l3y2-d-B02",
+      "type": "scored",
+      "prompt": "What is a major Year 2 risk?",
+      "options": [
+        "Familiarity leading to disengagement",
+        "Too many reps",
+        "Too many surveys",
+        "Having too much support"
+      ],
+      "answerIndex": 0,
+      "explanation": "Familiarity leading to disengagement"
+    },
+    {
+      "id": "l3y2-d-B03",
+      "type": "scored",
+      "prompt": "Student Voice is:",
+      "options": [
+        "Only for Student Governors",
+        "Only the Rep's responsibility",
+        "A shared responsibility",
+        "Only the college's responsibility"
+      ],
+      "answerIndex": 2,
+      "explanation": "A shared responsibility"
+    },
+    {
+      "id": "l3y2-d-B04",
+      "type": "scored",
+      "prompt": "Student Governors represent:",
+      "options": [
+        "Their tutor",
+        "The whole student community",
+        "Their friendship group",
+        "Their subject"
+      ],
+      "answerIndex": 1,
+      "explanation": "The whole student community"
+    },
+    {
+      "id": "l3y2-d-B05",
+      "type": "scored",
+      "prompt": "Approximately how much time does being a Student Governor require?",
+      "options": [
+        "1 hour a month",
+        "3 to 5 hours a month",
+        "20 hours a month",
+        "30 minutes a month"
+      ],
+      "answerIndex": 1,
+      "explanation": "3 to 5 hours a month"
+    },
+    {
+      "id": "l3y2-d-B06",
+      "type": "scored",
+      "prompt": "Which is the best example of useful feedback?",
+      "options": [
+        "\"College should improve.\"",
+        "\"Nothing works.\"",
+        "\"Everything is bad.\"",
+        "\"Coursework feedback arrives too late to act on.\""
+      ],
+      "answerIndex": 3,
+      "explanation": "\"Coursework feedback arrives too late to act on.\""
+    },
+    {
+      "id": "l3y2-d-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Student Governor Responsibilities'? Select all that apply.",
+      "options": [
+        "Help shape strategic decisions",
+        "Provide student perspectives",
+        "Challenge and question decisions",
+        "Act in the interests of the whole college"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Student Governor Responsibilities."
+    },
+    {
+      "id": "l3y2-d-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'What the Board Does'? Select all that apply.",
+      "options": [
+        "Strategic planning",
+        "College quality",
+        "Finances and resources",
+        "Student experience"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of What the Board Does."
+    }
+  ]
+}

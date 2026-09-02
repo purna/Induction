@@ -1,0 +1,187 @@
+{
+  "section": "l3y1-b",
+  "level": "l3",
+  "year": "y1",
+  "module": "B",
+  "title": "Confidence, Independence & Attendance",
+  "slides": [
+    {
+      "title": "What this session is about",
+      "content": "A couple of weeks in, you've started to find your feet. This module is about the things that decide how the rest of the year goes — how you organise yourself, how you build confidence in this new place, and yes, attendance. It's a ~60 minute teacher-led session and there's nothing to revise.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what ESCG PROUD value is Module B grounded in?",
+        "options": [
+          "Proud to Learn",
+          "Seek Opportunity",
+          "United",
+          "Determined"
+        ],
+        "answerIndex": 1,
+        "explanation": "This whole deck is grounded in 'Seek Opportunity'."
+      }
+    },
+    {
+      "title": "The session in six beats",
+      "content": "There are six beats in today's session: (1) What changes from school, (2) Time and organisation, (3) Seek Opportunity, (4) Confidence, (5) Attendance, (6) Your habit. Three threads — transition, organisation, attendance — and one commitment activity at the end.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Shift from School to College'? Select all that apply.",
+        "options": [
+          "Nobody chases missing work. Responsibility is yours",
+          "You have more unstructured time and must manage it yourself",
+          "Problems often appear weeks or months after the original mistake",
+          "Independence is expected and developed through practice"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Shift from School to College."
+      }
+    },
+    {
+      "title": "What's actually different — school → college",
+      "content": "Three honest contrasts. At school, someone chased you when work was missing — at college, no one chases; the work is yours, or it doesn't get done. At school, your day was filled in for you — at college, you have big chunks of unstructured time and you decide what they're for. At school, a bad week showed up next week — at college, a bad week shows up two months from now, quieter — and worse.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of these contrasts between school and college does the deck make?",
+        "options": [
+          "At college, your day is filled in for you by your tutor",
+          "At college, no one chases — the work is yours, or it doesn't get done",
+          "At college, a bad week shows up the next week",
+          "At college, your teachers check you've done the reading every day"
+        ],
+        "answerIndex": 1,
+        "explanation": "The deck says: 'No one chases. The work is yours — or it doesn't get done.'"
+      }
+    },
+    {
+      "title": "The long fuse — where consequences actually land",
+      "content": "Most missed work doesn't punish you that week. It punishes you a couple of months later, when you can't catch up — and you didn't know you needed to. That's the actual time-management problem. The one move that actually helps is to treat your unstructured periods as actual sessions — a specific thing, for a specific lesson, for a set amount of time. The students who do this don't work harder than everyone else. They just decide in advance.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: most missed work doesn't punish you that week — it punishes you a couple of ____ later.",
+        "template": "Most missed work doesn't punish you that week — it punishes you a couple of ____ later.",
+        "options": [
+          "days",
+          "weeks",
+          "months",
+          "terms"
+        ],
+        "answerIndex": 2,
+        "explanation": "The deck calls this 'the long fuse' — consequences land a couple of months later."
+      }
+    },
+    {
+      "title": "Seek Opportunity — what independence actually looks like",
+      "content": "Seek Opportunity is the honest version of 'be independent'. Three concrete behaviours: (1) Join clubs and volunteer when you can — enter a short film or digital media competition, build a public portfolio on Behance or Vimeo, or apply for a student media or journalism project at the college. (2) Explore careers and build your skills — research BA degrees at University Centre Hastings, digital media and film degrees, and Higher Apprenticeship routes in software development, cybersecurity or content production. The UK games industry alone is worth almost £4 billion. (3) Treat mistakes as how you learn — not the embarrassing bit, the useful bit.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are 'Seek Opportunity' behaviours the deck lists? Select all that apply.",
+        "options": [
+          "Join clubs and volunteer — enter competitions, build a public portfolio, apply for student media projects",
+          "Explore careers and build skills — research degrees and Higher Apprenticeship routes",
+          "Treat mistakes as how you learn",
+          "Wait until your final year before thinking about careers"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "The three Seek Opportunity behaviours are join clubs, explore careers & build skills, and treat mistakes as how you learn."
+      }
+    },
+    {
+      "title": "What confidence actually is",
+      "content": "Most students feel out of depth in their first weeks at college — not some, most. It's a sign you've moved up, not that you're in the wrong place. Confidence isn't a personality trait — it's what you build by doing things you weren't sure you could. The trap is: 'I'm finding this hard, so I must not be cut out for it.' The honest version is: 'I'm finding this hard. That means I'm doing it properly — and I should ask.'",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck reframe 'I'm finding this hard'?",
+        "options": [
+          "'That means I'm not cut out for it — I should switch course'",
+          "'That means I'm doing it properly — and I should ask'",
+          "'That means the work is unfair — I should complain'",
+          "'That means I should work in silence until I figure it out'"
+        ],
+        "answerIndex": 1,
+        "explanation": "The honest version: 'I'm finding this hard. That means I'm doing it properly — and I should ask.'"
+      }
+    },
+    {
+      "title": "Attendance — the plain case",
+      "content": "There's no percentage threshold and no threats in this deck. The plain case is what you genuinely lose when you're not in the room: (1) the bit that isn't on the slides — off-script teaching, worked examples, questions answered live; (2) spaced learning that actually sticks — knowledge built across weeks beats knowledge crammed in a fortnight; (3) the relationships that catch you when you slip — teachers who know you, classmates who notice you're missing; (4) being seen — by the people writing your reference.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "According to the deck, what do you actually lose when you're not in the room? Select all that apply.",
+        "options": [
+          "The bit that isn't on the slides — off-script teaching, worked examples, questions",
+          "Spaced learning that actually sticks",
+          "The relationships that catch you when you slip",
+          "Being seen by the people writing your reference"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All four are the plain-case arguments the deck uses for attendance."
+      }
+    },
+    {
+      "title": "When coming in is hard",
+      "content": "Attendance isn't always about willpower. Real barriers include: mental health (anxiety, low mood, sleep that doesn't come); money and travel (when bus fares add up); things at home (caring responsibilities, family pressure, unsafe situations); neurodivergence not yet supported, or chronic health; friendships or feeling like you don't fit — bigger than people admit. The key line: a barrier we know about is one we can help with. A barrier we don't know about is one that quietly takes you out. Tell someone. Early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck say is the response when coming in is hard for a real reason?",
+        "options": [
+          "Issue a formal warning",
+          "Tell someone early so we can help",
+          "Wait until attendance drops below the threshold",
+          "Move the student to a different course"
+        ],
+        "answerIndex": 1,
+        "explanation": "A barrier we know about is one we can help with. Tell someone. Early."
+      }
+    },
+    {
+      "title": "Your one habit for this week",
+      "content": "Habits change behaviour. Plans don't. Pick ONE specific thing you'll do this week — not five. The four options on the card are drawn from the deck: (a) decide in advance what one free period is for; (b) ask for help with the thing you've been quietly stuck on; (c) do one Seek-Opportunity thing — a club, a careers event, asking a question; (d) tell someone about a barrier that's making attendance hard.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: habits change behaviour; ____ don't.",
+        "template": "Habits change behaviour; ____ don't.",
+        "options": [
+          "plans",
+          "grades",
+          "timetables",
+          "references"
+        ],
+        "answerIndex": 0,
+        "explanation": "The deck says: 'Habits change behaviour. Plans don't.'"
+      }
+    }
+  ]
+}

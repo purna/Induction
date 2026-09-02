@@ -1,0 +1,181 @@
+{
+  "section": "l3y2-e",
+  "level": "l3",
+  "year": "y2",
+  "module": "E",
+  "title": "Respect, Relationships & College Values",
+  "slides": [
+    {
+      "title": "Why this is a Year 2 session, not Year 1 again",
+      "content": "You've seen this content before. This session is about how you apply it in Year 2. Familiarity is the risk. Group 2: Safeguarding, Wellbeing & Respect. The register is peer-level and direct, not introductory. Year 2 means setting the standard for others.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the Year 2 framing for this respect and values session, according to the deck?",
+        "options": [
+          "Re-teach all of Year 1's content",
+          "Year 2 means setting the standard for others - peer-level, direct, application not awareness",
+          "Skip the values work",
+          "Cover new laws only"
+        ],
+        "answerIndex": 1,
+        "explanation": "Year 2 means setting the standard for others. The register is peer-level and direct."
+      }
+    },
+    {
+      "title": "The session in six beats",
+      "content": "Six things today: PROUD Values - consistency, not just awareness; British Values - application, not just knowledge; Equality Act 2010 - your obligations, not just rights; Behaviour Standards - familiarity is not an excuse; Zero Tolerance - inaction is also a choice; How to Report - your responsibility, not just an option.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is About Application'? Select all that apply.",
+        "options": [
+          "Applying them consistently",
+          "Challenging poor behaviour",
+          "Taking responsibility for standards",
+          "Acting professionally in familiar environments"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is About Application."
+      }
+    },
+    {
+      "title": "PROUD in Year 2 - setting the standard",
+      "content": "P - Bring Positivity: familiarity can breed indifference. Are you still actively creating a welcoming environment? R - Show Respect: comfort with colleagues isn't a reason to lower your standards of conduct. O - Seek Opportunity: in Year 2, opportunity includes developing others - not just yourself. U - Encourage Unity: established groups can become exclusive. Are you still including people? D - Celebrate Diversity: differences don't disappear because you know people better. Keep noticing them.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does 'Seek Opportunity' mean in Year 2, according to the deck?",
+        "options": [
+          "Look after yourself only",
+          "Opportunity includes developing others - not just yourself",
+          "Wait for opportunities to come to you",
+          "Skip placements to focus on coursework"
+        ],
+        "answerIndex": 1,
+        "explanation": "In Year 2, opportunity includes developing others - not just yourself."
+      }
+    },
+    {
+      "title": "British Values - application, not just knowledge",
+      "content": "Democracy: you've had a year to see how student voice works at ESCG. How effectively do you think it operates - and what would you do differently? Rule of Law: in Year 2, you understand the rules. The question is whether you're upholding them - and whether you're challenging it when others don't. Individual Liberty: your own choices are more visible now - to peers, staff, and placement providers. How consciously are you exercising that freedom? Mutual Respect & Tolerance: established friendships can make it harder to challenge poor behaviour. Year 2 is when you find out whether your values hold under social pressure.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe the 'Rule of Law' beat in Year 2?",
+        "options": [
+          "You learn the rules for the first time",
+          "You understand the rules - the question is whether you're upholding them and challenging it when others don't",
+          "The rules don't apply on placement",
+          "It only covers online behaviour"
+        ],
+        "answerIndex": 1,
+        "explanation": "In Year 2, you understand the rules. The question is whether you're upholding them - and whether you're challenging it when others don't."
+      }
+    },
+    {
+      "title": "Equality Act 2010 - your obligations",
+      "content": "9 protected characteristics: age, disability, gender reassignment, marriage & civil partnership, pregnancy & maternity, race, religion or belief, sex, sexual orientation. Discrimination: treating someone unfairly because of a protected characteristic - including through inaction or allowing it to happen. Harassment: unwanted behaviour that violates dignity or creates a hostile environment - including between people who know each other well. Victimisation: treating someone unfairly because they raised a concern - or because they didn't join in with behaviour that targeted someone else. Knowing the law and applying it are two different things. Scenario: a student makes the same offensive joke repeatedly in your group. Everyone laughs along. Is anyone else liable - and why?",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is the deck's definition of victimisation?",
+        "options": [
+          "Treating someone better because they raised a concern",
+          "Treating someone unfairly because they raised a concern - or because they didn't join in with behaviour that targeted someone else",
+          "Any disagreement in a group",
+          "Only a formal disciplinary outcome"
+        ],
+        "answerIndex": 1,
+        "explanation": "Victimisation: treating someone unfairly because they raised a concern - or because they didn't join in with behaviour that targeted someone else."
+      }
+    },
+    {
+      "title": "Behaviour standards - in college, on placement, online",
+      "content": "In college: knowing someone well doesn't lower the standard - it raises your responsibility to them. Group dynamics that formed in Year 1 may need to be challenged in Year 2. On industry placement: returning to a familiar placement is where professional standards are most at risk - particularly in a media production company, digital agency, or creative studio. Your Year 2 behaviour shapes the reference your placement provider gives. Online: your digital footprint is now more developed - and more visible to future employers. Content from Year 1 may still be findable - now is the time to audit it. Online group dynamics within the year group should meet the same standards as in person.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Why is returning to a familiar placement a higher-risk moment, according to the deck?",
+        "options": [
+          "Because the placement is shorter",
+          "Because familiarity is where professional standards are most at risk - your Year 2 behaviour shapes the reference your placement provider gives",
+          "Because the placement is unpaid",
+          "Because there is no manager"
+        ],
+        "answerIndex": 1,
+        "explanation": "Returning to a familiar placement is where professional standards are most at risk - your Year 2 behaviour shapes the reference your placement provider gives."
+      }
+    },
+    {
+      "title": "Zero tolerance - inaction is also a choice",
+      "content": "This hasn't changed. And in Year 2, allowing it to happen makes you part of it. Harassment: unwanted behaviour targeting identity, dignity, or wellbeing - including behaviour that has 'always been like this'. Discrimination: treating someone worse because of who they are - including through group dynamics that single people out. Bullying: repeated targeting - including normalised 'jokes' that only one person doesn't find funny. Abuse: physical, verbal, or emotional - including online behaviour within closed groups. Formal disciplinary procedures apply - including for students who witnessed behaviour and did nothing.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the distinctive Year 2 addition to zero tolerance, according to the deck?",
+        "options": [
+          "It no longer applies",
+          "Allowing it to happen makes you part of it - disciplinary procedures can include bystanders",
+          "It only applies online",
+          "It is optional"
+        ],
+        "answerIndex": 1,
+        "explanation": "In Year 2, allowing it to happen makes you part of it. Formal disciplinary procedures apply - including for students who witnessed behaviour and did nothing."
+      }
+    },
+    {
+      "title": "How to report a concern",
+      "content": "In Year 2, reporting isn't just an option - it's part of your responsibility. Tell Your Teacher: still the fastest route. Your teacher can act immediately, make a referral, or escalate. Don't assume someone else has already reported it. Formal Reporting System: ESCG has a formal process for reporting concerns about discrimination, harassment, bullying or abuse. The formal route creates a documented record that protects everyone. Anonymous Reporting: you can report without giving your name - and it will still be investigated. In Year 2, social pressure to stay quiet is real. Anonymous reporting exists precisely for that.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe the anonymous reporting route?",
+        "options": [
+          "It is not available to students",
+          "You can report without giving your name - and it will still be investigated",
+          "It only works for safeguarding concerns",
+          "It is slower than telling your teacher"
+        ],
+        "answerIndex": 1,
+        "explanation": "You can report without giving your name - and it will still be investigated."
+      }
+    },
+    {
+      "title": "Your commitment - one you'll do, one you'll challenge",
+      "content": "Pick one from each column. Your tutor keeps the card and may check in with you. I will... (1) Actively challenge a group dynamic I've been letting slide since Year 1. (2) Review my online presence and make sure it reflects the professional I'm becoming. (3) Find out where to report a concern and use that route if I need to. (4) If I'm worried about myself or someone else, I'll speak to my tutor or the safeguarding team. I will challenge... A) A joke or comment that's become normalised in my group but that I know isn't acceptable. B) A situation where someone is being excluded or treated badly - even if everyone else ignores it. C) Behaviour in a group chat or online space that wouldn't be acceptable face-to-face. D) The assumption that because we've been together a year, anything goes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Familiarity Creates Risk'? Select all that apply.",
+        "options": [
+          "Poor behaviour can become normalised",
+          "Inappropriate jokes may be accepted",
+          "Exclusion may be overlooked",
+          "Standards can slip"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Familiarity Creates Risk."
+      }
+    }
+  ]
+}

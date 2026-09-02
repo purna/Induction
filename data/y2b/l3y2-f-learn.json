@@ -1,0 +1,233 @@
+{
+  "section": "l3y2-f",
+  "level": "l3",
+  "year": "y2",
+  "module": "F",
+  "title": "Staying Safe at College",
+  "slides": [
+    {
+      "title": "The Biggest Year 2 Risk Is Complacency",
+      "content": "Students already know the systems. The risk is: Assuming problems are fine. Not reporting concerns. Becoming casual about safety. Thinking support is no longer needed. \"Don't fumble the last lap.\"",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Biggest Year 2 Risk Is Complacency'? Select all that apply.",
+        "options": [
+          "Assuming problems are fine",
+          "Not reporting concerns",
+          "Becoming casual about safety",
+          "Thinking support is no longer needed"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Biggest Year 2 Risk Is Complacency."
+      }
+    },
+    {
+      "title": "Year 2 Pressures Are Different",
+      "content": "Common Year 2 pressures include: Final Major Projects. UCAS and progression applications. Industry placements. Financial pressures. Relationships. Freelance work. These pressures can increase safeguarding risks.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Pressures Are Different'? Select all that apply.",
+        "options": [
+          "Final Major Projects",
+          "UCAS and progression applications",
+          "Industry placements",
+          "Financial pressures"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Pressures Are Different."
+      }
+    },
+    {
+      "title": "Safeguarding Still Matters",
+      "content": "Nothing has changed about: Access to safeguarding support. Access to wellbeing services. Reporting routes. Staff responsibilities. Many Year 2 students need support but use it less often.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Safeguarding Still Matters'? Select all that apply.",
+        "options": [
+          "Access to safeguarding support",
+          "Access to wellbeing services",
+          "Reporting routes",
+          "Staff responsibilities"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Safeguarding Still Matters."
+      }
+    },
+    {
+      "title": "Peer Responsibility Becomes More Important",
+      "content": "By Year 2: You know your peers. You recognise changes in behaviour. You spot concerns earlier. That knowledge is a responsibility. If someone appears to be struggling, encourage them to seek support or raise a concern.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Peer Responsibility Becomes More Important'? Select all that apply.",
+        "options": [
+          "You know your peers",
+          "You recognise changes in behaviour",
+          "You spot concerns earlier"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Peer Responsibility Becomes More Important."
+      }
+    },
+    {
+      "title": "New Online Risks",
+      "content": "Year 2 brings: Job scams. Fake freelance opportunities. Fake agency offers. Exploitative contracts. Greater public visibility through portfolios. Professional identity becomes more important.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'New Online Risks'? Select all that apply.",
+        "options": [
+          "Job scams",
+          "Fake freelance opportunities",
+          "Fake agency offers",
+          "Exploitative contracts"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on New Online Risks."
+      }
+    },
+    {
+      "title": "AI Rules Matter More",
+      "content": "Year 2 assessed work receives greater scrutiny. Examples include: Final Major Projects. Occupational Specialism Projects. Major coursework. Externally moderated assessments. Students must understand and follow AI declaration requirements.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'AI Rules Matter More'? Select all that apply.",
+        "options": [
+          "Final Major Projects",
+          "Occupational Specialism Projects",
+          "Major coursework",
+          "Externally moderated assessments"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on AI Rules Matter More."
+      }
+    },
+    {
+      "title": "Consent Matters",
+      "content": "A key Year 2 reminder: Always obtain proper consent when: Filming people. Photographing people. Sharing media. Familiarity is not permission. Friends still deserve consent.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Consent Matters'? Select all that apply.",
+        "options": [
+          "Filming people",
+          "Photographing people",
+          "Sharing media"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Consent Matters."
+      }
+    },
+    {
+      "title": "Reporting Concerns Is Still Essential",
+      "content": "Many Year 2 students avoid reporting concerns because they think they should manage independently. This is a mistake. The correct action is still: Tell someone early. Seek support. Use safeguarding and wellbeing routes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Reporting Concerns Is Still Essential'? Select all that apply.",
+        "options": [
+          "Tell someone early",
+          "Seek support",
+          "Use safeguarding and wellbeing routes"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Reporting Concerns Is Still Essential."
+      }
+    },
+    {
+      "title": "Professional Reputation Matters",
+      "content": "Your digital footprint now affects: University applications. Placement opportunities. Employment prospects. Professional reputation. Your online presence is part of your professional identity.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Professional Reputation Matters'? Select all that apply.",
+        "options": [
+          "University applications",
+          "Placement opportunities",
+          "Employment prospects",
+          "Professional reputation"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Professional Reputation Matters."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Avoid complacency Manage increased pressures appropriately Look out for peers Protect your professional reputation Follow stricter AI requirements Continue reporting concerns and seeking support when needed. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Avoid complacency",
+          "Manage increased pressures appropriately",
+          "Look out for peers",
+          "Protect your professional reputation"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

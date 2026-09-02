@@ -1,0 +1,176 @@
+{
+  "section": "l3y2-g",
+  "level": "l3",
+  "year": "y2",
+  "module": "G",
+  "title": "Looking After Myself",
+  "slides": [
+    {
+      "title": "Why this session now",
+      "content": "Year 2 Digital Media, Film and Computing asks more of you. Same tools, same doors - higher stakes. About 90 minutes. Group 2: Safeguarding, Wellbeing & Respect. Today isn't a lecture about eating vegetables. It's ninety minutes on the things that actually decide whether this year goes well - sleep, stress, money, and knowing where the doors are when something's getting in the way. Some of it you'll already know. Some of it you'll be glad you heard now rather than in January.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the framing of this Year 2 wellbeing session, according to the deck?",
+        "options": [
+          "It's a lecture about eating vegetables",
+          "It's ninety minutes on the things that actually decide whether this year goes well - sleep, stress, money, and knowing where the doors are",
+          "It's a new-starter welcome",
+          "It's a placement briefing"
+        ],
+        "answerIndex": 1,
+        "explanation": "It's ninety minutes on the things that actually decide whether this year goes well - sleep, stress, money, and knowing where the doors are."
+      }
+    },
+    {
+      "title": "Three weeks in - the settled check-in",
+      "content": "In pairs or threes. The real answer, not the polite one. What's easier this year? You know the building, the people, the drill. What's heavier this year? Workload, expectations, placements - the fact that everything counts now. The Final Major Project or Employer Set Project building alongside ongoing unit deadlines. Industry placements requiring professional-standard work at the same time as coursework submissions. What did last year teach you about you? How you handle pressure, what your warning signs are, what helped. Nothing said here gets graded - this is a check-in, not an assessment.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what is one thing that is 'heavier' in Year 2?",
+        "options": [
+          "Uniform requirements",
+          "Workload, expectations, placements - the fact that everything counts now. FMP or ESP building alongside ongoing unit deadlines, and industry placements requiring professional-standard work at the same time as coursework submissions",
+          "Travelling to college",
+          "Fewer deadlines"
+        ],
+        "answerIndex": 1,
+        "explanation": "Workload, expectations, placements - the fact that everything counts now. FMP or ESP building alongside ongoing unit deadlines."
+      }
+    },
+    {
+      "title": "Mental health is health",
+      "content": "Everyone is somewhere on this line - and everyone moves along it. Thriving / Coping / Struggling / In crisis. You watched this line move last year - both ways. Year 2 is when workload peaks: the Final Major Project or Employer Set Project, the portfolio deadline, and the industry placement log - often arriving in the same window. Plan for it now. What moves it - in both directions: sleep, money, people, workload, home life, movement. At ESCG, mental health is a normal topic of conversation. Saying 'I'm struggling' is information, not weakness - and we can only work with what we know.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe the line between mental health states?",
+        "options": [
+          "Fixed for life",
+          "Everyone is somewhere on this line and everyone moves along it - in both directions",
+          "Only people with diagnosed conditions are on it",
+          "It is a private matter, never to be discussed"
+        ],
+        "answerIndex": 1,
+        "explanation": "Everyone is somewhere on this line and everyone moves along it - in both directions."
+      }
+    },
+    {
+      "title": "Stress - what it looks like, what works",
+      "content": "What it looks like: can't switch off - or can't get started; sleep shifts - too little, or hiding in it; short fuse with people you actually like; avoiding the exact thing causing it - not opening the Final Major Project document because the scale of it is paralysing, or skipping a production session because Year 2 feels like exactly the wrong time to admit a technical gap. Common Year 2 triggers: final-year workload, placements, everything counting towards the grade, paid work, money, home. What the evidence says actually works: Move (regular physical activity - a walk counts); Connect (time with people, in person); Sleep (it's the next slide); Talk (naming it to someone halves its size - every time). None of this is a personality upgrade. It's maintenance - the same as eating and washing. Stress in small doses is normal and useful. It's when it stops switching off that it costs you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which is one of the four 'what actually works' moves the deck recommends for stress?",
+        "options": [
+          "Move - regular physical activity, a walk counts",
+          "Buy more equipment",
+          "Hide from the problem",
+          "Work through the night"
+        ],
+        "answerIndex": 0,
+        "explanation": "Move - regular physical activity, a walk counts - is one of the four highest-return moves."
+      }
+    },
+    {
+      "title": "Sleep - the study tool most students ignore",
+      "content": "Memory is built while you sleep. Revision without sleep is pouring water into a cracked jug - the consolidation never happens. The Final Major Project direction decided at midnight looks completely different in the morning. Concentration and focus are the first things to go. A tired brain reads the FMP brief and can't connect the work it requires. Everything feels worse tired. What's in your control: anchor your wake time (same time every day - including one weekend day); screens down, or out of reach (charge the phone across the room); nothing caffeinated after mid-afternoon (energy drinks included - caffeine hangs around for hours). Sleep hygiene - the routines and conditions that make good sleep likely. Real lives are messy - shared rooms, evening shifts, caring for someone. Control what you can. And if life makes sleep genuinely impossible, tell your tutor - it changes how we support you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the 'sleep hygiene' definition the deck gives?",
+        "options": [
+          "Washing your face before bed",
+          "The routines and conditions that make good sleep likely",
+          "Going to bed early every night",
+          "Taking sleeping pills"
+        ],
+        "answerIndex": 1,
+        "explanation": "Sleep hygiene - the routines and conditions that make good sleep likely. That's all the term means."
+      }
+    },
+    {
+      "title": "Money pressure is a wellbeing issue",
+      "content": "Financial stress and mental health are directly linked. Worry about money makes everything else on today's list harder - sleep, concentration, mood, showing up. It's also one of the most common pressures students carry silently, because it feels embarrassing. It shouldn't. It's circumstance, not character. The Hardship Fund: emergency financial support for students - travel, food, equipment, sudden changes at home. Asking is confidential, and far more common than you'd think. Money worries are a reason to talk to us - not a reason to disappear.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck frame financial stress?",
+        "options": [
+          "It's a personal failing",
+          "It's circumstance, not character - and it makes everything else on the list harder (sleep, concentration, mood, showing up)",
+          "It's the easiest problem to fix alone",
+          "It's not a college matter"
+        ],
+        "answerIndex": 1,
+        "explanation": "It's circumstance, not character. Worry about money makes everything else on today's list harder."
+      }
+    },
+    {
+      "title": "Support - the Year 2 paradox",
+      "content": "The Year 2 paradox: the year people most need support is the year they stop going. The door works exactly like it did last year. Needing support on the Final Major Project or the Employer Set Project is not a sign you shouldn't be here - every professional creative has mentors, directors, peer reviewers and editors. Using support in Year 2 is exactly what the industry does. Three steps, no drama: (1) Say something - to your tutor, a teacher you trust, or straight to the Wellbeing Team. Any door works. (2) Referral - quick and straightforward, and you stay in the loop the whole way. (3) Support arranged - matched to what you actually need. Tell us what we need to know: a disability, a mental health condition, a learning need - or anything that changed over the summer. Year 2 support builds on what we already know. Telling us now, not in March, means exam access and adjustments are in place when the pressure actually arrives.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the 'Year 2 paradox' the deck names?",
+        "options": [
+          "The year people most need support is the year they stop going",
+          "Year 2 has no support",
+          "Tutors forget Year 2 students",
+          "Year 2 students are better off without support"
+        ],
+        "answerIndex": 0,
+        "explanation": "The year people most need support is the year they stop going. The door works exactly like it did last year."
+      }
+    },
+    {
+      "title": "Look out for each other - Encourage Unity in practice",
+      "content": "Notice: you've known each other a year - you'll notice first. Going quiet, dropping things, missed sessions. The person whose Final Major Project has stalled but who keeps saying it's fine. The one who stops turning up to production sessions and submits work that shows the gap. The one who has gone quiet about where they're heading after this year. Ask: 'You alright? Actually alright?' Then listen to the answer. Tell someone: a tutor or the Wellbeing Team. That's not breaking trust - it's getting help you can't give alone. If a friend tells you something serious and asks you to keep it secret: you can be loyal and still tell someone. Those aren't opposites. KEEP THESE: Samaritans 116 123 (free, 24/7, any problem, any size); MIND 0300 123 3393 / mind.org.uk; iRock (drop-in support for young people in East Sussex); TogetherAll (free, anonymous online support community); local crisis line (campus-specific).",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which three-step sequence does the deck recommend for looking out for each other?",
+        "options": [
+          "Notice, Ask, Tell someone",
+          "Watch, Wait, Walk away",
+          "Post, Tag, Share",
+          "Listen, Judge, Decide"
+        ],
+        "answerIndex": 0,
+        "explanation": "Notice, Ask, Tell someone - that is the Encourage Unity in practice sequence."
+      }
+    },
+    {
+      "title": "One thing - your commitment for the week",
+      "content": "Write one specific thing you'll try this week. Not three. One. (1) Sleep - I'll anchor my wake time, same time every day, including one weekend day. (2) Pressure valve - I'll put one deliberate thing in my week that isn't work - movement, mates, or proper downtime. (3) Contacts - I'll re-save the support numbers and remind myself where the Wellbeing Team's door is. (4) Talk - I'll tell my tutor or the Wellbeing Team about something that's getting in the way. Your tutor keeps these and will check in on them. Choosing option 4 means someone follows up with you this week - quietly, and properly.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Heavier'? Select all that apply.",
+        "options": [
+          "Final Major Projects",
+          "Employer Set Projects",
+          "Coursework",
+          "Industry placements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Heavier."
+      }
+    }
+  ]
+}

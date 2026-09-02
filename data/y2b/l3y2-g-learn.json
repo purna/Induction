@@ -1,0 +1,234 @@
+{
+  "section": "l3y2-g",
+  "level": "l3",
+  "year": "y2",
+  "module": "G",
+  "title": "Looking After Myself",
+  "slides": [
+    {
+      "title": "Year 2 Is Heavier",
+      "content": "Common Year 2 pressures include: Final Major Projects. Employer Set Projects. Coursework. Industry placements. Progression plans. Future career decisions. The workload is expected to feel heavier than Year 1.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Heavier'? Select all that apply.",
+        "options": [
+          "Final Major Projects",
+          "Employer Set Projects",
+          "Coursework",
+          "Industry placements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Heavier."
+      }
+    },
+    {
+      "title": "Mental Health Still Moves",
+      "content": "The same wellbeing spectrum applies: Thriving Coping Struggling In Crisis The difference is that Year 2 students have already seen how their wellbeing changes under pressure. Recognising your own warning signs is important.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Mental Health Still Moves'? Select all that apply.",
+        "options": [
+          "Thriving",
+          "Coping",
+          "Struggling",
+          "In Crisis"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Mental Health Still Moves."
+      }
+    },
+    {
+      "title": "Stress Often Looks Like Avoidance",
+      "content": "Examples include: Avoiding Final Major Project work. Delaying difficult tasks. Avoiding production sessions. Ignoring skill gaps. Putting off important decisions. Stress becomes more harmful when it remains switched on continuously.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Stress Often Looks Like Avoidance'? Select all that apply.",
+        "options": [
+          "Avoiding Final Major Project work",
+          "Delaying difficult tasks",
+          "Avoiding production sessions",
+          "Ignoring skill gaps"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Stress Often Looks Like Avoidance."
+      }
+    },
+    {
+      "title": "The Same Four Solutions Still Work",
+      "content": "The evidence remains the same: Move. Connect. Sleep. Talk. These are maintenance habits, not personality traits.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Same Four Solutions Still Work'? Select all that apply.",
+        "options": [
+          "Move",
+          "Connect",
+          "Sleep",
+          "Talk"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Same Four Solutions Still Work."
+      }
+    },
+    {
+      "title": "Sleep Matters More Than Students Think",
+      "content": "A tired brain: Learns less effectively. Makes poorer decisions. Finds projects harder. Experiences stronger emotions. Sleep directly supports final-year success.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Sleep Matters More Than Students Think'? Select all that apply.",
+        "options": [
+          "Learns less effectively",
+          "Makes poorer decisions",
+          "Finds projects harder",
+          "Experiences stronger emotions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Sleep Matters More Than Students Think."
+      }
+    },
+    {
+      "title": "The Year 2 Support Paradox",
+      "content": "A common problem: The year students most need support is often the year they stop using it. Many Year 2 students feel they should already be able to cope independently. This is often the wrong assumption.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'The Year 2 Support Paradox'?",
+        "options": [
+          "It is only assessed in exams",
+          "A common problem: The year students most need support is often the year they stop using it",
+          "It applies only to certain students",
+          "It is optional and not required"
+        ],
+        "answerIndex": 1,
+        "explanation": "A common problem: The year students most need support is often the year they stop using it"
+      }
+    },
+    {
+      "title": "Tell College About Changes",
+      "content": "If anything has changed since Year 1, such as: Health. Home circumstances. Mental health. Learning support needs. Tell the college early so support can be adjusted.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Tell College About Changes'? Select all that apply.",
+        "options": [
+          "Health",
+          "Home circumstances",
+          "Mental health",
+          "Learning support needs"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Tell College About Changes."
+      }
+    },
+    {
+      "title": "Peer Responsibility Matters More",
+      "content": "Year 2 students know each other better. You are often the first person to notice: Withdrawal. Missed sessions. Changes in behaviour. Falling behind. Isolation. Notice, Ask, Tell remains the correct approach.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Peer Responsibility Matters More'? Select all that apply.",
+        "options": [
+          "Withdrawal",
+          "Missed sessions",
+          "Changes in behaviour",
+          "Falling behind"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Peer Responsibility Matters More."
+      }
+    },
+    {
+      "title": "Strong Finishes Need Early Support",
+      "content": "Students who seek support early are more likely to: Complete projects successfully. Address technical gaps. Manage workload effectively. Meet deadlines. Waiting until the end of the year often creates avoidable problems.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Strong Finishes Need Early Support'? Select all that apply.",
+        "options": [
+          "Complete projects successfully",
+          "Address technical gaps",
+          "Manage workload effectively",
+          "Meet deadlines"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Strong Finishes Need Early Support."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Expect increased pressure Recognise your warning signs Avoid the trap of coping alone Continue using support services Look out for peers Seek help early to finish strongly. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Expect increased pressure",
+          "Recognise your warning signs",
+          "Avoid the trap of coping alone",
+          "Continue using support services"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "section": "l3y1-c",
+  "level": "l3",
+  "year": "y1",
+  "module": "C",
+  "title": "Health & Safety",
+  "slides": [
+    {
+      "title": "Health & Safety Starts with Noticing",
+      "content": "Most accidents do not happen because someone deliberately breaks the rules. They happen because people stop noticing: Hazards become \"normal\". People are rushing. People are distracted. People do not want to make a fuss. Good safety starts by paying attention to your surroundings.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Health & Safety Starts with Noticing'? Select all that apply.",
+        "options": [
+          "Hazards become \"normal\"",
+          "People are rushing",
+          "People are distracted",
+          "People do not want to make a fuss"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Health & Safety Starts with Noticing."
+      }
+    },
+    {
+      "title": "What Switches Noticing Off",
+      "content": "Common causes include: Rushing. Thinking \"it's always been like that.\" Phones and other distractions. Not wanting to speak up. Good habits include: Asking \"Is this normal?\" Saying concerns out loud. Treating near misses as learning opportunities.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'What Switches Noticing Off'?",
+        "options": [
+          "Rushing",
+          "People are distracted",
+          "Hazards become \"normal\"",
+          "People are rushing"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is a key point from the section on What Switches Noticing Off."
+      }
+    },
+    {
+      "title": "Safety Basics Everyone Must Know",
+      "content": "You should know: Your fire exit route. Your assembly point. Who to tell if something is wrong. That walkways and fire exits must stay clear. PPE rules must always be followed when required.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Safety Basics Everyone Must Know'? Select all that apply.",
+        "options": [
+          "Your fire exit route",
+          "Your assembly point",
+          "Who to tell if something is wrong",
+          "That walkways and fire exits must stay clear"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Safety Basics Everyone Must Know."
+      }
+    },
+    {
+      "title": "Reporting Problems Is Part of Safety",
+      "content": "Tell your teacher if you notice: Hazards. Near misses. Damaged equipment. Facilities issues. Something unsafe. Reporting is not making a fuss. It is helping keep everyone safe.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Reporting Problems Is Part of Safety'? Select all that apply.",
+        "options": [
+          "Hazards",
+          "Near misses",
+          "Damaged equipment",
+          "Facilities issues"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Reporting Problems Is Part of Safety."
+      }
+    },
+    {
+      "title": "Show Respect",
+      "content": "Health and safety is linked to the PROUD value of Show Respect. Respect means: For the Space: Tidy up. Report damage. Leave things as you found them. For Other People: Do not interfere with their equipment. Do not create unnecessary risks. For Staff: Respect safety decisions and instructions.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Show Respect'? Select all that apply.",
+        "options": [
+          "Tidy up",
+          "Report damage",
+          "Leave things as you found them",
+          "Do not interfere with their equipment"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Show Respect."
+      }
+    },
+    {
+      "title": "Media & Studio Safety",
+      "content": "Important subject-specific rules include: Closed-toe shoes in studios. Use sandbags on lighting stands. Use camera wrist straps. Secure tripods correctly. Store cables properly. Complete risk assessments before location shoots. Return equipment after use. These are industry-standard expectations.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Media & Studio Safety'?",
+        "options": [
+          "People are distracted",
+          "Hazards become \"normal\"",
+          "Closed-toe shoes in studios",
+          "People are rushing"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Media & Studio Safety."
+      }
+    },
+    {
+      "title": "Responsibility Is Shared",
+      "content": "Your responsibilities include: Using equipment safely. Returning equipment. Reporting faults. Following procedures. College responsibilities include: Equipment testing. Building maintenance. Electrical safety. Health and safety systems.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Responsibility Is Shared'?",
+        "options": [
+          "Using equipment safely",
+          "Hazards become \"normal\"",
+          "People are distracted",
+          "People are rushing"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is a key point from the section on Responsibility Is Shared."
+      }
+    },
+    {
+      "title": "If Something Feels Unsafe",
+      "content": "Safety is not only about physical hazards. You should speak up if: A space feels unsafe. An activity feels unsafe. Someone's behaviour makes you uncomfortable. Tell someone early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'If Something Feels Unsafe'? Select all that apply.",
+        "options": [
+          "A space feels unsafe",
+          "An activity feels unsafe",
+          "Someone's behaviour makes you uncomfortable"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on If Something Feels Unsafe."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Safety starts with noticing Report hazards early Respect people, spaces and equipment Follow studio safety procedures Know evacuation and reporting processes",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Safety starts with noticing",
+          "Report hazards early",
+          "Respect people, spaces and equipment",
+          "Follow studio safety procedures"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y1-j",
+    "level": "l3",
+    "year": "y1",
+    "module": "J",
+    "variant": "B",
+    "title": "Work Experience"
+  },
+  "questions": [
+    {
+      "id": "l3y1-j-B01",
+      "type": "scored",
+      "prompt": "Work experience is:",
+      "options": [
+        "Extra homework",
+        "Part of your training",
+        "Optional",
+        "A holiday"
+      ],
+      "answerIndex": 1,
+      "explanation": "Part of your training"
+    },
+    {
+      "id": "l3y1-j-B02",
+      "type": "scored",
+      "prompt": "Which is NOT a work experience option?",
+      "options": [
+        "Block placement",
+        "Exam revision",
+        "Industry partnership",
+        "Volunteering"
+      ],
+      "answerIndex": 1,
+      "explanation": "Exam revision"
+    },
+    {
+      "id": "l3y1-j-B03",
+      "type": "scored",
+      "prompt": "What platform is used to request placements?",
+      "options": [
+        "Teams",
+        "Moodle",
+        "Navigate",
+        "Outlook"
+      ],
+      "answerIndex": 2,
+      "explanation": "Navigate"
+    },
+    {
+      "id": "l3y1-j-B04",
+      "type": "scored",
+      "prompt": "Why must placements be requested early?",
+      "options": [
+        "To allow employer checks",
+        "To create assessments",
+        "To increase coursework",
+        "To reduce workload"
+      ],
+      "answerIndex": 0,
+      "explanation": "To allow employer checks"
+    },
+    {
+      "id": "l3y1-j-B05",
+      "type": "scored",
+      "prompt": "What should you do if a placement concern arises?",
+      "options": [
+        "Ignore it",
+        "Tell Careers or your tutor",
+        "Wait until Skills Week",
+        "Leave immediately"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tell Careers or your tutor"
+    },
+    {
+      "id": "l3y1-j-B06",
+      "type": "scored",
+      "prompt": "Which behaviour is expected on placement?",
+      "options": [
+        "Punctuality",
+        "Poor communication",
+        "Missing hours",
+        "Ignoring dress codes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Punctuality"
+    },
+    {
+      "id": "l3y1-j-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Key Dates'? Select all that apply.",
+      "options": [
+        "**Skills Week:** 8 March 2027",
+        "**Placement Request Deadline:** 5 February 2027",
+        "Health and safety checks",
+        "Insurance checks"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Key Dates."
+    },
+    {
+      "id": "l3y1-j-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Help Is Available'? Select all that apply.",
+      "options": [
+        "Contact Careers & Employability",
+        "Speak to your tutor",
+        "Ask for help early if a placement is not progressing"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are part of Help Is Available."
+    }
+  ]
+}

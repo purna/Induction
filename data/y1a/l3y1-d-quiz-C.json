@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "section": "l3y1-d",
+    "level": "l3",
+    "year": "y1",
+    "module": "D",
+    "title": "Students' Voice & Student Rep Elections",
+    "note": "Content sourced from the Year 2 / L3 variant of this deck (see SOURCE_OF_TRUTH note in the PowerPoint's teacher appendix). Swap when a true Year 1 deck is provided.",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-d-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What is Students' Voice?'? Select all that apply.",
+      "options": [
+        "Teaching and learning",
+        "Student experience",
+        "College facilities",
+        "Equipment and software"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What is Students' Voice?."
+    },
+    {
+      "id": "l3y1-d-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Makes Students' Voice Effective?'? Select all that apply.",
+      "options": [
+        "Reps consult their group",
+        "Feedback is specific",
+        "Students raise issues before meetings",
+        "People follow up on agreed actions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Makes Students' Voice Effective?."
+    },
+    {
+      "id": "l3y1-d-C03",
+      "type": "scored",
+      "prompt": "What is the eligibility requirement to apply for Student Governor?",
+      "options": [
+        "Any current student, in any year",
+        "Students planning to study at ESCG for at least one more year",
+        "Only Year 1 students",
+        "Only students with a UCAS offer"
+      ],
+      "answerIndex": 1,
+      "explanation": "You must be planning to study at ESCG for at least one more year."
+    },
+    {
+      "id": "l3y1-d-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Does a Student Rep Do?'? Select all that apply.",
+      "options": [
+        "Gathers student opinions",
+        "Attends Student Council meetings",
+        "Gives feedback about teaching and facilities",
+        "Helps find solutions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Does a Student Rep Do?."
+    },
+    {
+      "id": "l3y1-d-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Why Become a Student Rep?'? Select all that apply.",
+      "options": [
+        "Communication skills",
+        "Leadership skills",
+        "Problem-solving",
+        "Professional conduct"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Why Become a Student Rep?."
+    },
+    {
+      "id": "l3y1-d-C06",
+      "type": "multi",
+      "prompt": "Which are stages of the Governor application process, in order? Select all that apply.",
+      "options": [
+        "Submit online nomination form by midday, Fri 16 October",
+        "Informal conversation about your interest (2-5 November)",
+        "Student ballot if more candidates than places (9-23 November)",
+        "Committee recommendation 24 November; Board appointment 14 December"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the stages of the Governor application process."
+    },
+    {
+      "id": "l3y1-d-C07",
+      "type": "scored",
+      "prompt": "Which phrase from the deck captures the Encourage Unity message?",
+      "options": [
+        "'Only senior staff get to decide.'",
+        "'One person's complaint is an opinion. A group saying the same thing is evidence.'",
+        "'Always complain in writing.'",
+        "'Speak only through your tutor.'"
+      ],
+      "answerIndex": 1,
+      "explanation": "One person's complaint is an opinion. A group saying the same thing is evidence - and evidence is what changes decisions."
+    },
+    {
+      "id": "l3y1-d-C08",
+      "type": "scored",
+      "prompt": "Which commitment is described as 'genuinely CV-worthy at this level'?",
+      "options": [
+        "Attending Student Council meetings",
+        "Standing as a Student Governor",
+        "Filling in the Induction Survey",
+        "Joining the TOTUM discount scheme"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Student Governor role is described as 'exceptional leadership experience - genuinely CV-worthy at this level'."
+    }
+  ]
+}

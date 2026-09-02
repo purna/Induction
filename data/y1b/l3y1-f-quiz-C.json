@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "section": "l3y1-f",
+    "level": "l3",
+    "year": "y1",
+    "module": "F",
+    "variant": "C",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "id": "l3y1-f-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Safeguarding Means'? Select all that apply.",
+      "options": [
+        "Protecting students from harm",
+        "Preventing abuse, exploitation and neglect",
+        "Supporting wellbeing and mental health",
+        "Making sure concerns can be raised and acted upon"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Safeguarding Means."
+    },
+    {
+      "id": "l3y1-f-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'College Is Different from School'? Select all that apply.",
+      "options": [
+        "You have more independence",
+        "You make more of your own decisions",
+        "Staff monitor less directly",
+        "You can self-refer for support"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on College Is Different from School."
+    },
+    {
+      "id": "l3y1-f-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Prevent Is'? Select all that apply.",
+      "options": [
+        "Radicalisation",
+        "Extremism",
+        "Terrorism"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on What Prevent Is."
+    },
+    {
+      "id": "l3y1-f-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Vulnerability Factors'? Select all that apply.",
+      "options": [
+        "Isolated",
+        "Looking for belonging",
+        "Struggling with identity",
+        "Angry or frustrated"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Vulnerability Factors."
+    },
+    {
+      "id": "l3y1-f-C05",
+      "type": "scored",
+      "prompt": "What is a key point about 'AI and Academic Integrity'?",
+      "options": [
+        "Submit AI-generated work as your own",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "Submit AI-generated work as your own"
+    },
+    {
+      "id": "l3y1-f-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'AI and Data Protection'? Select all that apply.",
+      "options": [
+        "Personal details",
+        "Student information",
+        "Staff details",
+        "Confidential college information"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on AI and Data Protection."
+    },
+    {
+      "id": "l3y1-f-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'How to Report Concerns'?",
+      "options": [
+        "It is optional and not required",
+        "Tell a trusted member of staff",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tell a trusted member of staff"
+    },
+    {
+      "id": "l3y1-f-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'How ESCG Responds to Concerns'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "The safeguarding process is: 1",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "The safeguarding process is: 1"
+    }
+  ]
+}

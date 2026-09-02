@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "section": "l3y1-a",
+    "level": "l3",
+    "year": "y1",
+    "module": "A",
+    "variant": "C",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y1-a-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Belonging Matters'? Select all that apply.",
+      "options": [
+        "You know people in your group",
+        "You feel comfortable asking questions",
+        "You have staff you can approach",
+        "You build positive connections early"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Belonging Matters."
+    },
+    {
+      "id": "l3y1-a-C02",
+      "type": "scored",
+      "prompt": "What is a key point about 'Your Teachers Are Here to Help'?",
+      "options": [
+        "Know your name",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "Know your name"
+    },
+    {
+      "id": "l3y1-a-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Learn to Use Pro Portal'? Select all that apply.",
+      "options": [
+        "Access your timetable",
+        "Check room changes",
+        "Read messages",
+        "View attendance"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Learn to Use Pro Portal."
+    },
+    {
+      "id": "l3y1-a-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'It Is Normal to Have Worries'? Select all that apply.",
+      "options": [
+        "Workload",
+        "New software",
+        "Meeting people",
+        "Confidence"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on It Is Normal to Have Worries."
+    },
+    {
+      "id": "l3y1-a-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Support Exists'? Select all that apply.",
+      "options": [
+        "Learning support",
+        "Mental health and wellbeing support",
+        "Financial support",
+        "Careers advice"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Support Exists."
+    },
+    {
+      "id": "l3y1-a-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'College Is More Than Lessons'? Select all that apply.",
+      "options": [
+        "Clubs",
+        "Societies",
+        "Trips",
+        "Competitions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on College Is More Than Lessons."
+    },
+    {
+      "id": "l3y1-a-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Reflection Matters'?",
+      "options": [
+        "What they are looking forward to",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "What they are looking forward to"
+    },
+    {
+      "id": "l3y1-a-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Reflection Matters'?",
+      "options": [
+        "It is optional and not required",
+        "Students should think about: What they are looking forward to",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Students should think about: What they are looking forward to"
+    }
+  ]
+}

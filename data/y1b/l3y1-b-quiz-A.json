@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-b",
+    "level": "l3",
+    "year": "y1",
+    "module": "B",
+    "variant": "A",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y1-b-A01",
+      "type": "scored",
+      "prompt": "What is the biggest difference between school and college?",
+      "options": [
+        "Less coursework",
+        "More homework",
+        "Shorter lessons",
+        "Greater personal responsibility"
+      ],
+      "answerIndex": 3,
+      "explanation": "Greater personal responsibility"
+    },
+    {
+      "id": "l3y1-b-A02",
+      "type": "scored",
+      "prompt": "What does the \"Long Fuse\" idea mean?",
+      "options": [
+        "Problems often appear much later",
+        "Consequences happen immediately",
+        "Deadlines are longer",
+        "Lessons are longer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Problems often appear much later"
+    },
+    {
+      "id": "l3y1-b-A03",
+      "type": "scored",
+      "prompt": "Which PROUD value is highlighted in Module B?",
+      "options": [
+        "Lead by Example",
+        "Seek Opportunity",
+        "Respect Others",
+        "Work Together"
+      ],
+      "answerIndex": 1,
+      "explanation": "Seek Opportunity"
+    },
+    {
+      "id": "l3y1-b-A04",
+      "type": "scored",
+      "prompt": "Confidence is mainly built through:",
+      "options": [
+        "Being naturally talented",
+        "Doing things that challenge you",
+        "Avoiding mistakes",
+        "Always succeeding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Doing things that challenge you"
+    },
+    {
+      "id": "l3y1-b-A05",
+      "type": "scored",
+      "prompt": "Which is NOT a valid attendance barrier?",
+      "options": [
+        "Mental health",
+        "Transport problems",
+        "Laziness",
+        "Family pressures"
+      ],
+      "answerIndex": 2,
+      "explanation": "Laziness"
+    },
+    {
+      "id": "l3y1-b-A06",
+      "type": "scored",
+      "prompt": "What should you do if attendance is becoming difficult?",
+      "options": [
+        "Miss more lessons",
+        "Tell someone early",
+        "Stay silent",
+        "Wait for someone to notice"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tell someone early"
+    },
+    {
+      "id": "l3y1-b-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'The Shift from School to College'?",
+      "options": [
+        "It is only assessed in exams",
+        "College is different because: Nobody chases missing work",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "College is different because: Nobody chases missing work"
+    },
+    {
+      "id": "l3y1-b-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'The \"Long Fuse\" Principle'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "A missed task today rarely causes an immediate problem",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "A missed task today rarely causes an immediate problem"
+    }
+  ]
+}

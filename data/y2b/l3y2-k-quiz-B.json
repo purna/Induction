@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y2-k",
+    "level": "l3",
+    "year": "y2",
+    "module": "K",
+    "variant": "B",
+    "title": "Progression Opportunities & Setting Goals"
+  },
+  "questions": [
+    {
+      "id": "l3y2-k-B01",
+      "type": "scored",
+      "prompt": "What is the major difference between Year 1 and Year 2 progression planning?",
+      "options": [
+        "Year 2 removes deadlines",
+        "Year 2 removes progression routes",
+        "Year 2 involves active applications",
+        "Year 2 removes planning"
+      ],
+      "answerIndex": 2,
+      "explanation": "Year 2 involves active applications"
+    },
+    {
+      "id": "l3y2-k-B02",
+      "type": "scored",
+      "prompt": "What should Navigate provide in Year 2?",
+      "options": [
+        "Only project titles",
+        "Only attendance data",
+        "Evidence for applications",
+        "Only grades"
+      ],
+      "answerIndex": 2,
+      "explanation": "Evidence for applications"
+    },
+    {
+      "id": "l3y2-k-B03",
+      "type": "scored",
+      "prompt": "What is the recommended planning strategy?",
+      "options": [
+        "Work forwards randomly",
+        "Wait until January",
+        "Avoid setting deadlines",
+        "Work backwards from results day"
+      ],
+      "answerIndex": 3,
+      "explanation": "Work backwards from results day"
+    },
+    {
+      "id": "l3y2-k-B04",
+      "type": "scored",
+      "prompt": "What is a strong Year 2 goal?",
+      "options": [
+        "\"Think about applications.\"",
+        "\"Try harder.\"",
+        "\"Do better.\"",
+        "\"Submit my UCAS application before Christmas.\""
+      ],
+      "answerIndex": 3,
+      "explanation": "\"Submit my UCAS application before Christmas.\""
+    },
+    {
+      "id": "l3y2-k-B05",
+      "type": "scored",
+      "prompt": "If your chosen route seems wrong, you should:",
+      "options": [
+        "Ignore it",
+        "Drop out immediately",
+        "Wait until summer",
+        "Have the conversation now"
+      ],
+      "answerIndex": 3,
+      "explanation": "Have the conversation now"
+    },
+    {
+      "id": "l3y2-k-B06",
+      "type": "scored",
+      "prompt": "What is the main message of the final year?",
+      "options": [
+        "Early action creates options",
+        "Relax and see what happens",
+        "Grades no longer matter",
+        "Applications can wait"
+      ],
+      "answerIndex": 0,
+      "explanation": "Early action creates options"
+    },
+    {
+      "id": "l3y2-k-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Goals Must Have Margin'? Select all that apply.",
+      "options": [
+        "Specific deadlines",
+        "Early completion targets",
+        "Clear first steps"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are part of Goals Must Have Margin."
+    },
+    {
+      "id": "l3y2-k-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'References Matter More Than Ever'? Select all that apply.",
+      "options": [
+        "References",
+        "Applications",
+        "Offers",
+        "Interviews"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of References Matter More Than Ever."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "section": "l3y2-d",
+  "level": "l3",
+  "year": "y2",
+  "module": "D",
+  "title": "Students' Voice & Student Rep Elections",
+  "slides": [
+    {
+      "title": "What this session is about - and what's new",
+      "content": "You've had a year of this department. Now decide what you do with what you know. About 100 minutes. PROUD value: Encourage Unity. New this year: this group elects TWO reps - one for their subject group, and one for their GCSE English or maths class. Both go on the central Student Rep Register today. L3 Y2: this is your last year. Don't fumble the last lap. You have enough institutional knowledge to stand for Rep or Governor with genuine credibility.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How many reps does this group elect today, according to the deck?",
+        "options": [
+          "One - the subject rep",
+          "Two - a subject rep and a GCSE English/maths rep",
+          "Three - subject, English, and maths",
+          "None - they're elected next term"
+        ],
+        "answerIndex": 1,
+        "explanation": "This group elects two reps - one for their subject group, and one for their GCSE English or maths class."
+      }
+    },
+    {
+      "title": "The session in eight beats",
+      "content": "Eight beats in around 100 minutes: (1) Check in - what did Students' Voice actually achieve? (10) (2) Students' Voice - what makes it work, and what doesn't (10) (3) Ways to get involved (10) (4) The Rep role (10) (5) The Governor role (15) (6) Encourage Unity (5) (7) Election (30-35) (8) Close. Today ends with an election.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Students Have Experience'? Select all that apply.",
+        "options": [
+          "Already experienced Students' Voice",
+          "Seen good and poor representation",
+          "Gained knowledge about how the college works"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Students Have Experience."
+      }
+    },
+    {
+      "title": "When Students' Voice works - and when it doesn't",
+      "content": "When it works: reps who actually consult their group - not just improvise at meetings; feedback that names the thing - 'coursework feedback arrives too late to act on' beats 'feedback is bad'; groups who tell their rep what matters - before the meeting, not after; students who follow up - checking the past papers appeared, or the darkroom hours actually changed. Collective voice is a shared responsibility - not just the rep's job. Outcomes: teaching & learning (curriculum and delivery shaped by what students report - how coursework and exam preparation are sequenced across Year 2); student experience (campus life improved by evidenced feedback - studio, darkroom and edit-suite access outside lessons); community; visible outcomes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which is an example of feedback that 'names the thing', according to the deck?",
+        "options": [
+          "'Feedback is bad'",
+          "'Coursework feedback arrives too late to act on'",
+          "'Things aren't great'",
+          "'It's all a bit rubbish'"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Coursework feedback arrives too late to act on' beats 'feedback is bad' - that's feedback that names the thing."
+      }
+    },
+    {
+      "title": "Four ways to get involved - and which one fits Year 2",
+      "content": "Student Rep - elected today. You also elect a rep for your GCSE English or maths class. Student Governor - 3 places on the Main Governing Board, where equipment, technician capacity and studio provision get decided. Applications close midday, Friday 16 October. NUS Membership - you're already a member. TOTUM card (£14.99/year) gives discounts across hundreds of retailers. Surveys & Forums - the Induction Survey opens 3 November. Three minutes - the place to say if coursework deadlines and UCAS are colliding.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are the 'ways to get involved' the deck lists? Select all that apply.",
+        "options": [
+          "Student Rep",
+          "Student Governor",
+          "NUS Membership (TOTUM card)",
+          "Surveys & Forums"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All four are ways to get involved - Student Rep, Student Governor, NUS Membership, and Surveys & Forums."
+      }
+    },
+    {
+      "title": "The Rep role - Year 2 advantage",
+      "content": "Year 2: familiarity is an advantage - if you use it. What reps do: gather and convey student opinions to college leadership; attend 3 Student Council meetings per year; provide feedback on teaching, and on studio, darkroom and edit-suite access; work with staff to develop solutions - not just present problems; keep the group informed after every meeting; represent this group in your GCSE English or maths class as well as your subject. Year 2 advantage: you know the staff, the meetings, and what actually moves things. Develops: communication, leadership, problem-solving, and employability skills. Rep training: Wednesday 14 October (all campuses) - mandatory for newly elected reps, even returners.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Makes Students' Voice Work?'? Select all that apply.",
+        "options": [
+          "Reps communicate with students",
+          "Feedback is evidence-based",
+          "Students engage with the process",
+          "Outcomes are followed up"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What Makes Students' Voice Work?."
+      }
+    },
+    {
+      "title": "The Student Governor role - if you're staying",
+      "content": "3 places on the Main Governing Board - strategic decisions about the whole college. Represent authentic student experience - what carrying a production alongside UCAS actually costs. Contribute to decisions on curriculum and budget - technician capacity, camera and darkroom provision, software licences. Exceptional leadership experience - genuinely CV-worthy. Different from Student Rep - strategic scope, institutional weight. Eligibility: full-time students and apprentices; planning to study at ESCG for at least one more year (Level 3 students progressing here qualify). A-level Y2: if you are not continuing at ESCG after this year, you will not be eligible to serve a full Governor term. Applications close at midday, Friday 16 October. Student Enrichment Co-ordinators: Eastbourne Chelsey King / Lewes Tessa Echalaz / Station Plaza & Ore Valley Paige Baker-Carroll.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the eligibility requirement to apply for Student Governor, according to the deck?",
+        "options": [
+          "Any current student, in any year",
+          "Students planning to study at ESCG for at least one more year - L3 students progressing here qualify",
+          "Only Year 1 students",
+          "Only students with a UCAS offer"
+        ],
+        "answerIndex": 1,
+        "explanation": "Planning to study at ESCG for at least one more year - L3 students progressing here qualify."
+      }
+    },
+    {
+      "title": "Governor commitment and how to apply",
+      "content": "Commitment: roughly 3-5 hours a month. 4 Board meetings a year (2-3 hours each), around 3 committee meetings, 2 strategy days, plus reading papers in advance. Real influence: termly reports to the Board on topics such as sustainability and green skills, AI, careers advice and College values - equipment and technician capacity belong on that list too. Support: induction with the Director of Governance, ongoing training, Governor portal and iPad, expenses reimbursed, annual 1:1 with the Chair. How to apply: (1) Online nomination form, deadline midday Friday 16 October. (2) Informal conversation 2-5 November. (3) Student ballot 9-23 November if more candidates than places. (4) Committee recommendation 24 November; formal Board appointment 14 December. Contact: Belle Howard, Director of Governance - Belle.Howard@escg.ac.uk.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Familiarity Is Both an Advantage and a Risk'? Select all that apply.",
+        "options": [
+          "You know staff",
+          "You know systems",
+          "You understand how decisions happen",
+          "Going through the motions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Familiarity Is Both an Advantage and a Risk."
+      }
+    },
+    {
+      "title": "Encourage Unity - your experience is only useful if you share it",
+      "content": "One person short of darkroom time is bad luck. A whole set short of it is evidence. Experience is only useful if you share it. Year 1 can't know how coursework and exam preparation collide in the spring - you do. A rep you helped choose is a rep who'll listen when you tell them what matters - like past-paper access before mocks, or edit time before a hand-in. The group that engages this year sets the standard for the one that comes after. Next year's Year 2 inherit whatever routine you leave behind.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe the difference between one person's experience and a group's view?",
+        "options": [
+          "Both are opinions",
+          "One is bad luck; a whole set short of it is evidence - and evidence is what changes decisions",
+          "A single experience always counts for more",
+          "Only written complaints count"
+        ],
+        "answerIndex": 1,
+        "explanation": "One person short of darkroom time is bad luck. A whole set short of it is evidence."
+      }
+    },
+    {
+      "title": "Election time - two seats, one session",
+      "content": "Stages: Nominations (any student may put themselves forward; two seats are elected today - subject rep and GCSE English/maths rep; 2 minutes) -> Candidate pitches (1 minute each - say what you'd do differently, e.g. 'I'd get the coursework and mock dates published together at the start of term') -> The vote (group decides the fairest method; anonymous slips work well across teaching groups) -> Confirm & register (announce both results; add both reps to the central Student Rep Register before this session closes). MANDATORY: Student Rep elections must be completed and the rep confirmed no later than the end of Week 2 of the academic year.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "By when must Student Rep elections be completed, according to the deck?",
+        "options": [
+          "End of Week 1",
+          "No later than the end of Week 2 of the academic year",
+          "End of term",
+          "Whenever the rep finds time"
+        ],
+        "answerIndex": 1,
+        "explanation": "Student Rep elections must be completed and the rep confirmed no later than the end of Week 2 of the academic year."
+      }
+    }
+  ]
+}

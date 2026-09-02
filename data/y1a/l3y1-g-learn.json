@@ -1,0 +1,160 @@
+{
+  "section": "l3y1-g",
+  "level": "l3",
+  "year": "y1",
+  "module": "G",
+  "title": "Looking After Myself",
+  "slides": [
+    {
+      "title": "What this module is about",
+      "content": "This is ninety minutes on the things that actually decide whether this year goes well - sleep, stress, money, and knowing where the doors are when something's getting in the way. It's a Group 2 (Safeguarding, Wellbeing & Respect) session, around three weeks into college. The PROUD value this module is grounded in is Encourage Unity. The scope-honesty promise at the top: one session can't teach you to manage stress. It can show you what works - and where the doors are.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which PROUD value is this module grounded in?",
+        "options": [
+          "Seek Opportunity",
+          "Show Respect",
+          "Encourage Unity",
+          "Be Proud"
+        ],
+        "answerIndex": 2,
+        "explanation": "Encourage Unity - looking out for each other."
+      }
+    },
+    {
+      "title": "Mental health is health",
+      "content": "Everyone is somewhere on a line and everyone moves along it: Thriving -> Coping -> Struggling -> In Crisis. Where you are in October is not where you'll be in June. The line moves - which means it can be moved. What moves it, in both directions: sleep, money, people, workload, home life, movement. Not one of those six things is a character flaw - they're conditions. Most can be worked on, especially if you say something early. At ESCG, mental health is a normal topic of conversation. Saying 'I'm struggling' is information, not weakness - and we can only work with what we know.",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: the deck's mental-health spectrum runs Thriving -> Coping -> Struggling -> ____.",
+        "template": "The deck's mental-health spectrum runs Thriving -> Coping -> Struggling -> ____.",
+        "options": [
+          "Happy",
+          "In Crisis",
+          "Asleep",
+          "Studying"
+        ],
+        "answerIndex": 1,
+        "explanation": "Thriving -> Coping -> Struggling -> In Crisis."
+      }
+    },
+    {
+      "title": "Stress - what it looks like, what works",
+      "content": "What it looks like: can't switch off or can't get started; sleep shifts (too little, or hiding in it); short fuse with people you actually like; avoiding the exact thing causing it. What the evidence says actually works: Move (regular physical activity - a walk counts); Connect (time with people, in person - isolation feeds stress; company starves it); Sleep; Talk (naming it to someone halves its size, every time). None of this is a personality upgrade. It's maintenance - the same as eating and washing. Stress in small doses is normal and useful. It's when it stops switching off that it costs you.",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are the evidence-based moves the deck lists? Select all that apply.",
+        "options": [
+          "Move",
+          "Connect",
+          "Sleep",
+          "Talk"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "Move, Connect, Sleep, and Talk are the four evidence-based moves."
+      }
+    },
+    {
+      "title": "Sleep - the study tool most students ignore",
+      "content": "Why it matters for your grades: memory is built while you sleep - revision without sleep is pouring water into a cracked jug. Concentration and focus are the first things to go. Everything feels worse tired - emotional regulation runs on sleep. What's in your control: anchor your wake time (same time every day, including one weekend day - the anchor sets everything else); screens down or out of reach (the scroll steals the hour you meant to sleep - charge the phone across the room); nothing caffeinated after mid-afternoon (energy drinks included). Real lives are messy - shared rooms, evening shifts, caring for someone. Control what you can. And if life makes sleep genuinely impossible, tell your tutor - it changes how we support you.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck call 'the study tool most students ignore'?",
+        "options": [
+          "Coffee",
+          "Caffeine",
+          "Sleep",
+          "Music"
+        ],
+        "answerIndex": 2,
+        "explanation": "Sleep - the study tool most students ignore."
+      }
+    },
+    {
+      "title": "Money - pressure and the Hardship Fund",
+      "content": "Financial stress and mental health are directly linked. Worry about money makes everything else on today's list harder - sleep, concentration, mood, showing up. It's also one of the most common pressures students carry silently, because it feels embarrassing. It shouldn't. It's circumstance, not character. The Hardship Fund is emergency financial support for students - travel, food, equipment, sudden changes at home. Asking is confidential, and far more common than you'd think. Money worries are a reason to talk to us - not a reason to disappear.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck reframe asking for the Hardship Fund?",
+        "options": [
+          "As a sign of weakness",
+          "As something embarrassing but necessary",
+          "As something confidential - and far more common than you'd think",
+          "As something only for international students"
+        ],
+        "answerIndex": 2,
+        "explanation": "Asking is confidential, and far more common than you'd think."
+      }
+    },
+    {
+      "title": "The support that's already here",
+      "content": "How it works - three steps, no drama. (1) Say something - to your tutor, a teacher you trust, or straight to the Wellbeing Team. Any door works. (2) Referral - quick and straightforward, and you stay in the loop the whole way. (3) Support arranged - matched to what you actually need: a conversation, ongoing support, or a route to specialist help. Using support here is normal and expected - not a last resort, and it goes on no record that follows you. Tell us what we need to know: a disability, a mental health condition, a learning need - or anything else affecting your ability to study. Sharing it means support can actually be arranged: exam access, adjustments, the right help at the right time. It's handled sensitively and kept confidential wherever possible.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck say using support at ESCG is?",
+        "options": [
+          "A last resort",
+          "Normal and expected - and it goes on no record that follows you",
+          "Only for students with formal diagnoses",
+          "Something to keep quiet"
+        ],
+        "answerIndex": 1,
+        "explanation": "Using support here is normal and expected - not a last resort, and it goes on no record that follows you."
+      }
+    },
+    {
+      "title": "Look out for each other",
+      "content": "This is Encourage Unity in practice. Three steps. Notice: mood changes, going quiet, dropping out of things, missed sessions. Ask: 'You alright? Actually alright?' Then listen to the answer. Tell someone: a tutor or the Wellbeing Team. That's not breaking trust - it's getting help you can't give alone. If a friend tells you something serious and asks you to keep it secret: you can be loyal and still tell someone. Those aren't opposites.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe telling someone about a friend's serious disclosure?",
+        "options": [
+          "It's a betrayal of trust",
+          "It's breaking a confidence",
+          "You can be loyal and still tell someone - those aren't opposites",
+          "Only if the friend agrees first"
+        ],
+        "answerIndex": 2,
+        "explanation": "You can be loyal and still tell someone. Those aren't opposites."
+      }
+    },
+    {
+      "title": "Contacts you must keep",
+      "content": "KEEP THESE - photograph this slide. Samaritans: 116 123 - free, 24/7, any problem, any size. MIND: 0300 123 3393, mind.org.uk. iRock - drop-in support for young people in East Sussex. TogetherAll - free, anonymous online support community. Local crisis line - see the card your teacher gives you today. These details are mandatory - students must leave this session with them in a form they can keep.",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: Samaritans is ____.",
+        "template": "Samaritans is ____.",
+        "options": [
+          "116 123 - free, 24/7",
+          "0300 999 9999",
+          "0800 111 1111",
+          "999"
+        ],
+        "answerIndex": 0,
+        "explanation": "Samaritans: 116 123 - free, 24/7."
+      }
+    },
+    {
+      "title": "Your one thing for this week",
+      "content": "Write one specific thing you'll try this week. Not three. One. (1) Sleep - I'll anchor my wake time, same time every day, including one weekend day. (2) Pressure valve - I'll put one deliberate thing in my week that isn't work - movement, mates, or proper downtime. (3) Contacts - I'll save the support numbers in my phone and find out where the Wellbeing Team's door actually is. (4) Talk - I'll tell my tutor or the Wellbeing Team about something that's getting in the way. Your tutor keeps these and will check in on them. Choosing option 4 means someone follows up with you this week - quietly, and properly.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Mental Health Is Health'?",
+        "options": [
+          "Trouble starting work",
+          "Trouble stopping work",
+          "Thriving",
+          "Changes in sleep"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Mental Health Is Health."
+      }
+    }
+  ]
+}

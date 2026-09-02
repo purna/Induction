@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-d",
+    "level": "l3",
+    "year": "y1",
+    "module": "D",
+    "variant": "A",
+    "title": "Students' Voice & Student Representative Elections"
+  },
+  "questions": [
+    {
+      "id": "l3y1-d-A01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Students' Voice?",
+      "options": [
+        "Creating coursework",
+        "Organising parties",
+        "Raising money",
+        "Giving students influence over college improvements"
+      ],
+      "answerIndex": 3,
+      "explanation": "Giving students influence over college improvements"
+    },
+    {
+      "id": "l3y1-d-A02",
+      "type": "scored",
+      "prompt": "Which feedback is most useful?",
+      "options": [
+        "\"Four edit stations cannot run Premiere.\"",
+        "\"Nothing works.\"",
+        "\"The software is rubbish.\"",
+        "\"Everything is bad.\""
+      ],
+      "answerIndex": 0,
+      "explanation": "\"Four edit stations cannot run Premiere.\""
+    },
+    {
+      "id": "l3y1-d-A03",
+      "type": "scored",
+      "prompt": "How many reps are elected from each group?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "One"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two"
+    },
+    {
+      "id": "l3y1-d-A04",
+      "type": "scored",
+      "prompt": "Which skill is developed by being a Student Rep?",
+      "options": [
+        "Driving",
+        "Construction",
+        "Programming",
+        "Communication"
+      ],
+      "answerIndex": 3,
+      "explanation": "Communication"
+    },
+    {
+      "id": "l3y1-d-A05",
+      "type": "scored",
+      "prompt": "What does a Student Governor focus on?",
+      "options": [
+        "The whole college",
+        "One course",
+        "One teacher",
+        "One class"
+      ],
+      "answerIndex": 0,
+      "explanation": "The whole college"
+    },
+    {
+      "id": "l3y1-d-A06",
+      "type": "scored",
+      "prompt": "Which PROUD value is central to Module D?",
+      "options": [
+        "Be Ambitious",
+        "Encourage Unity",
+        "Show Respect",
+        "Seek Opportunity"
+      ],
+      "answerIndex": 1,
+      "explanation": "Encourage Unity"
+    },
+    {
+      "id": "l3y1-d-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'What is Students' Voice?'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Students' Voice is the process through which students influence: Teaching and learning",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Students' Voice is the process through which students influence: Teaching and learning"
+    },
+    {
+      "id": "l3y1-d-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'What Makes Students' Voice Effective?'?",
+      "options": [
+        "Students' Voice works best when: Reps consult their group",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "Students' Voice works best when: Reps consult their group"
+    }
+  ]
+}

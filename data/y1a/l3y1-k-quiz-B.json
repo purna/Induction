@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "title": "Progression Opportunities & Setting Goals",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-k-B01",
+      "type": "scored",
+      "prompt": "What does the deck say about the most common route?",
+      "options": [
+        "It is the only route",
+        "The most common route is not automatically your route",
+        "It's a backup",
+        "It's compulsory"
+      ],
+      "answerIndex": 1,
+      "explanation": "The most common route is not automatically your route."
+    },
+    {
+      "id": "l3y1-k-B02",
+      "type": "scored",
+      "prompt": "Which degree-apprenticeship level is named in the deck?",
+      "options": [
+        "Level 2",
+        "Level 3",
+        "Level 5 and Level 6",
+        "Level 7 only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Level 5 and Level 6 Higher Apprenticeships."
+    },
+    {
+      "id": "l3y1-k-B03",
+      "type": "multi",
+      "prompt": "Which of these are the three Navigate pillars the deck mentions? Select all that apply.",
+      "options": [
+        "My Digital CV",
+        "Skills Assessment",
+        "Opportunities record",
+        "A printed portfolio"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "My Digital CV, Skills Assessment, and Opportunities record are the three pillars."
+    },
+    {
+      "id": "l3y1-k-B04",
+      "type": "scored",
+      "prompt": "What's the deck's framing of the Navigate record?",
+      "options": [
+        "A college admin task",
+        "A live professional portfolio that develops over two years, not a college admin task",
+        "Something you fill in at the end of Year 2",
+        "Something only placement providers see"
+      ],
+      "answerIndex": 1,
+      "explanation": "A live professional portfolio that develops over two years."
+    },
+    {
+      "id": "l3y1-k-B05",
+      "type": "scored",
+      "prompt": "According to the deck, what's the difference between 'the course is hard' and 'the course is wrong'?",
+      "options": [
+        "No difference",
+        "Hard is normal Level 3 feeling, answered with support; wrong is a different subject/level/route and needs a conversation this week",
+        "Hard means you should drop out",
+        "Wrong means your tutor will move you"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hard is answered with support; wrong needs a conversation this week."
+    },
+    {
+      "id": "l3y1-k-B06",
+      "type": "scored",
+      "prompt": "What happens to fees already paid under the Right Choice window?",
+      "options": [
+        "They're lost",
+        "They transfer automatically to a new course under Right Choice",
+        "You have to apply again",
+        "Only if you have an extenuating circumstance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Course fees already paid transfer automatically under Right Choice."
+    },
+    {
+      "id": "l3y1-k-B07",
+      "type": "multi",
+      "prompt": "Which of these are the three contacts that outlive induction? Select all that apply.",
+      "options": [
+        "Careers Team",
+        "Personal tutor",
+        "Head of Curriculum",
+        "Only your tutor"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Careers Team, Personal tutor, and Head of Curriculum."
+    },
+    {
+      "id": "l3y1-k-B08",
+      "type": "scored",
+      "prompt": "Which of these is a progression route?",
+      "options": [
+        "Degree apprenticeship",
+        "Employment",
+        "University",
+        "All of the above"
+      ],
+      "answerIndex": 3,
+      "explanation": "All of the above"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "section": "l3y1-e",
+    "level": "l3",
+    "year": "y1",
+    "module": "E",
+    "title": "Respect, Relationships & College Values",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-e-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value means 'include others; challenge exclusion; work positively across difference'?",
+      "options": [
+        "Bring Positivity",
+        "Show Respect",
+        "Encourage Unity",
+        "Celebrate Diversity"
+      ],
+      "answerIndex": 2,
+      "explanation": "Encourage Unity: include others; challenge exclusion; work positively across difference."
+    },
+    {
+      "id": "l3y1-e-A02",
+      "type": "multi",
+      "prompt": "Which of these are PROUD values? Select all that apply.",
+      "options": [
+        "Bring Positivity",
+        "Show Respect",
+        "Seek Opportunity",
+        "Encourage Unity",
+        "Celebrate Diversity"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "All five are PROUD values."
+    },
+    {
+      "id": "l3y1-e-A03",
+      "type": "scored",
+      "prompt": "Which British Value says your voice matters through elections, surveys and governance?",
+      "options": [
+        "Rule of Law",
+        "Democracy",
+        "Individual Liberty",
+        "Mutual Respect & Tolerance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Democracy."
+    },
+    {
+      "id": "l3y1-e-A04",
+      "type": "insert",
+      "prompt": "Fill in the blank: the Equality Act 2010 lists ____ protected characteristics.",
+      "template": "The Equality Act 2010 lists ____ protected characteristics.",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answerIndex": 3,
+      "explanation": "9 protected characteristics."
+    },
+    {
+      "id": "l3y1-e-A05",
+      "type": "scored",
+      "prompt": "According to the deck, what does the Equality Act describe as 'unwanted behaviour that violates dignity or creates a hostile, humiliating or offensive environment'?",
+      "options": [
+        "Discrimination",
+        "Harassment",
+        "Victimisation",
+        "Bullying"
+      ],
+      "answerIndex": 1,
+      "explanation": "Harassment is unwanted behaviour that violates dignity or creates a hostile, humiliating or offensive environment."
+    },
+    {
+      "id": "l3y1-e-A06",
+      "type": "scored",
+      "prompt": "Where do Behaviour Standards apply, according to the deck?",
+      "options": [
+        "Only in college",
+        "Only on placement",
+        "In college, on placement, and online",
+        "Only in lessons"
+      ],
+      "answerIndex": 2,
+      "explanation": "The same standard applies - in college, on placement, and online."
+    },
+    {
+      "id": "l3y1-e-A07",
+      "type": "multi",
+      "prompt": "Which of these are covered by ESCG's Zero Tolerance position? Select all that apply.",
+      "options": [
+        "Harassment",
+        "Discrimination",
+        "Bullying",
+        "Abuse - including online abuse directed at college members"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are covered by zero tolerance."
+    },
+    {
+      "id": "l3y1-e-A08",
+      "type": "scored",
+      "prompt": "What does the deck say about anonymous reports?",
+      "options": [
+        "They are ignored",
+        "They are only investigated if you give your name",
+        "They are still investigated - you don't have to identify yourself to be heard",
+        "They must be made in writing"
+      ],
+      "answerIndex": 2,
+      "explanation": "Anonymous reports are still investigated - you don't have to identify yourself to be heard."
+    }
+  ]
+}

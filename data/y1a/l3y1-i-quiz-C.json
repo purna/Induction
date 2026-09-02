@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "section": "l3y1-i",
+    "level": "l3",
+    "year": "y1",
+    "module": "I",
+    "title": "Professional Behaviour & Personal Strengths",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-i-C01",
+      "type": "scored",
+      "prompt": "What is a key point about 'Professional Behaviour Applies Everywhere'?",
+      "options": [
+        "In college",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "In college"
+    },
+    {
+      "id": "l3y1-i-C02",
+      "type": "scored",
+      "prompt": "What's the headline of the module?",
+      "options": [
+        "'Get a job'",
+        "'One standard - in college, on placement, in employment'",
+        "'Pass your exams'",
+        "'Build a portfolio'"
+      ],
+      "answerIndex": 1,
+      "explanation": "One standard - in college, on placement, in employment."
+    },
+    {
+      "id": "l3y1-i-C03",
+      "type": "scored",
+      "prompt": "Which of these is NOT one of the six human skills in the deck?",
+      "options": [
+        "Communication",
+        "Reliability",
+        "Compliance",
+        "Initiative"
+      ],
+      "answerIndex": 2,
+      "explanation": "Compliance is not listed. The six are Communication, Teamwork, Reliability, Problem-solving, Adaptability, Initiative."
+    },
+    {
+      "id": "l3y1-i-C04",
+      "type": "insert",
+      "prompt": "Fill in the blank: the Skills Assessment cross-check step asks whether a partner's read matches the ____.",
+      "template": "The Skills Assessment cross-check step asks whether a partner's read matches the ____.",
+      "options": [
+        "tutor's view",
+        "assessment's view",
+        "parent's view",
+        "grade"
+      ],
+      "answerIndex": 1,
+      "explanation": "Does their read of you match the assessment's?"
+    },
+    {
+      "id": "l3y1-i-C05",
+      "type": "scored",
+      "prompt": "What's the deck's view on evidence sources?",
+      "options": [
+        "Only paid work counts",
+        "Evidence doesn't have to be paid work - projects, placement, part-time jobs, caring for someone, sport, anything you've made or run - it all counts",
+        "Only award-winning work counts",
+        "Only work in the industry counts"
+      ],
+      "answerIndex": 1,
+      "explanation": "It all counts."
+    },
+    {
+      "id": "l3y1-i-C06",
+      "type": "scored",
+      "prompt": "What's the deck's framing of 'I'm a good team player'?",
+      "options": [
+        "A great strength statement",
+        "A claim - it costs nothing and proves nothing; interviewers hear it forty times a week",
+        "The right answer",
+        "An evidence statement"
+      ],
+      "answerIndex": 1,
+      "explanation": "A claim - interviewers hear it forty times a week."
+    },
+    {
+      "id": "l3y1-i-C07",
+      "type": "scored",
+      "prompt": "What does the deck say the three strengths feed into?",
+      "options": [
+        "A job application",
+        "Your Digital CV, your placement applications and everything else you apply for",
+        "Your tutor's notes",
+        "Your attendance record"
+      ],
+      "answerIndex": 1,
+      "explanation": "They'll feed your Digital CV, your placement applications and everything else you apply for."
+    },
+    {
+      "id": "l3y1-i-C08",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Professionalism Is About Habits'? Select all that apply.",
+      "options": [
+        "Reliability",
+        "Communication",
+        "Respect",
+        "Consistency"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Professionalism Is About Habits."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "section": "l3y1-f",
+  "level": "l3",
+  "year": "y1",
+  "module": "F",
+  "title": "Staying Safe at College",
+  "slides": [
+    {
+      "title": "What this module is about",
+      "content": "Module F is Staying Safe at College. It sits in Group 2 alongside Modules E and G. The session runs 1.5 hours and covers: what safeguarding means at college; Prevent and radicalisation; online safety; the ESCG AI Policy; how the college keeps students safe; the Safeguarding Team contacts; and how to report a concern. The PROUD value this module is grounded in is Encourage Unity - creating an environment where it's normal to look out for peers and report concern.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which PROUD value is this module grounded in?",
+        "options": [
+          "Seek Opportunity",
+          "Show Respect",
+          "Encourage Unity",
+          "Be Proud"
+        ],
+        "answerIndex": 2,
+        "explanation": "Encourage Unity - it's normal to look out for peers and report concern."
+      }
+    },
+    {
+      "title": "Safeguarding at college",
+      "content": "Safeguarding means: protecting students from harm, abuse, exploitation and neglect - on placement and on a shoot you hold part of this duty yourself (consent, conduct, and what you record); supporting mental health, wellbeing and safe development; ensuring students can raise concerns and be taken seriously. Safeguarding is everyone's responsibility - staff and students alike. College is different from school: more autonomy (you make more of your own choices - booking kit, running your own edit, hitting deadlines nobody chases); less monitoring (staff aren't tracking your every move but they are paying attention); you can self-refer (you don't need a teacher to spot something).",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, who holds part of the safeguarding duty on placement and on a shoot?",
+        "options": [
+          "Only the placement provider",
+          "Only the college safeguarding team",
+          "You do - around consent, conduct, and what you record",
+          "Only the unit lecturer"
+        ],
+        "answerIndex": 2,
+        "explanation": "On placement and on a shoot you hold part of this duty yourself - consent, conduct, and what you record."
+      }
+    },
+    {
+      "title": "Prevent",
+      "content": "ESCG has a legal duty under the Prevent Duty to help protect students from being drawn into radicalisation. Radicalisation is the process by which someone comes to support terrorism or forms of extremism that lead to terrorism. Extremism is vocal or active opposition to fundamental British values - or calls for violence against others. Locally, the greatest risk of radicalisation comes from the online space - particularly misogynistic and extreme right-wing content and lone-actor narratives. Vulnerability factors: feeling isolated or excluded; searching for identity or purpose; grievances (real or perceived) that feel unaddressed; exposure to manipulative online content (Discord servers, modding and streaming communities); a trusted person who gradually normalises harmful views. Exploring ideas and debating politics is fine - and encouraged. Being pushed toward hatred of a group of people is not the same thing.",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: locally, the greatest risk of radicalisation comes from the ____ space.",
+        "template": "Locally, the greatest risk of radicalisation comes from the ____ space.",
+        "options": [
+          "classroom",
+          "online",
+          "workplace",
+          "library"
+        ],
+        "answerIndex": 1,
+        "explanation": "The greatest risk of radicalisation locally comes from the online space."
+      }
+    },
+    {
+      "title": "Online safety - the real risks",
+      "content": "Personal information: what you share online can be used against you - name, address, college, relationship status, and add location tags and shoot times (they tell a stranger where you will be). Grooming and exploitation: adults who build 'relationships' online with young people for harmful purposes; county lines recruitment works the same way - it usually arrives as a DM offering paid portfolio, modelling or editing work. Financial scams: fake job offers, romance scams, 'easy money' schemes - students are a primary target; watch for paid edit or thumbnail gigs that ask for your bank details up front. Non-consensual images: sharing intimate images without consent is a criminal offence; receiving or sharing counts; this includes AI-generated images; consent covers everyone you film or photograph - including classmates in your own footage. Surface / deep / dark web: surface is what you use every day; deep is password-protected and legitimate; dark is deliberately hidden with significant legal and personal risk. ESCG uses Smoothwall for filtering and monitoring.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck say about location tags and shoot times?",
+        "options": [
+          "They're harmless",
+          "They tell a stranger where you will be",
+          "They're required by college",
+          "They're only visible to your tutor"
+        ],
+        "answerIndex": 1,
+        "explanation": "Location tags and shoot times tell a stranger where you will be."
+      }
+    },
+    {
+      "title": "AI and your data",
+      "content": "Under JCQ regulations and the ESCG data safety policy: Do not submit work that isn't demonstrably your own; do not copy, paraphrase, or reproduce AI-generated content without acknowledgement (this is malpractice under JCQ); do not enter personal data into public AI tools (name, address, college login, details about other students or staff); do not share confidential college information with any AI platform. Do: declare AI use - name the tool, give the date, keep a screenshot, and include it with your submission (UAL, Pearson and the Institute for Apprenticeships each word this differently - check yours); use AI to support, not replace; verify what AI tells you - AI tools fabricate facts, invent sources, and present errors confidently; ask if unsure - the rules differ between a portfolio unit, an Employer Set Project and a written exam. JCQ malpractice sanctions include disqualification and debarment from qualifications - this is not a college rule, it's a national regulatory requirement.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck say AI tools do with facts?",
+        "options": [
+          "Always return correct facts",
+          "Fabricate facts, invent sources, and present errors confidently",
+          "Only use verified sources",
+          "Refuse to answer questions about real events"
+        ],
+        "answerIndex": 1,
+        "explanation": "AI tools fabricate facts, invent sources, and present errors confidently."
+      }
+    },
+    {
+      "title": "How ESCG keeps you safe",
+      "content": "Four-step process. (1) Something is raised - a student discloses, a teacher spots something, a concern is reported via any route (including anonymously); often it is the technician or the placement supervisor. (2) The right person is told same-day - staff do not investigate themselves; the Safeguarding Manager is informed same-day; all concerns are logged on ProMonitor. (3) The concern is assessed - the Safeguarding Team assesses the level of risk and decides the right response, from wellbeing support to referral to external agencies. (4) Confidentiality is honest about its limits - staff will not gossip or share unnecessarily, but they cannot promise secrecy; if there is a risk of harm, they have a duty to act; they will always tell you what they're going to do and why.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck say staff cannot promise when a safeguarding concern is raised?",
+        "options": [
+          "Same-day logging",
+          "Secrecy",
+          "A referral to external agencies",
+          "ProMonitor access"
+        ],
+        "answerIndex": 1,
+        "explanation": "Staff will not gossip or share unnecessarily, but they cannot promise secrecy."
+      }
+    },
+    {
+      "title": "The Safeguarding Team",
+      "content": "DSL: Rebecca Conroy (Principal & CEO). Deputy DSL: Fenella Potterton (Assistant Principal Student Experience). Safeguarding Manager - Hastings: Lydia Leonard, 07848 442081, lydia.leonard@escg.ac.uk. The emergency number is on the back of your lanyard. Eastbourne: Helen Ding 07980 049312. Lewes/Newhaven: Julia Proven 07823 668772 (Prevent SPOC). The Personal Development & Wellbeing Team supports students with relationship and friendship issues, sexual health, financial or housing concerns, substance misuse, physical or mental health needs, and any other worries - they are part of the Safeguarding Team. 24-hour support: escg.ac.uk/support/safeguarding.",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Safeguarding Means'? Select all that apply.",
+        "options": [
+          "Protecting students from harm",
+          "Preventing abuse, exploitation and neglect",
+          "Supporting wellbeing and mental health",
+          "Making sure concerns can be raised and acted upon"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What Safeguarding Means."
+      }
+    },
+    {
+      "title": "Reporting a concern",
+      "content": "If you are worried about yourself: talk to any member of staff you trust; go directly to the Safeguarding Manager; contact the Wellbeing Team - no referral needed; email safeguarding@escg.ac.uk or visit escg.ac.uk/support/safeguarding; report anonymously if you prefer - staff will still act. If you are worried about someone else: you don't have to be certain something is wrong - a concern is enough; tell a teacher, tutor, or the Safeguarding Manager what you have noticed; you can report anonymously. Acting on concern for a friend is the right thing. It is not a betrayal. On a shoot you stop the take if something is unsafe - this is the same instinct. You will always be taken seriously. Every concern is logged, assessed, and followed up. There is no wrong way to raise it.",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck reframe telling someone you're worried about a friend?",
+        "options": [
+          "It's a betrayal",
+          "It's the right thing to do - it's not a betrayal",
+          "It must wait until you're sure",
+          "Only your tutor can do it"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Acting on concern for a friend is the right thing. It is not a betrayal. On a shoot you stop the take if something is unsafe. This is the same instinct.'"
+      }
+    },
+    {
+      "title": "Your one thing",
+      "content": "Pick one, write it down. Your teacher keeps the card and uses it for follow-up in tutorial - revisited in week 4 and again before your first placement or live brief. (1) Save the Safeguarding Team contact to my phone - so I know where to go if I need it. (2) Change one thing about how I share information online - think before I post; start with what my public portfolio shows about where I film and who is in shot. (3) Check the ESCG AI Policy and note one thing I didn't know before today - starting with the AI rules for my first assignment brief. (4) Tell someone about something that has been worrying me - about myself or a friend.",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'College Is Different from School'? Select all that apply.",
+        "options": [
+          "You have more independence",
+          "You make more of your own decisions",
+          "Staff monitor less directly",
+          "You can self-refer for support"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on College Is Different from School."
+      }
+    }
+  ]
+}

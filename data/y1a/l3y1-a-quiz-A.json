@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "section": "l3y1-a",
+    "level": "l3",
+    "year": "y1",
+    "module": "A",
+    "variant": "A",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y1-a-A01",
+      "type": "scored",
+      "prompt": "What is Pro Portal mainly used for?",
+      "options": [
+        "Gaming",
+        "Coursework only",
+        "Social media",
+        "Timetables, messages and progress"
+      ],
+      "answerIndex": 3,
+      "explanation": "Timetables, messages and progress"
+    },
+    {
+      "id": "l3y1-a-A02",
+      "type": "multi",
+      "prompt": "Which of these are mentioned as factors in student success? Select all that apply.",
+      "options": [
+        "Belonging",
+        "Tight deadlines",
+        "High-stakes testing",
+        "Strict uniform rules"
+      ],
+      "correctIndices": [
+        0
+      ],
+      "explanation": "Belonging is the single biggest factor in whether students stay, attend and succeed."
+    },
+    {
+      "id": "l3y1-a-A03",
+      "type": "multi",
+      "prompt": "Which of these are part of your study programme? Select all that apply.",
+      "options": [
+        "Your Digital or Media qualification",
+        "English & maths (if you haven't yet achieved them)",
+        "Work-related learning",
+        "Tutorial & personal development"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are part of your study programme."
+    },
+    {
+      "id": "l3y1-a-A04",
+      "type": "scored",
+      "prompt": "For T-Level students, what is the status of work-related learning?",
+      "options": [
+        "Optional, if you have time",
+        "Recommended but not required",
+        "Mandatory",
+        "Only available in Year 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "For T-Level students, work-related learning is mandatory."
+    },
+    {
+      "id": "l3y1-a-A05",
+      "type": "insert",
+      "prompt": "Fill in the blank: check your Pro Portal every ____ before you set off.",
+      "template": "Check your Pro Portal every ____ before you set off.",
+      "options": [
+        "morning",
+        "week",
+        "term",
+        "year"
+      ],
+      "answerIndex": 0,
+      "explanation": "Check your Pro Portal every morning before you set off."
+    },
+    {
+      "id": "l3y1-a-A06",
+      "type": "multi",
+      "prompt": "Which of these are kinds of support at college? Select all that apply.",
+      "options": [
+        "Learning support",
+        "Wellbeing & mental health",
+        "Money & practical help",
+        "Careers & next steps"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are kinds of support at college."
+    },
+    {
+      "id": "l3y1-a-A07",
+      "type": "scored",
+      "prompt": "According to the deck, asking for help early is…",
+      "options": [
+        "A sign of weakness",
+        "Only for students who are struggling",
+        "One of the smartest things you can do at college",
+        "Something teachers prefer you didn't do"
+      ],
+      "answerIndex": 2,
+      "explanation": "Asking for help early is one of the smartest things you can do at college."
+    },
+    {
+      "id": "l3y1-a-A08",
+      "type": "scored",
+      "prompt": "How does the deck describe the induction sessions coming up over the next three weeks?",
+      "options": [
+        "They are pass-or-fail assessments",
+        "They are mocks of your final exams",
+        "They are short, supportive sessions, not tests",
+        "They replace your normal lessons"
+      ],
+      "answerIndex": 2,
+      "explanation": "None of them are tests. They're here to help you settle and succeed."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "section": "l3y2-b",
+    "level": "l3",
+    "year": "y2",
+    "module": "B",
+    "variant": "C",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y2-b-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+      "options": [
+        "Final assessments",
+        "Portfolios",
+        "Final Major Projects (FMP)",
+        "Industry placements"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is Different."
+    },
+    {
+      "id": "l3y2-b-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Gaps Compound'? Select all that apply.",
+      "options": [
+        "Missing skills",
+        "Incomplete portfolio work",
+        "Poor organisation",
+        "Lower attendance"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Gaps Compound."
+    },
+    {
+      "id": "l3y2-b-C03",
+      "type": "scored",
+      "prompt": "What is a key point about 'The Final Fuse'?",
+      "options": [
+        "Catching up on old work",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "Catching up on old work"
+    },
+    {
+      "id": "l3y2-b-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Seek Opportunity in Year 2'? Select all that apply.",
+      "options": [
+        "Applying for university",
+        "Applying for apprenticeships",
+        "Building a portfolio",
+        "Completing placement evidence"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Seek Opportunity in Year 2."
+    },
+    {
+      "id": "l3y2-b-C05",
+      "type": "scored",
+      "prompt": "What is a key point about 'The Year 2 Confidence Trap'?",
+      "options": [
+        "recognise the issue early",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "recognise the issue early,"
+    },
+    {
+      "id": "l3y2-b-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Attendance Matters More in Year 2'? Select all that apply.",
+      "options": [
+        "Final assessment success",
+        "Understanding grade boundaries",
+        "Staff references",
+        "Industry and university applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Attendance Matters More in Year 2."
+    },
+    {
+      "id": "l3y2-b-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Barriers Still Need Support'?",
+      "options": [
+        "Burnout",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "Burnout"
+    },
+    {
+      "id": "l3y2-b-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Focus on One Habit'?",
+      "options": [
+        "Use one free period effectively",
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "Use one free period effectively"
+    }
+  ]
+}

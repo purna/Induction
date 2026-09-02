@@ -1,0 +1,229 @@
+{
+  "section": "l3y2-j",
+  "level": "l3",
+  "year": "y2",
+  "module": "J",
+  "title": "Work Experience",
+  "slides": [
+    {
+      "title": "This Is Round Two",
+      "content": "Year 2 work experience is different because: You already have experience. You can target your specialism. Applications are approaching. You can build on Year 1 evidence. The goal is to go further than last year.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'This Is Round Two'? Select all that apply.",
+        "options": [
+          "You already have experience",
+          "You can target your specialism",
+          "Applications are approaching",
+          "You can build on Year 1 evidence"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on This Is Round Two."
+      }
+    },
+    {
+      "title": "A Second Placement Has More Value",
+      "content": "A second placement provides: More evidence. More references. Greater professional credibility. Stronger applications. Two placements are stronger than one.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'A Second Placement Has More Value'? Select all that apply.",
+        "options": [
+          "More evidence",
+          "More references",
+          "Greater professional credibility",
+          "Stronger applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on A Second Placement Has More Value."
+      }
+    },
+    {
+      "title": "Connect Placement to Your Future",
+      "content": "Year 2 placements should support: Final Major Projects. Occupational Specialisms. Career aspirations. UCAS applications. Apprenticeship applications.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Connect Placement to Your Future'? Select all that apply.",
+        "options": [
+          "Final Major Projects",
+          "Occupational Specialisms",
+          "Career aspirations",
+          "UCAS applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Connect Placement to Your Future."
+      }
+    },
+    {
+      "title": "The Requirement Resets",
+      "content": "Important reminder: Placement requirements restart each academic year. Year 1 hours do not count toward Year 2 requirements. You must complete the new placement requirement.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'The Requirement Resets'?",
+        "options": [
+          "You can target your specialism",
+          "Applications are approaching",
+          "Placement requirements restart each academic year",
+          "You already have experience"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on The Requirement Resets."
+      }
+    },
+    {
+      "title": "Key Dates",
+      "content": "Important Year 2 dates: **Skills Week:** 8 March 2027 **Placement Request Deadline:** 5 February 2027 These dates are critical.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Key Dates'?",
+        "options": [
+          "**Skills Week:** 8 March 2027",
+          "You can target your specialism",
+          "Applications are approaching",
+          "You already have experience"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is a key point from the section on Key Dates."
+      }
+    },
+    {
+      "title": "The Process Is the Same",
+      "content": "You still use: Navigate. Employer details. Placement requests. Placement journals. The process has not changed from Year 1.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Process Is the Same'? Select all that apply.",
+        "options": [
+          "Navigate",
+          "Employer details",
+          "Placement requests",
+          "Placement journals"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Process Is the Same."
+      }
+    },
+    {
+      "title": "Raise Your Professional Standards",
+      "content": "By Year 2 employers expect: Strong communication. Professional conduct. Consistent attendance. Reliability. Your actions can directly influence future references.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Raise Your Professional Standards'? Select all that apply.",
+        "options": [
+          "Strong communication",
+          "Professional conduct",
+          "Consistent attendance",
+          "Reliability"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Raise Your Professional Standards."
+      }
+    },
+    {
+      "title": "Placement Reputation Matters",
+      "content": "Employers remember: Professional behaviour. Reliability. Communication. Attitude. Professional habits become part of your reputation.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Placement Reputation Matters'? Select all that apply.",
+        "options": [
+          "Professional behaviour",
+          "Reliability",
+          "Communication",
+          "Attitude"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Placement Reputation Matters."
+      }
+    },
+    {
+      "title": "Seek Opportunity",
+      "content": "Year 2 students should actively choose placements that: Develop specialist interests. Build stronger portfolios. Create progression opportunities. Strengthen future applications.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Seek Opportunity'? Select all that apply.",
+        "options": [
+          "Develop specialist interests",
+          "Build stronger portfolios",
+          "Create progression opportunities",
+          "Strengthen future applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Seek Opportunity."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Build on your first placement Target your chosen specialism Gather stronger evidence and references Remember placement requirements reset yearly Maintain professional standards Use placements to support applications and progression. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Build on your first placement",
+          "Target your chosen specialism",
+          "Gather stronger evidence and references",
+          "Remember placement requirements reset yearly"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

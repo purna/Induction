@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "section": "l3y1-j",
+    "level": "l3",
+    "year": "y1",
+    "module": "J",
+    "variant": "C",
+    "title": "Work Experience"
+  },
+  "questions": [
+    {
+      "id": "l3y1-j-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Work Experience Is Part of Your Course'? Select all that apply.",
+      "options": [
+        "Build your portfolio",
+        "Gain real workplace experience",
+        "Collect references",
+        "Strengthen applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Work Experience Is Part of Your Course."
+    },
+    {
+      "id": "l3y1-j-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Work Experience Can Take Different Forms'? Select all that apply.",
+      "options": [
+        "Block placements",
+        "Employer visits",
+        "Volunteering",
+        "Live project briefs"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Work Experience Can Take Different Forms."
+    },
+    {
+      "id": "l3y1-j-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'If You Cannot Secure a Placement'? Select all that apply.",
+      "options": [
+        "Employer-set projects",
+        "Employer talks",
+        "Industry activities delivered in college"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on If You Cannot Secure a Placement."
+    },
+    {
+      "id": "l3y1-j-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Key Dates'? Select all that apply.",
+      "options": [
+        "**Skills Week:** 8 March 2027",
+        "**Placement Request Deadline:** 5 February 2027",
+        "Health and safety checks",
+        "Insurance checks"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Key Dates."
+    },
+    {
+      "id": "l3y1-j-C05",
+      "type": "scored",
+      "prompt": "What is a key point about 'Using Navigate'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Company name and address"
+      ],
+      "answerIndex": 3,
+      "explanation": "Company name and address"
+    },
+    {
+      "id": "l3y1-j-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Help Is Available'? Select all that apply.",
+      "options": [
+        "Contact Careers & Employability",
+        "Speak to your tutor",
+        "Ask for help early if a placement is not progressing"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on Help Is Available."
+    },
+    {
+      "id": "l3y1-j-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Expectations During Placement'?",
+      "options": [
+        "It is only assessed in exams",
+        "Be punctual",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Be punctual"
+    },
+    {
+      "id": "l3y1-j-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Placement Evidence Matters'?",
+      "options": [
+        "References",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "References"
+    }
+  ]
+}

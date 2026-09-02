@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y1-e",
+    "level": "l3",
+    "year": "y1",
+    "module": "E",
+    "title": "Respect, Relationships & College Values",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-e-B01",
+      "type": "scored",
+      "prompt": "Which PROUD value focuses on including others?",
+      "options": [
+        "Bring Positivity",
+        "Seek Opportunity",
+        "Encourage Unity",
+        "Show Respect"
+      ],
+      "answerIndex": 2,
+      "explanation": "Encourage Unity"
+    },
+    {
+      "id": "l3y1-e-B02",
+      "type": "scored",
+      "prompt": "Which British Value says breaches 'may have disciplinary or legal consequences'?",
+      "options": [
+        "Democracy",
+        "Rule of Law",
+        "Individual Liberty",
+        "Mutual Respect & Tolerance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rule of Law - breaches may have disciplinary or legal consequences."
+    },
+    {
+      "id": "l3y1-e-B03",
+      "type": "multi",
+      "prompt": "Which of these are protected characteristics under the Equality Act 2010? Select all that apply.",
+      "options": [
+        "Race",
+        "Religion or belief",
+        "Sexual orientation",
+        "Being a student rep"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Race, religion or belief, and sexual orientation are three of the nine protected characteristics. Being a student rep is not."
+    },
+    {
+      "id": "l3y1-e-B04",
+      "type": "scored",
+      "prompt": "How does the deck define victimisation under the Equality Act?",
+      "options": [
+        "Treating someone less favourably because of a protected characteristic",
+        "Unwanted behaviour that violates dignity",
+        "Treating someone unfairly because they raised - or supported - a discrimination concern",
+        "Repeated behaviour intended to intimidate, control, or harm"
+      ],
+      "answerIndex": 2,
+      "explanation": "Victimisation is treating someone unfairly because they raised - or supported - a discrimination concern."
+    },
+    {
+      "id": "l3y1-e-B05",
+      "type": "scored",
+      "prompt": "On placement, who should you report concerns to, according to the deck?",
+      "options": [
+        "Just the placement provider",
+        "No one - it's not your job",
+        "Your teacher - not just the placement provider",
+        "Only the HR department"
+      ],
+      "answerIndex": 2,
+      "explanation": "Report concerns to your teacher, not just the placement provider."
+    },
+    {
+      "id": "l3y1-e-B06",
+      "type": "scored",
+      "prompt": "What's the deck's view of content posted outside college?",
+      "options": [
+        "It can't affect you at college",
+        "It can still lead to disciplinary action",
+        "Only if it's posted during term time",
+        "Only if it's tagged with the college"
+      ],
+      "answerIndex": 1,
+      "explanation": "Content posted outside college can still lead to disciplinary action."
+    },
+    {
+      "id": "l3y1-e-B07",
+      "type": "multi",
+      "prompt": "Which of these are routes for reporting a concern, according to the deck? Select all that apply.",
+      "options": [
+        "Tell your teacher",
+        "Formal reporting system",
+        "Anonymous reporting",
+        "Posting on social media"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Tell your teacher, formal reporting system, and anonymous reporting are the three routes."
+    },
+    {
+      "id": "l3y1-e-B08",
+      "type": "scored",
+      "prompt": "How many protected characteristics are covered by the Equality Act?",
+      "options": [
+        "7",
+        "5",
+        "9",
+        "12"
+      ],
+      "answerIndex": 2,
+      "explanation": "9"
+    }
+  ]
+}

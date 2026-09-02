@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "section": "l3y2-a",
+    "level": "l3",
+    "year": "y2",
+    "module": "A",
+    "variant": "C",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y2-a-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+      "options": [
+        "Completing the course strongly",
+        "Building your portfolio",
+        "Preparing for progression",
+        "Taking the next step into work, university or apprenticeships"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is Different."
+    },
+    {
+      "id": "l3y2-a-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Know Where You Are Heading'? Select all that apply.",
+      "options": [
+        "Employment",
+        "Apprenticeships",
+        "University",
+        "Further study"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Know Where You Are Heading."
+    },
+    {
+      "id": "l3y2-a-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Demands More'? Select all that apply.",
+      "options": [
+        "Higher stakes",
+        "Bigger projects",
+        "More deadlines",
+        "Applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Demands More."
+    },
+    {
+      "id": "l3y2-a-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Biggest Risk Is Drift'? Select all that apply.",
+      "options": [
+        "Missing deadlines",
+        "Reduced attendance",
+        "Delayed applications",
+        "Poor organisation"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Biggest Risk Is Drift."
+    },
+    {
+      "id": "l3y2-a-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Stay Organised'? Select all that apply.",
+      "options": [
+        "Pro Portal",
+        "Calendars",
+        "Deadline trackers"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on Stay Organised."
+    },
+    {
+      "id": "l3y2-a-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Support Still Matters'? Select all that apply.",
+      "options": [
+        "Careers",
+        "Applications",
+        "Progression",
+        "Wellbeing"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Support Still Matters."
+    },
+    {
+      "id": "l3y2-a-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Define Your Final-Year Focus'?",
+      "options": [
+        "It is only assessed in exams",
+        "Where they want to be at the end of Year 2",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Where they want to be at the end of Year 2"
+    },
+    {
+      "id": "l3y2-a-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Use a Simple Career Test'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Ask: \"Will this give me something meaningful to discuss in an interview?\" Activities that strengthen portfolios, applica"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ask: \"Will this give me something meaningful to discuss in an interview?\" Activities that strengthen portfolios, applica"
+    }
+  ]
+}

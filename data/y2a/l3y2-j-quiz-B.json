@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-j",
+    "level": "l3",
+    "year": "y2",
+    "module": "J",
+    "variant": "B",
+    "title": "Work Experience - Skills Week, Aimed at Your Specialism"
+  },
+  "questions": [
+    {
+      "id": "l3y2-j-B01",
+      "type": "scored",
+      "prompt": "What is the key advantage of a second placement?",
+      "options": [
+        "Less work",
+        "No assessments",
+        "Fewer expectations",
+        "More evidence and stronger applications"
+      ],
+      "answerIndex": 3,
+      "explanation": "More evidence and stronger applications"
+    },
+    {
+      "type": "scored",
+      "prompt": "What should you do if you are running late or unwell for placement?",
+      "options": [
+        "Stay home and email your tutor only",
+        "Contact the employer AND the college",
+        "Text a friend",
+        "Just turn up when you can"
+      ],
+      "answerIndex": 1,
+      "explanation": "Running late or unwell? Contact the employer AND the college.",
+      "id": "l3y2-j-B02"
+    },
+    {
+      "id": "l3y2-j-B03",
+      "type": "scored",
+      "prompt": "What should Year 2 placements be focused on?",
+      "options": [
+        "Repeating Year 1 exactly",
+        "Specialisms and future goals",
+        "Convenience only",
+        "Social activities"
+      ],
+      "answerIndex": 1,
+      "explanation": "Specialisms and future goals"
+    },
+    {
+      "type": "scored",
+      "prompt": "What are the college hours a placement must fit within?",
+      "options": [
+        "Anytime",
+        "8.30am-5.30pm, max 8-hour day",
+        "8am-6pm",
+        "9am-5pm"
+      ],
+      "answerIndex": 1,
+      "explanation": "Placements must fit within college hours (8.30am-5.30pm), max 8-hour day.",
+      "id": "l3y2-j-B04"
+    },
+    {
+      "id": "l3y2-j-B05",
+      "type": "scored",
+      "prompt": "Do Year 1 placement hours count towards Year 2 requirements?",
+      "options": [
+        "Yes",
+        "Sometimes",
+        "Only for T Levels",
+        "No"
+      ],
+      "answerIndex": 3,
+      "explanation": "No"
+    },
+    {
+      "type": "scored",
+      "prompt": "What happens if you don't get a placement by Skills Week?",
+      "options": [
+        "You fail the year",
+        "You take a 30-hour penalty",
+        "You come into college for an employer-set brief and employer talks instead. It still counts",
+        "You're marked absent"
+      ],
+      "answerIndex": 2,
+      "explanation": "No placement by Skills Week? You come into college for an employer-set brief and employer talks instead.",
+      "id": "l3y2-j-B06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does a second placement matter more?",
+      "options": [
+        "Two placements beat one: two CV entries, two referees, a portfolio that shows range as well as skill",
+        "It's required by law",
+        "It is worth double marks",
+        "It counts as a third course"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two placements beat one: two entries on a CV, two referees, and a portfolio that shows range as well as skill.",
+      "id": "l3y2-j-B07"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the Year 2 framing of this work experience session?",
+      "options": [
+        "Skip it - you did it last year",
+        "Starting from zero",
+        "It's a placement-finding workshop",
+        "Building on what you know - this is a fresh run at it, not a repeat test"
+      ],
+      "answerIndex": 3,
+      "explanation": "You've done this once already - so this time we're building on what you know, not starting from zero.",
+      "id": "l3y2-j-B08"
+    }
+  ]
+}

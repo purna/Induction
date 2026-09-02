@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "section": "induction-module-a",
+    "level": "beginner",
+    "title": "Module A — Welcome, Belonging & Support"
+  },
+  "slides": [
+    {
+      "title": "Welcome, Belonging & Support",
+      "content": "This is your first session on your course — settling in, meeting the people you will work with, and understanding what this year asks of you. There's nothing to revise and nothing to get wrong today.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multiplechoice",
+        "prompt": "What is today's session mainly about?",
+        "options": [
+          "Settling in and meeting the people you'll work with",
+          "Sitting a written exam",
+          "Choosing your optional units",
+          "Collecting your final grade"
+        ],
+        "answer": "Settling in and meeting the people you'll work with"
+      }
+    },
+    {
+      "title": "Session Map",
+      "content": "The session covers six things: meet your group, meet your teachers, your study programme, timetable & Pro Portal, support at college, and enrichment & Freshers. There's nothing to revise and nothing to get wrong today.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "fillblank",
+        "prompt": "Complete the reassurance given at the start of the session.",
+        "placeholder": "_____",
+        "answer": "wrong",
+        "caseSensitive": false
+      }
+    },
+    {
+      "title": "Meet Your Group",
+      "content": "Stand up and find two people you have not spoken to yet. Find one thing you have in common, then find one thing that is different about each of you, and be ready to introduce one of your group to the room.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+        "options": [
+          "Completing the course strongly",
+          "Building your portfolio",
+          "Preparing for progression",
+          "Taking the next step into work, university or apprenticeships"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Different."
+      }
+    },
+    {
+      "title": "Meet Your Teachers",
+      "content": "Take a couple of minutes to properly meet your teachers. What you can expect from us: to know your name, treat you with respect, teach you well, and help you when you're stuck. What we'll ask of you: to turn up, give things a go, be kind to people around you, and tell us early if something isn't working.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multiplechoice",
+        "prompt": "What does the session ask you to do if something isn't working?",
+        "options": [
+          "Tell us early",
+          "Wait until the end of the year",
+          "Say nothing",
+          "Only tell your friends"
+        ],
+        "answer": "Tell us early"
+      }
+    },
+    {
+      "title": "Your Study Programme",
+      "content": "Your study programme is everything that makes up your course, not just lessons. It includes your Digital or Media qualification, English & maths, work-related learning, and tutorial & personal development.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "fillblank",
+        "prompt": "Complete the key message about your study programme.",
+        "placeholder": "_____",
+        "answer": "lessons",
+        "caseSensitive": false
+      }
+    },
+    {
+      "title": "Timetable & Pro Portal",
+      "content": "Pro Portal is your digital home. Use it to check your timetable, see messages from teachers and the college, track your attendance and progress, and find links to your learning and key services. The golden rule: check Pro Portal every morning before you set off.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multiplechoice",
+        "prompt": "What is the 'golden rule' for using Pro Portal?",
+        "options": [
+          "Check it every morning before you set off",
+          "Check it once a term",
+          "Only check it if you miss a lesson",
+          "Check it after college finishes"
+        ],
+        "answer": "Check it every morning before you set off"
+      }
+    },
+    {
+      "title": "Let's Be Honest About Starting College",
+      "content": "In pairs, talk about what you're hoping for and what's on your mind about starting college. Talk in pairs for two minutes, then share a few as a group — only if you want to.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Know Where You Are Heading'? Select all that apply.",
+        "options": [
+          "Employment",
+          "Apprenticeships",
+          "University",
+          "Further study"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Know Where You Are Heading."
+      }
+    },
+    {
+      "title": "Support At College",
+      "content": "Everyone needs help sometimes — it's a sign of sense, not weakness. Support at college includes learning support, wellbeing & mental health, money & practical help, and careers & next steps.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multiplechoice",
+        "prompt": "Which of these is NOT one of the four support services mentioned?",
+        "options": [
+          "Exam invigilation",
+          "Learning support",
+          "Wellbeing & mental health",
+          "Careers & next steps"
+        ],
+        "answer": "Exam invigilation"
+      }
+    },
+    {
+      "title": "Enrichment & Freshers",
+      "content": "College is also where you try things, meet people and build a life outside lessons. In the next couple of weeks your campus runs a Freshers Fair — stalls, clubs, freebies and a chance to sign up for the things that interest you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "dragdrop",
+        "prompt": "Complete the sentence about what happens soon after induction",
+        "before": "In the next couple of weeks your campus runs a ",
+        "after": " — stalls, clubs, freebies and a chance to sign up.",
+        "options": [
+          "Freshers Fair",
+          "Sports Day",
+          "Open Evening",
+          "Awards Ceremony"
+        ],
+        "answer": "Freshers Fair"
+      }
+    },
+    {
+      "title": "Wrapping Up",
+      "content": "Today you have met your group and teachers, seen what your study programme involves, got started with your timetable and Pro Portal, found out where to get support, and heard what's on with enrichment and Freshers. Over the next three weeks you'll have more short induction sessions — none of them are tests.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multiplechoice",
+        "prompt": "According to the session, are the other induction sessions over the next three weeks tests?",
+        "options": [
+          "No, they are not tests",
+          "Yes, all of them are tests",
+          "Only some of them are tests",
+          "This isn't mentioned"
+        ],
+        "answer": "No, they are not tests"
+      }
+    }
+  ]
+}

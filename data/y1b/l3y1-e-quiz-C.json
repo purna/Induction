@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-e",
+    "level": "l3",
+    "year": "y1",
+    "module": "E",
+    "variant": "C",
+    "title": "Respect, Relationships & College Values"
+  },
+  "questions": [
+    {
+      "id": "l3y1-e-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Respect Looks Different in Different Settings'? Select all that apply.",
+      "options": [
+        "In college",
+        "On industry placement",
+        "Online",
+        "In future workplaces"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Respect Looks Different in Different Settings."
+    },
+    {
+      "id": "l3y1-e-C02",
+      "type": "scored",
+      "prompt": "What is a key point about 'Behaviour Standards'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "In college",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "In college"
+    },
+    {
+      "id": "l3y1-e-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Your Digital Footprint Matters'? Select all that apply.",
+      "options": [
+        "Online content can be permanent",
+        "Employers may see your online activity",
+        "Social media behaviour can have college consequences",
+        "College policies can apply to online conduct"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Your Digital Footprint Matters."
+    },
+    {
+      "id": "l3y1-e-C04",
+      "type": "scored",
+      "prompt": "What is a key point about 'Zero Tolerance'?",
+      "options": [
+        "It is optional and not required",
+        "Harassment",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 1,
+      "explanation": "Harassment"
+    },
+    {
+      "id": "l3y1-e-C05",
+      "type": "scored",
+      "prompt": "What does the module state about 'Important Equality Act Terms'?",
+      "options": [
+        "It applies only to certain students",
+        "Discrimination: Treating someone unfairly because of a protected characteristic",
+        "It is only assessed in exams",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Discrimination: Treating someone unfairly because of a protected characteristic"
+    },
+    {
+      "id": "l3y1-e-C06",
+      "type": "scored",
+      "prompt": "What does the module state about 'Behaviour Standards'?",
+      "options": [
+        "It is only assessed in exams",
+        "The same standards apply: In college",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "The same standards apply: In college"
+    },
+    {
+      "id": "l3y1-e-C07",
+      "type": "scored",
+      "prompt": "What does the module state about 'Your Digital Footprint Matters'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Remember: Online content can be permanent"
+      ],
+      "answerIndex": 3,
+      "explanation": "Remember: Online content can be permanent"
+    },
+    {
+      "id": "l3y1-e-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Zero Tolerance'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "ESCG has zero tolerance for: Harassment"
+      ],
+      "answerIndex": 3,
+      "explanation": "ESCG has zero tolerance for: Harassment"
+    }
+  ]
+}

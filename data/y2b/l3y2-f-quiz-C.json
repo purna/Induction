@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "section": "l3y2-f",
+    "level": "l3",
+    "year": "y2",
+    "module": "F",
+    "variant": "C",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "id": "l3y2-f-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Biggest Year 2 Risk Is Complacency'? Select all that apply.",
+      "options": [
+        "Assuming problems are fine",
+        "Not reporting concerns",
+        "Becoming casual about safety",
+        "Thinking support is no longer needed"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Biggest Year 2 Risk Is Complacency."
+    },
+    {
+      "id": "l3y2-f-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Pressures Are Different'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "UCAS and progression applications",
+        "Industry placements",
+        "Financial pressures"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Pressures Are Different."
+    },
+    {
+      "id": "l3y2-f-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Safeguarding Still Matters'? Select all that apply.",
+      "options": [
+        "Access to safeguarding support",
+        "Access to wellbeing services",
+        "Reporting routes",
+        "Staff responsibilities"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Safeguarding Still Matters."
+    },
+    {
+      "id": "l3y2-f-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Peer Responsibility Becomes More Important'? Select all that apply.",
+      "options": [
+        "You know your peers",
+        "You recognise changes in behaviour",
+        "You spot concerns earlier"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on Peer Responsibility Becomes More Important."
+    },
+    {
+      "id": "l3y2-f-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'New Online Risks'? Select all that apply.",
+      "options": [
+        "Job scams",
+        "Fake freelance opportunities",
+        "Fake agency offers",
+        "Exploitative contracts"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on New Online Risks."
+    },
+    {
+      "id": "l3y2-f-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'AI Rules Matter More'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "Occupational Specialism Projects",
+        "Major coursework",
+        "Externally moderated assessments"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on AI Rules Matter More."
+    },
+    {
+      "id": "l3y2-f-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Consent Matters'?",
+      "options": [
+        "It applies only to certain students",
+        "Filming people",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 1,
+      "explanation": "Filming people"
+    },
+    {
+      "id": "l3y2-f-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Reporting Concerns Is Still Essential'?",
+      "options": [
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Tell someone early",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Tell someone early"
+    }
+  ]
+}

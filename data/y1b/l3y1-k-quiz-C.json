@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "variant": "C",
+    "title": "Progression Opportunities & Setting Goals"
+  },
+  "questions": [
+    {
+      "id": "l3y1-k-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'This Course Opens Multiple Routes'? Select all that apply.",
+      "options": [
+        "University",
+        "Degree apprenticeships",
+        "Apprenticeships",
+        "Skilled employment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on This Course Opens Multiple Routes."
+    },
+    {
+      "id": "l3y1-k-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'University Is Not the Only Option'? Select all that apply.",
+      "options": [
+        "Media Production degrees",
+        "Film degrees",
+        "Computing degrees",
+        "Cybersecurity degrees"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on University Is Not the Only Option."
+    },
+    {
+      "id": "l3y1-k-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Navigate Builds Evidence'? Select all that apply.",
+      "options": [
+        "Your Digital CV",
+        "Skills Assessment results",
+        "Opportunities record",
+        "Placement evidence"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Navigate Builds Evidence."
+    },
+    {
+      "id": "l3y1-k-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Evidence Beats Memory'? Select all that apply.",
+      "options": [
+        "Dated evidence",
+        "Project records",
+        "Placement records",
+        "Skills development"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Evidence Beats Memory."
+    },
+    {
+      "id": "l3y1-k-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Aspirations and Goals Are Different'? Select all that apply.",
+      "options": [
+        "Specific outcomes",
+        "A deadline",
+        "An action",
+        "A first step"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Aspirations and Goals Are Different."
+    },
+    {
+      "id": "l3y1-k-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Careers Support Exists'? Select all that apply.",
+      "options": [
+        "Careers teams",
+        "Personal tutors",
+        "Heads of Curriculum"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on Careers Support Exists."
+    },
+    {
+      "id": "l3y1-k-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Progression Starts Now'?",
+      "options": [
+        "It is optional and not required",
+        "The work completed this term",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "The work completed this term"
+    },
+    {
+      "id": "l3y1-k-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Careers Support Exists'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "Students can seek help from: Careers teams",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Students can seek help from: Careers teams"
+    }
+  ]
+}

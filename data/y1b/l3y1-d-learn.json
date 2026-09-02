@@ -1,0 +1,209 @@
+{
+  "section": "l3y1-d",
+  "level": "l3",
+  "year": "y1",
+  "module": "D",
+  "title": "Students' Voice & Student Representative Elections",
+  "slides": [
+    {
+      "title": "What is Students' Voice?",
+      "content": "Students' Voice is the process through which students influence: Teaching and learning. Student experience. College facilities. Equipment and software. Timetabling and support. Good student feedback can lead to real improvements when it is specific and evidence-based.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What is Students' Voice?'? Select all that apply.",
+        "options": [
+          "Teaching and learning",
+          "Student experience",
+          "College facilities",
+          "Equipment and software"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What is Students' Voice?."
+      }
+    },
+    {
+      "title": "What Makes Students' Voice Effective?",
+      "content": "Students' Voice works best when: Reps consult their group. Feedback is specific. Students raise issues before meetings. People follow up on agreed actions. Example: ✅ \"Four edit stations cannot run Premiere.\" ❌ \"The software is rubbish.\"",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Makes Students' Voice Effective?'? Select all that apply.",
+        "options": [
+          "Reps consult their group",
+          "Feedback is specific",
+          "Students raise issues before meetings",
+          "People follow up on agreed actions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What Makes Students' Voice Effective?."
+      }
+    },
+    {
+      "title": "Ways to Get Involved",
+      "content": "There are four main ways: Student Representative: Represents your class and attends Student Council meetings. Student Governor: Represents students at Governing Board level. NUS Membership: Provides access to student benefits and discounts. Surveys and Forums: Give students another way to influence college decisions.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Ways to Get Involved'?",
+        "options": [
+          "There are four main ways: Student Representative: Represents your class and attends Student Council meetings",
+          "It applies only to certain students",
+          "It is only assessed in exams",
+          "It is optional and not required"
+        ],
+        "answerIndex": 0,
+        "explanation": "There are four main ways: Student Representative: Represents your class and attends Student Council meetings"
+      }
+    },
+    {
+      "title": "What Does a Student Rep Do?",
+      "content": "A Student Rep: Gathers student opinions. Attends Student Council meetings. Gives feedback about teaching and facilities. Helps find solutions. Reports back to the group. Represents both the course group and English/Maths class.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Does a Student Rep Do?'? Select all that apply.",
+        "options": [
+          "Gathers student opinions",
+          "Attends Student Council meetings",
+          "Gives feedback about teaching and facilities",
+          "Helps find solutions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What Does a Student Rep Do?."
+      }
+    },
+    {
+      "title": "Why Become a Student Rep?",
+      "content": "The role develops: Communication skills. Leadership skills. Problem-solving. Professional conduct. Employability skills. These are qualities employers value.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Why Become a Student Rep?'? Select all that apply.",
+        "options": [
+          "Communication skills",
+          "Leadership skills",
+          "Problem-solving",
+          "Professional conduct"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Why Become a Student Rep?."
+      }
+    },
+    {
+      "title": "What is a Student Governor?",
+      "content": "Student Governors: Sit on the Main Governing Board. Contribute to strategic decisions. Help shape budgets and resources. Bring a student perspective to leadership discussions. Governors are not the same as Representatives. Reps represent a specific group. Governors contribute to decisions affecting the whole college.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What is a Student Governor?'? Select all that apply.",
+        "options": [
+          "Sit on the Main Governing Board",
+          "Contribute to strategic decisions",
+          "Help shape budgets and resources",
+          "Bring a student perspective to leadership discussions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What is a Student Governor?."
+      }
+    },
+    {
+      "title": "Encourage Unity",
+      "content": "The featured PROUD value is: This means: Working together. Sharing concerns collectively. Supporting representatives. Improving things for everyone, not just yourself. Evidence from a group has more influence than a single complaint.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Encourage Unity'? Select all that apply.",
+        "options": [
+          "Working together",
+          "Sharing concerns collectively",
+          "Supporting representatives",
+          "Improving things for everyone, not just yourself"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Encourage Unity."
+      }
+    },
+    {
+      "title": "Elections",
+      "content": "Each group elects: 1. A Course Representative. 2. An English/Maths Representative. Representatives must: Be elected fairly. Be registered officially. Attend required training.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Elections'? Select all that apply.",
+        "options": [
+          "Be elected fairly",
+          "Be registered officially",
+          "Attend required training"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Elections."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Understand Students' Voice Learn how representatives work Give specific, evidence-based feedback Participate in elections Support Encourage Unity Use your voice constructively",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Understand Students' Voice",
+          "Learn how representatives work",
+          "Give specific, evidence-based feedback",
+          "Participate in elections"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-d",
+    "level": "l3",
+    "year": "y1",
+    "module": "D",
+    "variant": "B",
+    "title": "Students' Voice & Student Representative Elections"
+  },
+  "questions": [
+    {
+      "id": "l3y1-d-B01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Students' Voice?",
+      "options": [
+        "Raising money",
+        "Giving students influence over college improvements",
+        "Organising parties",
+        "Creating coursework"
+      ],
+      "answerIndex": 1,
+      "explanation": "Giving students influence over college improvements"
+    },
+    {
+      "id": "l3y1-d-B02",
+      "type": "scored",
+      "prompt": "Which feedback is most useful?",
+      "options": [
+        "\"Everything is bad.\"",
+        "\"Four edit stations cannot run Premiere.\"",
+        "\"Nothing works.\"",
+        "\"The software is rubbish.\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Four edit stations cannot run Premiere.\""
+    },
+    {
+      "id": "l3y1-d-B03",
+      "type": "scored",
+      "prompt": "How many reps are elected from each group?",
+      "options": [
+        "Four",
+        "One",
+        "Three",
+        "Two"
+      ],
+      "answerIndex": 3,
+      "explanation": "Two"
+    },
+    {
+      "id": "l3y1-d-B04",
+      "type": "scored",
+      "prompt": "Which skill is developed by being a Student Rep?",
+      "options": [
+        "Programming",
+        "Driving",
+        "Communication",
+        "Construction"
+      ],
+      "answerIndex": 2,
+      "explanation": "Communication"
+    },
+    {
+      "id": "l3y1-d-B05",
+      "type": "scored",
+      "prompt": "What does a Student Governor focus on?",
+      "options": [
+        "The whole college",
+        "One teacher",
+        "One class",
+        "One course"
+      ],
+      "answerIndex": 0,
+      "explanation": "The whole college"
+    },
+    {
+      "id": "l3y1-d-B06",
+      "type": "scored",
+      "prompt": "Which PROUD value is central to Module D?",
+      "options": [
+        "Seek Opportunity",
+        "Show Respect",
+        "Encourage Unity",
+        "Be Ambitious"
+      ],
+      "answerIndex": 2,
+      "explanation": "Encourage Unity"
+    },
+    {
+      "id": "l3y1-d-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Why Become a Student Rep?'? Select all that apply.",
+      "options": [
+        "Communication skills",
+        "Leadership skills",
+        "Problem-solving",
+        "Professional conduct"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Why Become a Student Rep?."
+    },
+    {
+      "id": "l3y1-d-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'What is a Student Governor?'? Select all that apply.",
+      "options": [
+        "Sit on the Main Governing Board",
+        "Contribute to strategic decisions",
+        "Help shape budgets and resources",
+        "Bring a student perspective to leadership discussions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of What is a Student Governor?."
+    }
+  ]
+}

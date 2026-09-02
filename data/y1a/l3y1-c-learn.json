@@ -1,0 +1,182 @@
+{
+  "section": "l3y1-c",
+  "level": "l3",
+  "year": "y1",
+  "module": "C",
+  "title": "Health & Safety: looking after yourself, looking after each other",
+  "slides": [
+    {
+      "title": "What this session is about",
+      "content": "This isn't a fire-safety lecture. It's about a habit of mind — noticing — that happens to be the thing that keeps people safe. By the end you'll know the basics for here, and what's specific to your subject area. The session is roughly 60 minutes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck frame what Health & Safety at college is really about?",
+        "options": [
+          "Passing a fire-safety test",
+          "A habit of mind — noticing",
+          "Memorising a list of rules",
+          "Avoiding all practical work"
+        ],
+        "answerIndex": 1,
+        "explanation": "The deck says: 'this is not a fire-safety lecture, it is about a habit of mind — noticing.'"
+      }
+    },
+    {
+      "title": "Where we're going",
+      "content": "Eight beats in this session: How's it going? → Tuning in (noticing) → The basics → Show respect → Your subject area → Quick check → If something's not right → One thing. The destination is the 'one thing' commitment at the end — pick one specific thing you'll actually do this week.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Health & Safety Starts with Noticing'? Select all that apply.",
+        "options": [
+          "Hazards become \"normal\"",
+          "People are rushing",
+          "People are distracted",
+          "People do not want to make a fuss"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Health & Safety Starts with Noticing."
+      }
+    },
+    {
+      "title": "Health and safety starts with noticing",
+      "content": "Most accidents don't happen because someone breaks a rule on purpose. They happen because someone stopped noticing — a lighting stand left extended without sandbags in the studio corner, a camera left at the edge of a table during a break, a boom pole left horizontal across a doorway at head height. What switches noticing off: rushing, \"it's always been like that\", distraction — phone, conversation, deadline — and not wanting to make a fuss. What switches it back on: take two seconds — \"is this normal, or has it just become normal?\"; say it out loud to one other person; treat a near miss as information, not an embarrassment.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these 'switch noticing off'? Select all that apply.",
+        "options": [
+          "Rushing",
+          "Thinking 'it's always been like that'",
+          "Distraction — phone, conversation, deadline",
+          "Not wanting to make a fuss"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All four are listed as things that switch noticing off."
+      }
+    },
+    {
+      "title": "The basics, sorted",
+      "content": "If the fire alarm goes, your teacher will confirm the evacuation route from this specific room and your assembly point — studios, computer labs, and production spaces across campuses have different exits, so don't assume it's the same as another room you use. If something's not right — including the toilets — tell your teacher. That's your first point of contact, and they'll take it from there. A few things that hold everywhere: keep walkways and fire exits clear; don't prop doors open 'just for now'; and where PPE is required, it's required — not a judgement call on the day.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What's the first point of contact if you spot something that's not right — including something ordinary like the toilets?",
+        "options": [
+          "Email head office",
+          "Tell your teacher",
+          "Post on the student Facebook group",
+          "Wait for the next staff meeting"
+        ],
+        "answerIndex": 1,
+        "explanation": "The deck says: 'Tell your teacher. Hazard, near miss, damage, or just something that isn't working — that's your first point of contact.'"
+      }
+    },
+    {
+      "title": "Show respect — PROUD",
+      "content": "Show Respect is the PROUD value this module is grounded in. Three kinds of respect, all about safety being a shared responsibility rather than someone else's job. Respect for the space: leave it as you'd want to find it; report damage rather than walking past it. Respect for each other: messing with someone's camera rig, audio setup, lighting configuration or workstation 'as a joke' isn't banter — it's a safety issue with someone else's name on it. Respect for the people who flag things: when a tutor pauses a practical for a safety reason, that's not someone being precious — that's the system working as it should.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which PROUD value is this module grounded in?",
+        "options": [
+          "Seek Opportunity",
+          "Proud to Learn",
+          "Show Respect",
+          "United"
+        ],
+        "answerIndex": 2,
+        "explanation": "Show Respect is the PROUD anchor for Module C."
+      }
+    },
+    {
+      "title": "What safe practice looks like in your subject area",
+      "content": "Four industry-standard rules. (1) No traditional PPE in this environment, but closed-toe shoes are required in any studio where lighting equipment or stands are in use — a toppling lighting stand causes serious foot injury; for location shoots, appropriate footwear for the terrain, weather-appropriate clothing and hi-vis if working near public roads; on T-Level placement your host organisation's PPE requirements apply from day one. (2) Lighting stands: sandbags on base legs when extended (BBC and BECTU industry standard); cameras: wrist strap always, tripod head locked; audio: boom poles through doorways horizontally below head height, cables coiled and stored immediately. (3) Substances: most programmes use no COSHH substances — exception: darkroom/analogue photography (developer, stop bath, fixer are COSHH; gloves and eye protection mandatory). (4) Responsibilities: you return equipment, report faults, submit risk assessments; tutor signs off risk assessments; technician/college handles PAT testing, electrical maintenance, COSHH storage.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "insert",
+        "prompt": "Fill in the blank: lighting stands need sandbags on base legs when extended — this is ____ and BECTU industry standard.",
+        "template": "Lighting stands need sandbags on base legs when extended — this is ____ and BECTU industry standard.",
+        "options": [
+          "BBC",
+          "NICE",
+          "Ofcom",
+          "NHS"
+        ],
+        "answerIndex": 0,
+        "explanation": "Sandbags on base legs is BBC and BECTU industry standard."
+      }
+    },
+    {
+      "title": "Trailing cables and written risk assessments",
+      "content": "Trailing cables are the most common trip hazard in broadcast environments — coil and store them immediately after use. For any location filming, a written risk assessment must be approved by your tutor before you go off-campus — this is college policy and industry practice.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What does the deck say is the most common trip hazard in broadcast environments?",
+        "options": [
+          "Wet floors",
+          "Trailing cables",
+          "Loose carpets",
+          "Camera bags on the floor"
+        ],
+        "answerIndex": 1,
+        "explanation": "Trailing cables are the most common trip hazard in broadcast environments."
+      }
+    },
+    {
+      "title": "If something's not right",
+      "content": "Noticing is only half the job — the other half is saying something. Not making a fuss. Not 'telling on' anyone. Just saying it, early, to someone who can do something about it. And this isn't only about hazards: if a space, an activity, or the way someone's behaving towards you or someone else has made you feel uncomfortable or unsafe, that counts too. Tell someone. Early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck describe the act of reporting something that's not right?",
+        "options": [
+          "It's making a fuss",
+          "It's telling on people",
+          "It's not making a fuss — it's the system doing its job",
+          "It's something only staff should do"
+        ],
+        "answerIndex": 2,
+        "explanation": "Saying something is 'not making a fuss — not \"telling on\" anyone — just saying it, early.'"
+      }
+    },
+    {
+      "title": "Your one thing",
+      "content": "Pick one, write it down, keep it somewhere you'll see it. (1) Find my nearest fire exit and assembly point from the rooms I use most. (2) Find out who I'd report a hazard, near miss or damage to. (3) Check my studio's or digital lab's specific health & safety information once it's shared with me. (4) Tell someone — my tutor, my personal tutor, or the college's safeguarding team — about something that's made me feel uncomfortable or unsafe. Pick the one you'll actually do.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'What Switches Noticing Off'?",
+        "options": [
+          "Rushing",
+          "People are distracted",
+          "Hazards become \"normal\"",
+          "People are rushing"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is a key point from the section on What Switches Noticing Off."
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "section": "l3y2-k",
+    "level": "l3",
+    "year": "y2",
+    "module": "K",
+    "variant": "C",
+    "title": "Progression & Goals - The Final Year"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the deck's verdict on Year 1 evidence that isn't logged?",
+      "options": [
+        "It's still useful informally",
+        "It only matters for university",
+        "If it happened and is not logged, it effectively did not happen. Fix that this week",
+        "It can be re-created later"
+      ],
+      "answerIndex": 2,
+      "explanation": "If it happened and is not logged, it effectively did not happen.",
+      "id": "l3y2-k-C01"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the 'test' the deck applies to Year 2 goals?",
+      "options": [
+        "Does it look ambitious?",
+        "Does it sound good in a tutor's meeting?",
+        "Does it beat the deadline with room to spare? On-time is the new late",
+        "Does it match what your friends are doing?"
+      ],
+      "answerIndex": 2,
+      "explanation": "The test this year is harsher: does it beat the deadline with room to spare? On-time is the new late.",
+      "id": "l3y2-k-C02"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does the deck say to start drafting goals 'backwards from results day'?",
+      "options": [
+        "Because UCAS requires it",
+        "Because tutors prefer it",
+        "Because the grades decide everything and the application calendar exists to protect the time they need",
+        "It's easier to remember"
+      ],
+      "answerIndex": 2,
+      "explanation": "Start at results day and work backwards - the grades decide everything.",
+      "id": "l3y2-k-C03"
+    },
+    {
+      "id": "l3y2-k-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Application Cycle Is Live'? Select all that apply.",
+      "options": [
+        "Making applications",
+        "Meeting deadlines",
+        "Using evidence",
+        "Making decisions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Application Cycle Is Live."
+    },
+    {
+      "id": "l3y2-k-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Dates Matter'? Select all that apply.",
+      "options": [
+        "UCAS applications",
+        "Apprenticeship applications",
+        "Internal reference deadlines",
+        "Predicted grade deadlines"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Dates Matter."
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this final progression session?",
+      "options": [
+        "A ceremonial farewell",
+        "The last induction session you'll ever sit through - ninety minutes to turn two years of evidence into a plan, with the first application deadline already live",
+        "An exam preparation session",
+        "A placement briefing"
+      ],
+      "answerIndex": 1,
+      "explanation": "The last induction session you will ever sit through.",
+      "id": "l3y2-k-C06"
+    },
+    {
+      "id": "l3y2-k-C07",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Navigate Becomes Application Material'? Select all that apply.",
+      "options": [
+        "UCAS content",
+        "Apprenticeship evidence",
+        "Portfolio evidence",
+        "References"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Navigate Becomes Application Material."
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's claim about 'results day' in relation to the application cycle?",
+      "options": [
+        "Results day is the only thing that matters",
+        "Results day is more important than the application",
+        "It is at the end of Year 2",
+        "Every deadline above exists to protect the time you need to earn them - the application is the easy half"
+      ],
+      "answerIndex": 3,
+      "explanation": "Every deadline above exists to protect the time you need to earn them - the application is the easy half.",
+      "id": "l3y2-k-C08"
+    }
+  ]
+}

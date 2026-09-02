@@ -1,0 +1,234 @@
+{
+  "section": "l3y2-e",
+  "level": "l3",
+  "year": "y2",
+  "module": "E",
+  "title": "Respect, Relationships & College Values",
+  "slides": [
+    {
+      "title": "Year 2 Is About Application",
+      "content": "Year 2 is not about learning these ideas for the first time. It is about: Applying them consistently. Challenging poor behaviour. Taking responsibility for standards. Acting professionally in familiar environments.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is About Application'? Select all that apply.",
+        "options": [
+          "Applying them consistently",
+          "Challenging poor behaviour",
+          "Taking responsibility for standards",
+          "Acting professionally in familiar environments"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is About Application."
+      }
+    },
+    {
+      "title": "Familiarity Creates Risk",
+      "content": "When people know each other well: Poor behaviour can become normalised. Inappropriate jokes may be accepted. Exclusion may be overlooked. Standards can slip. Familiarity is not an excuse for poor conduct.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Familiarity Creates Risk'? Select all that apply.",
+        "options": [
+          "Poor behaviour can become normalised",
+          "Inappropriate jokes may be accepted",
+          "Exclusion may be overlooked",
+          "Standards can slip"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Familiarity Creates Risk."
+      }
+    },
+    {
+      "title": "PROUD Values in Year 2",
+      "content": "Year 2 students should: Set the standard for others. Include people who may be left out. Maintain professionalism. Help develop and support others. Being a role model matters more in Year 2.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'PROUD Values in Year 2'? Select all that apply.",
+        "options": [
+          "Set the standard for others",
+          "Include people who may be left out",
+          "Maintain professionalism",
+          "Help develop and support others"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on PROUD Values in Year 2."
+      }
+    },
+    {
+      "title": "British Values Require Action",
+      "content": "By Year 2 you already know the values. The challenge is to: Use your voice. Challenge inappropriate behaviour. Respect rules. Show tolerance and respect under peer pressure.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'British Values Require Action'? Select all that apply.",
+        "options": [
+          "Use your voice",
+          "Challenge inappropriate behaviour",
+          "Respect rules",
+          "Show tolerance and respect under peer pressure"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on British Values Require Action."
+      }
+    },
+    {
+      "title": "Equality Act Responsibilities",
+      "content": "The Equality Act is not only about your rights. You also have responsibilities: Do not discriminate. Do not harass others. Do not victimise others. Do not ignore behaviour that targets others. Knowing the law and applying it are different things.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Equality Act Responsibilities'? Select all that apply.",
+        "options": [
+          "Do not discriminate",
+          "Do not harass others",
+          "Do not victimise others",
+          "Do not ignore behaviour that targets others"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Equality Act Responsibilities."
+      }
+    },
+    {
+      "title": "Behaviour Standards Remain the Same",
+      "content": "This applies: In college. On placement. Online. In Year 2: People notice your professionalism. Placement references matter. Your conduct affects progression opportunities.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Behaviour Standards Remain the Same'? Select all that apply.",
+        "options": [
+          "In college",
+          "On placement",
+          "Online",
+          "People notice your professionalism"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Behaviour Standards Remain the Same."
+      }
+    },
+    {
+      "title": "Audit Your Online Presence",
+      "content": "You should: Review old posts. Consider what employers might see. Remove inappropriate content where possible. Maintain professional standards online.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Audit Your Online Presence'? Select all that apply.",
+        "options": [
+          "Review old posts",
+          "Consider what employers might see",
+          "Remove inappropriate content where possible",
+          "Maintain professional standards online"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Audit Your Online Presence."
+      }
+    },
+    {
+      "title": "Zero Tolerance Includes Bystanders",
+      "content": "A major Year 2 message: Allowing harmful behaviour to continue can make you part of the problem. Students should: Challenge concerns. Report concerns. Support affected people. Avoid remaining silent when action is needed.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Zero Tolerance Includes Bystanders'? Select all that apply.",
+        "options": [
+          "Challenge concerns",
+          "Report concerns",
+          "Support affected people",
+          "Avoid remaining silent when action is needed"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Zero Tolerance Includes Bystanders."
+      }
+    },
+    {
+      "title": "Reporting Concerns Is a Responsibility",
+      "content": "Reporting is not simply an option. Do not assume: Someone else has reported it. Someone else will deal with it. Use: 1. Teacher reporting. 2. Formal reporting systems. 3. Anonymous reporting routes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Reporting Concerns Is a Responsibility'?",
+        "options": [
+          "Someone else has reported it",
+          "Challenging poor behaviour",
+          "Taking responsibility for standards",
+          "Applying them consistently"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is a key point from the section on Reporting Concerns Is a Responsibility."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Apply values consistently Challenge normalised poor behaviour Take responsibility for group culture Protect others as well as yourself Audit your digital footprint Understand that silence and inaction can contribute to problems. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Apply values consistently",
+          "Challenge normalised poor behaviour",
+          "Take responsibility for group culture",
+          "Protect others as well as yourself"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

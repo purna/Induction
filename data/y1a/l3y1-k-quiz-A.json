@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "title": "Progression Opportunities & Setting Goals",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-k-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value is this module grounded in?",
+      "options": [
+        "Show Respect",
+        "Encourage Unity",
+        "Seek Opportunity",
+        "Be Proud"
+      ],
+      "answerIndex": 2,
+      "explanation": "Seek Opportunity - the same value that opened the programme."
+    },
+    {
+      "id": "l3y1-k-A02",
+      "type": "insert",
+      "prompt": "Fill in the blank: the deck maps ____ progression routes.",
+      "template": "The deck maps ____ progression routes.",
+      "options": [
+        "three",
+        "four",
+        "five",
+        "seven"
+      ],
+      "answerIndex": 2,
+      "explanation": "Five routes."
+    },
+    {
+      "id": "l3y1-k-A03",
+      "type": "multi",
+      "prompt": "Which are the five routes in the deck? Select all that apply.",
+      "options": [
+        "University & higher education",
+        "Degree apprenticeships",
+        "Apprenticeships",
+        "Skilled employment",
+        "Further study"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "All five are the routes."
+    },
+    {
+      "id": "l3y1-k-A04",
+      "type": "multi",
+      "prompt": "What is the deck's headline about opportunities evidence? Select all that apply.",
+      "options": [
+        "Half-remembered anecdotes",
+        "Dated evidence - not half-remembered anecdotes",
+        "Only paid work counts",
+        "Only what your tutor remembers",
+        "This is what references are written from"
+      ],
+      "correctIndices": [
+        1,
+        4
+      ],
+      "explanation": "Dated evidence - not half-remembered anecdotes; this is what references are written from."
+    },
+    {
+      "id": "l3y1-k-A05",
+      "type": "scored",
+      "prompt": "What's the deck's test for whether something is a goal rather than an aspiration?",
+      "options": [
+        "It must be SMART",
+        "Does it tell you what to do next week? If not, it is still an aspiration",
+        "It must mention university",
+        "It must be approved by a tutor"
+      ],
+      "answerIndex": 1,
+      "explanation": "Does it tell you what to do next week?"
+    },
+    {
+      "id": "l3y1-k-A06",
+      "type": "multi",
+      "prompt": "Which of these are progression routes mentioned in the deck? Select all that apply.",
+      "options": [
+        "University",
+        "Employment",
+        "Degree apprenticeship",
+        "All of the above"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "University, employment, and degree apprenticeships are all progression routes."
+    },
+    {
+      "id": "l3y1-k-A07",
+      "type": "scored",
+      "prompt": "What does the deck say to do if you are unsure the course is right?",
+      "options": [
+        "Wait until next term",
+        "Say so now. Waiting does not keep your options open - it closes them",
+        "Switch without telling anyone",
+        "Drop out"
+      ],
+      "answerIndex": 1,
+      "explanation": "If you are unsure, say so now. Waiting does not keep your options open - it closes them."
+    },
+    {
+      "id": "l3y1-k-A08",
+      "type": "scored",
+      "prompt": "Navigate should be used to:",
+      "options": [
+        "Avoid careers planning",
+        "Build evidence",
+        "Replace attendance",
+        "Replace coursework"
+      ],
+      "answerIndex": 1,
+      "explanation": "Build evidence"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "section": "l3y2-b",
+  "level": "l3",
+  "year": "y2",
+  "module": "B",
+  "title": "Confidence, Independence & the Last Lap",
+  "slides": [
+    {
+      "title": "Why this session is different from Year 1",
+      "content": "Not new-starter content. The Year 2 version - what's different, what's still true, what you're committing to today. About 55 minutes. You've produced the work now - Year 2 is where the Final Major Project, the portfolio, and the industry placement all have to come together. PROUD value anchor: Seek Opportunity.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which PROUD value does this module anchor on?",
+        "options": [
+          "Bring Positivity",
+          "Show Respect",
+          "Seek Opportunity",
+          "Encourage Unity"
+        ],
+        "answerIndex": 2,
+        "explanation": "The PROUD value anchor for this module is Seek Opportunity."
+      }
+    },
+    {
+      "title": "The session in six beats",
+      "content": "Six beats in about 55 minutes: 1) What shifts in Year 2; 2) Time and the final fuse; 3) Seek Opportunity; 4) Confidence; 5) Attendance; 6) Your habit.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+        "options": [
+          "Final assessments",
+          "Portfolios",
+          "Final Major Projects (FMP)",
+          "Industry placements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Different."
+      }
+    },
+    {
+      "title": "Year 1 to Year 2: three concrete shifts",
+      "content": "Year 1 was foundation-building. Year 2 is where you build on it. Three shifts: foundation -> building on it (gaps from Year 1 don't disappear, they compound); freedom to find your feet -> the margin's gone (final assessments and graded portfolios - what you hand in is what you're judged on); staff were patient with orientation -> staff expect the self-managed version of you. They're right to.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what happens to gaps from Year 1 in Year 2?",
+        "options": [
+          "They disappear over the summer",
+          "They compound - what you didn't consolidate in Year 1 is what you hand in for final assessment",
+          "They're forgiven by staff",
+          "They get covered in a refresher week"
+        ],
+        "answerIndex": 1,
+        "explanation": "Gaps from Year 1 don't disappear - they compound."
+      }
+    },
+    {
+      "title": "Time and the final fuse",
+      "content": "The long fuse: missed work doesn't punish you the week you miss it. It punishes you at the portfolio deadline, when you're catching up and trying to produce new work simultaneously. It's avoidable - if you decide in advance. The one move that still helps: treat free periods as actual sessions. The students who finish Year 2 well aren't the ones who worked hardest in June - they're the ones who didn't leave everything until June.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "When does the deck say a missed brief actually hurts you?",
+        "options": [
+          "The week you miss it",
+          "At the portfolio deadline, when you're catching up and trying to produce new work simultaneously",
+          "Only at the end of Year 2",
+          "Never, if you explain it"
+        ],
+        "answerIndex": 1,
+        "explanation": "It hurts you at the portfolio deadline, when you're catching up and trying to produce new work simultaneously."
+      }
+    },
+    {
+      "title": "Seek Opportunity - the Year 2 version",
+      "content": "The honest version of 'be ambitious' in Year 2. Make progression concrete this year: apprenticeship, higher education, employment - whatever your route, it has to be active now, not pending. Build something to talk about: a completed placement logbook entry, a short film or editorial piece for your portfolio, a live Behance or Vimeo page - applications need things to have actually happened. Treat Year 2 setbacks as information - there's still time to course-correct, not in June, but now.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are the three Year 2 'Seek Opportunity' moves, according to the deck? Select all that apply.",
+        "options": [
+          "Make progression concrete this year - it's active now, not pending",
+          "Build something to talk about - applications need things to have actually happened",
+          "Treat Year 2 setbacks as information - course-correct now, not in June",
+          "Wait for someone to offer you a placement"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "The three moves are: make progression concrete, build something to talk about, treat setbacks as information."
+      }
+    },
+    {
+      "title": "The Year 2 confidence trap",
+      "content": "Year 2 students split two ways. The coasting trap: Year 1 went fine. Year 2 can feel like more of the same - until the stakes stop being practice. The wall trap: Year 2 pressure is real and you don't want to admit you're struggling. So you don't ask. Both lead to the same place. Asking early is the move. The trap is 'Year 1 was fine. I know how to do this - I don't need to change anything.' The honest version is 'Year 2 is a different job. The habits that got me through Year 1 need upgrading - and if I'm struggling, I'll say so early.'",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is 'the wall trap' in Year 2, according to the deck?",
+        "options": [
+          "Hitting a literal wall in a shoot",
+          "Year 2 pressure is real and you don't want to admit you're struggling, so you don't ask",
+          "The college's server goes down during deadline week",
+          "You forget your login for Pro Portal"
+        ],
+        "answerIndex": 1,
+        "explanation": "The wall trap: Year 2 pressure is real and you don't want to admit you're struggling, so you don't ask."
+      }
+    },
+    {
+      "title": "Attendance - the Year 2 case",
+      "content": "No thresholds. No lecture. The Year 2 case for showing up. The bit that isn't on the slides - off-script teaching, grade-band detail, answers to questions; not catchable up from notes. Final assessments compound - missing teaching while completing final work doesn't work. References are written from memory - staff remember who showed up in Year 2, not just Year 1. Being seen at the finish - Year 2 is when 'put the effort in' or 'coasted' gets written; attendance is how it's seen.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How does the deck say staff writing references remember attendance?",
+        "options": [
+          "They use a database; it's all automatic",
+          "They remember who showed up in Year 2, not just Year 1",
+          "They use the same letter for everyone",
+          "They only ask for Year 1 attendance"
+        ],
+        "answerIndex": 1,
+        "explanation": "References are written from memory - staff remember who showed up in Year 2, not just Year 1."
+      }
+    },
+    {
+      "title": "Real barriers - not excuses",
+      "content": "Attendance isn't always about willpower. Sometimes it's about something real, and the response is help, not a warning. Real barriers: burnout from Year 1 (production hours, portfolio deadlines, live project responsibilities all stacking up); pressure (high stakes feeling paralysing, not motivating); money and travel; things at home (caring, family pressure, unsafe situations); neurodivergence not yet supported, or chronic health. Tell someone. Early. A barrier we know about is one we can help with. A barrier we don't know about is one that quietly takes you out.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what is the right response when a real barrier (not an excuse) is making attendance hard?",
+        "options": [
+          "Issue a formal warning immediately",
+          "Help - tell someone early, so the barrier is one we can work with",
+          "Wait until attendance drops further",
+          "Refer directly to exam board"
+        ],
+        "answerIndex": 1,
+        "explanation": "Tell someone. Early. A barrier we know about is one we can help with."
+      }
+    },
+    {
+      "title": "My one habit - one specific thing this week",
+      "content": "Pick one. One thing. This week. Not a resolution - a specific action. Your tutor keeps the card. Options: (1) Decide in advance what one free period this week is actually for. (2) Address one thing brought forward from Year 1 - an unresolved portfolio unit, a placement reflection you haven't written, or a Final Major Project specialism you haven't decided. (3) Take one Seek-Opportunity step - progression planning, work experience. (4) Tell someone about a barrier that's making it hard to come in. Why one habit, not five - habits change behaviour. Plans don't. Five at once is a plan - which means none of them happen.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Why does the deck ask for one habit, not five?",
+        "options": [
+          "Five is too many words for a card",
+          "Habits change behaviour; five at once is a plan - which means none of them happen",
+          "The teacher can only mark one answer",
+          "Five cards cost more to print"
+        ],
+        "answerIndex": 1,
+        "explanation": "Habits change behaviour. Plans don't. Five at once is a plan - which means none of them happen."
+      }
+    },
+    {
+      "title": "Wrapping up - what you take from this",
+      "content": "Today you have: named what's different about Year 2 and why it's the decisive lap; seen where the final fuse leads; revisited Seek Opportunity in Year 2 terms; heard the Year 2 case for attendance; picked one habit for this week. The rest of induction covers wellbeing, progression planning, and the careers and pathways work that turns Year 2 effort into what happens next. Don't fumble the last lap. Decide in advance. Ask early. Tell us when it's hard. That's the year.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Gaps Compound'? Select all that apply.",
+        "options": [
+          "Missing skills",
+          "Incomplete portfolio work",
+          "Poor organisation",
+          "Lower attendance"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Gaps Compound."
+      }
+    }
+  ]
+}

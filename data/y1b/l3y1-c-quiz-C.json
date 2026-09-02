@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "section": "l3y1-c",
+    "level": "l3",
+    "year": "y1",
+    "module": "C",
+    "variant": "C",
+    "title": "Health & Safety"
+  },
+  "questions": [
+    {
+      "id": "l3y1-c-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Health & Safety Starts with Noticing'? Select all that apply.",
+      "options": [
+        "Hazards become \"normal\"",
+        "People are rushing",
+        "People are distracted",
+        "People do not want to make a fuss"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Health & Safety Starts with Noticing."
+    },
+    {
+      "id": "l3y1-c-C02",
+      "type": "scored",
+      "prompt": "What is a key point about 'What Switches Noticing Off'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Rushing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Rushing"
+    },
+    {
+      "id": "l3y1-c-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Safety Basics Everyone Must Know'? Select all that apply.",
+      "options": [
+        "Your fire exit route",
+        "Your assembly point",
+        "Who to tell if something is wrong",
+        "That walkways and fire exits must stay clear"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Safety Basics Everyone Must Know."
+    },
+    {
+      "id": "l3y1-c-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Reporting Problems Is Part of Safety'? Select all that apply.",
+      "options": [
+        "Hazards",
+        "Near misses",
+        "Damaged equipment",
+        "Facilities issues"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Reporting Problems Is Part of Safety."
+    },
+    {
+      "id": "l3y1-c-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Show Respect'? Select all that apply.",
+      "options": [
+        "Tidy up",
+        "Report damage",
+        "Leave things as you found them",
+        "Do not interfere with their equipment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Show Respect."
+    },
+    {
+      "id": "l3y1-c-C06",
+      "type": "scored",
+      "prompt": "What is a key point about 'Media & Studio Safety'?",
+      "options": [
+        "Closed-toe shoes in studios",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "Closed-toe shoes in studios"
+    },
+    {
+      "id": "l3y1-c-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Responsibility Is Shared'?",
+      "options": [
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "Using equipment safely"
+      ],
+      "answerIndex": 3,
+      "explanation": "Using equipment safely"
+    },
+    {
+      "id": "l3y1-c-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'If Something Feels Unsafe'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "A space feels unsafe"
+      ],
+      "answerIndex": 3,
+      "explanation": "A space feels unsafe"
+    }
+  ]
+}

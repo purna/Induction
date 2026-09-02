@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-i",
+    "level": "l3",
+    "year": "y1",
+    "module": "I",
+    "variant": "A",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "id": "l3y1-i-A01",
+      "type": "scored",
+      "prompt": "Professional behaviour should be the same:",
+      "options": [
+        "In college, placements and employment",
+        "Only in college",
+        "Only at work",
+        "Only during interviews"
+      ],
+      "answerIndex": 0,
+      "explanation": "In college, placements and employment"
+    },
+    {
+      "id": "l3y1-i-A02",
+      "type": "scored",
+      "prompt": "Which of the following is a human skill?",
+      "options": [
+        "Exam technique",
+        "Punctuality",
+        "Reliability",
+        "Tuition"
+      ],
+      "answerIndex": 2,
+      "explanation": "Reliability"
+    },
+    {
+      "id": "l3y1-i-A03",
+      "type": "scored",
+      "prompt": "References mainly reflect:",
+      "options": [
+        "One lesson",
+        "A consistent pattern of behaviour",
+        "One assignment",
+        "A single bad day"
+      ],
+      "answerIndex": 1,
+      "explanation": "A consistent pattern of behaviour"
+    },
+    {
+      "id": "l3y1-i-A04",
+      "type": "scored",
+      "prompt": "Which statement provides evidence?",
+      "options": [
+        "\"I'm reliable.\"",
+        "\"I coordinated deadlines and ensured the group submitted on time.\"",
+        "\"I work hard.\"",
+        "\"I'm a good communicator.\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"I coordinated deadlines and ensured the group submitted on time.\""
+    },
+    {
+      "id": "l3y1-i-A05",
+      "type": "scored",
+      "prompt": "Which skill involves noticing what needs doing without instruction?",
+      "options": [
+        "Communication",
+        "Attendance",
+        "Initiative",
+        "Teamwork"
+      ],
+      "answerIndex": 2,
+      "explanation": "Initiative"
+    },
+    {
+      "id": "l3y1-i-A06",
+      "type": "scored",
+      "prompt": "What should you do if a Skills Assessment result surprises you?",
+      "options": [
+        "Delete it",
+        "Repeat it immediately",
+        "Compare it with your own evidence and feedback",
+        "Ignore it"
+      ],
+      "answerIndex": 2,
+      "explanation": "Compare it with your own evidence and feedback"
+    },
+    {
+      "id": "l3y1-i-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Professional Behaviour Applies Everywhere'?",
+      "options": [
+        "It is only assessed in exams",
+        "The same standards apply: In college",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "The same standards apply: In college"
+    },
+    {
+      "id": "l3y1-i-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Professionalism Is About Habits'?",
+      "options": [
+        "It applies only to certain students",
+        "Professionalism is not something you switch on for interviews",
+        "It is only assessed in exams",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Professionalism is not something you switch on for interviews"
+    }
+  ]
+}

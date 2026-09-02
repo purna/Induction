@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "section": "l3y1-f",
+    "level": "l3",
+    "year": "y1",
+    "module": "F",
+    "title": "Staying Safe at College",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-f-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Safeguarding Means'? Select all that apply.",
+      "options": [
+        "Protecting students from harm",
+        "Preventing abuse, exploitation and neglect",
+        "Supporting wellbeing and mental health",
+        "Making sure concerns can be raised and acted upon"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Safeguarding Means."
+    },
+    {
+      "id": "l3y1-f-C02",
+      "type": "scored",
+      "prompt": "How does the deck define radicalisation?",
+      "options": [
+        "Holding extreme political views",
+        "The process by which someone comes to support terrorism or forms of extremism that lead to terrorism",
+        "Joining a protest",
+        "Reading online news"
+      ],
+      "answerIndex": 1,
+      "explanation": "Radicalisation is the process by which someone comes to support terrorism or forms of extremism that lead to terrorism."
+    },
+    {
+      "id": "l3y1-f-C03",
+      "type": "scored",
+      "prompt": "Which phrase from the deck captures the Prevent message about debating politics?",
+      "options": [
+        "Avoid politics at all costs",
+        "Exploring ideas and debating politics is fine - and encouraged. Being pushed toward hatred of a group of people is not the same thing.",
+        "Only discuss politics with staff",
+        "Politics is banned at college"
+      ],
+      "answerIndex": 1,
+      "explanation": "Exploring ideas and debating politics is fine - and encouraged. Being pushed toward hatred of a group of people is not the same thing."
+    },
+    {
+      "id": "l3y1-f-C04",
+      "type": "scored",
+      "prompt": "What does the deck say about personal data and public AI tools?",
+      "options": [
+        "Anything goes",
+        "Do not enter personal data into public AI tools - your name, address, college login, or details about other students or staff",
+        "Only enter your first name",
+        "Only enter it if logged in"
+      ],
+      "answerIndex": 1,
+      "explanation": "Do not enter personal data into public AI tools."
+    },
+    {
+      "id": "l3y1-f-C05",
+      "type": "multi",
+      "prompt": "Which of these are part of the four-step safeguarding process? Select all that apply.",
+      "options": [
+        "Something is raised",
+        "The right person is told same-day",
+        "The concern is assessed",
+        "Confidentiality - honest about limits"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the steps: Something is raised -> right person told same-day -> concern assessed -> confidentiality honest about its limits."
+    },
+    {
+      "id": "l3y1-f-C06",
+      "type": "insert",
+      "prompt": "Fill in the blank: ESCG uses ____ for filtering and monitoring.",
+      "template": "ESCG uses ____ for filtering and monitoring.",
+      "options": [
+        "Smoothwall",
+        "Norton",
+        "McAfee",
+        "Sophos"
+      ],
+      "answerIndex": 0,
+      "explanation": "ESCG uses Smoothwall for filtering and monitoring."
+    },
+    {
+      "id": "l3y1-f-C07",
+      "type": "scored",
+      "prompt": "Which is the deck's reframe of telling someone you're worried about a friend?",
+      "options": [
+        "It's a betrayal",
+        "It's the right thing to do - it's not a betrayal",
+        "It must wait until you're sure",
+        "Only your tutor can do it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Acting on concern for a friend is the right thing. It is not a betrayal."
+    },
+    {
+      "id": "l3y1-f-C08",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'College Is Different from School'? Select all that apply.",
+      "options": [
+        "You have more independence",
+        "You make more of your own decisions",
+        "Staff monitor less directly",
+        "You can self-refer for support"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on College Is Different from School."
+    },
+    {
+      "id": "l3y1-f-C09",
+      "type": "multi",
+      "prompt": "Which routes can you use to report a concern about yourself? Select all that apply.",
+      "options": [
+        "Talk to any member of staff you trust",
+        "Go directly to the Safeguarding Manager",
+        "Contact the Wellbeing Team - no referral needed",
+        "Email safeguarding@escg.ac.uk or report anonymously"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are routes you can use if you are worried about yourself."
+    }
+  ]
+}

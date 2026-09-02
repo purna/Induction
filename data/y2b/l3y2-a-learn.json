@@ -1,0 +1,225 @@
+{
+  "section": "l3y2-a",
+  "level": "l3",
+  "year": "y2",
+  "module": "A",
+  "title": "Welcome, Belonging & Support",
+  "slides": [
+    {
+      "title": "Year 2 Is Different",
+      "content": "Year 2 is not about learning how college works. It is about: Completing the course strongly. Building your portfolio. Preparing for progression. Taking the next step into work, university or apprenticeships.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+        "options": [
+          "Completing the course strongly",
+          "Building your portfolio",
+          "Preparing for progression",
+          "Taking the next step into work, university or apprenticeships"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Different."
+      }
+    },
+    {
+      "title": "Know Where You Are Heading",
+      "content": "Students should have a developing idea of: Employment. Apprenticeships. University. Further study. It is acceptable not to know yet, but you should start exploring your options actively.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Know Where You Are Heading'? Select all that apply.",
+        "options": [
+          "Employment",
+          "Apprenticeships",
+          "University",
+          "Further study"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Know Where You Are Heading."
+      }
+    },
+    {
+      "title": "Year 2 Demands More",
+      "content": "Key changes include: Higher stakes. Bigger projects. More deadlines. Applications. Greater independence. Grades, portfolios and placements now carry significant weight.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Demands More'? Select all that apply.",
+        "options": [
+          "Higher stakes",
+          "Bigger projects",
+          "More deadlines",
+          "Applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Demands More."
+      }
+    },
+    {
+      "title": "The Biggest Risk Is Drift",
+      "content": "Many students do not underperform because they lack ability. Problems often come from: Missing deadlines. Reduced attendance. Delayed applications. Poor organisation. The key message is: Don't fumble the last lap.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Biggest Risk Is Drift'? Select all that apply.",
+        "options": [
+          "Missing deadlines",
+          "Reduced attendance",
+          "Delayed applications",
+          "Poor organisation"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Biggest Risk Is Drift."
+      }
+    },
+    {
+      "title": "Stay Organised",
+      "content": "Use: Pro Portal. Calendars. Deadline trackers. Year 2 students should know where all major deadlines are recorded and monitored.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Stay Organised'? Select all that apply.",
+        "options": [
+          "Pro Portal",
+          "Calendars",
+          "Deadline trackers"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Stay Organised."
+      }
+    },
+    {
+      "title": "Support Still Matters",
+      "content": "Support remains available for: Careers. Applications. Progression. Wellbeing. Financial issues. Academic concerns. Many Year 2 students stop asking for help when they need it most.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Support Still Matters'? Select all that apply.",
+        "options": [
+          "Careers",
+          "Applications",
+          "Progression",
+          "Wellbeing"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Support Still Matters."
+      }
+    },
+    {
+      "title": "All Progression Routes Are Valuable",
+      "content": "Three major destination routes include: Employment: A strong and valid outcome. Apprenticeships: Earn while learning. University/Higher Education: Degree-based progression. There is no \"second-best\" route.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'All Progression Routes Are Valuable'?",
+        "options": [
+          "It is optional and not required",
+          "It applies only to certain students",
+          "It is only assessed in exams",
+          "Three major destination routes include: Employment: A strong and valid outcome"
+        ],
+        "answerIndex": 3,
+        "explanation": "Three major destination routes include: Employment: A strong and valid outcome"
+      }
+    },
+    {
+      "title": "Use a Simple Career Test",
+      "content": "Ask: \"Will this give me something meaningful to discuss in an interview?\" Activities that strengthen portfolios, applications and experience are usually worth doing.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Use a Simple Career Test'?",
+        "options": [
+          "It applies only to certain students",
+          "It is optional and not required",
+          "Ask: \"Will this give me something meaningful to discuss in an interview?\" Activities that strengthen portfolios, applica",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 2,
+        "explanation": "Ask: \"Will this give me something meaningful to discuss in an interview?\" Activities that strengthen portfolios, applica"
+      }
+    },
+    {
+      "title": "Define Your Final-Year Focus",
+      "content": "Students should identify: Where they want to be at the end of Year 2. One habit that will help them get there. One issue they need to address early. Writing goals increases the likelihood of achieving them.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Define Your Final-Year Focus'? Select all that apply.",
+        "options": [
+          "Where they want to be at the end of Year 2",
+          "One habit that will help them get there",
+          "One issue they need to address early"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Define Your Final-Year Focus."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Focus on finishing strongly Decide where you are heading next Avoid drift and missed opportunities Stay organised Continue using support Build the portfolio, experience and evidence needed for your next step. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Focus on finishing strongly",
+          "Decide where you are heading next",
+          "Avoid drift and missed opportunities",
+          "Stay organised"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

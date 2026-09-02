@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "section": "l3y2-g",
+    "level": "l3",
+    "year": "y2",
+    "module": "G",
+    "variant": "C",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "id": "l3y2-g-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is Heavier'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "Employer Set Projects",
+        "Coursework",
+        "Industry placements"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is Heavier."
+    },
+    {
+      "id": "l3y2-g-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Mental Health Still Moves'? Select all that apply.",
+      "options": [
+        "Thriving",
+        "Coping",
+        "Struggling",
+        "In Crisis"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Mental Health Still Moves."
+    },
+    {
+      "id": "l3y2-g-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Stress Often Looks Like Avoidance'? Select all that apply.",
+      "options": [
+        "Avoiding Final Major Project work",
+        "Delaying difficult tasks",
+        "Avoiding production sessions",
+        "Ignoring skill gaps"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Stress Often Looks Like Avoidance."
+    },
+    {
+      "id": "l3y2-g-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Same Four Solutions Still Work'? Select all that apply.",
+      "options": [
+        "Move",
+        "Connect",
+        "Sleep",
+        "Talk"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Same Four Solutions Still Work."
+    },
+    {
+      "id": "l3y2-g-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Sleep Matters More Than Students Think'? Select all that apply.",
+      "options": [
+        "Learns less effectively",
+        "Makes poorer decisions",
+        "Finds projects harder",
+        "Experiences stronger emotions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Sleep Matters More Than Students Think."
+    },
+    {
+      "id": "l3y2-g-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Tell College About Changes'? Select all that apply.",
+      "options": [
+        "Health",
+        "Home circumstances",
+        "Mental health",
+        "Learning support needs"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Tell College About Changes."
+    },
+    {
+      "id": "l3y2-g-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Peer Responsibility Matters More'?",
+      "options": [
+        "It is optional and not required",
+        "Withdrawal",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Withdrawal"
+    },
+    {
+      "id": "l3y2-g-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Strong Finishes Need Early Support'?",
+      "options": [
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "Complete projects successfully"
+      ],
+      "answerIndex": 3,
+      "explanation": "Complete projects successfully"
+    }
+  ]
+}

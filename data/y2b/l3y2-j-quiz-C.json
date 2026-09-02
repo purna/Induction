@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "section": "l3y2-j",
+    "level": "l3",
+    "year": "y2",
+    "module": "J",
+    "variant": "C",
+    "title": "Work Experience"
+  },
+  "questions": [
+    {
+      "id": "l3y2-j-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'This Is Round Two'? Select all that apply.",
+      "options": [
+        "You already have experience",
+        "You can target your specialism",
+        "Applications are approaching",
+        "You can build on Year 1 evidence"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on This Is Round Two."
+    },
+    {
+      "id": "l3y2-j-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'A Second Placement Has More Value'? Select all that apply.",
+      "options": [
+        "More evidence",
+        "More references",
+        "Greater professional credibility",
+        "Stronger applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on A Second Placement Has More Value."
+    },
+    {
+      "id": "l3y2-j-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Connect Placement to Your Future'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "Occupational Specialisms",
+        "Career aspirations",
+        "UCAS applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Connect Placement to Your Future."
+    },
+    {
+      "id": "l3y2-j-C04",
+      "type": "scored",
+      "prompt": "What is a key point about 'The Requirement Resets'?",
+      "options": [
+        "Placement requirements restart each academic year",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Placement requirements restart each academic year"
+    },
+    {
+      "id": "l3y2-j-C05",
+      "type": "scored",
+      "prompt": "What is a key point about 'Key Dates'?",
+      "options": [
+        "**Skills Week:** 8 March 2027",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "**Skills Week:** 8 March 2027"
+    },
+    {
+      "id": "l3y2-j-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Process Is the Same'? Select all that apply.",
+      "options": [
+        "Navigate",
+        "Employer details",
+        "Placement requests",
+        "Placement journals"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Process Is the Same."
+    },
+    {
+      "id": "l3y2-j-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Raise Your Professional Standards'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Strong communication",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Strong communication"
+    },
+    {
+      "id": "l3y2-j-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Placement Reputation Matters'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Professional behaviour"
+      ],
+      "answerIndex": 3,
+      "explanation": "Professional behaviour"
+    }
+  ]
+}

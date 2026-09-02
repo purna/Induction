@@ -1,0 +1,184 @@
+{
+  "section": "l3y2-a",
+  "level": "l3",
+  "year": "y2",
+  "module": "A",
+  "title": "Welcome Back - This Is the Year That Counts",
+  "slides": [
+    {
+      "title": "Welcome back - and yes, this year counts",
+      "content": "Welcome back. Year 2 is about 45 minutes, and it's not a re-run of last September. It's a re-focus: where you're headed, what Year 2 demands, staying on course, support that still matters, and landing it. You've done the hard part - you got here, and you passed Year 1. The last lap is the one that decides what it was all for.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the framing of this Year 2 welcome session, according to the deck?",
+        "options": [
+          "A repeat of last September's induction",
+          "A re-focus on where you're headed and what Year 2 demands",
+          "A pass-or-fail assessment of last year's work",
+          "A lecture on study skills"
+        ],
+        "answerIndex": 1,
+        "explanation": "The deck frames this as a re-focus, not a re-run: where you're headed, what Year 2 demands, staying on course, support that still matters, and landing it."
+      }
+    },
+    {
+      "title": "The session in five beats",
+      "content": "Five beats in about 45 minutes: 1) Where you're headed (3 routes out); 2) What Year 2 demands (three honest asks); 3) Staying on course (tools and a habit); 4) Support that still matters (4 doors); 5) Landing it (the final-year focus card).",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+        "options": [
+          "Completing the course strongly",
+          "Building your portfolio",
+          "Preparing for progression",
+          "Taking the next step into work, university or apprenticeships"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Different."
+      }
+    },
+    {
+      "title": "Three honest asks for Year 2",
+      "content": "Year 2 makes three honest asks. (1) Grades carry weight - this year's results are the ones employers, training providers and universities actually see. (2) Deadlines stack up - coursework, Final Major Project or Extended Diploma, placement hours and applications all run at once; drift is the real enemy. (3) More on you - less chasing from us, more independence from you; deliberate. This is what next year looks like.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which is one of the three honest asks Year 2 makes, according to the deck?",
+        "options": [
+          "Get a part-time job immediately",
+          "Grades carry weight - this year's results are the ones employers and universities actually see",
+          "Attend every social event",
+          "Pick a specialism in week one"
+        ],
+        "answerIndex": 1,
+        "explanation": "Grades carry weight - this year's results are the ones employers, training providers and universities actually see."
+      }
+    },
+    {
+      "title": "Don't fumble the last lap",
+      "content": "Most students who don't get the result they're capable of in Year 2 weren't not clever enough. They drifted. A missed deadline here, a few skipped days there, the application left too late. You've already done the hard part - you got here, and you passed Year 1. The last lap is the one that decides what it was all for. Run it properly.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what is the usual cause of Year 2 students falling short of what they're capable of?",
+        "options": [
+          "Lack of intelligence",
+          "Drift - missed deadlines, skipped days, applications left too late",
+          "Bad teaching",
+          "Bad luck"
+        ],
+        "answerIndex": 1,
+        "explanation": "They drifted. A missed deadline here, a few skipped days there, the application left too late."
+      }
+    },
+    {
+      "title": "Three routes out - no second-best",
+      "content": "There are three routes out of Year 2. Into work: content creator, production assistant, junior designer, social media coordinator - real careers, begun. Apprenticeship: earn while you train; real qualifications, real experience, no student debt. University / HE: BA Media, Film, Games Art, Photography, Digital Design; UCH Hastings offers BA degrees locally for Games Art students. There is no 'second-best' route - the best route is the one that gets YOU where you want to be, and this year is how you earn it.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are the three routes out of Year 2, according to the deck? Select all that apply.",
+        "options": [
+          "Into work",
+          "Apprenticeship",
+          "University / HE",
+          "Drop out and try again later"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Into work, apprenticeship, and university / HE are the three routes out."
+      }
+    },
+    {
+      "title": "Stay on course - three tools, one rule",
+      "content": "Three tools to stay on course. Pro Portal - timetable, rooms, messages; check every morning, no excuses. Your deadlines - every assessment and application date in one place. Track your progress - attendance and grades; catch a slip early, not in March. The rule: a slip caught in October is fixable. A slip caught in March is the year.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "How often does the deck say you should check Pro Portal?",
+        "options": [
+          "Once a week",
+          "Every morning, no excuses",
+          "Only when something looks wrong",
+          "Once a term"
+        ],
+        "answerIndex": 1,
+        "explanation": "Check Pro Portal every morning, no excuses."
+      }
+    },
+    {
+      "title": "Support that still matters",
+      "content": "Final year is the year people quietly struggle and don't say anything. Four doors are still open. Careers & progression - real help with applications, interviews, UCAS and apprenticeships. Wellbeing - final-year pressure is real; talking to someone is a strength, not a slip. Money & practical - bursary still there for Year 2. Academic support - stuck on coursework? Get help early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which door covers help with UCAS and apprenticeship applications, according to the deck?",
+        "options": [
+          "Wellbeing",
+          "Money & practical",
+          "Careers & progression",
+          "Academic support"
+        ],
+        "answerIndex": 2,
+        "explanation": "Careers & progression covers real help with applications, interviews, UCAS and apprenticeships."
+      }
+    },
+    {
+      "title": "Make it count - and the CV test",
+      "content": "Enrichment, competitions, projects, placement - treat it as a long interview. Many students get their first paid work through placements. The CV test: 'Will this give me something real to say in an interview or on an application?' If yes - do it.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the 'CV test' the deck recommends for enrichment, projects and placement?",
+        "options": [
+          "Only do things that look good on paper",
+          "Ask 'Will this give me something real to say in an interview or on an application?' - if yes, do it",
+          "Skip anything that doesn't pay",
+          "Do everything on offer, regardless of fit"
+        ],
+        "answerIndex": 1,
+        "explanation": "The CV test: 'Will this give me something real to say in an interview or on an application?' If yes - do it."
+      }
+    },
+    {
+      "title": "My final-year focus card",
+      "content": "Write three answers now, on the card you take away: (1) Where I want to be when this year ends. (2) The one habit that will get me there. (3) The one thing I need to sort early - and won't leave. Your tutor keeps the card and checks in with you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are the three questions on the final-year focus card? Select all that apply.",
+        "options": [
+          "Where I want to be when this year ends",
+          "The one habit that will get me there",
+          "The one thing I need to sort early - and won't leave",
+          "My favourite placement employer so far"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "The three questions are about destination, the habit, and the one thing to sort early."
+      }
+    }
+  ]
+}

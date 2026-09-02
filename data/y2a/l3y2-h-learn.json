@@ -1,0 +1,140 @@
+{
+  "section": "l3y2-h",
+  "level": "l3",
+  "year": "y2",
+  "module": "H",
+  "title": "Why Navigate Matters Here",
+  "slides": [
+    {
+      "title": "Why Navigate matters at Level 3",
+      "content": "At Level 3 you own your progress. Navigate is where you build the evidence that you did. University, an apprenticeship and the studio, newsroom or technical team you want to join all ask the same question: what can you actually do, and how do you know? Your Digital CV is your answer. Built across two years, it becomes something a personal statement cannot fake. By the end of today you will be able to: interpret your Skills Assessment results and set a development priority; state a next destination and the entry requirements it carries; write a reflection that evidences a skill, not just describes an event.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What question does the deck say university, an apprenticeship and the studio all ask?",
+        "options": [
+          "What school did you go to?",
+          "What can you actually do, and how do you know? Your Digital CV is your answer",
+          "What's your favourite film?",
+          "What are your predicted grades?"
+        ],
+        "answerIndex": 1,
+        "explanation": "University, an apprenticeship and the studio all ask the same question: what can you actually do, and how do you know? Your Digital CV is your answer."
+      }
+    },
+    {
+      "title": "Your Skills Assessment - and Amber is where the gains are",
+      "content": "This is a self-report. Its value depends entirely on your honesty - inflate it and you get a useless picture of yourself. The scenario tests professional judgement, communication, and the duty of care you carry the moment you work with someone you film, photograph or interview, a client, or a system other people rely on. Green: evidenced strength - prove it in your Digital CV. Amber: inconsistent under pressure - most people sit here. Red: your development priority this term. Read the Amber list carefully. Amber is where the real gains are - Red is usually already obvious to you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, where are the real gains in a Skills Assessment?",
+        "options": [
+          "Green - by claiming strength",
+          "Amber - inconsistent under pressure, where most people sit. Red is usually already obvious",
+          "Red - because it's hardest",
+          "It doesn't matter - just tick the boxes"
+        ],
+        "answerIndex": 1,
+        "explanation": "Read the Amber list carefully. Amber is where the real gains are - Red is usually already obvious to you."
+      }
+    },
+    {
+      "title": "Your next destination - set it now",
+      "content": "Set it now, with the entry requirements checked. Vague ambition is not a plan. Where this leads: media, film, journalism, PR and marketing degrees; animation, illustration, graphic design, photography degrees; BA (Hons) at University Centre Hastings - a degree without moving; Digital Media Design Foundation Degree; HNC/HND Computing; higher apprenticeship at Level 4, 5 or 6, or employment. Two honest points: UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1. Year 1 sets the trajectory of Year 2. It is not a warm-up. Specialist routes open up later: digital forensics, network engineering, editing and post-production, cinematography.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the deck's 'one honest point' about UCAS and Year 1?",
+        "options": [
+          "UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1",
+          "UCAS is optional",
+          "Year 1 doesn't matter for UCAS",
+          "UCAS only matters for university"
+        ],
+        "answerIndex": 0,
+        "explanation": "UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1."
+      }
+    },
+    {
+      "title": "Careers this leads to - and the most useful outcome is a clear NO",
+      "content": "Roles: journalist; film or TV producer; cyber security analyst; digital video editor; junior content producer; social media co-ordinator; games artist; animator; CGI artist; concept artist; FE lecturer or technician in media, film or computing; art director; production manager; studio manager; SOC analyst; infrastructure technician; digital forensics. Interrogate each profile: entry route, qualification level, earnings, what the job is like day to day. The most useful outcome of this quiz is a clear NO. Ruling something out is progress, and it is faster than drifting into it.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, what is 'the most useful outcome' of the careers quiz?",
+        "options": [
+          "A clear YES - finding the perfect role",
+          "A clear NO - ruling something out is progress, faster than drifting into it",
+          "Skipping the quiz",
+          "Picking the highest-paid job"
+        ],
+        "answerIndex": 1,
+        "explanation": "The most useful outcome of this quiz is a clear NO. Ruling something out is progress, and it is faster than drifting into it."
+      }
+    },
+    {
+      "title": "What you should be logging",
+      "content": "Two years of consistent logging becomes a portfolio. Two years of good intentions becomes a panic in February. Log: film, audio, graphics and code you plan, make and evaluate; externally moderated projects and Final Major Projects; edits, builds and tests (Premiere Pro, DaVinci, Blender); live media (Youth Radio, Tag magazine, The Depot); cross-department work (photographing for Hair and Beauty); visiting media professionals and industry visits; industry placement - 315 hours on the T Levels; part-time work - professionalism and communication are the same skills. One entry per activity, logged the same week, tagged to the skills it evidences. Ten minutes now saves an afternoon in Year 2.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the 'ten minutes now' rule the deck recommends?",
+        "options": [
+          "Spend ten minutes on your portfolio per term",
+          "One entry per activity, logged the same week, tagged to the skills it evidences - ten minutes now saves an afternoon in Year 2",
+          "Take ten minutes off your placement",
+          "Spend ten minutes on social media"
+        ],
+        "answerIndex": 1,
+        "explanation": "One entry per activity, logged the same week, tagged to the skills it evidences. Ten minutes now saves an afternoon in Year 2."
+      }
+    },
+    {
+      "title": "A reflection that meets the standard",
+      "content": "Reflection is a professional skill, not an admin task. Compare: Descriptive: 'I edited the radio package. It went okay. I was not sure about the sound.' Analytical: 'I cut a three-minute package for the radio show. The music kept covering the voice, so I dropped the music. That did not fix it: my voice was recorded too far from the mic, so lifting it lifted the room noise as well. I re-recorded close to the mic and the mix cleared. The fault was in the recording, not the edit. Next time I set levels as I record.' The second names the decision, the reasoning, the evidence and the change in practice - the level a personal statement or a professional portfolio needs. The Reflection Coach prompts you towards this. It does not do it for you, and an assessor can tell the difference.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the difference between the 'descriptive' and 'analytical' reflection examples?",
+        "options": [
+          "There is no difference",
+          "The analytical one names the decision, the reasoning, the evidence and the change in practice - the level a personal statement or a professional portfolio needs",
+          "Descriptive is always better",
+          "Analytical removes emotion"
+        ],
+        "answerIndex": 1,
+        "explanation": "The second names the decision, the reasoning, the evidence and the change in practice - the level a personal statement or a professional portfolio needs."
+      }
+    },
+    {
+      "title": "Your first two weeks - eight tasks",
+      "content": "Complete these independently by the end of week two. (1) App or shortcut set up. (2) Skills Assessment completed honestly. (3) Results interpreted - Green, Amber and Red. (4) Skills Focus set from your Amber and Red. (5) Next Destination set, entry requirements checked. (6) Career Quiz completed, every profile reviewed. (7) Digital CV Introduction written. (8) One activity logged, with a strong reflection. No reminders are coming, and that is deliberate. If you hit a genuine barrier, message your tutor in the app - asking early is a professional skill, not a weakness.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these are among the eight 'first two weeks' tasks the deck lists? Select all that apply.",
+        "options": [
+          "App or shortcut set up",
+          "Skills Assessment completed honestly",
+          "Results interpreted - Green, Amber and Red",
+          "One activity logged, with a strong reflection"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All four are among the eight tasks to complete by the end of week two."
+      }
+    }
+  ]
+}

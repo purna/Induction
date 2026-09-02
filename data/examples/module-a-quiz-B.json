@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "section": "induction-module-a",
+    "level": "beginner",
+    "title": "Module A Induction Quiz B"
+  },
+  "questions": [
+    {
+      "id": "induct-b-01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Year 2?",
+      "options": [
+        "Freshers activities",
+        "Finishing strongly and progressing",
+        "Learning campus locations",
+        "Settling in"
+      ],
+      "answerIndex": 1,
+      "explanation": "Finishing strongly and progressing"
+    },
+    {
+      "id": "induct-b-02",
+      "type": "scored",
+      "prompt": "According to the session, what is the single biggest factor in whether students stay, attend and succeed?",
+      "options": [
+        "Belonging",
+        "Exam results",
+        "Timetable accuracy",
+        "Enrichment clubs"
+      ],
+      "answerIndex": 0,
+      "explanation": "Belonging is described as the single biggest factor in whether students stay, attend and succeed."
+    },
+    {
+      "id": "induct-b-03",
+      "type": "insert",
+      "prompt": "Complete what you can expect from your teachers.",
+      "template": "To know your name, treat you with respect, teach you well, and help you when you're _____.",
+      "options": [
+        "stuck",
+        "tired",
+        "wrong",
+        "late"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "induct-b-04",
+      "type": "scored",
+      "prompt": "For T Level students, which part of the study programme is mandatory?",
+      "options": [
+        "Work-related learning",
+        "Enrichment clubs",
+        "Freshers Fair",
+        "The 'One Thing' activity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Work-related learning — industry placements and live briefs — is mandatory for T Level students."
+    },
+    {
+      "id": "induct-b-05",
+      "type": "insert",
+      "prompt": "Complete what Pro Portal lets you track.",
+      "template": "Pro Portal lets you track your attendance and your _____.",
+      "options": [
+        "progress",
+        "timetable",
+        "friends",
+        "homework"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "induct-b-06",
+      "type": "scored",
+      "prompt": "What is identified as the biggest Year 2 risk?",
+      "options": [
+        "Lack of tutors",
+        "Lack of ability",
+        "Lack of assessments",
+        "Drift and complacency"
+      ],
+      "answerIndex": 3,
+      "explanation": "Drift and complacency"
+    },
+    {
+      "id": "induct-b-07",
+      "type": "scored",
+      "prompt": "Which route is considered \"second best\"?",
+      "options": [
+        "Employment",
+        "Apprenticeships",
+        "University",
+        "None of them"
+      ],
+      "answerIndex": 3,
+      "explanation": "None of them"
+    },
+    {
+      "id": "induct-b-08",
+      "type": "scored",
+      "prompt": "What does the session say about needing help at college?",
+      "options": [
+        "It's a sign of sense, not weakness",
+        "It's something to avoid",
+        "Only weak students need help",
+        "You should wait until year two"
+      ],
+      "answerIndex": 0,
+      "explanation": "The session frames asking for help as a sign of sense, not weakness."
+    },
+    {
+      "id": "induct-b-09",
+      "type": "scored",
+      "prompt": "Why should you continue using support services?",
+      "options": [
+        "They are compulsory",
+        "They remain important throughout Year 2",
+        "They replace coursework",
+        "They improve grades automatically"
+      ],
+      "answerIndex": 1,
+      "explanation": "They remain important throughout Year 2"
+    },
+    {
+      "id": "induct-b-10",
+      "type": "scored",
+      "prompt": "Which tool should you continue using to stay organised?",
+      "options": [
+        "Pro Portal",
+        "Social media",
+        "Personal email only",
+        "None"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pro Portal"
+    }
+  ]
+}

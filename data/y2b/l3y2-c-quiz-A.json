@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-c",
+    "level": "l3",
+    "year": "y2",
+    "module": "C",
+    "variant": "A",
+    "title": "Health & Safety"
+  },
+  "questions": [
+    {
+      "id": "l3y2-c-A01",
+      "type": "scored",
+      "prompt": "According to Year 2 Module C, the biggest risk is:",
+      "options": [
+        "Familiarity and complacency",
+        "Lack of knowledge",
+        "Lack of equipment",
+        "Unfamiliar environments"
+      ],
+      "answerIndex": 0,
+      "explanation": "Familiarity and complacency"
+    },
+    {
+      "id": "l3y2-c-A02",
+      "type": "scored",
+      "prompt": "Which Year 2 habit is a warning sign?",
+      "options": [
+        "Following procedures",
+        "Reporting hazards",
+        "Taking shortcuts because nothing has happened before",
+        "Doing risk assessments"
+      ],
+      "answerIndex": 2,
+      "explanation": "Taking shortcuts because nothing has happened before"
+    },
+    {
+      "id": "l3y2-c-A03",
+      "type": "scored",
+      "prompt": "If you've used a filming location before:",
+      "options": [
+        "You still complete a risk assessment",
+        "Another group can do the paperwork",
+        "No risk assessment is needed",
+        "Safety checks can be skipped"
+      ],
+      "answerIndex": 0,
+      "explanation": "You still complete a risk assessment"
+    },
+    {
+      "id": "l3y2-c-A04",
+      "type": "scored",
+      "prompt": "If equipment is used last by you:",
+      "options": [
+        "It must be returned by you",
+        "Nobody is responsible",
+        "It becomes the tutor's responsibility",
+        "It becomes the technician's responsibility"
+      ],
+      "answerIndex": 0,
+      "explanation": "It must be returned by you"
+    },
+    {
+      "id": "l3y2-c-A05",
+      "type": "scored",
+      "prompt": "What is the correct response to a near miss?",
+      "options": [
+        "Ignore it",
+        "Hide it",
+        "Learn from it and report it",
+        "Wait for someone else"
+      ],
+      "answerIndex": 2,
+      "explanation": "Learn from it and report it"
+    },
+    {
+      "id": "l3y2-c-A06",
+      "type": "scored",
+      "prompt": "What does professional responsibility include?",
+      "options": [
+        "Taking shortcuts to save time",
+        "Noticing and reporting concerns",
+        "Letting others deal with hazards",
+        "Avoiding safety discussions"
+      ],
+      "answerIndex": 1,
+      "explanation": "Noticing and reporting concerns"
+    },
+    {
+      "id": "l3y2-c-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Familiarity Is the Biggest Risk'?",
+      "options": [
+        "In Year 1 everything felt new",
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "In Year 1 everything felt new"
+    },
+    {
+      "id": "l3y2-c-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Common Year 2 Slips'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Examples include: Not wearing lanyards consistently",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Examples include: Not wearing lanyards consistently"
+    }
+  ]
+}

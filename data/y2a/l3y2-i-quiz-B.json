@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-i",
+    "level": "l3",
+    "year": "y2",
+    "module": "I",
+    "variant": "B",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What should students do with the three strengths at the end of the activity?",
+      "options": [
+        "Memorise them word for word",
+        "Email them to the safeguarding team",
+        "Keep them in a folder",
+        "Replace last year's versions in Navigate - they go into live applications this term"
+      ],
+      "answerIndex": 3,
+      "explanation": "Replace last year's versions. These go into live applications this term.",
+      "id": "l3y2-i-B01"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which of these is 'evidence' rather than a claim, according to the deck?",
+      "options": [
+        "'I'm reliable and hard-working'",
+        "'On placement I fixed a file nobody else could open - then wrote a one-page guide so the next person could do it without me'",
+        "'I work well under pressure'",
+        "'I'm a team player'"
+      ],
+      "answerIndex": 1,
+      "explanation": "That is specific, checkable, memorable evidence - the level a personal statement or a professional portfolio needs.",
+      "id": "l3y2-i-B02"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the Year 2 reframe of the Skills Assessment?",
+      "options": [
+        "Same as Year 1 - what are my skills?",
+        "What moved, and what does that prove? - movement is the story",
+        "A self-assessment only",
+        "Pass or fail"
+      ],
+      "answerIndex": 1,
+      "explanation": "Today's question isn't 'what are my skills?' - it's 'what moved, and what does that prove?'",
+      "id": "l3y2-i-B03"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's claim about interview questions?",
+      "options": [
+        "At interview, nearly every question is secretly about one of the human skills (communication, teamwork, reliability, problem-solving, adaptability, initiative)",
+        "They are random",
+        "They are about personality tests only",
+        "They are all about technical skill"
+      ],
+      "answerIndex": 0,
+      "explanation": "At interview, nearly every question is secretly about one of the six human skills.",
+      "id": "l3y2-i-B04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What matters most for the reference, according to the deck?",
+      "options": [
+        "Your predicted grades",
+        "How many courses you took",
+        "Recent pattern - referees write from the freshest evidence, and this term is the one sitting in front of them",
+        "Year 1 attendance only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Recent pattern weighs heaviest - referees write from the freshest evidence.",
+      "id": "l3y2-i-B05"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does the deck say 'this year counts double'?",
+      "options": [
+        "Because this is the year referees and interviewers are actually watching - applications open, references get read",
+        "Because you have double the work",
+        "Because there are two of you",
+        "Because you get two grades"
+      ],
+      "answerIndex": 0,
+      "explanation": "This year counts double because this is the year referees and interviewers are actually watching.",
+      "id": "l3y2-i-B06"
+    },
+    {
+      "id": "l3y2-i-C07",
+      "type": "scored",
+      "prompt": "What is the main difference in Year 2?",
+      "options": [
+        "Skills no longer matter",
+        "References stop being important",
+        "Evidence is used in real applications",
+        "No evidence is needed"
+      ],
+      "answerIndex": 2,
+      "explanation": "Evidence is used in real applications"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this Year 2 professional behaviour session?",
+      "options": [
+        "A pass/fail test",
+        "Deployment, not repetition - last year you built the evidence bank; this year you use it",
+        "A new-starter welcome",
+        "A repeat of last year"
+      ],
+      "answerIndex": 1,
+      "explanation": "You built the evidence last year. This year you use it. The framing is deployment, not repetition.",
+      "id": "l3y2-i-B08"
+    }
+  ]
+}

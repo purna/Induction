@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "section": "l3y1-g",
+    "level": "l3",
+    "year": "y1",
+    "module": "G",
+    "variant": "C",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "id": "l3y1-g-C01",
+      "type": "scored",
+      "prompt": "What is a key point about 'Mental Health Is Health'?",
+      "options": [
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Thriving",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Thriving"
+    },
+    {
+      "id": "l3y1-g-C02",
+      "type": "scored",
+      "prompt": "What is a key point about 'Recognising Stress'?",
+      "options": [
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "Trouble starting work",
+        "It is optional and not required"
+      ],
+      "answerIndex": 2,
+      "explanation": "Trouble starting work"
+    },
+    {
+      "id": "l3y1-g-C03",
+      "type": "scored",
+      "prompt": "What is a key point about 'Sleep Is a Study Tool'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Memory"
+      ],
+      "answerIndex": 3,
+      "explanation": "Memory"
+    },
+    {
+      "id": "l3y1-g-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Money Can Affect Wellbeing'? Select all that apply.",
+      "options": [
+        "Mood",
+        "Sleep",
+        "Attendance",
+        "Concentration"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Money Can Affect Wellbeing."
+    },
+    {
+      "id": "l3y1-g-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Support Routes Exist'? Select all that apply.",
+      "options": [
+        "Tutors",
+        "Teachers",
+        "Wellbeing staff",
+        "Support services"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Support Routes Exist."
+    },
+    {
+      "id": "l3y1-g-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Tell College What It Needs to Know'? Select all that apply.",
+      "options": [
+        "Disabilities",
+        "Learning needs",
+        "Mental health conditions",
+        "Circumstances affecting study"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Tell College What It Needs to Know."
+    },
+    {
+      "id": "l3y1-g-C07",
+      "type": "scored",
+      "prompt": "What does the module state about 'Tell College What It Needs to Know'?",
+      "options": [
+        "Inform the college about: Disabilities",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inform the college about: Disabilities"
+    },
+    {
+      "id": "l3y1-g-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Look Out For Others'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "The process is simple: Changes in behaviour"
+      ],
+      "answerIndex": 3,
+      "explanation": "The process is simple: Changes in behaviour"
+    }
+  ]
+}

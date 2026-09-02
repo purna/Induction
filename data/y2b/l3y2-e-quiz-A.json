@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-e",
+    "level": "l3",
+    "year": "y2",
+    "module": "E",
+    "variant": "A",
+    "title": "Respect, Relationships & College Values"
+  },
+  "questions": [
+    {
+      "id": "l3y2-e-A01",
+      "type": "scored",
+      "prompt": "What is the main Year 2 focus of Module E?",
+      "options": [
+        "Applying them consistently",
+        "Ignoring old rules",
+        "Learning the values for the first time",
+        "Changing the values"
+      ],
+      "answerIndex": 0,
+      "explanation": "Applying them consistently"
+    },
+    {
+      "id": "l3y2-e-A02",
+      "type": "scored",
+      "prompt": "What is the biggest risk highlighted in Year 2?",
+      "options": [
+        "Lack of knowledge",
+        "Familiarity and normalised behaviour",
+        "Too many rules",
+        "New students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Familiarity and normalised behaviour"
+    },
+    {
+      "id": "l3y2-e-A03",
+      "type": "scored",
+      "prompt": "Which statement is true?",
+      "options": [
+        "Familiarity lowers expectations",
+        "Good friends can ignore behaviour standards",
+        "Standards only apply in lessons",
+        "Familiarity increases responsibility"
+      ],
+      "answerIndex": 3,
+      "explanation": "Familiarity increases responsibility"
+    },
+    {
+      "id": "l3y2-e-A04",
+      "type": "scored",
+      "prompt": "What should you do if harmful behaviour becomes normalised?",
+      "options": [
+        "Wait until next year",
+        "Challenge or report it",
+        "Join in",
+        "Ignore it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Challenge or report it"
+    },
+    {
+      "id": "l3y2-e-A05",
+      "type": "scored",
+      "prompt": "Why should Year 2 students review their online presence?",
+      "options": [
+        "It is required weekly",
+        "Social media is banned",
+        "Employers may see it",
+        "Teachers control accounts"
+      ],
+      "answerIndex": 2,
+      "explanation": "Employers may see it"
+    },
+    {
+      "id": "l3y2-e-A06",
+      "type": "scored",
+      "prompt": "According to Module E, inaction can:",
+      "options": [
+        "Improve friendships",
+        "Reduce consequences",
+        "Make you part of the problem",
+        "Protect you"
+      ],
+      "answerIndex": 2,
+      "explanation": "Make you part of the problem"
+    },
+    {
+      "id": "l3y2-e-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Is About Application'?",
+      "options": [
+        "It is optional and not required",
+        "Year 2 is not about learning these ideas for the first time",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Year 2 is not about learning these ideas for the first time"
+    },
+    {
+      "id": "l3y2-e-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Familiarity Creates Risk'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "When people know each other well: Poor behaviour can become normalised",
+        "It is optional and not required"
+      ],
+      "answerIndex": 2,
+      "explanation": "When people know each other well: Poor behaviour can become normalised"
+    }
+  ]
+}

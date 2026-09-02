@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y1-a",
+    "level": "l3",
+    "year": "y1",
+    "module": "A",
+    "variant": "B",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y1-a-B01",
+      "type": "scored",
+      "prompt": "Which best describes today's Module A session?",
+      "options": [
+        "An entrance test for your course",
+        "Your first session — about 55–60 minutes to settle in and meet people",
+        "A safeguarding law briefing",
+        "A module selection appointment"
+      ],
+      "answerIndex": 1,
+      "explanation": "Module A is the very first session — about 55–60 minutes to settle in, meet people and understand what the year asks of you."
+    },
+    {
+      "id": "l3y1-a-B02",
+      "type": "scored",
+      "prompt": "Which of the following can you do using Pro Portal?",
+      "options": [
+        "Social media",
+        "Gaming",
+        "Coursework only",
+        "Timetables, messages and progress"
+      ],
+      "answerIndex": 3,
+      "explanation": "Timetables, messages and progress"
+    },
+    {
+      "id": "l3y1-a-B03",
+      "type": "scored",
+      "prompt": "Your Digital or Media qualification is mainly assessed through…",
+      "options": [
+        "One final exam at the end of the year",
+        "Coursework, portfolio and final projects assessed throughout the year",
+        "Weekly multiple-choice tests",
+        "A viva at the end of term"
+      ],
+      "answerIndex": 1,
+      "explanation": "It's assessed through coursework, portfolio, and final projects throughout the year."
+    },
+    {
+      "id": "l3y1-a-B04",
+      "type": "scored",
+      "prompt": "What is the 'golden rule' for Pro Portal?",
+      "options": [
+        "Check it every morning before you set off",
+        "Only log in if your teacher tells you to",
+        "Use it once a term to confirm your enrolment",
+        "Never check it on a Friday"
+      ],
+      "answerIndex": 0,
+      "explanation": "Check your Pro Portal every morning before you set off."
+    },
+    {
+      "id": "l3y1-a-B05",
+      "type": "multi",
+      "prompt": "Which kinds of support at college are described in the deck? Select all that apply.",
+      "options": [
+        "Learning support",
+        "Wellbeing & mental health",
+        "Money & practical help",
+        "Careers & next steps"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are kinds of support at college."
+    },
+    {
+      "id": "l3y1-a-B06",
+      "type": "scored",
+      "prompt": "Which kind of college support covers bursary, travel and equipment?",
+      "options": [
+        "Learning support",
+        "Wellbeing & mental health",
+        "Money & practical help",
+        "Careers & next steps"
+      ],
+      "answerIndex": 2,
+      "explanation": "Money & practical help covers bursary, travel, equipment and other practical support."
+    },
+    {
+      "id": "l3y1-a-B07",
+      "type": "scored",
+      "prompt": "When does the deck say your campus Freshers Fair runs?",
+      "options": [
+        "On your first day",
+        "In the next couple of weeks",
+        "At the end of term",
+        "Next summer"
+      ],
+      "answerIndex": 1,
+      "explanation": "In the next couple of weeks your campus runs a Freshers Fair."
+    },
+    {
+      "id": "l3y1-a-B08",
+      "type": "scored",
+      "prompt": "How does the deck describe the induction sessions coming up over the next three weeks?",
+      "options": [
+        "They are pass-or-fail assessments",
+        "They are mocks of your final exams",
+        "They are short, supportive sessions, not tests",
+        "They replace your normal lessons"
+      ],
+      "answerIndex": 2,
+      "explanation": "None of them are tests. They're here to help you settle and succeed."
+    }
+  ]
+}

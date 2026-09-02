@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "section": "l3y1-d",
+    "level": "l3",
+    "year": "y1",
+    "module": "D",
+    "variant": "C",
+    "title": "Students' Voice & Student Representative Elections"
+  },
+  "questions": [
+    {
+      "id": "l3y1-d-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What is Students' Voice?'? Select all that apply.",
+      "options": [
+        "Teaching and learning",
+        "Student experience",
+        "College facilities",
+        "Equipment and software"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What is Students' Voice?."
+    },
+    {
+      "id": "l3y1-d-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Makes Students' Voice Effective?'? Select all that apply.",
+      "options": [
+        "Reps consult their group",
+        "Feedback is specific",
+        "Students raise issues before meetings",
+        "People follow up on agreed actions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Makes Students' Voice Effective?."
+    },
+    {
+      "id": "l3y1-d-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What Does a Student Rep Do?'? Select all that apply.",
+      "options": [
+        "Gathers student opinions",
+        "Attends Student Council meetings",
+        "Gives feedback about teaching and facilities",
+        "Helps find solutions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What Does a Student Rep Do?."
+    },
+    {
+      "id": "l3y1-d-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Why Become a Student Rep?'? Select all that apply.",
+      "options": [
+        "Communication skills",
+        "Leadership skills",
+        "Problem-solving",
+        "Professional conduct"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Why Become a Student Rep?."
+    },
+    {
+      "id": "l3y1-d-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'What is a Student Governor?'? Select all that apply.",
+      "options": [
+        "Sit on the Main Governing Board",
+        "Contribute to strategic decisions",
+        "Help shape budgets and resources",
+        "Bring a student perspective to leadership discussions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on What is a Student Governor?."
+    },
+    {
+      "id": "l3y1-d-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Encourage Unity'? Select all that apply.",
+      "options": [
+        "Working together",
+        "Sharing concerns collectively",
+        "Supporting representatives",
+        "Improving things for everyone, not just yourself"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Encourage Unity."
+    },
+    {
+      "id": "l3y1-d-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Elections'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "Be elected fairly",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Be elected fairly"
+    },
+    {
+      "id": "l3y1-d-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Elections'?",
+      "options": [
+        "Each group elects: 1",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each group elects: 1"
+    }
+  ]
+}

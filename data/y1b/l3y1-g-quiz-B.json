@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-g",
+    "level": "l3",
+    "year": "y1",
+    "module": "G",
+    "variant": "B",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "id": "l3y1-g-B01",
+      "type": "scored",
+      "prompt": "Mental health exists on:",
+      "options": [
+        "A timetable",
+        "A grading scale",
+        "Two levels",
+        "A spectrum"
+      ],
+      "answerIndex": 3,
+      "explanation": "A spectrum"
+    },
+    {
+      "id": "l3y1-g-B02",
+      "type": "scored",
+      "prompt": "Which factor affects mental health?",
+      "options": [
+        "Shoe size",
+        "Handwriting",
+        "Favourite colour",
+        "Sleep"
+      ],
+      "answerIndex": 3,
+      "explanation": "Sleep"
+    },
+    {
+      "id": "l3y1-g-B03",
+      "type": "scored",
+      "prompt": "Which is a common sign of stress?",
+      "options": [
+        "Increased free time",
+        "Better concentration",
+        "Avoidance of tasks",
+        "Perfect attendance"
+      ],
+      "answerIndex": 2,
+      "explanation": "Avoidance of tasks"
+    },
+    {
+      "id": "l3y1-g-B04",
+      "type": "scored",
+      "prompt": "What is one evidence-based way to reduce stress?",
+      "options": [
+        "Stay isolated",
+        "Ignore it",
+        "Avoid sleep",
+        "Move more"
+      ],
+      "answerIndex": 3,
+      "explanation": "Move more"
+    },
+    {
+      "id": "l3y1-g-B05",
+      "type": "scored",
+      "prompt": "Why is sleep important?",
+      "options": [
+        "It replaces revision",
+        "It removes stress instantly",
+        "It improves memory",
+        "It removes deadlines"
+      ],
+      "answerIndex": 2,
+      "explanation": "It improves memory"
+    },
+    {
+      "id": "l3y1-g-B06",
+      "type": "scored",
+      "prompt": "If you are struggling, what should you do?",
+      "options": [
+        "Wait until summer",
+        "Tell someone",
+        "Keep it secret",
+        "Stop attending"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tell someone"
+    },
+    {
+      "id": "l3y1-g-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Money Can Affect Wellbeing'? Select all that apply.",
+      "options": [
+        "Mood",
+        "Sleep",
+        "Attendance",
+        "Concentration"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Money Can Affect Wellbeing."
+    },
+    {
+      "id": "l3y1-g-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Support Routes Exist'? Select all that apply.",
+      "options": [
+        "Tutors",
+        "Teachers",
+        "Wellbeing staff",
+        "Support services"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Support Routes Exist."
+    }
+  ]
+}

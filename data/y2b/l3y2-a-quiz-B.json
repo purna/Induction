@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "section": "l3y2-a",
+    "level": "l3",
+    "year": "y2",
+    "module": "A",
+    "variant": "B",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y2-a-B01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Year 2?",
+      "options": [
+        "Freshers activities",
+        "Finishing strongly and progressing",
+        "Learning campus locations",
+        "Settling in"
+      ],
+      "answerIndex": 1,
+      "explanation": "Finishing strongly and progressing"
+    },
+    {
+      "id": "l3y2-a-B02",
+      "type": "scored",
+      "prompt": "What is identified as the biggest Year 2 risk?",
+      "options": [
+        "Lack of tutors",
+        "Lack of ability",
+        "Lack of assessments",
+        "Drift and complacency"
+      ],
+      "answerIndex": 3,
+      "explanation": "Drift and complacency"
+    },
+    {
+      "id": "l3y2-a-B03",
+      "type": "scored",
+      "prompt": "Which route is considered \"second best\"?",
+      "options": [
+        "Employment",
+        "Apprenticeships",
+        "University",
+        "None of them"
+      ],
+      "answerIndex": 3,
+      "explanation": "None of them"
+    },
+    {
+      "id": "l3y2-a-B04",
+      "type": "scored",
+      "prompt": "Why should you continue using support services?",
+      "options": [
+        "They are compulsory",
+        "They remain important throughout Year 2",
+        "They replace coursework",
+        "They improve grades automatically"
+      ],
+      "answerIndex": 1,
+      "explanation": "They remain important throughout Year 2"
+    },
+    {
+      "id": "l3y2-a-B05",
+      "type": "scored",
+      "prompt": "Which tool should you continue using to stay organised?",
+      "options": [
+        "Pro Portal",
+        "Social media",
+        "Personal email only",
+        "None"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pro Portal"
+    },
+    {
+      "id": "l3y2-a-B06",
+      "type": "scored",
+      "prompt": "What question helps judge whether an opportunity is worthwhile?",
+      "options": [
+        "Will my friends do it",
+        "Will it give me something meaningful to discuss in an interview",
+        "Will it be easy",
+        "Will it be fun"
+      ],
+      "answerIndex": 1,
+      "explanation": "Will it give me something meaningful to discuss in an interview?"
+    },
+    {
+      "id": "l3y2-a-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Stay Organised'? Select all that apply.",
+      "options": [
+        "Pro Portal",
+        "Calendars",
+        "Deadline trackers"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are part of Stay Organised."
+    },
+    {
+      "id": "l3y2-a-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Support Still Matters'? Select all that apply.",
+      "options": [
+        "Careers",
+        "Applications",
+        "Progression",
+        "Wellbeing"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Support Still Matters."
+    }
+  ]
+}

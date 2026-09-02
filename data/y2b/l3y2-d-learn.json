@@ -1,0 +1,237 @@
+{
+  "section": "l3y2-d",
+  "level": "l3",
+  "year": "y2",
+  "module": "D",
+  "title": "Students' Voice & Student Representative Elections",
+  "slides": [
+    {
+      "title": "Year 2 Students Have Experience",
+      "content": "Year 2 students have: Already experienced Students' Voice. Seen good and poor representation. Gained knowledge about how the college works. This experience makes their feedback more valuable.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Students Have Experience'? Select all that apply.",
+        "options": [
+          "Already experienced Students' Voice",
+          "Seen good and poor representation",
+          "Gained knowledge about how the college works"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Students Have Experience."
+      }
+    },
+    {
+      "title": "What Makes Students' Voice Work?",
+      "content": "Students' Voice works when: Reps communicate with students. Feedback is evidence-based. Students engage with the process. Outcomes are followed up. Student Voice is a shared responsibility, not just the rep's responsibility.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Makes Students' Voice Work?'? Select all that apply.",
+        "options": [
+          "Reps communicate with students",
+          "Feedback is evidence-based",
+          "Students engage with the process",
+          "Outcomes are followed up"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What Makes Students' Voice Work?."
+      }
+    },
+    {
+      "title": "Familiarity Is Both an Advantage and a Risk",
+      "content": "Advantages: You know staff. You know systems. You understand how decisions happen. Risks: Going through the motions. Not challenging issues. Becoming disengaged. Good Year 2 reps use experience actively.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Familiarity Is Both an Advantage and a Risk'? Select all that apply.",
+        "options": [
+          "You know staff",
+          "You know systems",
+          "You understand how decisions happen",
+          "Going through the motions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Familiarity Is Both an Advantage and a Risk."
+      }
+    },
+    {
+      "title": "Student Rep Responsibilities",
+      "content": "Student Reps: Gather feedback. Attend three Student Council meetings. Represent class views. Help develop solutions. Keep students informed. Represent English/Maths as well as the main course.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Student Rep Responsibilities'? Select all that apply.",
+        "options": [
+          "Gather feedback",
+          "Attend three Student Council meetings",
+          "Represent class views",
+          "Help develop solutions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Student Rep Responsibilities."
+      }
+    },
+    {
+      "title": "Student Governor Responsibilities",
+      "content": "Student Governors: Help shape strategic decisions. Provide student perspectives. Challenge and question decisions. Act in the interests of the whole college. Governors do not represent individual classes or subjects.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Student Governor Responsibilities'? Select all that apply.",
+        "options": [
+          "Help shape strategic decisions",
+          "Provide student perspectives",
+          "Challenge and question decisions",
+          "Act in the interests of the whole college"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Student Governor Responsibilities."
+      }
+    },
+    {
+      "title": "What the Board Does",
+      "content": "The Governing Board is responsible for: Strategic planning. College quality. Finances and resources. Student experience. Holding senior leaders accountable.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What the Board Does'? Select all that apply.",
+        "options": [
+          "Strategic planning",
+          "College quality",
+          "Finances and resources",
+          "Student experience"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What the Board Does."
+      }
+    },
+    {
+      "title": "Student Governor Commitment",
+      "content": "The role involves: Around 3 to 5 hours per month. Board meetings. Committee meetings. Reading reports. Training and preparation. The role requires reliability and professionalism.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Student Governor Commitment'? Select all that apply.",
+        "options": [
+          "Around 3 to 5 hours per month",
+          "Board meetings",
+          "Committee meetings",
+          "Reading reports"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Student Governor Commitment."
+      }
+    },
+    {
+      "title": "Encourage Unity in Year 2",
+      "content": "Year 2 students should: Share what they have learned. Support newer students. Use experience to improve the course. Help future cohorts benefit from improvements. The next year's students inherit the systems and standards that current students leave behind.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Encourage Unity in Year 2'? Select all that apply.",
+        "options": [
+          "Share what they have learned",
+          "Support newer students",
+          "Use experience to improve the course",
+          "Help future cohorts benefit from improvements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Encourage Unity in Year 2."
+      }
+    },
+    {
+      "title": "Use Your Voice",
+      "content": "Ways to contribute include: Voting. Briefing your rep. Standing for election. Applying to be a Governor (if eligible). Completing surveys. Raising concerns early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Use Your Voice'? Select all that apply.",
+        "options": [
+          "Voting",
+          "Briefing your rep",
+          "Standing for election",
+          "Applying to be a Governor (if eligible)"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Use Your Voice."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Use your experience to improve the course Avoid disengagement and \"going through the motions.\" Support your reps with clear feedback Consider leadership roles Understand the difference between Reps and Governors Help improve the experience for future students. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Use your experience to improve the course",
+          "Avoid disengagement and \"going through the motions.\"",
+          "Support your reps with clear feedback",
+          "Consider leadership roles"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

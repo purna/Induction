@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-b",
+    "level": "l3",
+    "year": "y2",
+    "module": "B",
+    "variant": "A",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y2-b-A01",
+      "type": "scored",
+      "prompt": "Year 2 is primarily focused on:",
+      "options": [
+        "Final outcomes and progression",
+        "Freshers activities",
+        "Building foundations",
+        "Settling in"
+      ],
+      "answerIndex": 0,
+      "explanation": "Final outcomes and progression"
+    },
+    {
+      "id": "l3y2-b-A02",
+      "type": "scored",
+      "prompt": "What happens to gaps from Year 1?",
+      "options": [
+        "They disappear",
+        "Teachers remove them",
+        "They no longer matter",
+        "They compound over time"
+      ],
+      "answerIndex": 3,
+      "explanation": "They compound over time"
+    },
+    {
+      "id": "l3y2-b-A03",
+      "type": "scored",
+      "prompt": "Which of these is a Year 2 Seek Opportunity action?",
+      "options": [
+        "Avoiding placements",
+        "Ignoring progression planning",
+        "Building a portfolio",
+        "Waiting until June"
+      ],
+      "answerIndex": 2,
+      "explanation": "Building a portfolio"
+    },
+    {
+      "id": "l3y2-b-A04",
+      "type": "scored",
+      "prompt": "Which confidence trap involves assuming no changes are needed?",
+      "options": [
+        "The Wall",
+        "Burnout",
+        "Overplanning",
+        "Coasting"
+      ],
+      "answerIndex": 3,
+      "explanation": "Coasting"
+    },
+    {
+      "id": "l3y2-b-A05",
+      "type": "scored",
+      "prompt": "Why do staff references matter in Year 2?",
+      "options": [
+        "Students write them",
+        "They are random",
+        "They are based partly on what staff have observed",
+        "They only use attendance percentages"
+      ],
+      "answerIndex": 2,
+      "explanation": "They are based partly on what staff have observed"
+    },
+    {
+      "id": "l3y2-b-A06",
+      "type": "scored",
+      "prompt": "What should you do if Year 2 pressure becomes overwhelming?",
+      "options": [
+        "Keep it to yourself",
+        "Ignore deadlines",
+        "Stop attending",
+        "Tell someone early"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tell someone early"
+    },
+    {
+      "id": "l3y2-b-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Is Different'?",
+      "options": [
+        "It applies only to certain students",
+        "Year 1 was about building foundations",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 1,
+      "explanation": "Year 1 was about building foundations"
+    },
+    {
+      "id": "l3y2-b-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Gaps Compound'?",
+      "options": [
+        "It applies only to certain students",
+        "Any weaknesses carried from Year 1 become bigger",
+        "It is only assessed in exams",
+        "It is optional and not required"
+      ],
+      "answerIndex": 1,
+      "explanation": "Any weaknesses carried from Year 1 become bigger"
+    }
+  ]
+}

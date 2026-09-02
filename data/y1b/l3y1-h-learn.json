@@ -1,0 +1,219 @@
+{
+  "section": "l3y1-h",
+  "level": "l3",
+  "year": "y1",
+  "module": "H",
+  "title": "Navigate, Digital CV & Career Planning",
+  "slides": [
+    {
+      "title": "Why Navigate Matters",
+      "content": "Navigate helps you: Track your development. Build a Digital CV. Record evidence of skills and achievements. Prepare for university, apprenticeships and employment. Your Digital CV becomes evidence of what you can actually do, not just what you claim you can do.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Why Navigate Matters'? Select all that apply.",
+        "options": [
+          "Track your development",
+          "Build a Digital CV",
+          "Record evidence of skills and achievements",
+          "Prepare for university, apprenticeships and employment"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Why Navigate Matters."
+      }
+    },
+    {
+      "title": "Own Your Progress",
+      "content": "At Level 3: You are responsible for your development. You must track skills honestly. You need evidence for future applications. Independent study is expected. Navigate helps you manage that responsibility.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Own Your Progress'? Select all that apply.",
+        "options": [
+          "You are responsible for your development",
+          "You must track skills honestly",
+          "You need evidence for future applications",
+          "Independent study is expected"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Own Your Progress."
+      }
+    },
+    {
+      "title": "Skills Assessment",
+      "content": "The Skills Assessment is a self-evaluation tool. The results are: A proven strength. Inconsistent skill that needs improvement. A priority area for development. The most useful improvements often come from focusing on Amber areas.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Skills Assessment'?",
+        "options": [
+          "The Skills Assessment is a self-evaluation tool",
+          "It applies only to certain students",
+          "It is optional and not required",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 0,
+        "explanation": "The Skills Assessment is a self-evaluation tool"
+      }
+    },
+    {
+      "title": "Be Honest",
+      "content": "A Skills Assessment only works if you answer honestly. Overestimating your ability gives a misleading picture and reduces its value.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Be Honest'?",
+        "options": [
+          "It applies only to certain students",
+          "It is optional and not required",
+          "A Skills Assessment only works if you answer honestly",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 2,
+        "explanation": "A Skills Assessment only works if you answer honestly"
+      }
+    },
+    {
+      "title": "Plan Your Destination",
+      "content": "You should identify: University goals. Degree pathways. Apprenticeships. Employment routes. A goal without entry requirements or a plan is only an idea.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Plan Your Destination'? Select all that apply.",
+        "options": [
+          "University goals",
+          "Degree pathways",
+          "Apprenticeships",
+          "Employment routes"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Plan Your Destination."
+      }
+    },
+    {
+      "title": "Research Careers Properly",
+      "content": "When investigating careers, consider: Entry routes. Qualification requirements. Day-to-day responsibilities. Salary and progression. Eliminating unsuitable careers is also useful progress.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Research Careers Properly'? Select all that apply.",
+        "options": [
+          "Entry routes",
+          "Qualification requirements",
+          "Day-to-day responsibilities",
+          "Salary and progression"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Research Careers Properly."
+      }
+    },
+    {
+      "title": "Log Activities Regularly",
+      "content": "Useful things to record include: Projects. Coursework. Creative work. Coding work. Industry visits. Placements. Part-time employment. Work experience. Small, regular updates prevent large catch-up workloads later.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Log Activities Regularly'?",
+        "options": [
+          "Build a Digital CV",
+          "Record evidence of skills and achievements",
+          "Projects",
+          "Track your development"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Log Activities Regularly."
+      }
+    },
+    {
+      "title": "Reflection Matters",
+      "content": "A strong reflection explains: What happened. What decisions were made. Why those decisions were made. What evidence supports them. What will change next time. Reflection is more than a description of events.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Reflection Matters'? Select all that apply.",
+        "options": [
+          "What happened",
+          "What decisions were made",
+          "Why those decisions were made",
+          "What evidence supports them"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Reflection Matters."
+      }
+    },
+    {
+      "title": "Complete the First Two Weeks Checklist",
+      "content": "You should: 1. Set up Navigate. 2. Complete the Skills Assessment. 3. Interpret results. 4. Set development priorities. 5. Record a destination goal. 6. Complete the career quiz. 7. Write a Digital CV introduction. 8. Write and submit at least one reflection.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Complete the First Two Weeks Checklist'?",
+        "options": [
+          "It applies only to certain students",
+          "Complete the Skills Assessment",
+          "It is only assessed in exams",
+          "It is optional and not required"
+        ],
+        "answerIndex": 1,
+        "explanation": "Complete the Skills Assessment"
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Learn how Navigate works Complete the Skills Assessment honestly Set development priorities Explore career options Start building a Digital CV Practise analytical reflection",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Learn how Navigate works",
+          "Complete the Skills Assessment honestly",
+          "Set development priorities",
+          "Explore career options"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

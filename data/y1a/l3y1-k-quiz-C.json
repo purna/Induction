@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "title": "Progression Opportunities & Setting Goals",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-k-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'This Course Opens Multiple Routes'? Select all that apply.",
+      "options": [
+        "University",
+        "Degree apprenticeships",
+        "Apprenticeships",
+        "Skilled employment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on This Course Opens Multiple Routes."
+    },
+    {
+      "id": "l3y1-k-C02",
+      "type": "scored",
+      "prompt": "What does the deck say about university as a route?",
+      "options": [
+        "It's the default",
+        "It's one of five real doors - not the default",
+        "It's compulsory",
+        "It's not on the map"
+      ],
+      "answerIndex": 1,
+      "explanation": "It's one of five real doors."
+    },
+    {
+      "id": "l3y1-k-C03",
+      "type": "scored",
+      "prompt": "What does the deck say about Digital Content Creator?",
+      "options": [
+        "It's a degree",
+        "It's an apprenticeship route",
+        "It's a university degree",
+        "It's only for Year 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Digital Content Creator is one of the apprenticeship routes."
+    },
+    {
+      "id": "l3y1-k-C04",
+      "type": "scored",
+      "prompt": "What's the deck's view on Navigate evidence?",
+      "options": [
+        "'We'll do my CV when I need it'",
+        "'Nobody remembers in March what they did in October. Navigate remembers. That is the whole trick.'",
+        "'CVs are optional'",
+        "'Only tutors see the record'"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nobody remembers in March what they did in October. Navigate remembers."
+    },
+    {
+      "id": "l3y1-k-C05",
+      "type": "scored",
+      "prompt": "What's the deck's example of a goal (T Level / Cybersecurity)?",
+      "options": [
+        "'I want to be a film director'",
+        "'By October half-term I have researched three potential placement employers and drafted my first contact. First step: check placement requirements with my teacher today.'",
+        "'I want to work in games'",
+        "'I want to design content for a living'"
+      ],
+      "answerIndex": 1,
+      "explanation": "Specific date, first step, evidence of action."
+    },
+    {
+      "id": "l3y1-k-C06",
+      "type": "scored",
+      "prompt": "According to the deck, what's the right time to act on course-fit doubt?",
+      "options": [
+        "At the end of Year 2",
+        "Three weeks in is exactly when doubt surfaces. Say so now - waiting closes your options",
+        "After graduation",
+        "Only at open evening"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three weeks in is exactly when doubt surfaces. Say so now."
+    },
+    {
+      "id": "l3y1-k-C07",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'University Is Not the Only Option'? Select all that apply.",
+      "options": [
+        "Media Production degrees",
+        "Film degrees",
+        "Computing degrees",
+        "Cybersecurity degrees"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on University Is Not the Only Option."
+    },
+    {
+      "id": "l3y1-k-C08",
+      "type": "scored",
+      "prompt": "What's the deck's framing of three-horizon planning?",
+      "options": [
+        "Pick any one",
+        "Draft one goal for each horizon; start with the long one, then work backwards - does your term goal actually lead there?",
+        "Only plan the short term",
+        "Skip the medium horizon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Start with the long one, then work backwards."
+    }
+  ]
+}

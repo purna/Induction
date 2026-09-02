@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-c",
+    "level": "l3",
+    "year": "y1",
+    "module": "C",
+    "variant": "A",
+    "title": "Health & Safety"
+  },
+  "questions": [
+    {
+      "id": "l3y1-c-A01",
+      "type": "scored",
+      "prompt": "Most accidents happen because:",
+      "options": [
+        "Students are careless",
+        "People stop noticing hazards",
+        "People intentionally break rules",
+        "Equipment always fails"
+      ],
+      "answerIndex": 1,
+      "explanation": "People stop noticing hazards"
+    },
+    {
+      "id": "l3y1-c-A02",
+      "type": "scored",
+      "prompt": "Which of these can reduce awareness?",
+      "options": [
+        "Distraction",
+        "Paying attention",
+        "Working as a team",
+        "Reporting hazards"
+      ],
+      "answerIndex": 0,
+      "explanation": "Distraction"
+    },
+    {
+      "id": "l3y1-c-A03",
+      "type": "scored",
+      "prompt": "Who should you tell first if you spot a hazard?",
+      "options": [
+        "Social media",
+        "A friend",
+        "Nobody",
+        "Your teacher"
+      ],
+      "answerIndex": 3,
+      "explanation": "Your teacher"
+    },
+    {
+      "id": "l3y1-c-A04",
+      "type": "scored",
+      "prompt": "What PROUD value is highlighted in Module C?",
+      "options": [
+        "Lead",
+        "Work Together",
+        "Show Respect",
+        "Seek Opportunity"
+      ],
+      "answerIndex": 2,
+      "explanation": "Show Respect"
+    },
+    {
+      "id": "l3y1-c-A05",
+      "type": "scored",
+      "prompt": "Why are sandbags used on lighting stands?",
+      "options": [
+        "To make them easier to carry",
+        "To improve lighting",
+        "For storage",
+        "To stop them toppling"
+      ],
+      "answerIndex": 3,
+      "explanation": "To stop them toppling"
+    },
+    {
+      "id": "l3y1-c-A06",
+      "type": "scored",
+      "prompt": "Which statement is correct?",
+      "options": [
+        "Safety is the college's responsibility only",
+        "Safety is everyone's shared responsibility",
+        "Safety is the teacher's responsibility only",
+        "Safety is only important in practical lessons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Safety is everyone's shared responsibility"
+    },
+    {
+      "id": "l3y1-c-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Health & Safety Starts with Noticing'?",
+      "options": [
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Most accidents do not happen because someone deliberately breaks the rules",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Most accidents do not happen because someone deliberately breaks the rules"
+    },
+    {
+      "id": "l3y1-c-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'What Switches Noticing Off'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Common causes include: Rushing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Common causes include: Rushing"
+    }
+  ]
+}

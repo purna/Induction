@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "section": "l3y1-g",
+    "level": "l3",
+    "year": "y1",
+    "module": "G",
+    "title": "Looking After Myself",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-g-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value is this module grounded in?",
+      "options": [
+        "Seek Opportunity",
+        "Show Respect",
+        "Encourage Unity",
+        "Be Proud"
+      ],
+      "answerIndex": 2,
+      "explanation": "Encourage Unity - looking out for each other."
+    },
+    {
+      "id": "l3y1-g-A02",
+      "type": "insert",
+      "prompt": "Fill in the blank: the mental-health spectrum runs Thriving -> Coping -> Struggling -> ____.",
+      "template": "The mental-health spectrum runs Thriving -> Coping -> Struggling -> ____.",
+      "options": [
+        "Happy",
+        "In Crisis",
+        "Asleep",
+        "Studying"
+      ],
+      "answerIndex": 1,
+      "explanation": "Thriving -> Coping -> Struggling -> In Crisis."
+    },
+    {
+      "id": "l3y1-g-A03",
+      "type": "scored",
+      "prompt": "What does the deck say about the six things that move the mental-health line?",
+      "options": [
+        "They're character flaws",
+        "Not one is a character flaw - they're conditions, and most can be worked on",
+        "Only sleep matters",
+        "They can't be changed"
+      ],
+      "answerIndex": 1,
+      "explanation": "Not one of those six things is a character flaw - they're conditions."
+    },
+    {
+      "id": "l3y1-g-A04",
+      "type": "multi",
+      "prompt": "Which are the four evidence-based moves the deck lists for stress? Select all that apply.",
+      "options": [
+        "Move",
+        "Connect",
+        "Sleep",
+        "Talk"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Move, Connect, Sleep, Talk."
+    },
+    {
+      "id": "l3y1-g-A05",
+      "type": "scored",
+      "prompt": "Why does the deck say sleep matters for your grades?",
+      "options": [
+        "It doesn't matter",
+        "Memory is built while you sleep - revision without sleep is pouring water into a cracked jug",
+        "It only matters at weekends",
+        "Coffee works just as well"
+      ],
+      "answerIndex": 1,
+      "explanation": "Memory is built while you sleep - revision without sleep is pouring water into a cracked jug."
+    },
+    {
+      "id": "l3y1-g-A06",
+      "type": "multi",
+      "prompt": "What is the deck's headline about using support at ESCG? Select all that apply.",
+      "options": [
+        "A last resort",
+        "Normal and expected",
+        "Only for diagnosed students",
+        "Something to keep quiet",
+        "It goes on no record that follows you"
+      ],
+      "correctIndices": [
+        1,
+        4
+      ],
+      "explanation": "Normal and expected - and it goes on no record that follows you."
+    },
+    {
+      "id": "l3y1-g-A07",
+      "type": "scored",
+      "prompt": "How does the deck reframe telling someone about a friend's serious disclosure?",
+      "options": [
+        "It's a betrayal",
+        "You can be loyal and still tell someone - those aren't opposites",
+        "Only if the friend agrees first",
+        "Never tell anyone"
+      ],
+      "answerIndex": 1,
+      "explanation": "You can be loyal and still tell someone. Those aren't opposites."
+    },
+    {
+      "id": "l3y1-g-A08",
+      "type": "insert",
+      "prompt": "Fill in the blank: Samaritans is ____.",
+      "template": "Samaritans is ____.",
+      "options": [
+        "116 123 - free, 24/7",
+        "0300 999 9999",
+        "0800 111 1111",
+        "999"
+      ],
+      "answerIndex": 0,
+      "explanation": "Samaritans: 116 123 - free, 24/7."
+    }
+  ]
+}

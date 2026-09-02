@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-e",
+    "level": "l3",
+    "year": "y2",
+    "module": "E",
+    "variant": "B",
+    "title": "Respect, Relationships & College Values"
+  },
+  "questions": [
+    {
+      "id": "l3y2-e-B01",
+      "type": "scored",
+      "prompt": "What is the main Year 2 focus of Module E?",
+      "options": [
+        "Applying them consistently",
+        "Learning the values for the first time",
+        "Ignoring old rules",
+        "Changing the values"
+      ],
+      "answerIndex": 0,
+      "explanation": "Applying them consistently"
+    },
+    {
+      "id": "l3y2-e-B02",
+      "type": "scored",
+      "prompt": "What is the biggest risk highlighted in Year 2?",
+      "options": [
+        "Lack of knowledge",
+        "New students",
+        "Too many rules",
+        "Familiarity and normalised behaviour"
+      ],
+      "answerIndex": 3,
+      "explanation": "Familiarity and normalised behaviour"
+    },
+    {
+      "id": "l3y2-e-B03",
+      "type": "scored",
+      "prompt": "Which statement is true?",
+      "options": [
+        "Familiarity increases responsibility",
+        "Good friends can ignore behaviour standards",
+        "Familiarity lowers expectations",
+        "Standards only apply in lessons"
+      ],
+      "answerIndex": 0,
+      "explanation": "Familiarity increases responsibility"
+    },
+    {
+      "id": "l3y2-e-B04",
+      "type": "scored",
+      "prompt": "What should you do if harmful behaviour becomes normalised?",
+      "options": [
+        "Challenge or report it",
+        "Wait until next year",
+        "Ignore it",
+        "Join in"
+      ],
+      "answerIndex": 0,
+      "explanation": "Challenge or report it"
+    },
+    {
+      "id": "l3y2-e-B05",
+      "type": "scored",
+      "prompt": "Why should Year 2 students review their online presence?",
+      "options": [
+        "Employers may see it",
+        "Teachers control accounts",
+        "Social media is banned",
+        "It is required weekly"
+      ],
+      "answerIndex": 0,
+      "explanation": "Employers may see it"
+    },
+    {
+      "id": "l3y2-e-B06",
+      "type": "scored",
+      "prompt": "According to Module E, inaction can:",
+      "options": [
+        "Make you part of the problem",
+        "Protect you",
+        "Reduce consequences",
+        "Improve friendships"
+      ],
+      "answerIndex": 0,
+      "explanation": "Make you part of the problem"
+    },
+    {
+      "id": "l3y2-e-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Equality Act Responsibilities'? Select all that apply.",
+      "options": [
+        "Do not discriminate",
+        "Do not harass others",
+        "Do not victimise others",
+        "Do not ignore behaviour that targets others"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Equality Act Responsibilities."
+    },
+    {
+      "id": "l3y2-e-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Behaviour Standards Remain the Same'? Select all that apply.",
+      "options": [
+        "In college",
+        "On placement",
+        "Online",
+        "People notice your professionalism"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Behaviour Standards Remain the Same."
+    }
+  ]
+}

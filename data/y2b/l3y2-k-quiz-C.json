@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "section": "l3y2-k",
+    "level": "l3",
+    "year": "y2",
+    "module": "K",
+    "variant": "C",
+    "title": "Progression Opportunities & Setting Goals"
+  },
+  "questions": [
+    {
+      "id": "l3y2-k-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Application Cycle Is Live'? Select all that apply.",
+      "options": [
+        "Making applications",
+        "Meeting deadlines",
+        "Using evidence",
+        "Making decisions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Application Cycle Is Live."
+    },
+    {
+      "id": "l3y2-k-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Dates Matter'? Select all that apply.",
+      "options": [
+        "UCAS applications",
+        "Apprenticeship applications",
+        "Internal reference deadlines",
+        "Predicted grade deadlines"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Dates Matter."
+    },
+    {
+      "id": "l3y2-k-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Navigate Becomes Application Material'? Select all that apply.",
+      "options": [
+        "UCAS content",
+        "Apprenticeship evidence",
+        "Portfolio evidence",
+        "References"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Navigate Becomes Application Material."
+    },
+    {
+      "id": "l3y2-k-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Audit Your Record'? Select all that apply.",
+      "options": [
+        "Is my Digital CV current",
+        "Are projects fully logged",
+        "Are placements recorded",
+        "Is my skills evidence visible"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Audit Your Record."
+    },
+    {
+      "id": "l3y2-k-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Goals Must Have Margin'? Select all that apply.",
+      "options": [
+        "Specific deadlines",
+        "Early completion targets",
+        "Clear first steps"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "All of these are mentioned in the section on Goals Must Have Margin."
+    },
+    {
+      "id": "l3y2-k-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'References Matter More Than Ever'? Select all that apply.",
+      "options": [
+        "References",
+        "Applications",
+        "Offers",
+        "Interviews"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on References Matter More Than Ever."
+    },
+    {
+      "id": "l3y2-k-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'The Last Lap Matters Most'?",
+      "options": [
+        "It applies only to certain students",
+        "Applications",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 1,
+      "explanation": "Applications"
+    },
+    {
+      "id": "l3y2-k-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'It Is Still Possible to Change Direction'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Year 2 conversations often involve: Support and clarification may help"
+      ],
+      "answerIndex": 3,
+      "explanation": "Year 2 conversations often involve: Support and clarification may help"
+    }
+  ]
+}

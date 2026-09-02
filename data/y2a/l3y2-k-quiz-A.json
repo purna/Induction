@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-k",
+    "level": "l3",
+    "year": "y2",
+    "module": "K",
+    "variant": "A",
+    "title": "Progression & Goals - The Final Year"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this final progression session?",
+      "options": [
+        "The last induction session you'll ever sit through - ninety minutes to turn two years of evidence into a plan, with the first application deadline already live",
+        "A ceremonial farewell",
+        "An exam preparation session",
+        "A placement briefing"
+      ],
+      "answerIndex": 0,
+      "explanation": "The last induction session you will ever sit through.",
+      "id": "l3y2-k-A01"
+    },
+    {
+      "id": "l3y2-k-C07",
+      "type": "scored",
+      "prompt": "What is the major difference between Year 1 and Year 2 progression planning?",
+      "options": [
+        "Year 2 involves active applications",
+        "Year 2 removes deadlines",
+        "Year 2 removes progression routes",
+        "Year 2 removes planning"
+      ],
+      "answerIndex": 0,
+      "explanation": "Year 2 involves active applications"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's claim about 'results day' in relation to the application cycle?",
+      "options": [
+        "Every deadline above exists to protect the time you need to earn them - the application is the easy half",
+        "Results day is the only thing that matters",
+        "Results day is more important than the application",
+        "It is at the end of Year 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Every deadline above exists to protect the time you need to earn them - the application is the easy half.",
+      "id": "l3y2-k-A03"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's verdict on Year 1 evidence that isn't logged?",
+      "options": [
+        "It only matters for university",
+        "It's still useful informally",
+        "If it happened and is not logged, it effectively did not happen. Fix that this week",
+        "It can be re-created later"
+      ],
+      "answerIndex": 2,
+      "explanation": "If it happened and is not logged, it effectively did not happen.",
+      "id": "l3y2-k-A04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the 'test' the deck applies to Year 2 goals?",
+      "options": [
+        "Does it match what your friends are doing?",
+        "Does it beat the deadline with room to spare? On-time is the new late",
+        "Does it sound good in a tutor's meeting?",
+        "Does it look ambitious?"
+      ],
+      "answerIndex": 1,
+      "explanation": "The test this year is harsher: does it beat the deadline with room to spare? On-time is the new late.",
+      "id": "l3y2-k-A05"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does the deck say to start drafting goals 'backwards from results day'?",
+      "options": [
+        "It's easier to remember",
+        "Because the grades decide everything and the application calendar exists to protect the time they need",
+        "Because UCAS requires it",
+        "Because tutors prefer it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Start at results day and work backwards - the grades decide everything.",
+      "id": "l3y2-k-A06"
+    },
+    {
+      "id": "l3y2-k-A07",
+      "type": "scored",
+      "prompt": "What should Navigate provide in Year 2?",
+      "options": [
+        "Only attendance data",
+        "Evidence for applications",
+        "Only grades",
+        "Only project titles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Evidence for applications"
+    },
+    {
+      "id": "l3y2-k-A08",
+      "type": "scored",
+      "prompt": "What is the recommended planning strategy?",
+      "options": [
+        "Work forwards randomly",
+        "Avoid setting deadlines",
+        "Wait until January",
+        "Work backwards from results day"
+      ],
+      "answerIndex": 3,
+      "explanation": "Work backwards from results day"
+    }
+  ]
+}

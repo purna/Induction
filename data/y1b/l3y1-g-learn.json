@@ -1,0 +1,191 @@
+{
+  "section": "l3y1-g",
+  "level": "l3",
+  "year": "y1",
+  "module": "G",
+  "title": "Looking After Myself",
+  "slides": [
+    {
+      "title": "Mental Health Is Health",
+      "content": "Mental health exists on a spectrum: Thriving Coping Struggling In Crisis Everyone moves along this spectrum throughout the year. Mental health is affected by: Sleep Money People Workload Home life Physical activity Struggling is information, not weakness.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Mental Health Is Health'?",
+        "options": [
+          "Trouble starting work",
+          "Trouble stopping work",
+          "Thriving",
+          "Changes in sleep"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Mental Health Is Health."
+      }
+    },
+    {
+      "title": "Recognising Stress",
+      "content": "Signs of stress can include: Trouble starting work. Trouble stopping work. Changes in sleep. Irritability. Avoidance. Falling behind with coursework or portfolios. Common causes include: Deadlines. Workload. Financial pressures. Home pressures. Balancing study and work.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Recognising Stress'?",
+        "options": [
+          "Coping",
+          "Thriving",
+          "Trouble starting work",
+          "Struggling"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Recognising Stress."
+      }
+    },
+    {
+      "title": "What Actually Helps Stress",
+      "content": "Evidence-based strategies include: Move: Regular physical activity, even walking. Connect: Spending time with people. Sleep: Protecting healthy sleep habits. Talk: Speaking to somebody about what is happening.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'What Actually Helps Stress'?",
+        "options": [
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "Evidence-based strategies include: Move: Regular physical activity, even walking",
+          "It is optional and not required"
+        ],
+        "answerIndex": 2,
+        "explanation": "Evidence-based strategies include: Move: Regular physical activity, even walking"
+      }
+    },
+    {
+      "title": "Sleep Is a Study Tool",
+      "content": "Sleep affects: Memory. Concentration. Focus. Emotional regulation. Good sleep habits include: Consistent wake-up times. Limiting screen use before bed. Reducing caffeine later in the day. Revision and learning depend on sleep for memory consolidation.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Sleep Is a Study Tool'?",
+        "options": [
+          "Struggling",
+          "Memory",
+          "Coping",
+          "Thriving"
+        ],
+        "answerIndex": 1,
+        "explanation": "This is a key point from the section on Sleep Is a Study Tool."
+      }
+    },
+    {
+      "title": "Money Can Affect Wellbeing",
+      "content": "Financial stress can affect: Mood. Sleep. Attendance. Concentration. Motivation. Students should know that support such as hardship funding exists and that asking for help is normal.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Money Can Affect Wellbeing'? Select all that apply.",
+        "options": [
+          "Mood",
+          "Sleep",
+          "Attendance",
+          "Concentration"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Money Can Affect Wellbeing."
+      }
+    },
+    {
+      "title": "Support Routes Exist",
+      "content": "The support process is: 1. Tell someone. 2. Referral is made. 3. Appropriate support is arranged. You can approach: Tutors. Teachers. Wellbeing staff. Support services. Any trusted adult can be the starting point.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Support Routes Exist'? Select all that apply.",
+        "options": [
+          "Tutors",
+          "Teachers",
+          "Wellbeing staff",
+          "Support services"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Support Routes Exist."
+      }
+    },
+    {
+      "title": "Tell College What It Needs to Know",
+      "content": "Inform the college about: Disabilities. Learning needs. Mental health conditions. Circumstances affecting study. Support can only be arranged when the college is aware of the need.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Tell College What It Needs to Know'? Select all that apply.",
+        "options": [
+          "Disabilities",
+          "Learning needs",
+          "Mental health conditions",
+          "Circumstances affecting study"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Tell College What It Needs to Know."
+      }
+    },
+    {
+      "title": "Look Out For Others",
+      "content": "The process is simple: Changes in behaviour. \"Are you actually okay?\" A trusted adult if serious support is needed. Helping someone get support is not betrayal.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Look Out For Others'?",
+        "options": [
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "It is optional and not required",
+          "The process is simple: Changes in behaviour"
+        ],
+        "answerIndex": 3,
+        "explanation": "The process is simple: Changes in behaviour"
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Mental health is health Learn to recognise stress Prioritise sleep Understand support routes Ask for help early Notice and support peers",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Mental health is health",
+          "Learn to recognise stress",
+          "Prioritise sleep",
+          "Understand support routes"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "section": "l3y1-a",
+  "level": "l3",
+  "year": "y1",
+  "module": "A",
+  "title": "Welcome, Belonging & Support",
+  "slides": [
+    {
+      "title": "Belonging Matters",
+      "content": "One of the biggest factors in student success is feeling that you belong. College is easier when: You know people in your group. You feel comfortable asking questions. You have staff you can approach. You build positive connections early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Belonging Matters'? Select all that apply.",
+        "options": [
+          "You know people in your group",
+          "You feel comfortable asking questions",
+          "You have staff you can approach",
+          "You build positive connections early"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Belonging Matters."
+      }
+    },
+    {
+      "title": "Your Teachers Are Here to Help",
+      "content": "You can expect staff to: Know your name. Treat you with respect. Teach you effectively. Help when you are stuck. In return, staff expect students to: Attend. Participate. Treat others respectfully. Communicate early when problems arise.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Your Teachers Are Here to Help'?",
+        "options": [
+          "Know your name",
+          "You have staff you can approach",
+          "You feel comfortable asking questions",
+          "You know people in your group"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is a key point from the section on Your Teachers Are Here to Help."
+      }
+    },
+    {
+      "title": "Your Study Programme Has Several Parts",
+      "content": "A study programme includes: Your Main Qualification: Coursework, assessments, portfolios and projects. English and Maths: If still required. Work-Related Learning: Placements, employer projects and industry experiences. Tutorials and Personal Development: Support for progress, wellbeing and future planning.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Your Study Programme Has Several Parts'?",
+        "options": [
+          "It is optional and not required",
+          "A study programme includes: Your Main Qualification: Coursework, assessments, portfolios and projects",
+          "It applies only to certain students",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 1,
+        "explanation": "A study programme includes: Your Main Qualification: Coursework, assessments, portfolios and projects"
+      }
+    },
+    {
+      "title": "Learn to Use Pro Portal",
+      "content": "Pro Portal is your main college information system. You use it to: Access your timetable. Check room changes. Read messages. View attendance. Track progress. Checking it daily is strongly recommended.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Learn to Use Pro Portal'? Select all that apply.",
+        "options": [
+          "Access your timetable",
+          "Check room changes",
+          "Read messages",
+          "View attendance"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Learn to Use Pro Portal."
+      }
+    },
+    {
+      "title": "It Is Normal to Have Worries",
+      "content": "Common worries include: Workload. New software. Meeting people. Confidence. Finding your way around. Most students share similar concerns when they start.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'It Is Normal to Have Worries'? Select all that apply.",
+        "options": [
+          "Workload",
+          "New software",
+          "Meeting people",
+          "Confidence"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on It Is Normal to Have Worries."
+      }
+    },
+    {
+      "title": "Support Exists",
+      "content": "College support may include: Learning support. Mental health and wellbeing support. Financial support. Careers advice. Seeking help early is a sensible decision, not a sign of weakness.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Support Exists'? Select all that apply.",
+        "options": [
+          "Learning support",
+          "Mental health and wellbeing support",
+          "Financial support",
+          "Careers advice"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Support Exists."
+      }
+    },
+    {
+      "title": "College Is More Than Lessons",
+      "content": "College life can include: Clubs. Societies. Trips. Competitions. Enrichment activities. These experiences can improve confidence, skills and belonging.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'College Is More Than Lessons'? Select all that apply.",
+        "options": [
+          "Clubs",
+          "Societies",
+          "Trips",
+          "Competitions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on College Is More Than Lessons."
+      }
+    },
+    {
+      "title": "Reflection Matters",
+      "content": "Students should think about: What they are looking forward to. What support they may need. Who they have connected with. Small reflections help tutors support students effectively.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Reflection Matters'? Select all that apply.",
+        "options": [
+          "What they are looking forward to",
+          "What support they may need",
+          "Who they have connected with"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Reflection Matters."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Get settled and build belonging Learn how college systems work Understand your study programme Use Pro Portal regularly Know where to access support Get involved beyond lessons",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Get settled and build belonging",
+          "Learn how college systems work",
+          "Understand your study programme",
+          "Use Pro Portal regularly"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

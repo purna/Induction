@@ -1,0 +1,204 @@
+{
+  "section": "l3y1-e",
+  "level": "l3",
+  "year": "y1",
+  "module": "E",
+  "title": "Respect, Relationships & College Values",
+  "slides": [
+    {
+      "title": "Respect Looks Different in Different Settings",
+      "content": "Respect applies: In college. On industry placement. Online. In future workplaces. College expects students to increasingly self-regulate and behave professionally.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Respect Looks Different in Different Settings'? Select all that apply.",
+        "options": [
+          "In college",
+          "On industry placement",
+          "Online",
+          "In future workplaces"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Respect Looks Different in Different Settings."
+      }
+    },
+    {
+      "title": "The PROUD Values",
+      "content": "These are the core ESCG values: Create a welcoming and supportive environment. Treat everyone fairly and appropriately. Take opportunities to learn and develop. Work positively with others and challenge exclusion. Value differences and recognise that diversity strengthens the community.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'The PROUD Values'?",
+        "options": [
+          "These are the core ESCG values: Create a welcoming and supportive environment",
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "It is optional and not required"
+        ],
+        "answerIndex": 0,
+        "explanation": "These are the core ESCG values: Create a welcoming and supportive environment"
+      }
+    },
+    {
+      "title": "British Values",
+      "content": "The four British Values are: Students can influence college through elections, surveys and feedback. College rules and UK law apply to everyone. People can make their own choices, provided they do not harm others. Everyone deserves fair treatment regardless of background.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'British Values'?",
+        "options": [
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "It is optional and not required",
+          "The four British Values are: Students can influence college through elections, surveys and feedback"
+        ],
+        "answerIndex": 3,
+        "explanation": "The four British Values are: Students can influence college through elections, surveys and feedback"
+      }
+    },
+    {
+      "title": "The Equality Act 2010",
+      "content": "The Equality Act protects people from discrimination based on nine protected characteristics: 1. Age 2. Disability 3. Gender reassignment 4. Marriage and civil partnership 5. Pregnancy and maternity 6. Race 7. Religion or belief 8. Sex 9. Sexual orientation",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'The Equality Act 2010'?",
+        "options": [
+          "The Equality Act protects people from discrimination based on nine protected characteristics: 1",
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "It is optional and not required"
+        ],
+        "answerIndex": 0,
+        "explanation": "The Equality Act protects people from discrimination based on nine protected characteristics: 1"
+      }
+    },
+    {
+      "title": "Important Equality Act Terms",
+      "content": "Discrimination: Treating someone unfairly because of a protected characteristic. Harassment: Unwanted behaviour that creates a hostile or offensive environment. Victimisation: Treating someone unfairly because they raised or supported a concern about discrimination.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Important Equality Act Terms'?",
+        "options": [
+          "It is optional and not required",
+          "It is only assessed in exams",
+          "Discrimination: Treating someone unfairly because of a protected characteristic",
+          "It applies only to certain students"
+        ],
+        "answerIndex": 2,
+        "explanation": "Discrimination: Treating someone unfairly because of a protected characteristic"
+      }
+    },
+    {
+      "title": "Behaviour Standards",
+      "content": "The same standards apply: In college. On placement. Online. Key expectations: Respectful language. No bullying or harassment. No discriminatory behaviour. Responsible use of technology. No recording or sharing content without permission. Professional conduct on placements.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Behaviour Standards'?",
+        "options": [
+          "In future workplaces",
+          "On industry placement",
+          "In college",
+          "Online content can be permanent"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Behaviour Standards."
+      }
+    },
+    {
+      "title": "Your Digital Footprint Matters",
+      "content": "Remember: Online content can be permanent. Employers may see your online activity. Social media behaviour can have college consequences. College policies can apply to online conduct.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Your Digital Footprint Matters'? Select all that apply.",
+        "options": [
+          "Online content can be permanent",
+          "Employers may see your online activity",
+          "Social media behaviour can have college consequences",
+          "College policies can apply to online conduct"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Your Digital Footprint Matters."
+      }
+    },
+    {
+      "title": "Zero Tolerance",
+      "content": "ESCG has zero tolerance for: Harassment. Discrimination. Bullying. Abuse. Serious consequences can include: Formal disciplinary procedures. Suspension. Permanent exclusion.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Zero Tolerance'?",
+        "options": [
+          "Online",
+          "Harassment",
+          "On industry placement",
+          "In college"
+        ],
+        "answerIndex": 1,
+        "explanation": "This is a key point from the section on Zero Tolerance."
+      }
+    },
+    {
+      "title": "How to Report Concerns",
+      "content": "There are three reporting routes: 1. Tell your teacher. 2. Use the formal reporting system. 3. Use anonymous reporting. All concerns are taken seriously.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'How to Report Concerns'?",
+        "options": [
+          "There are three reporting routes: 1",
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "It is optional and not required"
+        ],
+        "answerIndex": 0,
+        "explanation": "There are three reporting routes: 1"
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Learn the PROUD Values Understand British Values Know your Equality Act protections Follow behaviour standards Report concerns early Build respectful habits online and offline",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Learn the PROUD Values",
+          "Understand British Values",
+          "Know your Equality Act protections",
+          "Follow behaviour standards"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

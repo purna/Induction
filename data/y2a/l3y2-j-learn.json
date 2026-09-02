@@ -1,0 +1,168 @@
+{
+  "section": "l3y2-j",
+  "level": "l3",
+  "year": "y2",
+  "module": "J",
+  "title": "Work Experience - Skills Week, Aimed at Your Specialism",
+  "slides": [
+    {
+      "title": "What this session covers - and the framing",
+      "content": "Work Experience - Skills Week, your second placement, aimed at your specialism. About 1 hour. PROUD anchor: Seek Opportunity. The returner framing: 'You've done this once already - so this time we're building on what you know, not starting from zero.' However last year went, this is a fresh run at it - not a repeat test. The real risk with this group is complacency, not unfamiliarity - name it directly.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the Year 2 framing of this work experience session, according to the deck?",
+        "options": [
+          "Starting from zero",
+          "Building on what you know - this is a fresh run at it, not a repeat test",
+          "Skip it - you did it last year",
+          "It's a placement-finding workshop"
+        ],
+        "answerIndex": 1,
+        "explanation": "You've done this once already - so this time we're building on what you know, not starting from zero."
+      }
+    },
+    {
+      "title": "Why it matters even more this year",
+      "content": "Two placements beat one: two entries on a CV, two referees, and a portfolio that shows range as well as skill. UCAS and apprenticeship applications open soon. A recent, relevant placement is stronger evidence than last year's alone. Aim it at your Final Major Project or specialism - the work you want to be known for after college. Seek Opportunity: doing this once was practising the value. Doing it again, deliberately, is what turns it into a habit.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "According to the deck, why does a second placement matter more?",
+        "options": [
+          "It counts as a third course",
+          "Two placements beat one: two CV entries, two referees, a portfolio that shows range as well as skill",
+          "It's required by law",
+          "It is worth double marks"
+        ],
+        "answerIndex": 1,
+        "explanation": "Two placements beat one: two entries on a CV, two referees, and a portfolio that shows range as well as skill."
+      }
+    },
+    {
+      "title": "What's on offer - and the 30-hour reset",
+      "content": "Block placement, employer visits, volunteering, live project briefs, industry partnerships - same options as last year. This time, choose the one closest to the specialism you are heading into. Yes, it's another 30 hours. The requirement resets each academic year - last year's hours don't carry over. On a T Level, this sits inside your larger industry placement. No placement by Skills Week? You come into college for an employer-set brief and employer talks instead. It still counts.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What happens if you don't get a placement by Skills Week?",
+        "options": [
+          "You're marked absent",
+          "You come into college for an employer-set brief and employer talks instead. It still counts",
+          "You fail the year",
+          "You take a 30-hour penalty"
+        ],
+        "answerIndex": 1,
+        "explanation": "No placement by Skills Week? You come into college for an employer-set brief and employer talks instead. It still counts."
+      }
+    },
+    {
+      "title": "This year's dates - Skills Week and the deadline",
+      "content": "Skills Week: Monday 8 March 2027 - this is your Work Experience week, the placement itself happens here. Request deadline: Friday 5 February 2027 - your placement must be requested on Navigate by this date, at least 4 weeks before Skills Week. Why 4 weeks? It gives the Careers & Employability team time to check your employer - health & safety, insurance and safeguarding checks - before you're allowed to start. Miss the deadline and there may not be time to approve your placement before Skills Week. Some placements also need a DBS check, or the employer's own IT and confidentiality rules.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'This Is Round Two'? Select all that apply.",
+        "options": [
+          "You already have experience",
+          "You can target your specialism",
+          "Applications are approaching",
+          "You can build on Year 1 evidence"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on This Is Round Two."
+      }
+    },
+    {
+      "title": "Requesting your placement - the Navigate refresher",
+      "content": "Same process as last year - you'll source and request your placement through Navigate. Need a refresher? See Module H - How to Use Navigate. You'll need: company name & full address; employer contact name, phone & email; start and end dates; the days and times you've agreed; your tutor's name; what tasks/role you'll be doing. Placements must fit within college hours (8.30am-5.30pm), max 8-hour day. Agency, studio and IT support hours fit easily; shoots, events and live broadcasts may not - agree your times in writing before you request. Access via My Student Life; direct login: login.navigate.uk.com.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What are the college hours a placement must fit within, according to the deck?",
+        "options": [
+          "9am-5pm",
+          "8.30am-5.30pm, max 8-hour day",
+          "8am-6pm",
+          "Anytime"
+        ],
+        "answerIndex": 1,
+        "explanation": "Placements must fit within college hours (8.30am-5.30pm), max 8-hour day."
+      }
+    },
+    {
+      "title": "Careers & Employability team - by campus",
+      "content": "Same team, same campuses. Eastbourne: ECAT House, room 101 - Eastbourne.Careers@escg.ac.uk. Hastings: Careers Hub, Ground Floor - Hastings.Careers@escg.ac.uk. Ore: ask at reception - Hastings.Careers@escg.ac.uk. Lewes: Cliffe Building, room 134 - Lewes.Careers@escg.ac.uk. Newhaven: ask at reception - Lewes.Careers@escg.ac.uk. The email addresses are shared team inboxes, not one individual. If a placement isn't progressing, or something doesn't feel right, don't wait - go to your campus Careers & Employability team, or tell your tutor.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'A Second Placement Has More Value'? Select all that apply.",
+        "options": [
+          "More evidence",
+          "More references",
+          "Greater professional credibility",
+          "Stronger applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on A Second Placement Has More Value."
+      }
+    },
+    {
+      "title": "On placement - raising the bar",
+      "content": "Timekeeping: be on time, every day. Running late or unwell? Contact the employer AND the college. Dress & conduct: check the dress code before you start. Most studios, agencies and IT teams are smart casual; on a shoot or an install, wear something you can actually work in. Communication: keep in touch with your placement provider - don't go quiet if plans change. Logging hours: complete your Navigate journal and timesheet every day you attend. Record what you actually did - your reference will be written from it. Raising concerns: speak to your employer contact first if it's minor - or your tutor / Careers & Employability team if it isn't. Professionalism compounds - employers and referees remember you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What should you do if you are running late or unwell for placement?",
+        "options": [
+          "Text a friend",
+          "Contact the employer AND the college",
+          "Just turn up when you can",
+          "Stay home and email your tutor only"
+        ],
+        "answerIndex": 1,
+        "explanation": "Running late or unwell? Contact the employer AND the college."
+      }
+    },
+    {
+      "title": "One thing I'll do this week",
+      "content": "Pick one option. Write or draw it on your card. Your tutor keeps it and will check in with you. (1) Build on last time - I'll decide whether to go somewhere new or go deeper with the same employer, and which is closer to my specialism. (2) Note the dates - I'll write 5 Feb and 8 March somewhere I'll actually see them. (3) Refresh on Navigate - I'll check I remember what information I'll need before I request a placement. (4) Tell someone - I'll tell my tutor or the Careers & Employability team if I'm unsure about something, or a placement concern comes up.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Connect Placement to Your Future'? Select all that apply.",
+        "options": [
+          "Final Major Projects",
+          "Occupational Specialisms",
+          "Career aspirations",
+          "UCAS applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Connect Placement to Your Future."
+      }
+    }
+  ]
+}

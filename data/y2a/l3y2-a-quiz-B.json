@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "section": "l3y2-a",
+    "level": "l3",
+    "year": "y2",
+    "module": "A",
+    "variant": "B",
+    "title": "Welcome Back - This Is the Year That Counts"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the 'CV test' for enrichment and projects?",
+      "options": [
+        "Ask 'Will this give me something real to say in an interview or on an application?' - if yes, do it",
+        "Skip anything that doesn't pay",
+        "Do everything on offer",
+        "Only do things that look good on paper"
+      ],
+      "answerIndex": 0,
+      "explanation": "The CV test: 'Will this give me something real to say in an interview or on an application?' If yes - do it.",
+      "id": "l3y2-a-B01"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which door covers UCAS and apprenticeship applications?",
+      "options": [
+        "Wellbeing",
+        "Money & practical",
+        "Academic support",
+        "Careers & progression"
+      ],
+      "answerIndex": 3,
+      "explanation": "Careers & progression covers real help with applications, interviews, UCAS and apprenticeships.",
+      "id": "l3y2-a-B02"
+    },
+    {
+      "type": "scored",
+      "prompt": "How often should you check Pro Portal?",
+      "options": [
+        "Once a week",
+        "Once a term",
+        "Every morning, no excuses",
+        "Only when something looks wrong"
+      ],
+      "answerIndex": 2,
+      "explanation": "Check Pro Portal every morning, no excuses.",
+      "id": "l3y2-a-B03"
+    },
+    {
+      "type": "multi",
+      "prompt": "Which are the three routes out of Year 2? Select all that apply.",
+      "options": [
+        "Into work",
+        "University / HE",
+        "Apprenticeship",
+        "Drop out and try again later"
+      ],
+      "correctIndices": [
+        0,
+        2,
+        1
+      ],
+      "explanation": "Into work, apprenticeship, and university / HE are the three routes out.",
+      "id": "l3y2-a-B04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the usual cause of Year 2 students falling short, according to the deck?",
+      "options": [
+        "Lack of intelligence",
+        "Bad teaching",
+        "Drift - missed deadlines, skipped days, applications left too late",
+        "Bad luck"
+      ],
+      "answerIndex": 2,
+      "explanation": "They drifted. A missed deadline here, a few skipped days there, the application left too late.",
+      "id": "l3y2-a-B05"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is one of the three honest asks Year 2 makes?",
+      "options": [
+        "Attend every social event",
+        "Pick a specialism in week one",
+        "Grades carry weight - this year's results are the ones employers and universities actually see",
+        "Get a part-time job immediately"
+      ],
+      "answerIndex": 2,
+      "explanation": "Grades carry weight - this year's results are the ones employers, training providers and universities actually see.",
+      "id": "l3y2-a-B06"
+    },
+    {
+      "id": "l3y2-a-C07",
+      "type": "scored",
+      "prompt": "What is the main purpose of Year 2?",
+      "options": [
+        "Freshers activities",
+        "Finishing strongly and progressing",
+        "Learning campus locations",
+        "Settling in"
+      ],
+      "answerIndex": 1,
+      "explanation": "Finishing strongly and progressing"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this Year 2 welcome session, according to the deck?",
+      "options": [
+        "A pass-or-fail assessment of last year's work",
+        "A lecture on study skills",
+        "A repeat of last September's induction",
+        "A re-focus on where you're headed and what Year 2 demands"
+      ],
+      "answerIndex": 3,
+      "explanation": "The deck frames this as a re-focus, not a re-run.",
+      "id": "l3y2-a-B08"
+    }
+  ]
+}

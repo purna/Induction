@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-a",
+    "level": "l3",
+    "year": "y2",
+    "module": "A",
+    "variant": "A",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y2-a-A01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Year 2?",
+      "options": [
+        "Learning campus locations",
+        "Settling in",
+        "Finishing strongly and progressing",
+        "Freshers activities"
+      ],
+      "answerIndex": 2,
+      "explanation": "Finishing strongly and progressing"
+    },
+    {
+      "id": "l3y2-a-A02",
+      "type": "scored",
+      "prompt": "What is identified as the biggest Year 2 risk?",
+      "options": [
+        "Lack of ability",
+        "Lack of tutors",
+        "Drift and complacency",
+        "Lack of assessments"
+      ],
+      "answerIndex": 2,
+      "explanation": "Drift and complacency"
+    },
+    {
+      "id": "l3y2-a-A03",
+      "type": "scored",
+      "prompt": "Which route is considered \"second best\"?",
+      "options": [
+        "Employment",
+        "University",
+        "None of them",
+        "Apprenticeships"
+      ],
+      "answerIndex": 2,
+      "explanation": "None of them"
+    },
+    {
+      "id": "l3y2-a-A04",
+      "type": "scored",
+      "prompt": "Why should you continue using support services?",
+      "options": [
+        "They remain important throughout Year 2",
+        "They are compulsory",
+        "They replace coursework",
+        "They improve grades automatically"
+      ],
+      "answerIndex": 0,
+      "explanation": "They remain important throughout Year 2"
+    },
+    {
+      "id": "l3y2-a-A05",
+      "type": "scored",
+      "prompt": "Which tool should you continue using to stay organised?",
+      "options": [
+        "None",
+        "Personal email only",
+        "Social media",
+        "Pro Portal"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pro Portal"
+    },
+    {
+      "id": "l3y2-a-A06",
+      "type": "scored",
+      "prompt": "What question helps judge whether an opportunity is worthwhile?",
+      "options": [
+        "Will it give me something meaningful to discuss in an interview",
+        "Will it be fun",
+        "Will it be easy",
+        "Will my friends do it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Will it give me something meaningful to discuss in an interview?"
+    },
+    {
+      "id": "l3y2-a-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Is Different'?",
+      "options": [
+        "Year 2 is not about learning how college works",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Year 2 is not about learning how college works"
+    },
+    {
+      "id": "l3y2-a-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Know Where You Are Heading'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Students should have a developing idea of: Employment",
+        "It is optional and not required"
+      ],
+      "answerIndex": 2,
+      "explanation": "Students should have a developing idea of: Employment"
+    }
+  ]
+}

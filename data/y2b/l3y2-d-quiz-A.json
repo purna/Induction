@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-d",
+    "level": "l3",
+    "year": "y2",
+    "module": "D",
+    "variant": "A",
+    "title": "Students' Voice & Student Representative Elections"
+  },
+  "questions": [
+    {
+      "id": "l3y2-d-A01",
+      "type": "scored",
+      "prompt": "What is a major Year 2 advantage?",
+      "options": [
+        "Less coursework",
+        "Fewer responsibilities",
+        "Institutional experience",
+        "More holidays"
+      ],
+      "answerIndex": 2,
+      "explanation": "Institutional experience"
+    },
+    {
+      "id": "l3y2-d-A02",
+      "type": "scored",
+      "prompt": "What is a major Year 2 risk?",
+      "options": [
+        "Too many surveys",
+        "Having too much support",
+        "Familiarity leading to disengagement",
+        "Too many reps"
+      ],
+      "answerIndex": 2,
+      "explanation": "Familiarity leading to disengagement"
+    },
+    {
+      "id": "l3y2-d-A03",
+      "type": "scored",
+      "prompt": "Student Voice is:",
+      "options": [
+        "Only the college's responsibility",
+        "Only the Rep's responsibility",
+        "Only for Student Governors",
+        "A shared responsibility"
+      ],
+      "answerIndex": 3,
+      "explanation": "A shared responsibility"
+    },
+    {
+      "id": "l3y2-d-A04",
+      "type": "scored",
+      "prompt": "Student Governors represent:",
+      "options": [
+        "The whole student community",
+        "Their subject",
+        "Their friendship group",
+        "Their tutor"
+      ],
+      "answerIndex": 0,
+      "explanation": "The whole student community"
+    },
+    {
+      "id": "l3y2-d-A05",
+      "type": "scored",
+      "prompt": "Approximately how much time does being a Student Governor require?",
+      "options": [
+        "3 to 5 hours a month",
+        "1 hour a month",
+        "30 minutes a month",
+        "20 hours a month"
+      ],
+      "answerIndex": 0,
+      "explanation": "3 to 5 hours a month"
+    },
+    {
+      "id": "l3y2-d-A06",
+      "type": "scored",
+      "prompt": "Which is the best example of useful feedback?",
+      "options": [
+        "\"Coursework feedback arrives too late to act on.\"",
+        "\"College should improve.\"",
+        "\"Everything is bad.\"",
+        "\"Nothing works.\""
+      ],
+      "answerIndex": 0,
+      "explanation": "\"Coursework feedback arrives too late to act on.\""
+    },
+    {
+      "id": "l3y2-d-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Students Have Experience'?",
+      "options": [
+        "Year 2 students have: Already experienced Students' Voice",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "Year 2 students have: Already experienced Students' Voice"
+    },
+    {
+      "id": "l3y2-d-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'What Makes Students' Voice Work?'?",
+      "options": [
+        "Students' Voice works when: Reps communicate with students",
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "Students' Voice works when: Reps communicate with students"
+    }
+  ]
+}

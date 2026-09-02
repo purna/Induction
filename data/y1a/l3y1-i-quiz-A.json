@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "section": "l3y1-i",
+    "level": "l3",
+    "year": "y1",
+    "module": "I",
+    "title": "Professional Behaviour & Personal Strengths",
+    "variant": "A"
+  },
+  "questions": [
+    {
+      "id": "l3y1-i-A01",
+      "type": "scored",
+      "prompt": "Which PROUD value is this module grounded in?",
+      "options": [
+        "Seek Opportunity",
+        "Show Respect",
+        "Encourage Unity",
+        "Be Proud"
+      ],
+      "answerIndex": 1,
+      "explanation": "Show Respect."
+    },
+    {
+      "id": "l3y1-i-A02",
+      "type": "scored",
+      "prompt": "What's the deck's framing of professionalism?",
+      "options": [
+        "A costume for interviews",
+        "A set of habits - and the habits don't change with the setting",
+        "Something only relevant in employment",
+        "Only required on placement"
+      ],
+      "answerIndex": 1,
+      "explanation": "Professionalism isn't a costume - it's a set of habits that don't change with the setting."
+    },
+    {
+      "id": "l3y1-i-A03",
+      "type": "multi",
+      "prompt": "Which of these are the four professional habits the deck lists? Select all that apply.",
+      "options": [
+        "Turning up - on time, kit charged, files backed up",
+        "Flagging problems early",
+        "How you speak to people - in the room, in the group chat, and online",
+        "Owning mistakes and putting them right"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the professional habits - same across college, placement, and employment."
+    },
+    {
+      "id": "l3y1-i-A04",
+      "type": "scored",
+      "prompt": "What does the deck say matters for your reference?",
+      "options": [
+        "A single bad day",
+        "The pattern across the year - which is the one thing you fully control",
+        "Your tutor's mood",
+        "Your predicted grade"
+      ],
+      "answerIndex": 1,
+      "explanation": "One rough week doesn't follow you. A pattern does - and that's the one thing you fully control."
+    },
+    {
+      "id": "l3y1-i-A05",
+      "type": "insert",
+      "prompt": "Fill in the blank: at entry level, the deciding factors are ____.",
+      "template": "At entry level, the deciding factors are ____.",
+      "options": [
+        "technical",
+        "human",
+        "academic",
+        "creative"
+      ],
+      "answerIndex": 1,
+      "explanation": "At entry level, employers consistently report that the deciding factors are human."
+    },
+    {
+      "id": "l3y1-i-A06",
+      "type": "scored",
+      "prompt": "Which of these is one of the six human skills in the deck?",
+      "options": [
+        "Compliance",
+        "Initiative",
+        "Volume",
+        "Tenacity"
+      ],
+      "answerIndex": 1,
+      "explanation": "Initiative: spotting what needs doing without being asked."
+    },
+    {
+      "id": "l3y1-i-A07",
+      "type": "scored",
+      "prompt": "Which version of a strength statement lands as evidence?",
+      "options": [
+        "'I'm a good team player'",
+        "'On our last project I chaired the planning and set the deadlines - everyone knew their job, and we submitted on time'",
+        "'I'm confident'",
+        "'I'm hard-working'"
+      ],
+      "answerIndex": 1,
+      "explanation": "Specific, checkable, memorable."
+    },
+    {
+      "id": "l3y1-i-A08",
+      "type": "scored",
+      "prompt": "What does the deck say if you can't find three strengths?",
+      "options": [
+        "Drop out",
+        "You're not short of strengths - you're short of practice noticing them",
+        "Switch course",
+        "Use claims instead"
+      ],
+      "answerIndex": 1,
+      "explanation": "You're not short of strengths - you're short of practice noticing them."
+    }
+  ]
+}

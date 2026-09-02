@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "variant": "A",
+    "title": "Progression Opportunities & Setting Goals"
+  },
+  "questions": [
+    {
+      "id": "l3y1-k-A01",
+      "type": "scored",
+      "prompt": "Which of these is a progression route?",
+      "options": [
+        "All of the above",
+        "University",
+        "Employment",
+        "Degree apprenticeship"
+      ],
+      "answerIndex": 0,
+      "explanation": "All of the above"
+    },
+    {
+      "id": "l3y1-k-A02",
+      "type": "scored",
+      "prompt": "Navigate should be used to:",
+      "options": [
+        "Avoid careers planning",
+        "Build evidence",
+        "Replace attendance",
+        "Replace coursework"
+      ],
+      "answerIndex": 1,
+      "explanation": "Build evidence"
+    },
+    {
+      "id": "l3y1-k-A03",
+      "type": "scored",
+      "prompt": "Which is an aspiration?",
+      "options": [
+        "\"I want to work in cybersecurity.\"",
+        "\"By December I will complete a portfolio piece.\"",
+        "\"I will attend a careers appointment.\"",
+        "\"I will update Navigate.\""
+      ],
+      "answerIndex": 0,
+      "explanation": "\"I want to work in cybersecurity.\""
+    },
+    {
+      "id": "l3y1-k-A04",
+      "type": "scored",
+      "prompt": "What makes a goal different from an aspiration?",
+      "options": [
+        "It is easier",
+        "It costs money",
+        "It guarantees success",
+        "It has a deadline and action"
+      ],
+      "answerIndex": 3,
+      "explanation": "It has a deadline and action"
+    },
+    {
+      "id": "l3y1-k-A05",
+      "type": "scored",
+      "prompt": "Which support route helps with progression planning?",
+      "options": [
+        "Reception only",
+        "Other students only",
+        "Careers Team",
+        "Social media"
+      ],
+      "answerIndex": 2,
+      "explanation": "Careers Team"
+    },
+    {
+      "id": "l3y1-k-A06",
+      "type": "scored",
+      "prompt": "Why is Navigate useful?",
+      "options": [
+        "It replaces applications",
+        "It records professional evidence",
+        "It writes references automatically",
+        "It creates qualifications"
+      ],
+      "answerIndex": 1,
+      "explanation": "It records professional evidence"
+    },
+    {
+      "id": "l3y1-k-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'This Course Opens Multiple Routes'?",
+      "options": [
+        "Level 3 qualifications can lead to: University",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Level 3 qualifications can lead to: University"
+    },
+    {
+      "id": "l3y1-k-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'University Is Not the Only Option'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Possible progression routes include: Media Production degrees"
+      ],
+      "answerIndex": 3,
+      "explanation": "Possible progression routes include: Media Production degrees"
+    }
+  ]
+}

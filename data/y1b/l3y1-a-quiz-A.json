@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-a",
+    "level": "l3",
+    "year": "y1",
+    "module": "A",
+    "variant": "A",
+    "title": "Welcome, Belonging & Support"
+  },
+  "questions": [
+    {
+      "id": "l3y1-a-A01",
+      "type": "scored",
+      "prompt": "What is Pro Portal mainly used for?",
+      "options": [
+        "Gaming",
+        "Coursework only",
+        "Social media",
+        "Timetables, messages and progress"
+      ],
+      "answerIndex": 3,
+      "explanation": "Timetables, messages and progress"
+    },
+    {
+      "id": "l3y1-a-A02",
+      "type": "scored",
+      "prompt": "Which is part of your study programme?",
+      "options": [
+        "Work-related learning",
+        "Holidays",
+        "Driving lessons",
+        "Sports membership"
+      ],
+      "answerIndex": 0,
+      "explanation": "Work-related learning"
+    },
+    {
+      "id": "l3y1-a-A03",
+      "type": "scored",
+      "prompt": "What should you do if something is not working?",
+      "options": [
+        "Tell staff early",
+        "Stop attending",
+        "Stay silent",
+        "Wait until summer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tell staff early"
+    },
+    {
+      "id": "l3y1-a-A04",
+      "type": "scored",
+      "prompt": "College support can include:",
+      "options": [
+        "Careers support",
+        "All of the above",
+        "Wellbeing support",
+        "Learning support"
+      ],
+      "answerIndex": 1,
+      "explanation": "All of the above"
+    },
+    {
+      "id": "l3y1-a-A05",
+      "type": "scored",
+      "prompt": "Why is belonging important?",
+      "options": [
+        "It affects bus fares",
+        "It helps students succeed",
+        "It changes grades automatically",
+        "It removes coursework"
+      ],
+      "answerIndex": 1,
+      "explanation": "It helps students succeed"
+    },
+    {
+      "id": "l3y1-a-A06",
+      "type": "scored",
+      "prompt": "How often should you check Pro Portal?",
+      "options": [
+        "Monthly",
+        "Weekly",
+        "Daily",
+        "Only during exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Daily"
+    },
+    {
+      "id": "l3y1-a-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Belonging Matters'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "One of the biggest factors in student success is feeling that you belong",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "One of the biggest factors in student success is feeling that you belong"
+    },
+    {
+      "id": "l3y1-a-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Your Teachers Are Here to Help'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "You can expect staff to: Know your name"
+      ],
+      "answerIndex": 3,
+      "explanation": "You can expect staff to: Know your name"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-h",
+    "level": "l3",
+    "year": "y1",
+    "module": "H",
+    "variant": "A",
+    "title": "Navigate, Digital CV & Career Planning"
+  },
+  "questions": [
+    {
+      "id": "l3y1-h-A01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Navigate?",
+      "options": [
+        "Replacing lessons",
+        "Tracking development and building evidence",
+        "Playing games",
+        "Recording attendance only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tracking development and building evidence"
+    },
+    {
+      "id": "l3y1-h-A02",
+      "type": "scored",
+      "prompt": "What does a Green result represent?",
+      "options": [
+        "A weakness",
+        "A disciplinary issue",
+        "A target grade",
+        "A strength"
+      ],
+      "answerIndex": 3,
+      "explanation": "A strength"
+    },
+    {
+      "id": "l3y1-h-A03",
+      "type": "scored",
+      "prompt": "Which area usually offers the biggest improvement opportunities?",
+      "options": [
+        "Green",
+        "Purple",
+        "Blue",
+        "Amber"
+      ],
+      "answerIndex": 3,
+      "explanation": "Amber"
+    },
+    {
+      "id": "l3y1-h-A04",
+      "type": "scored",
+      "prompt": "What should a good reflection include?",
+      "options": [
+        "Description only",
+        "Feelings only",
+        "Decisions, evidence and learning",
+        "One sentence"
+      ],
+      "answerIndex": 2,
+      "explanation": "Decisions, evidence and learning"
+    },
+    {
+      "id": "l3y1-h-A05",
+      "type": "scored",
+      "prompt": "Why should you log activities regularly?",
+      "options": [
+        "To create more homework",
+        "To avoid building evidence",
+        "To make future applications easier",
+        "To avoid projects"
+      ],
+      "answerIndex": 2,
+      "explanation": "To make future applications easier"
+    },
+    {
+      "id": "l3y1-h-A06",
+      "type": "scored",
+      "prompt": "Which statement is correct?",
+      "options": [
+        "A destination should be researched properly",
+        "Career research is unnecessary",
+        "A vague ambition is enough",
+        "Entry requirements do not matter"
+      ],
+      "answerIndex": 0,
+      "explanation": "A destination should be researched properly"
+    },
+    {
+      "id": "l3y1-h-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Why Navigate Matters'?",
+      "options": [
+        "Navigate helps you: Track your development",
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 0,
+      "explanation": "Navigate helps you: Track your development"
+    },
+    {
+      "id": "l3y1-h-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Own Your Progress'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "At Level 3: You are responsible for your development"
+      ],
+      "answerIndex": 3,
+      "explanation": "At Level 3: You are responsible for your development"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-f",
+    "level": "l3",
+    "year": "y1",
+    "module": "F",
+    "variant": "B",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "id": "l3y1-f-B01",
+      "type": "scored",
+      "prompt": "What is safeguarding mainly about?",
+      "options": [
+        "Timetables",
+        "Protecting people from harm",
+        "Improving grades",
+        "Attendance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Protecting people from harm"
+    },
+    {
+      "id": "l3y1-f-B02",
+      "type": "scored",
+      "prompt": "What does Prevent aim to stop?",
+      "options": [
+        "Exams",
+        "Radicalisation and extremism",
+        "Bullying only",
+        "Homework"
+      ],
+      "answerIndex": 1,
+      "explanation": "Radicalisation and extremism"
+    },
+    {
+      "id": "l3y1-f-B03",
+      "type": "scored",
+      "prompt": "Which is an online safety risk?",
+      "options": [
+        "Grooming",
+        "Tutorials",
+        "Revision",
+        "Student Council"
+      ],
+      "answerIndex": 0,
+      "explanation": "Grooming"
+    },
+    {
+      "id": "l3y1-f-B04",
+      "type": "scored",
+      "prompt": "What should you do before using AI in assessed work?",
+      "options": [
+        "Hide its use",
+        "Submit it immediately",
+        "Ignore guidance",
+        "Ask and follow the rules"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ask and follow the rules"
+    },
+    {
+      "id": "l3y1-f-B05",
+      "type": "scored",
+      "prompt": "Can you report a concern without proof?",
+      "options": [
+        "Only with witnesses",
+        "Yes",
+        "Only anonymously",
+        "No"
+      ],
+      "answerIndex": 1,
+      "explanation": "Yes"
+    },
+    {
+      "id": "l3y1-f-B06",
+      "type": "scored",
+      "prompt": "Which information should never be entered into public AI tools?",
+      "options": [
+        "Book titles",
+        "Published articles",
+        "Public facts",
+        "Personal data"
+      ],
+      "answerIndex": 3,
+      "explanation": "Personal data"
+    },
+    {
+      "id": "l3y1-f-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'AI and Data Protection'? Select all that apply.",
+      "options": [
+        "Personal details",
+        "Student information",
+        "Staff details",
+        "Confidential college information"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of AI and Data Protection."
+    },
+    {
+      "id": "l3y1-f-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'How to Report Concerns'? Select all that apply.",
+      "options": [
+        "Tell a trusted member of staff",
+        "Contact the safeguarding team",
+        "Contact the wellbeing team",
+        "Report anonymously if needed"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of How to Report Concerns."
+    }
+  ]
+}

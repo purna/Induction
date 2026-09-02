@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "section": "l3y2-e",
+    "level": "l3",
+    "year": "y2",
+    "module": "E",
+    "variant": "C",
+    "title": "Respect, Relationships & College Values"
+  },
+  "questions": [
+    {
+      "id": "l3y2-e-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is About Application'? Select all that apply.",
+      "options": [
+        "Applying them consistently",
+        "Challenging poor behaviour",
+        "Taking responsibility for standards",
+        "Acting professionally in familiar environments"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is About Application."
+    },
+    {
+      "id": "l3y2-e-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Familiarity Creates Risk'? Select all that apply.",
+      "options": [
+        "Poor behaviour can become normalised",
+        "Inappropriate jokes may be accepted",
+        "Exclusion may be overlooked",
+        "Standards can slip"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Familiarity Creates Risk."
+    },
+    {
+      "id": "l3y2-e-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'PROUD Values in Year 2'? Select all that apply.",
+      "options": [
+        "Set the standard for others",
+        "Include people who may be left out",
+        "Maintain professionalism",
+        "Help develop and support others"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on PROUD Values in Year 2."
+    },
+    {
+      "id": "l3y2-e-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'British Values Require Action'? Select all that apply.",
+      "options": [
+        "Use your voice",
+        "Challenge inappropriate behaviour",
+        "Respect rules",
+        "Show tolerance and respect under peer pressure"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on British Values Require Action."
+    },
+    {
+      "id": "l3y2-e-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Equality Act Responsibilities'? Select all that apply.",
+      "options": [
+        "Do not discriminate",
+        "Do not harass others",
+        "Do not victimise others",
+        "Do not ignore behaviour that targets others"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Equality Act Responsibilities."
+    },
+    {
+      "id": "l3y2-e-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Behaviour Standards Remain the Same'? Select all that apply.",
+      "options": [
+        "In college",
+        "On placement",
+        "Online",
+        "People notice your professionalism"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Behaviour Standards Remain the Same."
+    },
+    {
+      "id": "l3y2-e-C07",
+      "type": "scored",
+      "prompt": "What is a key point about 'Audit Your Online Presence'?",
+      "options": [
+        "It is only assessed in exams",
+        "Review old posts",
+        "It is optional and not required",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 1,
+      "explanation": "Review old posts"
+    },
+    {
+      "id": "l3y2-e-C08",
+      "type": "scored",
+      "prompt": "What is a key point about 'Zero Tolerance Includes Bystanders'?",
+      "options": [
+        "It is optional and not required",
+        "It applies only to certain students",
+        "Challenge concerns",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Challenge concerns"
+    }
+  ]
+}

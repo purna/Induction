@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-f",
+    "level": "l3",
+    "year": "y2",
+    "module": "F",
+    "variant": "B",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "id": "l3y2-f-B01",
+      "type": "scored",
+      "prompt": "What is the biggest safeguarding risk in Year 2?",
+      "options": [
+        "Not enough teachers",
+        "Complacency",
+        "Lack of knowledge",
+        "More lessons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Complacency"
+    },
+    {
+      "id": "l3y2-f-B02",
+      "type": "scored",
+      "prompt": "Which is a common Year 2 pressure?",
+      "options": [
+        "School uniform",
+        "SATs",
+        "Final Major Project",
+        "Primary school exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Final Major Project"
+    },
+    {
+      "id": "l3y2-f-B03",
+      "type": "scored",
+      "prompt": "Why is peer responsibility more important in Year 2?",
+      "options": [
+        "Students know each other better",
+        "Reporting is removed",
+        "There are fewer staff",
+        "Tutors stop helping"
+      ],
+      "answerIndex": 0,
+      "explanation": "Students know each other better"
+    },
+    {
+      "id": "l3y2-f-B04",
+      "type": "scored",
+      "prompt": "Which new online risk is highlighted for Year 2?",
+      "options": [
+        "Fake freelance work",
+        "Student Council elections",
+        "Printed textbooks",
+        "Timetabling"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fake freelance work"
+    },
+    {
+      "id": "l3y2-f-B05",
+      "type": "scored",
+      "prompt": "What should you do before using AI in a major assessment?",
+      "options": [
+        "Submit it anyway",
+        "Check the assessment rules",
+        "Hide the AI use",
+        "Assume the rules are the same"
+      ],
+      "answerIndex": 1,
+      "explanation": "Check the assessment rules"
+    },
+    {
+      "id": "l3y2-f-B06",
+      "type": "scored",
+      "prompt": "What is the correct approach to consent?",
+      "options": [
+        "Always obtain consent",
+        "Friends do not need consent",
+        "Ask afterwards",
+        "Only strangers need consent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Always obtain consent"
+    },
+    {
+      "id": "l3y2-f-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'New Online Risks'? Select all that apply.",
+      "options": [
+        "Job scams",
+        "Fake freelance opportunities",
+        "Fake agency offers",
+        "Exploitative contracts"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of New Online Risks."
+    },
+    {
+      "id": "l3y2-f-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'AI Rules Matter More'? Select all that apply.",
+      "options": [
+        "Final Major Projects",
+        "Occupational Specialism Projects",
+        "Major coursework",
+        "Externally moderated assessments"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of AI Rules Matter More."
+    }
+  ]
+}

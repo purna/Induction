@@ -1,0 +1,201 @@
+{
+  "section": "l3y1-i",
+  "level": "l3",
+  "year": "y1",
+  "module": "I",
+  "title": "Professional Behaviour & Personal Strengths",
+  "slides": [
+    {
+      "title": "Professional Behaviour Applies Everywhere",
+      "content": "The same standards apply: In college. On placement. In employment. Professional behaviour includes: Being on time. Being prepared. Communicating early about problems. Treating people respectfully. Taking responsibility for mistakes and fixing them.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'Professional Behaviour Applies Everywhere'?",
+        "options": [
+          "Respect",
+          "Communication",
+          "In college",
+          "Reliability"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on Professional Behaviour Applies Everywhere."
+      }
+    },
+    {
+      "title": "Professionalism Is About Habits",
+      "content": "Professionalism is not something you switch on for interviews. It is demonstrated through: Reliability. Communication. Respect. Consistency. Accountability. These habits influence how others see you.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Professionalism Is About Habits'? Select all that apply.",
+        "options": [
+          "Reliability",
+          "Communication",
+          "Respect",
+          "Consistency"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Professionalism Is About Habits."
+      }
+    },
+    {
+      "title": "Your Reference Starts Now",
+      "content": "Staff references are built from: Attendance. Punctuality. Reliability. Professional conduct. References focus on patterns over time, not isolated mistakes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Your Reference Starts Now'? Select all that apply.",
+        "options": [
+          "Attendance",
+          "Punctuality",
+          "Reliability",
+          "Professional conduct"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Your Reference Starts Now."
+      }
+    },
+    {
+      "title": "Human Skills Matter",
+      "content": "Employers often hire based on more than qualifications. Key employability skills include: Explaining work clearly. Working effectively with others. Doing what you promised to do. Finding solutions independently. Handling change well. Taking action without being asked.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Human Skills Matter'?",
+        "options": [
+          "It applies only to certain students",
+          "It is optional and not required",
+          "Employers often hire based on more than qualifications",
+          "It is only assessed in exams"
+        ],
+        "answerIndex": 2,
+        "explanation": "Employers often hire based on more than qualifications"
+      }
+    },
+    {
+      "title": "Skills Assessment Results",
+      "content": "The Skills Assessment helps identify: Strengths. Development areas. Priorities for improvement. You should: Review your results carefully. Compare them with how others see you. Choose areas to develop.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Skills Assessment Results'? Select all that apply.",
+        "options": [
+          "Strengths",
+          "Development areas",
+          "Priorities for improvement",
+          "Review your results carefully"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Skills Assessment Results."
+      }
+    },
+    {
+      "title": "Claims Need Evidence",
+      "content": "Weak statement: \"I'm a good team player.\" Strong statement: \"I organised project deadlines for my group and helped the team submit on time.\" The strongest applications include evidence rather than claims.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Claims Need Evidence'?",
+        "options": [
+          "Weak statement: \"I'm a good team player.\" Strong statement: \"I organised project deadlines for my group and helped the t",
+          "It is only assessed in exams",
+          "It is optional and not required",
+          "It applies only to certain students"
+        ],
+        "answerIndex": 0,
+        "explanation": "Weak statement: \"I'm a good team player.\" Strong statement: \"I organised project deadlines for my group and helped the t"
+      }
+    },
+    {
+      "title": "A Good Strength Statement Includes:",
+      "content": "What happened? What did you actually do? What does it demonstrate? Evidence can come from: College projects. Placements. Part-time jobs. Sports. Caring responsibilities. Volunteering.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'A Good Strength Statement Includes:'? Select all that apply.",
+        "options": [
+          "College projects",
+          "Placements",
+          "Part-time jobs",
+          "Sports"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on A Good Strength Statement Includes:."
+      }
+    },
+    {
+      "title": "Navigate Supports Employability",
+      "content": "Navigate should contain: Skills assessment results. Strength statements. Digital CV information. Development plans. This information will support later applications and placements.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Navigate Supports Employability'? Select all that apply.",
+        "options": [
+          "Skills assessment results",
+          "Strength statements",
+          "Digital CV information",
+          "Development plans"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Navigate Supports Employability."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Learn professional behaviours Understand reference-building habits Develop employability skills Interpret Skills Assessment results Learn the difference between claims and evidence Create evidence-backed strength statements",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Learn professional behaviours",
+          "Understand reference-building habits",
+          "Develop employability skills",
+          "Interpret Skills Assessment results"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

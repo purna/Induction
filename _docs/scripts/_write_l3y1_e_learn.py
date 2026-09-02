@@ -1,0 +1,100 @@
+#!/usr/bin/env python3
+"""Write Module E L3 Y1 (Respect, Relationships & College Values)."""
+import json
+from pathlib import Path
+
+META_LEARN = {
+    "section": "l3y1-e",
+    "level": "l3",
+    "year": "y1",
+    "module": "E",
+    "title": "Respect, Relationships & College Values",
+}
+
+slides_data = [
+    {
+        "title": "What this module is about",
+        "content": "This module introduces the full PROUD values framework explicitly for the first time, and it's the statutory delivery of British Values and Equality Act content. Six topics today: PROUD Values, British Values, the Equality Act 2010, Behaviour Standards, Zero Tolerance, and How to Report. The standard is the same in college, on placement, and online.",
+        "exercise": {"type": "scored",
+                     "prompt": "Which of these is one of the six topics the deck covers?",
+                     "options": ["PROUD Values", "British Values", "Equality Act 2010", "All of the above"],
+                     "answerIndex": 3,
+                     "explanation": "PROUD Values, British Values, the Equality Act 2010, Behaviour Standards, Zero Tolerance, and How to Report."}
+    },
+    {
+        "title": "The PROUD Values",
+        "content": "P - Bring Positivity: create a welcoming environment where everyone feels safe and included. R - Show Respect: treat everyone fairly - in class, on placement, and online. O - Seek Opportunity: make the most of every chance to learn, contribute, and grow. U - Encourage Unity: include others; challenge exclusion; work positively across difference. D - Celebrate Diversity: our differences strengthen the college; value every person for who they are. These values apply in the classroom, on industry placement, and online.",
+        "exercise": {"type": "multi",
+                     "prompt": "Which of these are PROUD values? Select all that apply.",
+                     "options": ["Bring Positivity", "Show Respect", "Seek Opportunity", "Encourage Unity", "Celebrate Diversity"],
+                     "correctIndices": [0, 1, 2, 3, 4],
+                     "explanation": "All five are PROUD values: P-R-O-U-D."}
+    },
+    {
+        "title": "British Values",
+        "content": "Democracy - your voice matters; student elections, surveys, and governance give you real ways to shape college life and understand how democratic processes work in wider society. Rule of Law - college rules and UK law both apply here; understanding and following them protects everyone; breaches may have disciplinary or legal consequences. Individual Liberty - you have the right to make informed choices about your beliefs, lifestyle, and identity - as long as it doesn't restrict or harm others. Mutual Respect & Tolerance - treat every student, staff member, and visitor fairly regardless of background; challenge discrimination; create an inclusive environment everywhere you go.",
+        "exercise": {"type": "scored",
+                     "prompt": "Which British Value says your voice matters through elections, surveys and governance?",
+                     "options": ["Rule of Law", "Democracy", "Individual Liberty", "Mutual Respect & Tolerance"],
+                     "answerIndex": 1,
+                     "explanation": "Democracy - your voice matters; student elections, surveys, and governance give you real ways to shape college life."}
+    },
+    {
+        "title": "The Equality Act 2010",
+        "content": "The Equality Act 2010 protects nine characteristics: age, disability, gender reassignment, marriage & civil partnership, pregnancy & maternity, race, religion or belief, sex, sexual orientation. Discrimination is treating someone unfairly because of a protected characteristic. Harassment is unwanted behaviour that violates dignity or creates a hostile, humiliating or offensive environment. Victimisation is treating someone unfairly because they raised - or supported - a discrimination concern. Living the PROUD values is living the Equality Act in practice.",
+        "exercise": {"type": "insert",
+                     "prompt": "Fill in the blank: the Equality Act 2010 lists ____ protected characteristics.",
+                     "template": "The Equality Act 2010 lists ____ protected characteristics.",
+                     "options": ["3", "5", "7", "9"],
+                     "answerIndex": 3,
+                     "explanation": "There are 9 protected characteristics."}
+    },
+    {
+        "title": "Behaviour Standards - in college, on placement, online",
+        "content": "In college: respectful language and conduct toward all students and staff; no bullying, harassment, or discriminatory behaviour; personal devices used responsibly - not to film or record without consent. On industry placement: you represent ESCG - professional conduct is expected from day one as a digital media, film, games, or computing professional on placement; follow workplace policies including H&S and equality requirements; report concerns to your teacher, not just the placement provider. Online and on social media: your digital footprint is permanent and professionally visible; content posted outside college can still lead to disciplinary action; the acceptable use policy applies to both college IT and personal devices.",
+        "exercise": {"type": "scored",
+                     "prompt": "Where do the Behaviour Standards apply, according to the deck?",
+                     "options": ["Only in college", "Only on placement", "In college, on placement, and online", "Only in lessons"],
+                     "answerIndex": 2,
+                     "explanation": "The same standard applies - in college, on placement, and online."}
+    },
+    {
+        "title": "Zero Tolerance",
+        "content": "This is ESCG's position - not a preference, not a guideline. Zero tolerance covers four behaviours. Harassment: unwanted behaviour targeting identity, dignity, or wellbeing. Discrimination: treating someone less favourably because of a protected characteristic. Bullying: repeated behaviour intended to intimidate, control, or harm. Abuse: physical, verbal, or emotional - including online abuse directed at college members. Students found to have behaved in any of these ways face formal disciplinary procedures, which may include suspension or permanent exclusion.",
+        "exercise": {"type": "multi",
+                     "prompt": "Which of these are covered by ESCG's Zero Tolerance position? Select all that apply.",
+                     "options": ["Harassment", "Discrimination", "Bullying", "Abuse - including online abuse directed at college members"],
+                     "correctIndices": [0, 1, 2, 3],
+                     "explanation": "All four are covered by zero tolerance: harassment, discrimination, bullying, and abuse."}
+    },
+    {
+        "title": "How to Report a Concern",
+        "content": "You always have options, and you will always be taken seriously. Three routes. (1) Tell your teacher - the fastest route; your teacher can act immediately, make a referral, or escalate; you don't need the full picture - just start the conversation; available in every session. (2) Formal Reporting System - ESCG has a formal process for reporting concerns about discrimination, harassment, bullying or abuse; ask your teacher or Student Services for the form or link; creates a documented record. (3) Anonymous Reporting - if you're not ready to put your name to a concern, you can report anonymously; anonymous reports are still investigated - you don't have to identify yourself to be heard.",
+        "exercise": {"type": "scored",
+                     "prompt": "What does the deck say about anonymous reports?",
+                     "options": ["They are ignored",
+                     "They are only investigated if you give your name",
+                     "They are still investigated - you don't have to identify yourself to be heard",
+                     "They must be made in writing"],
+                     "answerIndex": 2,
+                     "explanation": "Anonymous reports are still investigated - you don't have to identify yourself to be heard."}
+    },
+    {
+        "title": "Your commitment - one thing you'll do, one thing you'll challenge",
+        "content": "Pick one from each column; your tutor keeps the card and may check in with you. I will... (1) use more careful language online - think before I post; (2) include someone who seems left out of my group or class; (3) find out where to report a concern on my campus; (4) if I'm worried about myself or someone else, speak to my tutor or the safeguarding team. I will challenge... (A) a joke or comment that targets someone's identity - even if it's meant to be funny; (B) a situation where someone is being left out or excluded; (C) behaviour online that I'd find unacceptable face-to-face; (D) my own assumptions about people who are different from me.",
+        "exercise": {"type": "multi",
+                     "prompt": "Which of these are 'I will...' options on the commitment card? Select all that apply.",
+                     "options": ["Use more careful language online - think before posting",
+                     "Include someone who seems left out of my group or class",
+                     "Find out where to report a concern on my campus",
+                     "If worried, speak to my tutor or the safeguarding team"],
+                     "correctIndices": [0, 1, 2, 3],
+                     "explanation": "All four are 'I will...' options on the commitment card."}
+    }
+]
+
+learn = {**META_LEARN, "slides": slides_data}
+
+p = Path("data/l3y1-e-learn.json")
+p.write_text(json.dumps(learn, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+print(f"wrote {p} ({len(slides_data)} slides)")

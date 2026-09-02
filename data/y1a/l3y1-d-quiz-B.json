@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "section": "l3y1-d",
+    "level": "l3",
+    "year": "y1",
+    "module": "D",
+    "title": "Students' Voice & Student Rep Elections",
+    "note": "Content sourced from the Year 2 / L3 variant of this deck (see SOURCE_OF_TRUTH note in the PowerPoint's teacher appendix). Swap when a true Year 1 deck is provided.",
+    "variant": "B"
+  },
+  "questions": [
+    {
+      "id": "l3y1-d-B01",
+      "type": "scored",
+      "prompt": "What is the main purpose of Students' Voice?",
+      "options": [
+        "Raising money",
+        "Giving students influence over college improvements",
+        "Organising parties",
+        "Creating coursework"
+      ],
+      "answerIndex": 1,
+      "explanation": "Giving students influence over college improvements"
+    },
+    {
+      "id": "l3y1-d-B02",
+      "type": "multi",
+      "prompt": "Which are conditions for student voice actually working, according to the deck? Select all that apply.",
+      "options": [
+        "Reps who actually consult their group - not just improvise at meetings",
+        "Feedback that names the thing",
+        "Groups who tell their rep what matters before the meeting, not after",
+        "Students who follow up after the meeting"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All four are the conditions for student voice to actually work."
+    },
+    {
+      "id": "l3y1-d-B03",
+      "type": "scored",
+      "prompt": "Which feedback is most useful?",
+      "options": [
+        "\"Everything is bad.\"",
+        "\"Four edit stations cannot run Premiere.\"",
+        "\"Nothing works.\"",
+        "\"The software is rubbish.\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Four edit stations cannot run Premiere.\""
+    },
+    {
+      "id": "l3y1-d-B04",
+      "type": "scored",
+      "prompt": "How many reps are elected from each group?",
+      "options": [
+        "Four",
+        "One",
+        "Three",
+        "Two"
+      ],
+      "answerIndex": 3,
+      "explanation": "Two"
+    },
+    {
+      "id": "l3y1-d-B05",
+      "type": "scored",
+      "prompt": "Which best describes the Governor role, compared with the Rep role?",
+      "options": [
+        "Day-to-day management of the college",
+        "Strategic scope and institutional weight, not group representation",
+        "Same as the Rep role but with more meetings",
+        "A paid part-time job"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Governor role is different from Student Rep: strategic scope and institutional weight."
+    },
+    {
+      "id": "l3y1-d-B06",
+      "type": "scored",
+      "prompt": "Which skill is developed by being a Student Rep?",
+      "options": [
+        "Programming",
+        "Driving",
+        "Communication",
+        "Construction"
+      ],
+      "answerIndex": 2,
+      "explanation": "Communication"
+    },
+    {
+      "id": "l3y1-d-B07",
+      "type": "scored",
+      "prompt": "What does a Student Governor focus on?",
+      "options": [
+        "The whole college",
+        "One teacher",
+        "One class",
+        "One course"
+      ],
+      "answerIndex": 0,
+      "explanation": "The whole college"
+    },
+    {
+      "id": "l3y1-d-B08",
+      "type": "scored",
+      "prompt": "By when must Student Rep elections be completed and the rep confirmed?",
+      "options": [
+        "End of Week 1",
+        "End of Week 2",
+        "End of Week 4",
+        "End of term"
+      ],
+      "answerIndex": 1,
+      "explanation": "Student Rep elections must be completed and the rep confirmed no later than the end of Week 2."
+    }
+  ]
+}

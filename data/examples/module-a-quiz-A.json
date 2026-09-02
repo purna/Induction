@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "section": "induction-module-a",
+    "level": "beginner",
+    "title": "Module A Induction Quiz A"
+  },
+  "questions": [
+    {
+      "id": "induct-a-01",
+      "type": "scored",
+      "prompt": "What is the single most important goal of today's session?",
+      "options": [
+        "That every student feels they are in the right place and belongs",
+        "That students memorise the college handbook",
+        "That students complete a written test",
+        "That students choose their optional units"
+      ],
+      "answerIndex": 0,
+      "explanation": "The session's top priority is belonging — content is secondary to every student leaving feeling they're in the right place."
+    },
+    {
+      "id": "induct-a-02",
+      "type": "scored",
+      "prompt": "What is the main purpose of Year 2?",
+      "options": [
+        "Learning campus locations",
+        "Settling in",
+        "Finishing strongly and progressing",
+        "Freshers activities"
+      ],
+      "answerIndex": 2,
+      "explanation": "Finishing strongly and progressing"
+    },
+    {
+      "id": "induct-a-03",
+      "type": "scored",
+      "prompt": "What is identified as the biggest Year 2 risk?",
+      "options": [
+        "Lack of ability",
+        "Lack of tutors",
+        "Drift and complacency",
+        "Lack of assessments"
+      ],
+      "answerIndex": 2,
+      "explanation": "Drift and complacency"
+    },
+    {
+      "id": "induct-a-04",
+      "type": "scored",
+      "prompt": "Which route is considered \"second best\"?",
+      "options": [
+        "Employment",
+        "University",
+        "None of them",
+        "Apprenticeships"
+      ],
+      "answerIndex": 2,
+      "explanation": "None of them"
+    },
+    {
+      "id": "induct-a-05",
+      "type": "scored",
+      "prompt": "Which of these is NOT one of the four parts of your study programme?",
+      "options": [
+        "Work-related learning",
+        "Tutorial & personal development",
+        "English & maths",
+        "Weekend clubs"
+      ],
+      "answerIndex": 3,
+      "explanation": "The four parts are your qualification, English & maths, work-related learning, and tutorial & personal development. Clubs sit under Enrichment, not the study programme."
+    },
+    {
+      "id": "induct-a-06",
+      "type": "insert",
+      "prompt": "Complete how Pro Portal is described.",
+      "template": "Pro Portal is your digital _____.",
+      "options": [
+        "home",
+        "diary",
+        "wallet",
+        "timetable"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "induct-a-07",
+      "type": "scored",
+      "prompt": "Why should you continue using support services?",
+      "options": [
+        "They remain important throughout Year 2",
+        "They are compulsory",
+        "They replace coursework",
+        "They improve grades automatically"
+      ],
+      "answerIndex": 0,
+      "explanation": "They remain important throughout Year 2"
+    },
+    {
+      "id": "induct-a-08",
+      "type": "scored",
+      "prompt": "Which of these is one of the four support services mentioned?",
+      "options": [
+        "Wellbeing & mental health",
+        "Exam invigilation",
+        "Sports coaching",
+        "Library fines"
+      ],
+      "answerIndex": 0,
+      "explanation": "The four support services are learning support, wellbeing & mental health, money & practical help, and careers & next steps."
+    },
+    {
+      "id": "induct-a-09",
+      "type": "scored",
+      "prompt": "What does the session say you should do if something isn't working for you?",
+      "options": [
+        "Tell us early so it can be sorted",
+        "Wait until the end of the year",
+        "Say nothing and hope it improves",
+        "Only tell your friends"
+      ],
+      "answerIndex": 0,
+      "explanation": "Teachers ask students to tell them early if something isn't working, rather than staying quiet."
+    },
+    {
+      "id": "induct-a-10",
+      "type": "scored",
+      "prompt": "Which tool should you continue using to stay organised?",
+      "options": [
+        "None",
+        "Personal email only",
+        "Social media",
+        "Pro Portal"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pro Portal"
+    }
+  ]
+}

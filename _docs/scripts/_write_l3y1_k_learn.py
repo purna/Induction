@@ -1,0 +1,121 @@
+#!/usr/bin/env python3
+"""Module K L3 Y1 (Progression Opportunities & Setting Goals)."""
+import json
+from pathlib import Path
+
+META_LEARN = {
+    "section": "l3y1-k",
+    "level": "l3",
+    "year": "y1",
+    "module": "K",
+    "title": "Progression Opportunities & Setting Goals",
+}
+
+slides_data = [
+    {
+        "title": "What this module is about",
+        "content": "This is the final session of the induction programme - the session where you find out where Level 3 Digital and Media actually takes you, and what you are going to do about it from this term. The PROUD value this module is grounded in is Seek Opportunity - the same value that opened the programme in the attendance module. Two things leave this room today: a map of where this course actually leads, and one goal in your own handwriting.",
+        "exercise": {"type": "scored",
+                     "prompt": "Which PROUD value is this module grounded in?",
+                     "options": ["Show Respect", "Encourage Unity", "Seek Opportunity", "Be Proud"],
+                     "answerIndex": 2,
+                     "explanation": "Seek Opportunity - the same value that opened the programme in the attendance module."}
+    },
+    {
+        "title": "Where a Level 3 course actually leads",
+        "content": "Five doors. University & higher education: BA Media Production, BSc Computing, BA Animation, BA Graphic Design, BA Photography, BSc Cybersecurity - at UCH Hastings, UAL, Falmouth, or universities elsewhere. Degree apprenticeships: a full degree, no fees, a salary while you study; highly competitive - preparation starts early; Level 5 and Level 6 Higher Apprenticeships in Digital and Technology Solutions, Software Development or Cybersecurity. Apprenticeships: Digital Content Creator, SOC Analyst, Digital Support Technician, Film and TV Production Technician, Junior Software Developer. Skilled employment: junior content producer, social media coordinator, digital video editor, graphic designer, IT support analyst, cybersecurity junior technician, games QA tester. Further study: HNC/HND Digital Media at ESCG, Foundation Art and Design, Digital Media Design Foundation Degree, Access to Computing or Creative Arts programmes. The most common route is not automatically your route. Five doors. All of them real, all of them opened by the same two years of work.",
+        "exercise": {"type": "multi",
+                     "prompt": "Which of these are routes from a Level 3 Digital and Media course, according to the deck? Select all that apply.",
+                     "options": ["University & higher education", "Degree apprenticeships",
+                                 "Apprenticeships", "Skilled employment", "Further study"],
+                     "correctIndices": [0, 1, 2, 3, 4],
+                     "explanation": "All five are listed as legitimate routes."}
+    },
+    {
+        "title": "Your evidence is already building",
+        "content": "You set Navigate up in the Careers session. My Digital CV: update it every time you gain a skill, finish a project or complete experience. Skills Assessment: results point at what to develop next; they feed your tutorial targets and the goals you'll write. Opportunities record: placements, volunteering, part-time work - logged as dated evidence, not half-remembered anecdotes; this is what references are written from. Where it all goes: UCAS applications, apprenticeship applications, references. By the time you apply for anything, the evidence already exists - if you have kept it live. Nobody remembers in March what they did in October. Navigate remembers. That is the whole trick.",
+        "exercise": {"type": "scored",
+                     "prompt": "What's the deck's framing of opportunities evidence?",
+                     "options": ["Half-remembered anecdotes",
+                     "Dated evidence - not half-remembered anecdotes; this is what references are written from",
+                     "Only paid work counts",
+                     "Only what your tutor remembers"],
+                     "answerIndex": 1,
+                     "explanation": "Logged as dated evidence, not half-remembered anecdotes."}
+    },
+    {
+        "title": "An aspiration is not a goal",
+        "content": "Aspiration: 'I want to work in games.' Or 'I want to be a film director.' Or 'I want to work in cybersecurity.' Or 'I want to design content for a living.' A direction - worth having, you cannot aim without one. But it has no date, no first step, and it gives you nothing to do on Monday morning. An aspiration without a first step and a date is still just a wish. Goal example (Games Art / Content Creation): 'By October half-term I will have one piece of work I would include in a real portfolio - with teacher feedback acted on. First step: book a critique session this week.' Goal example (T Level / Cybersecurity): 'By October half-term I have researched three potential placement employers and drafted my first contact. First step: check placement requirements with my teacher today.' The test: does it tell you what to do next week? If not, it is still an aspiration.",
+        "exercise": {"type": "scored",
+                     "prompt": "What's the deck's test for whether something is a goal rather than an aspiration?",
+                     "options": ["It must be SMART",
+                     "Does it tell you what to do next week? If not, it is still an aspiration",
+                     "It must mention university",
+                     "It must be approved by a tutor"],
+                     "answerIndex": 1,
+                     "explanation": "Does it tell you what to do next week?"}
+    },
+    {
+        "title": "Three horizons",
+        "content": "This term (short-term): one goal you can finish by the end of term - and start this week. Complete your first major assignment, project or assessment to the standard your progression route requires - not the minimum pass, the standard that builds a credible portfolio and a strong reference. This year (medium-term): where the term goals should be pointing by summer. Finish Year 1 with a Navigate record showing real software skills, genuine project evidence and - for T Level students - placement hours logged. On completion (long-term): the route off the map you are working towards - held loosely, aimed at firmly. A BA at UCH Hastings, UAL or a university of your choice - or a Level 5 degree apprenticeship in digital - or a named entry-level role in the creative or tech industry. Draft one goal for each horizon. Start with the long one, then work backwards - does your term goal actually lead there?",
+        "exercise": {"type": "dragorder",
+                     "prompt": "Put the three horizons in the order the deck presents them.",
+                     "items": ["This term", "This year", "On completion"],
+                     "solution": [0, 1, 2],
+                     "explanation": "Short-term, medium-term, long-term - in that order."}
+    },
+    {
+        "title": "Is this the right course?",
+        "content": "Three weeks in is exactly when doubt surfaces. It is normal, it is expected - and it is worth saying out loud, because there are two very different kinds. 'The course is hard' - normal; that is what Level 3 feels like from inside, especially at the start. This kind of doubt is answered with support, not a course change: tutor, subject staff, the goals you have just written. 'The course is wrong' - different subject, different level, or a different route entirely. Also fixable - but only inside a window that is already open and already closing. This one needs a conversation, this week. If you are unsure, say so now. Waiting does not keep your options open - it closes them. Course fees already paid transfer automatically under the Right Choice window.",
+        "exercise": {"type": "scored",
+                     "prompt": "What does the deck say to do if you are unsure the course is right?",
+                     "options": ["Wait until next term",
+                     "Say so now. Waiting does not keep your options open - it closes them. Course fees already paid transfer automatically under the Right Choice window.",
+                     "Switch without telling anyone",
+                     "Drop out"],
+                     "answerIndex": 1,
+                     "explanation": "If you are unsure, say so now. Waiting does not keep your options open - it closes them."}
+    },
+    {
+        "title": "Eleven sessions later - closing the loop",
+        "content": "Settling in & belonging: your programme, your systems, your people - and how attendance carries all of it. Safeguarding, wellbeing & respect: how this college keeps you safe, and who to tell when something is not right. Employability, careers & progression: Navigate record, professional software skills and portfolio evidence, placement research for T Level students - and today, the full progression map from Level 3 Digital, Media and Film and your first written goals. Now the parked questions from the start of the session - every one gets answered, or gets an owner. Who to ask now: Careers Team (routes, applications, guidance appointments); Personal tutor (your goals, your ILP, anything induction left unresolved); Head of Curriculum (course-level concerns, including course fit).",
+        "exercise": {"type": "multi",
+                     "prompt": "Which of these are the three contacts that outlive induction? Select all that apply.",
+                     "options": ["Careers Team - routes, applications, guidance appointments",
+                     "Personal tutor - your goals, your ILP, anything induction left unresolved",
+                     "Head of Curriculum - course-level concerns, including course fit",
+                     "Only your tutor"],
+                     "correctIndices": [0, 1, 2],
+                     "explanation": "Careers Team, Personal tutor, and Head of Curriculum are the three contacts that outlive induction."}
+    },
+    {
+        "title": "One goal, on paper",
+        "content": "Take the strongest goal from your three horizons - or choose one of these. Write it. Specific, first step, date. (1) My goal for this term is ... and my first step this week is ... (2) I will bring Navigate up to date this week - CV, Skills Assessment, Opportunities. (3) I will book a Careers conversation about what my next step - university, degree apprenticeship, or a creative or digital industry role - actually requires from Year 1, and what I should be building this term. (4) I am not sure this is the right course - I will talk to my tutor this week. Your tutor keeps these. This one follows you into your ILP - you will see it again.",
+        "exercise": {"type": "multi",
+                     "prompt": "Which of these are options on the 'one goal' card? Select all that apply.",
+                     "options": ["My goal for this term is ... and my first step this week is ...",
+                     "I will bring Navigate up to date this week - CV, Skills Assessment, Opportunities",
+                     "I will book a Careers conversation about what my next step actually requires",
+                     "I am not sure this is the right course - I will talk to my tutor this week"],
+                     "correctIndices": [0, 1, 2, 3],
+                     "explanation": "All four are options on the 'one goal' card."}
+    },
+    {
+        "title": "End of induction",
+        "content": "You started induction with a timetable. You leave it with a map, evidence already building, and one goal in your own handwriting. Whether the route is a BA at UCH Hastings, a digital degree apprenticeship, a creative industry role or a university place elsewhere - every one of them answers the same question: what did you build this term? Three weeks ago you were given a timetable. Today you gave yourself a goal. That is the direction of travel for the next two years - things stop being given and start being taken. Go take them.",
+        "exercise": {"type": "scored",
+                     "prompt": "What's the deck's closing line?",
+                     "options": ["'Good luck'",
+                     "'Three weeks ago you were given a timetable. Today you gave yourself a goal. That is the direction of travel for the next two years - things stop being given and start being taken. Go take them.'",
+                     "'See you next term'",
+                     "'Practice makes perfect'"],
+                     "answerIndex": 1,
+                     "explanation": "Things stop being given and start being taken. Go take them."}
+    }
+]
+
+learn = {**META_LEARN, "slides": slides_data}
+
+p = Path("data/l3y1-k-learn.json")
+p.write_text(json.dumps(learn, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+print(f"wrote {p} ({len(slides_data)} slides)")

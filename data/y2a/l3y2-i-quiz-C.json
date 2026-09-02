@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y2-i",
+    "level": "l3",
+    "year": "y2",
+    "module": "I",
+    "variant": "C",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What matters most for the reference, according to the deck?",
+      "options": [
+        "Year 1 attendance only",
+        "How many courses you took",
+        "Recent pattern - referees write from the freshest evidence, and this term is the one sitting in front of them",
+        "Your predicted grades"
+      ],
+      "answerIndex": 2,
+      "explanation": "Recent pattern weighs heaviest - referees write from the freshest evidence.",
+      "id": "l3y2-i-C01"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's claim about interview questions?",
+      "options": [
+        "They are random",
+        "They are all about technical skill",
+        "At interview, nearly every question is secretly about one of the human skills (communication, teamwork, reliability, problem-solving, adaptability, initiative)",
+        "They are about personality tests only"
+      ],
+      "answerIndex": 2,
+      "explanation": "At interview, nearly every question is secretly about one of the six human skills.",
+      "id": "l3y2-i-C02"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the Year 2 reframe of the Skills Assessment?",
+      "options": [
+        "Pass or fail",
+        "Same as Year 1 - what are my skills?",
+        "What moved, and what does that prove? - movement is the story",
+        "A self-assessment only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Today's question isn't 'what are my skills?' - it's 'what moved, and what does that prove?'",
+      "id": "l3y2-i-C03"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which of these is 'evidence' rather than a claim, according to the deck?",
+      "options": [
+        "'On placement I fixed a file nobody else could open - then wrote a one-page guide so the next person could do it without me'",
+        "'I work well under pressure'",
+        "'I'm reliable and hard-working'",
+        "'I'm a team player'"
+      ],
+      "answerIndex": 0,
+      "explanation": "That is specific, checkable, memorable evidence - the level a personal statement or a professional portfolio needs.",
+      "id": "l3y2-i-C04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What should students do with the three strengths at the end of the activity?",
+      "options": [
+        "Replace last year's versions in Navigate - they go into live applications this term",
+        "Memorise them word for word",
+        "Email them to the safeguarding team",
+        "Keep them in a folder"
+      ],
+      "answerIndex": 0,
+      "explanation": "Replace last year's versions. These go into live applications this term.",
+      "id": "l3y2-i-C05"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the framing of this Year 2 professional behaviour session?",
+      "options": [
+        "A repeat of last year",
+        "A new-starter welcome",
+        "A pass/fail test",
+        "Deployment, not repetition - last year you built the evidence bank; this year you use it"
+      ],
+      "answerIndex": 3,
+      "explanation": "You built the evidence last year. This year you use it. The framing is deployment, not repetition.",
+      "id": "l3y2-i-C06"
+    },
+    {
+      "id": "l3y2-i-C07",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is About Using Evidence'? Select all that apply.",
+      "options": [
+        "University applications",
+        "Apprenticeships",
+        "Placements",
+        "Employment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is About Using Evidence."
+    },
+    {
+      "type": "scored",
+      "prompt": "Why does the deck say 'this year counts double'?",
+      "options": [
+        "Because there are two of you",
+        "Because this is the year referees and interviewers are actually watching - applications open, references get read",
+        "Because you have double the work",
+        "Because you get two grades"
+      ],
+      "answerIndex": 1,
+      "explanation": "This year counts double because this is the year referees and interviewers are actually watching.",
+      "id": "l3y2-i-C08"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "section": "l3y1-h",
+    "level": "l3",
+    "year": "y1",
+    "module": "H",
+    "variant": "C",
+    "title": "Navigate, Digital CV & Career Planning"
+  },
+  "questions": [
+    {
+      "id": "l3y1-h-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Why Navigate Matters'? Select all that apply.",
+      "options": [
+        "Track your development",
+        "Build a Digital CV",
+        "Record evidence of skills and achievements",
+        "Prepare for university, apprenticeships and employment"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Why Navigate Matters."
+    },
+    {
+      "id": "l3y1-h-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Own Your Progress'? Select all that apply.",
+      "options": [
+        "You are responsible for your development",
+        "You must track skills honestly",
+        "You need evidence for future applications",
+        "Independent study is expected"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Own Your Progress."
+    },
+    {
+      "id": "l3y1-h-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Plan Your Destination'? Select all that apply.",
+      "options": [
+        "University goals",
+        "Degree pathways",
+        "Apprenticeships",
+        "Employment routes"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Plan Your Destination."
+    },
+    {
+      "id": "l3y1-h-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Research Careers Properly'? Select all that apply.",
+      "options": [
+        "Entry routes",
+        "Qualification requirements",
+        "Day-to-day responsibilities",
+        "Salary and progression"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Research Careers Properly."
+    },
+    {
+      "id": "l3y1-h-C05",
+      "type": "scored",
+      "prompt": "What is a key point about 'Log Activities Regularly'?",
+      "options": [
+        "Projects",
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required"
+      ],
+      "answerIndex": 0,
+      "explanation": "Projects"
+    },
+    {
+      "id": "l3y1-h-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Reflection Matters'? Select all that apply.",
+      "options": [
+        "What happened",
+        "What decisions were made",
+        "Why those decisions were made",
+        "What evidence supports them"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Reflection Matters."
+    },
+    {
+      "id": "l3y1-h-C07",
+      "type": "scored",
+      "prompt": "What does the module state about 'Log Activities Regularly'?",
+      "options": [
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams",
+        "Useful things to record include: Projects"
+      ],
+      "answerIndex": 3,
+      "explanation": "Useful things to record include: Projects"
+    },
+    {
+      "id": "l3y1-h-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Reflection Matters'?",
+      "options": [
+        "A strong reflection explains: What happened",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "A strong reflection explains: What happened"
+    }
+  ]
+}

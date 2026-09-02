@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y2-h",
+    "level": "l3",
+    "year": "y2",
+    "module": "H",
+    "variant": "B",
+    "title": "Why Navigate Matters Here"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the deck's 'Amber' definition in the Skills Assessment?",
+      "options": [
+        "Not relevant",
+        "Inconsistent under pressure - most people sit here",
+        "Evidenced strength",
+        "Your development priority this term"
+      ],
+      "answerIndex": 1,
+      "explanation": "Amber: Inconsistent under pressure - most people sit here.",
+      "id": "l3y2-h-B01"
+    },
+    {
+      "type": "multi",
+      "prompt": "Which of these are among the eight 'first two weeks' tasks? Select all that apply.",
+      "options": [
+        "App or shortcut set up",
+        "One activity logged, with a strong reflection",
+        "Skills Assessment completed honestly",
+        "Results interpreted - Green, Amber and Red"
+      ],
+      "correctIndices": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "explanation": "All four are among the eight tasks to complete by the end of week two.",
+      "id": "l3y2-h-B02"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the difference between the 'descriptive' and 'analytical' reflection examples?",
+      "options": [
+        "The analytical one names the decision, the reasoning, the evidence and the change in practice - the level a personal statement or a professional portfolio needs",
+        "There is no difference",
+        "Analytical removes emotion",
+        "Descriptive is always better"
+      ],
+      "answerIndex": 0,
+      "explanation": "The analytical one names the decision, the reasoning, the evidence and the change in practice.",
+      "id": "l3y2-h-B03"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the 'ten minutes now' rule the deck recommends?",
+      "options": [
+        "Spend ten minutes on social media",
+        "One entry per activity, logged the same week, tagged to the skills it evidences - ten minutes now saves an afternoon in Year 2",
+        "Take ten minutes off your placement",
+        "Spend ten minutes on your portfolio per term"
+      ],
+      "answerIndex": 1,
+      "explanation": "One entry per activity, logged the same week, tagged to the skills it evidences.",
+      "id": "l3y2-h-B04"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is 'the most useful outcome' of the careers quiz?",
+      "options": [
+        "A clear YES - finding the perfect role",
+        "A clear NO - ruling something out is progress, faster than drifting into it",
+        "Skipping the quiz",
+        "Picking the highest-paid job"
+      ],
+      "answerIndex": 1,
+      "explanation": "The most useful outcome of this quiz is a clear NO.",
+      "id": "l3y2-h-B05"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the deck's 'one honest point' about UCAS and Year 1?",
+      "options": [
+        "UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1",
+        "UCAS only matters for university",
+        "UCAS is optional",
+        "Year 1 doesn't matter for UCAS"
+      ],
+      "answerIndex": 0,
+      "explanation": "UCAS runs in Year 2, alongside your external assessments. The material for a personal statement is built in Year 1.",
+      "id": "l3y2-h-B06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Where are the real gains in a Skills Assessment?",
+      "options": [
+        "It doesn't matter - just tick the boxes",
+        "Green - by claiming strength",
+        "Amber - inconsistent under pressure, where most people sit. Red is usually already obvious",
+        "Red - because it's hardest"
+      ],
+      "answerIndex": 2,
+      "explanation": "Amber is where the real gains are - Red is usually already obvious to you.",
+      "id": "l3y2-h-B07"
+    },
+    {
+      "type": "scored",
+      "prompt": "What question does the deck say university, an apprenticeship and the studio all ask?",
+      "options": [
+        "What school did you go to?",
+        "What are your predicted grades?",
+        "What can you actually do, and how do you know? Your Digital CV is your answer",
+        "What's your favourite film?"
+      ],
+      "answerIndex": 2,
+      "explanation": "University, an apprenticeship and the studio all ask: what can you actually do, and how do you know? Your Digital CV is your answer.",
+      "id": "l3y2-h-B08"
+    }
+  ]
+}

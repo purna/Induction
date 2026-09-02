@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "section": "l3y2-d",
+    "level": "l3",
+    "year": "y2",
+    "module": "D",
+    "variant": "A",
+    "title": "Students' Voice & Student Rep Elections"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "How many reps does this group elect today?",
+      "options": [
+        "Three - subject, English, and maths",
+        "None - they're elected next term",
+        "One - the subject rep",
+        "Two - a subject rep and a GCSE English/maths rep"
+      ],
+      "answerIndex": 3,
+      "explanation": "This group elects two reps - subject rep and GCSE English/maths rep.",
+      "id": "l3y2-d-A01"
+    },
+    {
+      "id": "l3y2-d-C07",
+      "type": "scored",
+      "prompt": "What is a major Year 2 advantage?",
+      "options": [
+        "Less coursework",
+        "Fewer responsibilities",
+        "Institutional experience",
+        "More holidays"
+      ],
+      "answerIndex": 2,
+      "explanation": "Institutional experience"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is feedback that 'names the thing'?",
+      "options": [
+        "'It's all a bit rubbish'",
+        "'Things aren't great'",
+        "'Coursework feedback arrives too late to act on'",
+        "'Feedback is bad'"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Coursework feedback arrives too late to act on' beats 'feedback is bad' - that's feedback that names the thing.",
+      "id": "l3y2-d-A03"
+    },
+    {
+      "type": "multi",
+      "prompt": "Which of these are 'ways to get involved'? Select all that apply.",
+      "options": [
+        "Student Governor",
+        "NUS Membership (TOTUM card)",
+        "Student Rep",
+        "Surveys & Forums"
+      ],
+      "correctIndices": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "explanation": "All four are ways to get involved.",
+      "id": "l3y2-d-A04"
+    },
+    {
+      "id": "l3y2-d-A05",
+      "type": "scored",
+      "prompt": "What is a major Year 2 risk?",
+      "options": [
+        "Too many surveys",
+        "Having too much support",
+        "Familiarity leading to disengagement",
+        "Too many reps"
+      ],
+      "answerIndex": 2,
+      "explanation": "Familiarity leading to disengagement"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the eligibility requirement to apply for Student Governor?",
+      "options": [
+        "Only students with a UCAS offer",
+        "Only Year 1 students",
+        "Any current student, in any year",
+        "Planning to study at ESCG for at least one more year - L3 students progressing here qualify"
+      ],
+      "answerIndex": 3,
+      "explanation": "Planning to study at ESCG for at least one more year - L3 students progressing here qualify.",
+      "id": "l3y2-d-A06"
+    },
+    {
+      "id": "l3y2-d-A07",
+      "type": "scored",
+      "prompt": "Student Voice is:",
+      "options": [
+        "Only the college's responsibility",
+        "Only the Rep's responsibility",
+        "Only for Student Governors",
+        "A shared responsibility"
+      ],
+      "answerIndex": 3,
+      "explanation": "A shared responsibility"
+    },
+    {
+      "type": "scored",
+      "prompt": "By when must Student Rep elections be completed?",
+      "options": [
+        "No later than the end of Week 2 of the academic year",
+        "End of term",
+        "End of Week 1",
+        "Whenever the rep finds time"
+      ],
+      "answerIndex": 0,
+      "explanation": "Student Rep elections must be completed and the rep confirmed no later than the end of Week 2.",
+      "id": "l3y2-d-A08"
+    }
+  ]
+}

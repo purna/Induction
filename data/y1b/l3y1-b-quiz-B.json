@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-b",
+    "level": "l3",
+    "year": "y1",
+    "module": "B",
+    "variant": "B",
+    "title": "Confidence, Independence & Attendance"
+  },
+  "questions": [
+    {
+      "id": "l3y1-b-B01",
+      "type": "scored",
+      "prompt": "What is the biggest difference between school and college?",
+      "options": [
+        "Shorter lessons",
+        "More homework",
+        "Greater personal responsibility",
+        "Less coursework"
+      ],
+      "answerIndex": 2,
+      "explanation": "Greater personal responsibility"
+    },
+    {
+      "id": "l3y1-b-B02",
+      "type": "scored",
+      "prompt": "What does the \"Long Fuse\" idea mean?",
+      "options": [
+        "Consequences happen immediately",
+        "Problems often appear much later",
+        "Lessons are longer",
+        "Deadlines are longer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Problems often appear much later"
+    },
+    {
+      "id": "l3y1-b-B03",
+      "type": "scored",
+      "prompt": "Which PROUD value is highlighted in Module B?",
+      "options": [
+        "Respect Others",
+        "Lead by Example",
+        "Seek Opportunity",
+        "Work Together"
+      ],
+      "answerIndex": 2,
+      "explanation": "Seek Opportunity"
+    },
+    {
+      "id": "l3y1-b-B04",
+      "type": "scored",
+      "prompt": "Confidence is mainly built through:",
+      "options": [
+        "Being naturally talented",
+        "Always succeeding",
+        "Doing things that challenge you",
+        "Avoiding mistakes"
+      ],
+      "answerIndex": 2,
+      "explanation": "Doing things that challenge you"
+    },
+    {
+      "id": "l3y1-b-B05",
+      "type": "scored",
+      "prompt": "Which is NOT a valid attendance barrier?",
+      "options": [
+        "Family pressures",
+        "Laziness",
+        "Mental health",
+        "Transport problems"
+      ],
+      "answerIndex": 1,
+      "explanation": "Laziness"
+    },
+    {
+      "id": "l3y1-b-B06",
+      "type": "scored",
+      "prompt": "What should you do if attendance is becoming difficult?",
+      "options": [
+        "Tell someone early",
+        "Wait for someone to notice",
+        "Miss more lessons",
+        "Stay silent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tell someone early"
+    },
+    {
+      "id": "l3y1-b-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Confidence'? Select all that apply.",
+      "options": [
+        "Doing difficult things",
+        "Coping with challenges",
+        "Asking for help when needed",
+        "Understanding that feeling out of depth is normal"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Confidence."
+    },
+    {
+      "id": "l3y1-b-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Attendance Matters Because...'? Select all that apply.",
+      "options": [
+        "Teacher explanations",
+        "Worked examples",
+        "Class discussions",
+        "Relationships with staff and classmates"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Attendance Matters Because...."
+    }
+  ]
+}

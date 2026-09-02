@@ -1,0 +1,206 @@
+{
+  "section": "l3y2-b",
+  "level": "l3",
+  "year": "y2",
+  "module": "B",
+  "title": "Confidence, Independence & Attendance",
+  "slides": [
+    {
+      "title": "Year 2 Is Different",
+      "content": "Year 1 was about building foundations. Year 2 is about: Final assessments. Portfolios. Final Major Projects (FMP). Industry placements. Preparing progression routes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+        "options": [
+          "Final assessments",
+          "Portfolios",
+          "Final Major Projects (FMP)",
+          "Industry placements"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Year 2 Is Different."
+      }
+    },
+    {
+      "title": "Gaps Compound",
+      "content": "Any weaknesses carried from Year 1 become bigger. Examples: Missing skills. Incomplete portfolio work. Poor organisation. Lower attendance. Year 2 gives much less room for error.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Gaps Compound'? Select all that apply.",
+        "options": [
+          "Missing skills",
+          "Incomplete portfolio work",
+          "Poor organisation",
+          "Lower attendance"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Gaps Compound."
+      }
+    },
+    {
+      "title": "The Final Fuse",
+      "content": "Missed work hurts most near assessment deadlines. Students often struggle because they are: Catching up on old work. Producing new work at the same time. The most effective strategy remains planning time in advance and using free periods productively.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'The Final Fuse'?",
+        "options": [
+          "Portfolios",
+          "Final Major Projects (FMP)",
+          "Final assessments",
+          "Catching up on old work"
+        ],
+        "answerIndex": 3,
+        "explanation": "This is a key point from the section on The Final Fuse."
+      }
+    },
+    {
+      "title": "Seek Opportunity in Year 2",
+      "content": "Progression should become active. Examples: Applying for university. Applying for apprenticeships. Building a portfolio. Completing placement evidence. Publishing work online. Developing industry experience.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Seek Opportunity in Year 2'? Select all that apply.",
+        "options": [
+          "Applying for university",
+          "Applying for apprenticeships",
+          "Building a portfolio",
+          "Completing placement evidence"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Seek Opportunity in Year 2."
+      }
+    },
+    {
+      "title": "The Year 2 Confidence Trap",
+      "content": "Trap 1: Coasting: \"Year 1 was fine; I don't need to change anything.\" Trap 2: The Wall: Struggling but not asking for help. The solution to both: recognise the issue early, ask for support early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'The Year 2 Confidence Trap'?",
+        "options": [
+          "Final Major Projects (FMP)",
+          "Final assessments",
+          "Portfolios",
+          "recognise the issue early"
+        ],
+        "answerIndex": 3,
+        "explanation": "This is a key point from the section on The Year 2 Confidence Trap."
+      }
+    },
+    {
+      "title": "Attendance Matters More in Year 2",
+      "content": "Attendance supports: Final assessment success. Understanding grade boundaries. Staff references. Industry and university applications. Visibility of your effort and development.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Attendance Matters More in Year 2'? Select all that apply.",
+        "options": [
+          "Final assessment success",
+          "Understanding grade boundaries",
+          "Staff references",
+          "Industry and university applications"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Attendance Matters More in Year 2."
+      }
+    },
+    {
+      "title": "Barriers Still Need Support",
+      "content": "Common barriers include: Burnout. Pressure and stress. Financial difficulties. Family responsibilities. Health needs. Neurodivergence. The key message is the same: tell someone early.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Barriers Still Need Support'? Select all that apply.",
+        "options": [
+          "Burnout",
+          "Pressure and stress",
+          "Financial difficulties",
+          "Family responsibilities"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Barriers Still Need Support."
+      }
+    },
+    {
+      "title": "Focus on One Habit",
+      "content": "A single practical action is more useful than multiple vague plans. Examples: Use one free period effectively. Resolve unfinished Year 1 work. Take a progression step. Discuss a barrier with staff.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Focus on One Habit'? Select all that apply.",
+        "options": [
+          "Use one free period effectively",
+          "Resolve unfinished Year 1 work",
+          "Take a progression step",
+          "Discuss a barrier with staff"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Focus on One Habit."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Focus on final outcomes Eliminate gaps from Year 1 Prepare progression routes Avoid coasting Maintain strong attendance Act early when problems arise. ,",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Focus on final outcomes",
+          "Eliminate gaps from Year 1",
+          "Prepare progression routes",
+          "Avoid coasting"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

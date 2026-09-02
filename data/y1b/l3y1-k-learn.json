@@ -1,0 +1,227 @@
+{
+  "section": "l3y1-k",
+  "level": "l3",
+  "year": "y1",
+  "module": "K",
+  "title": "Progression Opportunities & Setting Goals",
+  "slides": [
+    {
+      "title": "This Course Opens Multiple Routes",
+      "content": "Level 3 qualifications can lead to: University. Degree apprenticeships. Apprenticeships. Skilled employment. Further study. There is no single \"correct\" route.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'This Course Opens Multiple Routes'? Select all that apply.",
+        "options": [
+          "University",
+          "Degree apprenticeships",
+          "Apprenticeships",
+          "Skilled employment"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on This Course Opens Multiple Routes."
+      }
+    },
+    {
+      "title": "University Is Not the Only Option",
+      "content": "Possible progression routes include: Media Production degrees. Film degrees. Computing degrees. Cybersecurity degrees. Animation and Games degrees. Photography and Design degrees. Degree apprenticeships and employment are equally valid routes.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'University Is Not the Only Option'? Select all that apply.",
+        "options": [
+          "Media Production degrees",
+          "Film degrees",
+          "Computing degrees",
+          "Cybersecurity degrees"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on University Is Not the Only Option."
+      }
+    },
+    {
+      "title": "Navigate Builds Evidence",
+      "content": "Navigate contains: Your Digital CV. Skills Assessment results. Opportunities record. Placement evidence. Project evidence. Keeping Navigate updated makes future applications significantly easier.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Navigate Builds Evidence'? Select all that apply.",
+        "options": [
+          "Your Digital CV",
+          "Skills Assessment results",
+          "Opportunities record",
+          "Placement evidence"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Navigate Builds Evidence."
+      }
+    },
+    {
+      "title": "Evidence Beats Memory",
+      "content": "Applications and references are stronger when they include: Dated evidence. Project records. Placement records. Skills development. If an achievement is not recorded, it becomes harder to use later.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Evidence Beats Memory'? Select all that apply.",
+        "options": [
+          "Dated evidence",
+          "Project records",
+          "Placement records",
+          "Skills development"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Evidence Beats Memory."
+      }
+    },
+    {
+      "title": "Aspirations and Goals Are Different",
+      "content": "\"I want to work in games.\" \"By half-term I will have produced one portfolio piece suitable for a games application.\" Goals include: Specific outcomes. A deadline. An action. A first step.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Aspirations and Goals Are Different'? Select all that apply.",
+        "options": [
+          "Specific outcomes",
+          "A deadline",
+          "An action",
+          "A first step"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Aspirations and Goals Are Different."
+      }
+    },
+    {
+      "title": "Think in Three Horizons",
+      "content": "This Term: What can you achieve soon? This Year: What should be achieved by summer? On Completion: Where do you want to go after college? Strong planning links all three horizons together.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Think in Three Horizons'?",
+        "options": [
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "It is optional and not required",
+          "This Term: What can you achieve soon"
+        ],
+        "answerIndex": 3,
+        "explanation": "This Term: What can you achieve soon"
+      }
+    },
+    {
+      "title": "Course Doubts Are Normal",
+      "content": "There are two kinds of uncertainty: Usually solved through support and adaptation. May require discussions about changing direction. The earlier concerns are raised, the easier they are to address.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Course Doubts Are Normal'?",
+        "options": [
+          "It applies only to certain students",
+          "There are two kinds of uncertainty: Usually solved through support and adaptation",
+          "It is only assessed in exams",
+          "It is optional and not required"
+        ],
+        "answerIndex": 1,
+        "explanation": "There are two kinds of uncertainty: Usually solved through support and adaptation"
+      }
+    },
+    {
+      "title": "Careers Support Exists",
+      "content": "Students can seek help from: Careers teams. Personal tutors. Heads of Curriculum. Career planning should not be done alone.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Careers Support Exists'? Select all that apply.",
+        "options": [
+          "Careers teams",
+          "Personal tutors",
+          "Heads of Curriculum"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on Careers Support Exists."
+      }
+    },
+    {
+      "title": "Progression Starts Now",
+      "content": "Future applications are built from: The work completed this term. Portfolio development. Skills evidence. Placement experiences. The first term matters more than many students realise.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Progression Starts Now'? Select all that apply.",
+        "options": [
+          "The work completed this term",
+          "Portfolio development",
+          "Skills evidence",
+          "Placement experiences"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Progression Starts Now."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Explore all progression routes Build evidence in Navigate Learn the difference between aspirations and goals Use the three-horizon planning model Seek careers advice early Start building a future-focused portfolio",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Explore all progression routes",
+          "Build evidence in Navigate",
+          "Learn the difference between aspirations and goals",
+          "Use the three-horizon planning model"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "section": "induction-module-a",
+    "level": "beginner",
+    "title": "Module A Induction Quiz C"
+  },
+  "questions": [
+    {
+      "id": "induct-c-01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Is Different'? Select all that apply.",
+      "options": [
+        "Completing the course strongly",
+        "Building your portfolio",
+        "Preparing for progression",
+        "Taking the next step into work, university or apprenticeships"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Is Different."
+    },
+    {
+      "id": "induct-c-02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Know Where You Are Heading'? Select all that apply.",
+      "options": [
+        "Employment",
+        "Apprenticeships",
+        "University",
+        "Further study"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Know Where You Are Heading."
+    },
+    {
+      "id": "induct-c-03",
+      "type": "scored",
+      "prompt": "Which of these is something the session asks students to do?",
+      "options": [
+        "Give things a go",
+        "Avoid asking questions",
+        "Stay silent if unsure",
+        "Skip enrichment"
+      ],
+      "answerIndex": 0,
+      "explanation": "Students are asked to turn up, give things a go, be kind, and tell staff early if something isn't working."
+    },
+    {
+      "id": "induct-c-04",
+      "type": "scored",
+      "prompt": "Which of the four study programme parts covers wellbeing, skills and progress time?",
+      "options": [
+        "Tutorial & personal development",
+        "English & maths",
+        "Work-related learning",
+        "Your Digital or Media qualification"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tutorial & personal development is the time set aside for wellbeing, skills and progress."
+    },
+    {
+      "id": "induct-c-05",
+      "type": "insert",
+      "prompt": "Complete the golden rule for Pro Portal.",
+      "template": "Check Pro Portal every morning before you _____.",
+      "options": [
+        "set off",
+        "go to bed",
+        "eat lunch",
+        "log out"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "induct-c-06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Year 2 Demands More'? Select all that apply.",
+      "options": [
+        "Higher stakes",
+        "Bigger projects",
+        "More deadlines",
+        "Applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Year 2 Demands More."
+    },
+    {
+      "id": "induct-c-07",
+      "type": "scored",
+      "prompt": "What can students choose to write on their card during the 'One Thing' activity?",
+      "options": [
+        "The name of someone new they met today",
+        "A complaint about the session",
+        "Their favourite subject",
+        "A list of college rules"
+      ],
+      "answerIndex": 0,
+      "explanation": "Students can write one thing they're looking forward to, one thing they'd like help with, or the name of someone new they met today."
+    },
+    {
+      "id": "induct-c-08",
+      "type": "scored",
+      "prompt": "What happens in the next couple of weeks, according to the Enrichment & Freshers slide?",
+      "options": [
+        "A Freshers Fair",
+        "Final exams",
+        "A parents' evening",
+        "Work experience placements begin"
+      ],
+      "answerIndex": 0,
+      "explanation": "A Freshers Fair runs on campus in the next couple of weeks, with stalls, clubs and freebies."
+    },
+    {
+      "id": "induct-c-09",
+      "type": "insert",
+      "prompt": "Complete the opening line of the session.",
+      "template": "This is your first session on your course — settling in, meeting people, and understanding what this year _____ of you.",
+      "options": [
+        "asks",
+        "demands",
+        "requires",
+        "wants"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "induct-c-10",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'The Biggest Risk Is Drift'? Select all that apply.",
+      "options": [
+        "Missing deadlines",
+        "Reduced attendance",
+        "Delayed applications",
+        "Poor organisation"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on The Biggest Risk Is Drift."
+    }
+  ]
+}

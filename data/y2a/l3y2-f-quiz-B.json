@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-f",
+    "level": "l3",
+    "year": "y2",
+    "module": "F",
+    "variant": "B",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "Why do Year 2 students tend to under-report concerns, according to the deck?",
+      "options": [
+        "Because the safeguarding team is closed",
+        "Because they have no concerns",
+        "Because they feel they should manage independently - the expectation that you should handle everything yourself is wrong",
+        "Because reporting is now banned"
+      ],
+      "answerIndex": 2,
+      "explanation": "Year 2 students are less likely to report concerns - because they feel they should manage independently. The expectation that you should handle everything yourself is wrong.",
+      "id": "l3y2-f-B01"
+    },
+    {
+      "id": "l3y2-f-B02",
+      "type": "scored",
+      "prompt": "What is the biggest safeguarding risk in Year 2?",
+      "options": [
+        "Not enough teachers",
+        "Complacency",
+        "Lack of knowledge",
+        "More lessons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Complacency"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the second step in 'How ESCG keeps you safe'?",
+      "options": [
+        "The concern is posted on Pro Portal",
+        "Concern is investigated by the student",
+        "Right person told same-day - staff do not investigate themselves; Safeguarding Manager informed; logged on ProMonitor",
+        "Students are sent home"
+      ],
+      "answerIndex": 2,
+      "explanation": "Right person told same-day - staff do not investigate themselves. Safeguarding Manager informed. All logged on ProMonitor.",
+      "id": "l3y2-f-B03"
+    },
+    {
+      "id": "l3y2-f-B04",
+      "type": "scored",
+      "prompt": "Which is a common Year 2 pressure?",
+      "options": [
+        "School uniform",
+        "SATs",
+        "Final Major Project",
+        "Primary school exams"
+      ],
+      "answerIndex": 2,
+      "explanation": "Final Major Project"
+    },
+    {
+      "type": "scored",
+      "prompt": "How does the deck say AI-generated content posted as your own affects you in Year 2?",
+      "options": [
+        "It's reputation risk as well as academic risk - placement employers, commissioners and admissions tutors are the people searching",
+        "It's only an academic risk",
+        "It's only an issue for final-year projects",
+        "It's not a risk at all"
+      ],
+      "answerIndex": 0,
+      "explanation": "AI-generated content posted as your own is reputation risk as well as academic risk.",
+      "id": "l3y2-f-B05"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is a Year 2 vulnerability factor for Prevent?",
+      "options": [
+        "Having too much free time",
+        "Working in a studio",
+        "Financial stress and debt - hard drives, printing and portfolio costs alongside travel to placement",
+        "Too many friends"
+      ],
+      "answerIndex": 2,
+      "explanation": "Financial stress and debt is a Year 2 vulnerability factor.",
+      "id": "l3y2-f-B06"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is one of the three 'what changes in Year 2' for safeguarding?",
+      "options": [
+        "New pressures, complacency risk, peer responsibility",
+        "Tutors are no longer point of contact",
+        "You have to report yourself monthly",
+        "Safeguarding no longer applies"
+      ],
+      "answerIndex": 0,
+      "explanation": "The three Year 2 changes are: new pressures, complacency risk, and peer responsibility.",
+      "id": "l3y2-f-B07"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which PROUD value is the anchor for this Year 2 safeguarding session?",
+      "options": [
+        "Bring Positivity",
+        "Celebrate Diversity",
+        "Show Respect",
+        "Encourage Unity"
+      ],
+      "answerIndex": 3,
+      "explanation": "PROUD anchor: Encourage Unity - looking out for peers, reporting concern, not coasting.",
+      "id": "l3y2-f-B08"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "section": "l3y2-k",
+  "level": "l3",
+  "year": "y2",
+  "module": "K",
+  "title": "Progression & Goals - The Final Year",
+  "slides": [
+    {
+      "title": "The last induction session you'll ever sit through",
+      "content": "Progression & Goals: The Final Year. Group 3: Employability, Careers & Progression. About 90 minutes. PROUD anchor: Seek Opportunity. Ninety minutes to turn two years of digital and media evidence into a plan - with the first application deadline already live. The deck earns its place by being useful, not ceremonial. Urgency without panic - the antidote to both is margin ('early beats on-time' said calmly, often).",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the framing of this final progression session, according to the deck?",
+        "options": [
+          "A ceremonial farewell",
+          "The last induction session you'll ever sit through - ninety minutes to turn two years of evidence into a plan, with the first application deadline already live",
+          "An exam preparation session",
+          "A placement briefing"
+        ],
+        "answerIndex": 1,
+        "explanation": "The last induction session you will ever sit through. Ninety minutes to turn two years of digital and media evidence into a plan - with the first application deadline already live."
+      }
+    },
+    {
+      "title": "The session in eight beats",
+      "content": "Eight beats in about 90 minutes: (1) Final year - what is actually different (10) (2) The map, with dates on it (15) (3) Two years of evidence - now it gets used (10) (4) Application goals - concrete by definition (10) (5) Three horizons - backwards from the deadlines (15) (6) Right route? - the honest check (10) (7) Closing the loop (10) (8) One goal, on paper (10).",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'The Application Cycle Is Live'? Select all that apply.",
+        "options": [
+          "Making applications",
+          "Meeting deadlines",
+          "Using evidence",
+          "Making decisions"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on The Application Cycle Is Live."
+      }
+    },
+    {
+      "title": "The map, with dates on it",
+      "content": "Autumn - now: research routes, audit your Navigate record, register with UCAS if university is in the plan. Everything on this slide is easier done in October than in January. By January: university applications in - the UCAS equal-consideration deadline lands mid-January. Done before Christmas beats done in a panic, every single year. Autumn to spring: higher and degree apprenticeship vacancies run on rolling deadlines all year - the strongest close early. Digital degree apprenticeship employers typically open between October and January. The strongest vacancies close first. Check individual closing dates this week. Results day: the grades that convert offers into places. Every deadline above exists to protect the time you need to earn them - the application is the easy half.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the deck's claim about 'results day' in relation to the application cycle?",
+        "options": [
+          "Results day is more important than the application",
+          "Every deadline above exists to protect the time you need to earn them - the application is the easy half",
+          "Results day is the only thing that matters",
+          "It is at the end of Year 2"
+        ],
+        "answerIndex": 1,
+        "explanation": "Every deadline above exists to protect the time you need to earn them - the application is the easy half."
+      }
+    },
+    {
+      "title": "Two years of evidence - now it gets used",
+      "content": "Everything you logged in Year 1 becomes application material this term. Audit it now, while gaps are still fixable. My Digital CV - this is the raw material for every application you make this year. Audit it this week - what is missing is fixable in October and unfixable in January. Skills Assessment - your results point at what to sharpen before interviews and assessments, and the growth since Year 1 is exactly what statements and interviews want to hear about. Opportunities record - every placement and project from Year 1 is application evidence. If it happened and is not logged, it effectively did not happen. Fix that this week. Where it goes, starting now: UCAS, apprenticeship applications, references. Your references and applications get written from this record this term - not from anyone's memory.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the deck's verdict on Year 1 evidence that isn't logged?",
+        "options": [
+          "It's still useful informally",
+          "If it happened and is not logged, it effectively did not happen. Fix that this week",
+          "It can be re-created later",
+          "It only matters for university"
+        ],
+        "answerIndex": 1,
+        "explanation": "If it happened and is not logged, it effectively did not happen. Fix that this week."
+      }
+    },
+    {
+      "title": "Application goals - concrete by definition",
+      "content": "Aspiration: 'I want to study Games Design at university.' Goal: 'By half-term my UCAS choices are confirmed and my personal statement has had one round of teacher feedback. First step: arrange a feedback session this week.' The test this year is harsher: does it beat the deadline with room to spare? On-time is the new late. On-time is dangerous because references, predictions and redrafts all consume calendar the student does not control.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is the 'test' the deck applies to Year 2 goals?",
+        "options": [
+          "Does it look ambitious?",
+          "Does it beat the deadline with room to spare? On-time is the new late",
+          "Does it sound good in a tutor's meeting?",
+          "Does it match what your friends are doing?"
+        ],
+        "answerIndex": 1,
+        "explanation": "The test this year is harsher: does it beat the deadline with room to spare? On-time is the new late."
+      }
+    },
+    {
+      "title": "Three horizons - backwards from the deadlines",
+      "content": "Three horizons, drafted backwards from results day because the grades decide everything and the calendar exists to protect the time they need. (1) This half-term - route chosen, record audited, first application started; the groundwork. (2) By January - every application submitted, before the deadline, not on it. (3) Results day - the grades that turn offers into places, what the whole year answers to. Draft one goal for each horizon. Start at results day and work backwards. The strongest becomes your card, and all three feed your ILP.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Why does the deck say to start drafting goals 'backwards from results day'?",
+        "options": [
+          "It's easier to remember",
+          "Because the grades decide everything and the application calendar exists to protect the time they need",
+          "Because tutors prefer it",
+          "Because UCAS requires it"
+        ],
+        "answerIndex": 1,
+        "explanation": "Start at results day and work backwards - the grades decide everything, and the application calendar exists to protect the time they need."
+      }
+    },
+    {
+      "title": "Right route? - the honest check",
+      "content": "Nobody in this room gets a course change - that ship sailed last year. But the destination is still yours to choose, and Year 2 pressure is real. 'The route feels shaky' - normal, Year 2 pressure does that to solid plans. This is a support conversation, not a crisis: tutor, subject staff, and the plan you have just written. Shaky is not the same as wrong. 'The route is wrong' - university, apprenticeship, employment: changing the destination is still entirely possible this term, and cheaper now than after applications go in. Changing the effort level is not. Book Careers this week. You can still change where you are going. You cannot get this year back.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Dates Matter'? Select all that apply.",
+        "options": [
+          "UCAS applications",
+          "Apprenticeship applications",
+          "Internal reference deadlines",
+          "Predicted grade deadlines"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Dates Matter."
+      }
+    },
+    {
+      "title": "One goal, on paper",
+      "content": "Take the strongest goal from your three horizons - or choose one of these. Write it. Specific, first step, date with margin. (1) My application goal is ... and my first step this week is .... (2) I will audit my Navigate record this week and fix one gap. (3) I will research and shortlist my application route - university, degree apprenticeship or industry role - and book a Careers conversation about what a strong application from this course actually looks like. (4) I am worried about this year - I will talk to my tutor this week. Your tutor keeps these. This one follows you into your ILP - and this year, it gets checked against real dates. End of induction. Don't fumble the last lap. In Digital, Media and Film, the last lap is applications, portfolio and assessed work running in parallel. Plan for all three. Do not fumble the final year.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Navigate Becomes Application Material'? Select all that apply.",
+        "options": [
+          "UCAS content",
+          "Apprenticeship evidence",
+          "Portfolio evidence",
+          "References"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Navigate Becomes Application Material."
+      }
+    }
+  ]
+}

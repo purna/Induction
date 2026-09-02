@@ -1,0 +1,222 @@
+{
+  "section": "l3y1-f",
+  "level": "l3",
+  "year": "y1",
+  "module": "F",
+  "title": "Staying Safe at College",
+  "slides": [
+    {
+      "title": "What Safeguarding Means",
+      "content": "Safeguarding is about: Protecting students from harm. Preventing abuse, exploitation and neglect. Supporting wellbeing and mental health. Making sure concerns can be raised and acted upon. Safeguarding is everyone's responsibility, not just staff responsibility.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Safeguarding Means'? Select all that apply.",
+        "options": [
+          "Protecting students from harm",
+          "Preventing abuse, exploitation and neglect",
+          "Supporting wellbeing and mental health",
+          "Making sure concerns can be raised and acted upon"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on What Safeguarding Means."
+      }
+    },
+    {
+      "title": "College Is Different from School",
+      "content": "At college: You have more independence. You make more of your own decisions. Staff monitor less directly. You can self-refer for support. Staff still act when there are concerns. You do not need to wait for a teacher to notice a problem.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'College Is Different from School'? Select all that apply.",
+        "options": [
+          "You have more independence",
+          "You make more of your own decisions",
+          "Staff monitor less directly",
+          "You can self-refer for support"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on College Is Different from School."
+      }
+    },
+    {
+      "title": "What Prevent Is",
+      "content": "Prevent helps protect people from being drawn into: Radicalisation. Extremism. Terrorism. Extremism includes opposition to fundamental British Values or encouragement of violence against others.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'What Prevent Is'? Select all that apply.",
+        "options": [
+          "Radicalisation",
+          "Extremism",
+          "Terrorism"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "All of these are covered in the section on What Prevent Is."
+      }
+    },
+    {
+      "title": "Vulnerability Factors",
+      "content": "People may become more vulnerable when they are: Isolated. Looking for belonging. Struggling with identity. Angry or frustrated. Influenced by manipulative online content. Influenced by people encouraging harmful views.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'Vulnerability Factors'? Select all that apply.",
+        "options": [
+          "Isolated",
+          "Looking for belonging",
+          "Struggling with identity",
+          "Angry or frustrated"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on Vulnerability Factors."
+      }
+    },
+    {
+      "title": "Online Safety Risks",
+      "content": "Key risks include: Personal Information: Information shared online can be misused. Grooming and Exploitation: People may build trust online for harmful purposes. Financial Scams: Fake jobs, fake offers and \"easy money\" schemes often target young people. Non-Consensual Images: Sharing intimate or private images without consent is unlawful. Dark Web Risks: The dark web carries significant legal and personal risks.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'Online Safety Risks'?",
+        "options": [
+          "It is only assessed in exams",
+          "It applies only to certain students",
+          "Key risks include: Personal Information: Information shared online can be misused",
+          "It is optional and not required"
+        ],
+        "answerIndex": 2,
+        "explanation": "Key risks include: Personal Information: Information shared online can be misused"
+      }
+    },
+    {
+      "title": "AI and Academic Integrity",
+      "content": "Do NOT: Submit AI-generated work as your own. Use AI content without acknowledgement. Enter personal or confidential information into public AI tools. Do: Declare AI use when required. Use AI to support learning, not replace learning. Check AI-generated information. Ask your teacher if unsure.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "Which of the following is a key point about 'AI and Academic Integrity'?",
+        "options": [
+          "Supporting wellbeing and mental health",
+          "Protecting students from harm",
+          "Submit AI-generated work as your own",
+          "Preventing abuse, exploitation and neglect"
+        ],
+        "answerIndex": 2,
+        "explanation": "This is a key point from the section on AI and Academic Integrity."
+      }
+    },
+    {
+      "title": "AI and Data Protection",
+      "content": "Never enter into public AI systems: Personal details. Student information. Staff details. Confidential college information. If you would not share it publicly, do not enter it into an AI tool.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'AI and Data Protection'? Select all that apply.",
+        "options": [
+          "Personal details",
+          "Student information",
+          "Staff details",
+          "Confidential college information"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on AI and Data Protection."
+      }
+    },
+    {
+      "title": "How ESCG Responds to Concerns",
+      "content": "The safeguarding process is: 1. A concern is raised. 2. The safeguarding team is informed. 3. The concern is assessed. 4. Appropriate support or action follows. Staff cannot promise complete secrecy if there is a risk of harm.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "scored",
+        "prompt": "What is a key message of 'How ESCG Responds to Concerns'?",
+        "options": [
+          "It is only assessed in exams",
+          "The safeguarding process is: 1",
+          "It applies only to certain students",
+          "It is optional and not required"
+        ],
+        "answerIndex": 1,
+        "explanation": "The safeguarding process is: 1"
+      }
+    },
+    {
+      "title": "How to Report Concerns",
+      "content": "If worried about yourself or someone else: Tell a trusted member of staff. Contact the safeguarding team. Contact the wellbeing team. Report anonymously if needed. You do not need proof to report a concern.",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of the following are mentioned in 'How to Report Concerns'? Select all that apply.",
+        "options": [
+          "Tell a trusted member of staff",
+          "Contact the safeguarding team",
+          "Contact the wellbeing team",
+          "Report anonymously if needed"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "All of these are covered in the section on How to Report Concerns."
+      }
+    },
+    {
+      "title": "Quick Revision Summary",
+      "content": "Key points to remember: Understand safeguarding Learn Prevent basics Recognise online risks Follow AI and data protection rules Know how to report concerns Know where support is available",
+      "example": "",
+      "exampleOutput": "",
+      "exercise": {
+        "type": "multi",
+        "prompt": "Which of these points are in the quick revision summary? Select all that apply.",
+        "options": [
+          "Understand safeguarding",
+          "Learn Prevent basics",
+          "Recognise online risks",
+          "Follow AI and data protection rules"
+        ],
+        "correctIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanation": "These points are summarised in the Quick Revision Summary."
+      }
+    }
+  ]
+}

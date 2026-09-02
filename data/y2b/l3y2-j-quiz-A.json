@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-j",
+    "level": "l3",
+    "year": "y2",
+    "module": "J",
+    "variant": "A",
+    "title": "Work Experience"
+  },
+  "questions": [
+    {
+      "id": "l3y2-j-A01",
+      "type": "scored",
+      "prompt": "What is the key advantage of a second placement?",
+      "options": [
+        "No assessments",
+        "Fewer expectations",
+        "More evidence and stronger applications",
+        "Less work"
+      ],
+      "answerIndex": 2,
+      "explanation": "More evidence and stronger applications"
+    },
+    {
+      "id": "l3y2-j-A02",
+      "type": "scored",
+      "prompt": "What should Year 2 placements be focused on?",
+      "options": [
+        "Repeating Year 1 exactly",
+        "Specialisms and future goals",
+        "Convenience only",
+        "Social activities"
+      ],
+      "answerIndex": 1,
+      "explanation": "Specialisms and future goals"
+    },
+    {
+      "id": "l3y2-j-A03",
+      "type": "scored",
+      "prompt": "Do Year 1 placement hours count towards Year 2 requirements?",
+      "options": [
+        "Only for T Levels",
+        "Sometimes",
+        "Yes",
+        "No"
+      ],
+      "answerIndex": 3,
+      "explanation": "No"
+    },
+    {
+      "id": "l3y2-j-A04",
+      "type": "scored",
+      "prompt": "Why are recent placements useful?",
+      "options": [
+        "They strengthen progression applications",
+        "They remove deadlines",
+        "They replace qualifications",
+        "They reduce attendance requirements"
+      ],
+      "answerIndex": 0,
+      "explanation": "They strengthen progression applications"
+    },
+    {
+      "id": "l3y2-j-A05",
+      "type": "scored",
+      "prompt": "What should you do if a placement issue develops?",
+      "options": [
+        "Raise it early",
+        "Wait until the placement ends",
+        "Ignore it",
+        "Tell friends only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Raise it early"
+    },
+    {
+      "id": "l3y2-j-A06",
+      "type": "scored",
+      "prompt": "What is the main Year 2 risk identified in Module J?",
+      "options": [
+        "Lack of placements",
+        "Not enough lessons",
+        "Complacency",
+        "Lack of knowledge"
+      ],
+      "answerIndex": 2,
+      "explanation": "Complacency"
+    },
+    {
+      "id": "l3y2-j-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'This Is Round Two'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Year 2 work experience is different because: You already have experience",
+        "It is optional and not required"
+      ],
+      "answerIndex": 2,
+      "explanation": "Year 2 work experience is different because: You already have experience"
+    },
+    {
+      "id": "l3y2-j-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'A Second Placement Has More Value'?",
+      "options": [
+        "It is optional and not required",
+        "A second placement provides: More evidence",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 1,
+      "explanation": "A second placement provides: More evidence"
+    }
+  ]
+}

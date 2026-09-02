@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "section": "l3y1-i",
+    "level": "l3",
+    "year": "y1",
+    "module": "I",
+    "variant": "C",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "id": "l3y1-i-C01",
+      "type": "scored",
+      "prompt": "What is a key point about 'Professional Behaviour Applies Everywhere'?",
+      "options": [
+        "In college",
+        "It is optional and not required",
+        "It applies only to certain students",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "In college"
+    },
+    {
+      "id": "l3y1-i-C02",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Professionalism Is About Habits'? Select all that apply.",
+      "options": [
+        "Reliability",
+        "Communication",
+        "Respect",
+        "Consistency"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Professionalism Is About Habits."
+    },
+    {
+      "id": "l3y1-i-C03",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Your Reference Starts Now'? Select all that apply.",
+      "options": [
+        "Attendance",
+        "Punctuality",
+        "Reliability",
+        "Professional conduct"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Your Reference Starts Now."
+    },
+    {
+      "id": "l3y1-i-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Skills Assessment Results'? Select all that apply.",
+      "options": [
+        "Strengths",
+        "Development areas",
+        "Priorities for improvement",
+        "Review your results carefully"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Skills Assessment Results."
+    },
+    {
+      "id": "l3y1-i-C05",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'A Good Strength Statement Includes:'? Select all that apply.",
+      "options": [
+        "College projects",
+        "Placements",
+        "Part-time jobs",
+        "Sports"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on A Good Strength Statement Includes:."
+    },
+    {
+      "id": "l3y1-i-C06",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Navigate Supports Employability'? Select all that apply.",
+      "options": [
+        "Skills assessment results",
+        "Strength statements",
+        "Digital CV information",
+        "Development plans"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Navigate Supports Employability."
+    },
+    {
+      "id": "l3y1-i-C07",
+      "type": "scored",
+      "prompt": "What does the module state about 'A Good Strength Statement Includes:'?",
+      "options": [
+        "What did you actually do",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "It is only assessed in exams"
+      ],
+      "answerIndex": 0,
+      "explanation": "What did you actually do"
+    },
+    {
+      "id": "l3y1-i-C08",
+      "type": "scored",
+      "prompt": "What does the module state about 'Navigate Supports Employability'?",
+      "options": [
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Navigate should contain: Skills assessment results",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Navigate should contain: Skills assessment results"
+    }
+  ]
+}

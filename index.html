@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Induction Quiz</title>
+  <meta name="theme-color" content="#1E2340">
+  <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="shortcut icon" href="favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="ESCG Induction" />
+  <link rel="manifest" href="site.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+
+    <header class="header">
+      <div class="header-top">
+        <p class="eyebrow">Induction</p>
+        <div class="header-actions">
+          <button class="icon-btn" id="helpBtn" aria-label="How it works" title="How it works"><i
+              class="fa-solid fa-circle-question menu-icon" data-emoji="❔"></i></button>
+          <button class="icon-btn" id="settingsBtn" aria-label="Open settings" title="Settings"><i
+              class="fa-solid fa-gear menu-icon" data-emoji="⚙️"></i></button>
+          <button class="icon-btn" id="themeToggle" aria-label="Toggle night mode" title="Toggle night mode"><i
+              class="fa-solid fa-moon menu-icon" data-emoji="🌙"></i></button>
+          <button class="icon-btn" id="signInBtn" aria-label="Sign in with Google" title="Sign in"><i
+              class="fa-solid fa-key menu-icon" data-emoji="🔑"></i></button>
+          <button class="icon-btn hidden" id="signOutBtn" aria-label="Sign out" title="Sign out"><i
+              class="fa-solid fa-right-from-bracket menu-icon" data-emoji="🚪"></i></button>
+        </div>
+      </div>
+      <h1 class="quiz-title">
+        <img src="gfx/logo_black.png" alt="" class="logo logo-dark" aria-hidden="true">
+        <img src="gfx/logo_white.png" alt="" class="logo logo-light" aria-hidden="true">
+        <span>Induction Quiz</span>
+      </h1>
+      <div id="overallProgress" class="overall-progress">
+        <div class="overall-progress-header">
+          <span class="overall-progress-label">Overall Progress</span>
+          <span class="overall-progress-score" id="overallScore">0%</span>
+        </div>
+        <div class="overall-progress-bar">
+          <div class="overall-progress-fill" id="overallProgressFill"></div>
+        </div>
+        <p class="overall-progress-hint" id="overallProgressHint">Complete quizzes to earn achievements</p>
+      </div>
+      <div id="timerDisplay" class="timer-display hidden">
+        <span class="timer-dot"></span>
+        <span class="timer" id="timer">05:00</span>
+      </div>
+      <div id="pqTimerDisplay" class="timer-display timer-pq hidden">
+        <span class="timer-dot"></span>
+        <span class="timer" id="pqTimer">00:30</span>
+      </div>
+    </header>
+
+    <!-- SETTINGS MODAL -->
+    <div id="settingsModal" class="modal hidden">
+      <div class="modal-content">
+        <div class="modal-head">
+          <h2>Settings</h2>
+          <button class="btn-close" id="closeSettings" aria-label="Close settings"><i
+              class="fa-solid fa-xmark menu-icon" data-emoji="✕"></i></button>
+        </div>
+
+        <div class="modal-body">
+          <div class="settings-section">
+            <h3>Timer</h3>
+            <p class="settings-hint">Set a countdown for each attempt. The quiz auto-submits at 00:00.</p>
+
+            <label class="settings-row" for="timerEnabled">
+              <span>Enable quiz timer</span>
+              <input type="checkbox" id="timerEnabled" checked>
+            </label>
+
+            <label class="settings-label" for="timerMinutes">Duration (minutes)</label>
+            <input type="range" id="timerMinutes" min="0" max="20" value="5" step="1">
+            <span id="timerMinutesValue"
+              style="font-family: var(--font-mono); font-weight: 600; color: var(--accent);">5 min</span>
+            <p class="settings-hint">Drag to set quiz duration. Recommended: 5–10 minutes for 10–15 questions.</p>
+          </div>
+
+          <div class="settings-section">
+            <h3>Per-question timer</h3>
+            <p class="settings-hint">A separate countdown for each drag-and-drop question. The question locks when time
+              runs out.</p>
+
+            <label class="settings-row" for="pqTimerEnabled">
+              <span>Enable per-question timer</span>
+              <input type="checkbox" id="pqTimerEnabled">
+            </label>
+
+            <label class="settings-label" for="pqTimerSeconds">Seconds per question</label>
+            <input type="number" id="pqTimerSeconds" min="10" max="300" value="30">
+            <p class="settings-hint">Recommended: 30 seconds for pyramids.</p>
+          </div>
+
+          <div class="settings-section">
+            <h3>Reset progress</h3>
+            <p class="settings-hint">Clear all saved quiz results, completion badges, and overall progress from this
+              browser. This cannot be undone.</p>
+            <button class="btn btn-danger" id="resetSettings">Reset all progress</button>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button class="btn btn-secondary" id="cancelSettings">Cancel</button>
+          <button class="btn" id="saveSettings">Save settings</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- RESET CONFIRM MODAL -->
+    <div id="resetConfirmModal" class="modal hidden">
+      <div class="modal-content" style="max-width: 400px;">
+        <div class="modal-head">
+          <h2>Reset all progress?</h2>
+          <button class="btn-close" id="closeResetConfirm" aria-label="Close"><i class="fa-solid fa-xmark menu-icon"
+              data-emoji="✕"></i></button>
+        </div>
+        <p style="margin: 0 0 1rem; line-height: 1.6;">This will permanently delete:</p>
+        <ul style="margin: 0 0 1rem; padding-left: 1.25rem; line-height: 1.8;">
+          <li>All quiz scores and completion badges</li>
+          <li>Overall progress</li>
+          <li>Timer preferences</li>
+        </ul>
+        <p style="margin: 0 0 1.25rem; color: var(--bad); font-weight: 600;">This action cannot be undone.</p>
+        <div class="modal-actions">
+          <button class="btn btn-secondary" id="cancelReset">Cancel</button>
+          <button class="btn" id="confirmReset" style="background: var(--bad);">Yes, reset everything</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- START / INTAKE -->
+    <main id="startScreen">
+      <p class="tutorial-kicker">Before you start</p>
+      <h2 class="tutorial-title">Welcome to your induction</h2>
+      <p class="tutorial-lede">Tell us which level and year you're studying so we can show the right modules.</p>
+
+      <div class="settings-section">
+        <h3>1. Pick your level</h3>
+        <p class="settings-hint">Choose the level you're studying this year.</p>
+        <div id="levelPicker" class="level-picker">
+          <!-- Level cards rendered by app.js from app.config.LEVELS -->
+        </div>
+      </div>
+
+      <div class="settings-section" id="yearSection" hidden>
+        <h3>2. Pick your year</h3>
+        <p class="settings-hint">Pick the year that matches your current year group.</p>
+        <div id="yearPicker" class="level-picker">
+          <!-- Year cards rendered by app.js once a level is chosen -->
+        </div>
+      </div>
+
+      <div class="settings-section" id="emailSection" hidden>
+        <h3>3. Your college email</h3>
+        <p class="settings-hint">We'll use this to record which modules you've completed.</p>
+        <label class="settings-label" for="emailInput">Email address</label>
+        <input type="email" id="emailInput" class="settings-input" placeholder="firstname.lastname@escg.ac.uk"
+          autocomplete="email">
+
+        <label class="settings-row" for="consentCheck" style="margin-top: 1rem;">
+          <span>I confirm this is my email and I understand my progress will be recorded.</span>
+          <input type="checkbox" id="consentCheck">
+        </label>
+      </div>
+
+      <div class="tutorial-actions">
+        <button class="btn" id="startContinue" disabled>Continue</button>
+      </div>
+    </main>
+
+    <!-- TUTORIAL -->
+    <main id="tutorialScreen" class="hidden">
+      <p class="tutorial-kicker">Before you start</p>
+      <h2 class="tutorial-title">How this quiz works</h2>
+      <p class="tutorial-lede">Four things worth knowing before your first attempt.</p>
+
+      <div class="tutorial-steps">
+        <div class="tutorial-step">
+          <span class="step-num">1</span>
+          <div>
+            <h3>Pick a module</h3>
+            <p>Choose a module based on the induction lesson you have completed.</p>
+          </div>
+        </div>
+        <div class="tutorial-step">
+          <span class="step-num">2</span>
+          <div>
+            <h3>Learn or Quiz</h3>
+            <p>Each module has a Learn section with interactive exercises, or you can jump straight into the quiz.</p>
+          </div>
+        </div>
+        <div class="tutorial-step">
+          <span class="step-num">3</span>
+          <div>
+            <h3>Navigate freely</h3>
+            <p>Select an option, drag lines into order, type an answer, then use Previous / Next to move around. The bar
+              at the top tracks your progress.
+          </div>
+        </div>
+        <div class="tutorial-step">
+          <span class="step-num">4</span>
+          <div>
+            <h3>Timer &amp; results</h3>
+            <p>A countdown is on by default (⚙️ Settings to adjust or turn it off). Finish or run out of time and you'll
+              see your score plus a full review with explanations.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="tutorial-actions">
+        <button class="btn" id="startPracticing">Got it — let's start</button>
+      </div>
+    </main>
+
+    <!-- SECTION SELECTION -->
+    <main id="sectionSelection" class="hidden">
+      <section>
+        <h2>Choose a module to begin</h2>
+
+        <div id="inductionGrid" class="section-select">
+          <!-- Populated by app.renderInductionGrid() for the chosen level/year.
+               For L3, the 11 induction modules (A-K) render here as cards.
+               If the level has no induction modules, this stays empty and the
+               legacy C# practice cards below remain visible. -->
+        </div>
+
+        <h3 class="level-group-title" id="legacySectionTitle" style="display:none;">Beginner</h3>
+        <div class="section-select" id="legacySectionGrid">
+          <div class="section-card" data-section="csharp-intro" data-level="l3">
+            <span class="section-mark">Module A</span>
+            <h3>Welcome, Belonging &amp; Support</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-intro">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-intro">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-syntax" data-level="l3">
+            <span class="section-mark">Module B</span>
+            <h3>Confidence, Independence &amp; Attendance</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-syntax">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-syntax">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-output" data-level="l3">
+            <span class="section-mark">Module C</span>
+            <h3>Health &amp; Safety</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-output">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-output">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-comments" data-level="l3">
+            <span class="section-mark">Module D</span>
+            <h3>Students' Voice &amp; Student Representative Elections</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-comments">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-comments">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-variables" data-level="l3">
+            <span class="section-mark">Module E</span>
+            <h3>Respect, Relationships &amp; College Values</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-variables">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-variables">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-datatypes" data-level="l3">
+            <span class="section-mark">Module F</span>
+            <h3>Staying Safe at College</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-datatypes">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-datatypes">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-typecasting" data-level="l3">
+            <span class="section-mark">Module G</span>
+            <h3>Looking After Myself</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-typecasting">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-typecasting">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-userinput" data-level="l3">
+            <span class="section-mark">Module H</span>
+            <h3>Navigate, Digital CV &amp; Career Planning</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-userinput">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-userinput">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-operators" data-level="l3">
+            <span class="section-mark">Module I</span>
+            <h3>Professional Behaviour &amp; Personal Strengths</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-operators">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-operators">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-math" data-level="l3">
+            <span class="section-mark">Module J</span>
+            <h3>Work Experience</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-math">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-math">Quiz</button>
+            </div>
+          </div>
+          <div class="section-card" data-section="csharp-strings" data-level="l3">
+            <span class="section-mark">Module K</span>
+            <h3>Progression Opportunities &amp; Setting Goals</h3>
+            <p>Key Things You Need to Know + Knowledge Quiz</p>
+            <span class="completion-badge"></span>
+            <div class="section-actions">
+              <button class="btn btn-secondary learn-btn" data-section="csharp-strings">Learn</button>
+              <button class="btn quiz-btn" data-section="csharp-strings">Quiz</button>
+            </div>
+          </div>
+        
+        </div>
+      </section>
+    </main>
+
+    <!-- LEARN -->
+    <main id="learnScreen" class="hidden">
+      <div class="learn-header">
+        <h2 id="learnTitle"></h2>
+        <p class="learn-progress" id="learnProgress"></p>
+      </div>
+      <div class="learn-content">
+        <h3 id="learnSlideTitle"></h3>
+        <p id="learnSlideContent"></p>
+        <pre id="learnSlideExample"></pre>
+        <p id="learnSlideOutput" class="learn-output"></p>
+      </div>
+      <div id="exerciseContainer" class="exercise-container hidden">
+        <div class="exercise-card">
+          <p id="exercisePrompt" class="exercise-prompt"></p>
+          <div id="exerciseArea"></div>
+          <button id="exerciseCheckBtn" class="btn exercise-check-btn">Check Answer</button>
+          <p id="exerciseFeedback" class="exercise-feedback"></p>
+        </div>
+      </div>
+      <div class="navigation">
+        <button class="btn btn-secondary" id="learnPrevBtn">Previous</button>
+        <button class="btn btn-secondary" id="learnSkipBtn">Skip to Quiz</button>
+        <button class="btn" id="learnNextBtn">Next</button>
+      </div>
+    </main>
+
+    <!-- QUIZ -->
+    <main id="quizContainer" class="hidden">
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressBar"></div>
+      </div>
+      <p class="progress-label" id="progressLabel"></p>
+      <div id="questionContainer"></div>
+      <div class="navigation">
+        <button class="btn btn-secondary" id="prevBtn">Previous</button>
+        <button class="btn" id="nextBtn">Next</button>
+      </div>
+    </main>
+
+    <!-- RESULTS -->
+    <main id="resultsContainer" class="hidden"></main>
+
+  </div>
+
+  <footer>
+    <p>&copy; 2026 Assessment Quiz — Practice tool, not an official test.</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="js/firebaseConfig.js"></script>
+  <script src="js/databaseManager.js"></script>
+  <script src="js/classroom.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/helpers.js"></script>
+  <script src="js/settings.js"></script>
+  <script src="js/learn.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/results.js"></script>
+  <script src="js/progress.js"></script>
+</body>
+
+</html>

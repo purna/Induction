@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-f",
+    "level": "l3",
+    "year": "y2",
+    "module": "F",
+    "variant": "A",
+    "title": "Staying Safe at College"
+  },
+  "questions": [
+    {
+      "id": "l3y2-f-A01",
+      "type": "scored",
+      "prompt": "What is the biggest safeguarding risk in Year 2?",
+      "options": [
+        "Complacency",
+        "Lack of knowledge",
+        "More lessons",
+        "Not enough teachers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Complacency"
+    },
+    {
+      "id": "l3y2-f-A02",
+      "type": "scored",
+      "prompt": "Which is a common Year 2 pressure?",
+      "options": [
+        "SATs",
+        "School uniform",
+        "Primary school exams",
+        "Final Major Project"
+      ],
+      "answerIndex": 3,
+      "explanation": "Final Major Project"
+    },
+    {
+      "id": "l3y2-f-A03",
+      "type": "scored",
+      "prompt": "Why is peer responsibility more important in Year 2?",
+      "options": [
+        "Reporting is removed",
+        "Students know each other better",
+        "There are fewer staff",
+        "Tutors stop helping"
+      ],
+      "answerIndex": 1,
+      "explanation": "Students know each other better"
+    },
+    {
+      "id": "l3y2-f-A04",
+      "type": "scored",
+      "prompt": "Which new online risk is highlighted for Year 2?",
+      "options": [
+        "Printed textbooks",
+        "Fake freelance work",
+        "Student Council elections",
+        "Timetabling"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fake freelance work"
+    },
+    {
+      "id": "l3y2-f-A05",
+      "type": "scored",
+      "prompt": "What should you do before using AI in a major assessment?",
+      "options": [
+        "Submit it anyway",
+        "Check the assessment rules",
+        "Assume the rules are the same",
+        "Hide the AI use"
+      ],
+      "answerIndex": 1,
+      "explanation": "Check the assessment rules"
+    },
+    {
+      "id": "l3y2-f-A06",
+      "type": "scored",
+      "prompt": "What is the correct approach to consent?",
+      "options": [
+        "Always obtain consent",
+        "Ask afterwards",
+        "Only strangers need consent",
+        "Friends do not need consent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Always obtain consent"
+    },
+    {
+      "id": "l3y2-f-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'The Biggest Year 2 Risk Is Complacency'?",
+      "options": [
+        "It applies only to certain students",
+        "It is only assessed in exams",
+        "Students already know the systems",
+        "It is optional and not required"
+      ],
+      "answerIndex": 2,
+      "explanation": "Students already know the systems"
+    },
+    {
+      "id": "l3y2-f-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Year 2 Pressures Are Different'?",
+      "options": [
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "Common Year 2 pressures include: Final Major Projects"
+      ],
+      "answerIndex": 3,
+      "explanation": "Common Year 2 pressures include: Final Major Projects"
+    }
+  ]
+}

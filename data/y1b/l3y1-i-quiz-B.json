@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y1-i",
+    "level": "l3",
+    "year": "y1",
+    "module": "I",
+    "variant": "B",
+    "title": "Professional Behaviour & Personal Strengths"
+  },
+  "questions": [
+    {
+      "id": "l3y1-i-B01",
+      "type": "scored",
+      "prompt": "Professional behaviour should be the same:",
+      "options": [
+        "Only in college",
+        "Only at work",
+        "In college, placements and employment",
+        "Only during interviews"
+      ],
+      "answerIndex": 2,
+      "explanation": "In college, placements and employment"
+    },
+    {
+      "id": "l3y1-i-B02",
+      "type": "scored",
+      "prompt": "Which of the following is a human skill?",
+      "options": [
+        "Exam technique",
+        "Punctuality",
+        "Reliability",
+        "Tuition"
+      ],
+      "answerIndex": 2,
+      "explanation": "Reliability"
+    },
+    {
+      "id": "l3y1-i-B03",
+      "type": "scored",
+      "prompt": "References mainly reflect:",
+      "options": [
+        "One lesson",
+        "A single bad day",
+        "One assignment",
+        "A consistent pattern of behaviour"
+      ],
+      "answerIndex": 3,
+      "explanation": "A consistent pattern of behaviour"
+    },
+    {
+      "id": "l3y1-i-B04",
+      "type": "scored",
+      "prompt": "Which statement provides evidence?",
+      "options": [
+        "\"I'm a good communicator.\"",
+        "\"I work hard.\"",
+        "\"I'm reliable.\"",
+        "\"I coordinated deadlines and ensured the group submitted on time.\""
+      ],
+      "answerIndex": 3,
+      "explanation": "\"I coordinated deadlines and ensured the group submitted on time.\""
+    },
+    {
+      "id": "l3y1-i-B05",
+      "type": "scored",
+      "prompt": "Which skill involves noticing what needs doing without instruction?",
+      "options": [
+        "Initiative",
+        "Teamwork",
+        "Attendance",
+        "Communication"
+      ],
+      "answerIndex": 0,
+      "explanation": "Initiative"
+    },
+    {
+      "id": "l3y1-i-B06",
+      "type": "scored",
+      "prompt": "What should you do if a Skills Assessment result surprises you?",
+      "options": [
+        "Compare it with your own evidence and feedback",
+        "Repeat it immediately",
+        "Ignore it",
+        "Delete it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Compare it with your own evidence and feedback"
+    },
+    {
+      "id": "l3y1-i-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Skills Assessment Results'? Select all that apply.",
+      "options": [
+        "Strengths",
+        "Development areas",
+        "Priorities for improvement",
+        "Review your results carefully"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Skills Assessment Results."
+    },
+    {
+      "id": "l3y1-i-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'A Good Strength Statement Includes:'? Select all that apply.",
+      "options": [
+        "College projects",
+        "Placements",
+        "Part-time jobs",
+        "Sports"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of A Good Strength Statement Includes:."
+    }
+  ]
+}

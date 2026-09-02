@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y1-g",
+    "level": "l3",
+    "year": "y1",
+    "module": "G",
+    "variant": "A",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "id": "l3y1-g-A01",
+      "type": "scored",
+      "prompt": "Mental health exists on:",
+      "options": [
+        "A timetable",
+        "Two levels",
+        "A grading scale",
+        "A spectrum"
+      ],
+      "answerIndex": 3,
+      "explanation": "A spectrum"
+    },
+    {
+      "id": "l3y1-g-A02",
+      "type": "scored",
+      "prompt": "Which factor affects mental health?",
+      "options": [
+        "Favourite colour",
+        "Sleep",
+        "Shoe size",
+        "Handwriting"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sleep"
+    },
+    {
+      "id": "l3y1-g-A03",
+      "type": "scored",
+      "prompt": "Which is a common sign of stress?",
+      "options": [
+        "Perfect attendance",
+        "Better concentration",
+        "Avoidance of tasks",
+        "Increased free time"
+      ],
+      "answerIndex": 2,
+      "explanation": "Avoidance of tasks"
+    },
+    {
+      "id": "l3y1-g-A04",
+      "type": "scored",
+      "prompt": "What is one evidence-based way to reduce stress?",
+      "options": [
+        "Move more",
+        "Stay isolated",
+        "Ignore it",
+        "Avoid sleep"
+      ],
+      "answerIndex": 0,
+      "explanation": "Move more"
+    },
+    {
+      "id": "l3y1-g-A05",
+      "type": "scored",
+      "prompt": "Why is sleep important?",
+      "options": [
+        "It removes stress instantly",
+        "It removes deadlines",
+        "It replaces revision",
+        "It improves memory"
+      ],
+      "answerIndex": 3,
+      "explanation": "It improves memory"
+    },
+    {
+      "id": "l3y1-g-A06",
+      "type": "scored",
+      "prompt": "If you are struggling, what should you do?",
+      "options": [
+        "Keep it secret",
+        "Stop attending",
+        "Wait until summer",
+        "Tell someone"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tell someone"
+    },
+    {
+      "id": "l3y1-g-A07",
+      "type": "scored",
+      "prompt": "What does the module say about 'Mental Health Is Health'?",
+      "options": [
+        "It is only assessed in exams",
+        "It is optional and not required",
+        "Mental health exists on a spectrum: Thriving Coping Struggling In Crisis Everyone moves along this spectrum throughout t",
+        "It applies only to certain students"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mental health exists on a spectrum: Thriving Coping Struggling In Crisis Everyone moves along this spectrum throughout t"
+    },
+    {
+      "id": "l3y1-g-A08",
+      "type": "scored",
+      "prompt": "What does the module say about 'Recognising Stress'?",
+      "options": [
+        "It is only assessed in exams",
+        "It applies only to certain students",
+        "It is optional and not required",
+        "Signs of stress can include: Trouble starting work"
+      ],
+      "answerIndex": 3,
+      "explanation": "Signs of stress can include: Trouble starting work"
+    }
+  ]
+}

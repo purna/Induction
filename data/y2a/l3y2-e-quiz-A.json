@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "section": "l3y2-e",
+    "level": "l3",
+    "year": "y2",
+    "module": "E",
+    "variant": "A",
+    "title": "Respect, Relationships & College Values"
+  },
+  "questions": [
+    {
+      "type": "scored",
+      "prompt": "What is the Year 2 framing for this respect and values session?",
+      "options": [
+        "Year 2 means setting the standard for others - peer-level, direct, application not awareness",
+        "Re-teach all of Year 1's content",
+        "Skip the values work",
+        "Cover new laws only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Year 2 means setting the standard for others. The register is peer-level and direct.",
+      "id": "l3y2-e-A01"
+    },
+    {
+      "id": "l3y2-e-C07",
+      "type": "scored",
+      "prompt": "What is the main Year 2 focus of Module E?",
+      "options": [
+        "Applying them consistently",
+        "Ignoring old rules",
+        "Learning the values for the first time",
+        "Changing the values"
+      ],
+      "answerIndex": 0,
+      "explanation": "Applying them consistently"
+    },
+    {
+      "type": "scored",
+      "prompt": "What does 'Seek Opportunity' mean in Year 2?",
+      "options": [
+        "Skip placements to focus on coursework",
+        "Wait for opportunities to come to you",
+        "Opportunity includes developing others - not just yourself",
+        "Look after yourself only"
+      ],
+      "answerIndex": 2,
+      "explanation": "In Year 2, opportunity includes developing others - not just yourself.",
+      "id": "l3y2-e-A03"
+    },
+    {
+      "type": "scored",
+      "prompt": "How does the deck describe the 'Rule of Law' beat in Year 2?",
+      "options": [
+        "You learn the rules for the first time",
+        "The rules don't apply on placement",
+        "It only covers online behaviour",
+        "You understand the rules - the question is whether you're upholding them and challenging it when others don't"
+      ],
+      "answerIndex": 3,
+      "explanation": "You understand the rules - the question is whether you're upholding them and challenging it when others don't.",
+      "id": "l3y2-e-A04"
+    },
+    {
+      "type": "scored",
+      "prompt": "Which is the deck's definition of victimisation under the Equality Act?",
+      "options": [
+        "Treating someone better because they raised a concern",
+        "Only a formal disciplinary outcome",
+        "Treating someone unfairly because they raised a concern - or because they didn't join in with behaviour that targeted someone else",
+        "Any disagreement in a group"
+      ],
+      "answerIndex": 2,
+      "explanation": "Victimisation: treating someone unfairly because they raised a concern - or because they didn't join in with behaviour that targeted someone else.",
+      "id": "l3y2-e-A05"
+    },
+    {
+      "type": "scored",
+      "prompt": "Why is returning to a familiar placement a higher-risk moment?",
+      "options": [
+        "Because there is no manager",
+        "Because the placement is shorter",
+        "Because familiarity is where professional standards are most at risk - your Year 2 behaviour shapes the reference your placement provider gives",
+        "Because the placement is unpaid"
+      ],
+      "answerIndex": 2,
+      "explanation": "Returning to a familiar placement is where professional standards are most at risk - your Year 2 behaviour shapes the reference.",
+      "id": "l3y2-e-A06"
+    },
+    {
+      "type": "scored",
+      "prompt": "What is the distinctive Year 2 addition to zero tolerance?",
+      "options": [
+        "It only applies online",
+        "Allowing it to happen makes you part of it - disciplinary procedures can include bystanders",
+        "It is optional",
+        "It no longer applies"
+      ],
+      "answerIndex": 1,
+      "explanation": "In Year 2, allowing it to happen makes you part of it. Formal disciplinary procedures apply - including for students who witnessed behaviour and did nothing.",
+      "id": "l3y2-e-A07"
+    },
+    {
+      "type": "scored",
+      "prompt": "How does the deck describe the anonymous reporting route?",
+      "options": [
+        "It only works for safeguarding concerns",
+        "It is slower than telling your teacher",
+        "It is not available to students",
+        "You can report without giving your name - and it will still be investigated"
+      ],
+      "answerIndex": 3,
+      "explanation": "You can report without giving your name - and it will still be investigated.",
+      "id": "l3y2-e-A08"
+    }
+  ]
+}

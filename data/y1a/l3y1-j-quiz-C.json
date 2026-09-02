@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "section": "l3y1-j",
+    "level": "l3",
+    "year": "y1",
+    "module": "J",
+    "title": "Work Experience",
+    "variant": "C"
+  },
+  "questions": [
+    {
+      "id": "l3y1-j-C01",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Work Experience Is Part of Your Course'? Select all that apply.",
+      "options": [
+        "Build your portfolio",
+        "Gain real workplace experience",
+        "Collect references",
+        "Strengthen applications"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Work Experience Is Part of Your Course."
+    },
+    {
+      "id": "l3y1-j-C02",
+      "type": "scored",
+      "prompt": "What does the deck say this industry hires on?",
+      "options": [
+        "Qualifications alone",
+        "Evidence - a portfolio, a showreel, code you've written, a reference from someone who watched you work",
+        "Connections",
+        "Luck"
+      ],
+      "answerIndex": 1,
+      "explanation": "This industry hires on evidence."
+    },
+    {
+      "id": "l3y1-j-C03",
+      "type": "multi",
+      "prompt": "Which of these count as work experience, according to the deck? Select all that apply.",
+      "options": [
+        "Block placement with one employer",
+        "Shorter, structured visits to a workplace",
+        "Unpaid work with a genuine organisational need",
+        "Real employer problems worked on in college"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Block placement, employer visits, volunteering, and live project briefs are all on the list."
+    },
+    {
+      "id": "l3y1-j-C04",
+      "type": "multi",
+      "prompt": "Which of the following are mentioned in 'Work Experience Can Take Different Forms'? Select all that apply.",
+      "options": [
+        "Block placements",
+        "Employer visits",
+        "Volunteering",
+        "Live project briefs"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are mentioned in the section on Work Experience Can Take Different Forms."
+    },
+    {
+      "id": "l3y1-j-C05",
+      "type": "insert",
+      "prompt": "Fill in the blank: the placement request deadline is Friday ____ February 2027.",
+      "template": "The placement request deadline is Friday ____ February 2027.",
+      "options": [
+        "1st",
+        "5th",
+        "12th",
+        "26th"
+      ],
+      "answerIndex": 1,
+      "explanation": "Friday 5 February 2027."
+    },
+    {
+      "id": "l3y1-j-C06",
+      "type": "scored",
+      "prompt": "What does the deck say about Navigate's location?",
+      "options": [
+        "It's a separate app",
+        "Navigate lives inside My Student Life",
+        "It's on a USB stick",
+        "There's no app for this"
+      ],
+      "answerIndex": 1,
+      "explanation": "Navigate lives inside My Student Life."
+    },
+    {
+      "id": "l3y1-j-C07",
+      "type": "scored",
+      "prompt": "What does the deck say about timekeeping?",
+      "options": [
+        "Be on time some days",
+        "Be on time, every day; running late or unwell? Contact the employer AND the college",
+        "Only turn up when you feel like it",
+        "Just call in if you're late"
+      ],
+      "answerIndex": 1,
+      "explanation": "Be on time, every day - and contact both the employer AND the college if running late or unwell."
+    },
+    {
+      "id": "l3y1-j-C08",
+      "type": "scored",
+      "prompt": "What's the deck's framing of the placement as a whole?",
+      "options": [
+        "'It's a box-ticking exercise'",
+        "'In this industry you are hired on what you can show and who will vouch for you - a placement builds both. Seek the opportunity.'",
+        "'It's optional'",
+        "'It's only useful if paid'"
+      ],
+      "answerIndex": 1,
+      "explanation": "Seek the opportunity."
+    }
+  ]
+}

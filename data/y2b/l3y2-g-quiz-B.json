@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-g",
+    "level": "l3",
+    "year": "y2",
+    "module": "G",
+    "variant": "B",
+    "title": "Looking After Myself"
+  },
+  "questions": [
+    {
+      "id": "l3y2-g-B01",
+      "type": "scored",
+      "prompt": "What is one major Year 2 pressure?",
+      "options": [
+        "SATs",
+        "Uniform rules",
+        "Primary school homework",
+        "Final Major Project"
+      ],
+      "answerIndex": 3,
+      "explanation": "Final Major Project"
+    },
+    {
+      "id": "l3y2-g-B02",
+      "type": "scored",
+      "prompt": "What is a common stress response?",
+      "options": [
+        "Better time management",
+        "Increased focus",
+        "More energy",
+        "Avoidance"
+      ],
+      "answerIndex": 3,
+      "explanation": "Avoidance"
+    },
+    {
+      "id": "l3y2-g-B03",
+      "type": "scored",
+      "prompt": "Which statement is true?",
+      "options": [
+        "Support is only for Year 1",
+        "Many students stop using support when they need it most",
+        "Support should only be used in crises",
+        "Year 2 students rarely need support"
+      ],
+      "answerIndex": 1,
+      "explanation": "Many students stop using support when they need it most"
+    },
+    {
+      "id": "l3y2-g-B04",
+      "type": "scored",
+      "prompt": "What should you do if circumstances change during Year 2?",
+      "options": [
+        "Withdraw from college",
+        "Wait until exams",
+        "Tell the college early",
+        "Keep it private"
+      ],
+      "answerIndex": 2,
+      "explanation": "Tell the college early"
+    },
+    {
+      "id": "l3y2-g-B05",
+      "type": "scored",
+      "prompt": "Why are Year 2 students well placed to support peers?",
+      "options": [
+        "They replace staff",
+        "They write safeguarding reports",
+        "They become counsellors",
+        "They know each other better"
+      ],
+      "answerIndex": 3,
+      "explanation": "They know each other better"
+    },
+    {
+      "id": "l3y2-g-B06",
+      "type": "scored",
+      "prompt": "Which wellbeing strategy is evidence-based?",
+      "options": [
+        "Avoid people",
+        "Ignore problems",
+        "Talk to someone",
+        "Reduce sleep"
+      ],
+      "answerIndex": 2,
+      "explanation": "Talk to someone"
+    },
+    {
+      "id": "l3y2-g-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Sleep Matters More Than Students Think'? Select all that apply.",
+      "options": [
+        "Learns less effectively",
+        "Makes poorer decisions",
+        "Finds projects harder",
+        "Experiences stronger emotions"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Sleep Matters More Than Students Think."
+    },
+    {
+      "id": "l3y2-g-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Tell College About Changes'? Select all that apply.",
+      "options": [
+        "Health",
+        "Home circumstances",
+        "Mental health",
+        "Learning support needs"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Tell College About Changes."
+    }
+  ]
+}

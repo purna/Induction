@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "section": "l3y2-c",
+    "level": "l3",
+    "year": "y2",
+    "module": "C",
+    "variant": "B",
+    "title": "Health & Safety"
+  },
+  "questions": [
+    {
+      "id": "l3y2-c-B01",
+      "type": "scored",
+      "prompt": "According to Year 2 Module C, the biggest risk is:",
+      "options": [
+        "Lack of equipment",
+        "Unfamiliar environments",
+        "Lack of knowledge",
+        "Familiarity and complacency"
+      ],
+      "answerIndex": 3,
+      "explanation": "Familiarity and complacency"
+    },
+    {
+      "id": "l3y2-c-B02",
+      "type": "scored",
+      "prompt": "Which Year 2 habit is a warning sign?",
+      "options": [
+        "Following procedures",
+        "Doing risk assessments",
+        "Taking shortcuts because nothing has happened before",
+        "Reporting hazards"
+      ],
+      "answerIndex": 2,
+      "explanation": "Taking shortcuts because nothing has happened before"
+    },
+    {
+      "id": "l3y2-c-B03",
+      "type": "scored",
+      "prompt": "If you've used a filming location before:",
+      "options": [
+        "No risk assessment is needed",
+        "Safety checks can be skipped",
+        "Another group can do the paperwork",
+        "You still complete a risk assessment"
+      ],
+      "answerIndex": 3,
+      "explanation": "You still complete a risk assessment"
+    },
+    {
+      "id": "l3y2-c-B04",
+      "type": "scored",
+      "prompt": "If equipment is used last by you:",
+      "options": [
+        "It must be returned by you",
+        "Nobody is responsible",
+        "It becomes the technician's responsibility",
+        "It becomes the tutor's responsibility"
+      ],
+      "answerIndex": 0,
+      "explanation": "It must be returned by you"
+    },
+    {
+      "id": "l3y2-c-B05",
+      "type": "scored",
+      "prompt": "What is the correct response to a near miss?",
+      "options": [
+        "Wait for someone else",
+        "Hide it",
+        "Learn from it and report it",
+        "Ignore it"
+      ],
+      "answerIndex": 2,
+      "explanation": "Learn from it and report it"
+    },
+    {
+      "id": "l3y2-c-B06",
+      "type": "scored",
+      "prompt": "What does professional responsibility include?",
+      "options": [
+        "Noticing and reporting concerns",
+        "Taking shortcuts to save time",
+        "Letting others deal with hazards",
+        "Avoiding safety discussions"
+      ],
+      "answerIndex": 0,
+      "explanation": "Noticing and reporting concerns"
+    },
+    {
+      "id": "l3y2-c-B07",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'New Year 2 Responsibilities'? Select all that apply.",
+      "options": [
+        "Live media production",
+        "Broadcasting responsibilities",
+        "Editorial duties",
+        "Industry placements"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of New Year 2 Responsibilities."
+    },
+    {
+      "id": "l3y2-c-B08",
+      "type": "multi",
+      "prompt": "Which of the following are part of 'Equipment Responsibility'? Select all that apply.",
+      "options": [
+        "Return equipment correctly",
+        "Report faults",
+        "Store equipment properly",
+        "Avoid assuming someone else has done it"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "All of these are part of Equipment Responsibility."
+    }
+  ]
+}
