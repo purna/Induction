@@ -1,4 +1,4 @@
-const CACHE_NAME = 'induction-quiz-v12';
+const CACHE_NAME = 'induction-quiz-v13';
 
 const APP_SHELL = [
   './',
@@ -12,7 +12,7 @@ const APP_SHELL = [
   './js/quiz.js',
   './js/results.js',
   './js/progress.js',
-  './js/firebaseConfig.js',
+  './js/firebase-config.js',
   './js/databaseManager.js',
   './js/classroom.js',
   './manifest.webmanifest',

@@ -1,4 +1,5 @@
 .firebase/*
+js/firebase-config.js
 .kilo
 .kilo
 .kilo/*
