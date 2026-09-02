@@ -1,4 +1,4 @@
-const CACHE_NAME = 'induction-quiz-v13';
+const CACHE_NAME = 'induction-quiz-v15';
 
 const APP_SHELL = [
   './',
@@ -208,7 +208,14 @@ const APP_SHELL = [
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
-      return cache.addAll(APP_SHELL);
+      return Promise.all(APP_SHELL.map(function (url) {
+        return fetch(url, { cache: 'no-cache' }).then(function (response) {
+          if (response && response.status === 200) return cache.put(url, response);
+          return null;
+        }).catch(function () {
+          return null;
+        });
+      }));
     })
   );
   self.skipWaiting();
