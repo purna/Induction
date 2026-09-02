@@ -3,15 +3,16 @@
  * Replace the placeholder values below with your actual Firebase config.
  */
 
-window.FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const FIREBASE_CONFIG = {
+  apiKey: "AIzaSyBS7KFKNNh3x0gppCwbK0lW8bo6Pdzav5Y",
+  authDomain: "induction-e16bf.firebaseapp.com",
+  projectId: "induction-e16bf",
+  storageBucket: "induction-e16bf.firebasestorage.app",
+  messagingSenderId: "989003706645",
+  appId: "1:989003706645:web:088bd05dc83989d13f791c",
+  measurementId: "G-8TG0W24T8G"
 };
-
 if (!window.firebaseApp && typeof firebase !== 'undefined' && window.FIREBASE_CONFIG.apiKey && !window.FIREBASE_CONFIG.apiKey.startsWith('YOUR_')) {
   try {
     window.firebaseApp = firebase.initializeApp(window.FIREBASE_CONFIG);
@@ -93,36 +94,36 @@ window.getFreshClassroomAccessToken = async function () {
   return null;
 };
 
-  /* ── Check for GIS token from login.html ── */
-  function checkGisToken() {
-    var gisToken = localStorage.getItem('google_access_token');
-    var gisExpiry = localStorage.getItem('google_token_expiry');
-    if (gisToken && gisExpiry && Date.now() < parseInt(gisExpiry, 10)) {
-      if (app && app.state) {
-        app.state.user = { uid: 'gis-user', email: null, displayName: null, photoURL: null };
-      }
-      var signInBtn = document.getElementById('signInBtn');
-      var signOutBtn = document.getElementById('signOutBtn');
-      if (signInBtn) signInBtn.classList.add('hidden');
-      if (signOutBtn) signOutBtn.classList.remove('hidden');
-      return true;
+/* ── Check for GIS token from login.html ── */
+function checkGisToken() {
+  var gisToken = localStorage.getItem('google_access_token');
+  var gisExpiry = localStorage.getItem('google_token_expiry');
+  if (gisToken && gisExpiry && Date.now() < parseInt(gisExpiry, 10)) {
+    if (app && app.state) {
+      app.state.user = { uid: 'gis-user', email: null, displayName: null, photoURL: null };
     }
-    return false;
+    var signInBtn = document.getElementById('signInBtn');
+    var signOutBtn = document.getElementById('signOutBtn');
+    if (signInBtn) signInBtn.classList.add('hidden');
+    if (signOutBtn) signOutBtn.classList.remove('hidden');
+    return true;
   }
+  return false;
+}
 
-  function saveUserDoc(user) {
-    if (!window.firebaseDb || !user) return;
-    window.firebaseDb.collection('users').doc(user.uid).set({
-      email: user.email || null,
-      displayName: user.displayName || null,
-      photoURL: user.photoURL || null,
-      lastLoginAt: firebase.firestore.FieldValue.serverTimestamp()
-    }, { merge: true }).catch(function (e) {
-      console.warn('Failed to save user doc:', e.message);
-    });
-  }
+function saveUserDoc(user) {
+  if (!window.firebaseDb || !user) return;
+  window.firebaseDb.collection('users').doc(user.uid).set({
+    email: user.email || null,
+    displayName: user.displayName || null,
+    photoURL: user.photoURL || null,
+    lastLoginAt: firebase.firestore.FieldValue.serverTimestamp()
+  }, { merge: true }).catch(function (e) {
+    console.warn('Failed to save user doc:', e.message);
+  });
+}
 
-  if (window.firebaseAuth) {
+if (window.firebaseAuth) {
   window.firebaseAuth.onAuthStateChanged(function (user) {
     const signInBtn = document.getElementById('signInBtn');
     const signOutBtn = document.getElementById('signOutBtn');
