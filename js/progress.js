@@ -83,9 +83,9 @@
       if (status && status.passed) {
         if (!existing) {
           const btn = document.createElement('button');
-          btn.className = 'download-cert-btn';
+          btn.className = 'btn btn-secondary download-cert-btn';
           btn.title = 'Download certificate';
-          btn.innerHTML = '<i class="fa-solid fa-crown crown-icon"></i><i class="fa-solid fa-download"></i>';
+          btn.innerHTML = '<i class="fa-solid fa-crown"></i><i class="fa-solid fa-download"></i>';
           btn.addEventListener('click', function (e) {
             e.stopPropagation();
             app.downloadModuleCertificate(section, level);

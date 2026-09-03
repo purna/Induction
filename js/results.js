@@ -418,7 +418,7 @@
     var moduleTitle = (app.state.data.meta && app.state.data.meta.title) || app.sectionTitle() || moduleId;
     var moduleMark = (moduleMeta && moduleMeta.module) || '';
     var userEmail = (app.state.user && app.state.user.email) || '';
-    var userName = userEmail ? userEmail.split('@')[0] : '(student name)';
+    var userName = userEmail ? userEmail.split('@')[0] : '';
     var levelLabel = '';
     var levelObj = (app.config.LEVELS || []).find(function (l) { return l.id === app.state.level; });
     if (levelObj) levelLabel = levelObj.label;
@@ -578,9 +578,20 @@
       doc.setFontSize(22);
       doc.setFont('helvetica', 'bold');
       doc.setTextColor(30, 35, 64);
-      var nameLines = doc.splitTextToSize(userName, 480);
-      doc.text(nameLines, 297, y, { align: 'center' });
-      y += nameLines.length * 28 + 10;
+      if (userName) {
+        var nameLines = doc.splitTextToSize(userName, 480);
+        doc.text(nameLines, 297, y, { align: 'center' });
+        y += nameLines.length * 28 + 10;
+      } else {
+        doc.setDrawColor(30, 35, 64);
+        doc.setLineWidth(1);
+        doc.line(170, y + 10, 424, y + 10);
+        doc.setTextColor(150, 155, 172);
+        doc.setFontSize(9);
+        doc.setFont('helvetica', 'italic');
+        doc.text('(print name here)', 297, y + 24, { align: 'center' });
+        y += 28;
+      }
 
       doc.setFontSize(12);
       doc.setFont('helvetica', 'normal');
