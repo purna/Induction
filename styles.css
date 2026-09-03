@@ -1019,10 +1019,26 @@ html[data-theme="dark"] #startContinue:disabled {
   color: var(--good);
 }
 
+.exercise-option.correct::before {
+  content: '\2713';
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  display: inline-block;
+  margin-right: 0.35rem;
+  font-weight: 700;
+}
+
 .exercise-option.wrong {
   border-color: var(--bad);
   background: var(--bad-soft);
   color: var(--bad);
+}
+
+.exercise-option.wrong::before {
+  content: '\2717';
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  display: inline-block;
+  margin-right: 0.35rem;
+  font-weight: 700;
 }
 
 .exercise-feedback {
@@ -1665,11 +1681,31 @@ input[type="checkbox"] {
 .tag.good {
   background: var(--good-soft);
   color: var(--good);
+  padding-left: 1.1rem;
+  position: relative;
+}
+
+.tag.good::before {
+  content: '\2713';
+  position: absolute;
+  left: 0.5rem;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 700;
 }
 
 .tag.bad {
   background: var(--bad-soft);
   color: var(--bad);
+  padding-left: 1.1rem;
+  position: relative;
+}
+
+.tag.bad::before {
+  content: '\2717';
+  position: absolute;
+  left: 0.5rem;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 700;
 }
 
 .results-actions {

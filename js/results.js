@@ -374,6 +374,7 @@
     var moduleTitle = (app.state.data.meta && app.state.data.meta.title) || app.sectionTitle() || moduleId;
     var moduleMark = (moduleMeta && moduleMeta.module) || '';
     var userEmail = (app.state.user && app.state.user.email) || '';
+    var userName = userEmail ? userEmail.split('@')[0] : '(student name)';
     var levelLabel = '';
     var levelObj = (app.config.LEVELS || []).find(function (l) { return l.id === app.state.level; });
     if (levelObj) levelLabel = levelObj.label;
@@ -383,104 +384,64 @@
     var correct = app.state.correct || 0;
     var total = app.state.total || questions.length;
     var attemptDate = new Date();
-    var statusLabel = isPassed ? 'PASS' : 'Needs Review';
+    var dateStr = attemptDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
     var statusColor = isPassed ? [46, 130, 91] : [198, 75, 75];
 
-    var drawHeader = function () {
+    var drawHeader = function (label) {
       doc.setFillColor(30, 35, 64);
-      doc.rect(0, 0, 595, 56);
+      doc.rect(0, 0, 595, 40);
       doc.setTextColor(255, 255, 255);
-      doc.setFontSize(20);
+      doc.setFontSize(14);
       doc.setFont('helvetica', 'bold');
-      doc.text('ESC&G — Induction Quiz', 24, 34);
-      doc.setFontSize(11);
+      doc.text('ESC&G — Induction Quiz', 24, 26);
+      doc.setFontSize(10);
       doc.setFont('helvetica', 'normal');
-      doc.text('Module Result', 480, 34, { align: 'right' });
+      doc.text(label || 'Module Result', 570, 26, { align: 'right' });
     };
 
-    var drawFooter = function () {
+    var drawFooter = function (pageNum) {
       doc.setDrawColor(225, 225, 238);
       doc.setLineWidth(0.5);
       doc.line(40, 800, 555, 800);
       doc.setTextColor(91, 95, 122);
       doc.setFontSize(8);
       doc.setFont('helvetica', 'normal');
-      doc.text('Page 1 of 1', 297, 820, { align: 'center' });
+      doc.text('Page ' + pageNum, 297, 820, { align: 'center' });
       doc.text('This is a practice result, not an official test.', 297, 835, { align: 'center' });
     };
 
-    drawHeader();
-    y = 80;
-    doc.setTextColor(30, 35, 64);
+    var drawCertBorder = function () {
+      doc.setDrawColor(30, 35, 64);
+      doc.setLineWidth(2);
+      doc.rect(20, 20, 555, 752);
+      doc.setDrawColor(181, 121, 42);
+      doc.setLineWidth(4);
+      doc.rect(12, 12, 571, 768);
+    };
 
-    var titleLines = doc.splitTextToSize(moduleTitle, 480);
-    doc.setFontSize(20);
-    doc.setFont('helvetica', 'bold');
-    doc.text(titleLines, margin, y);
-    y += titleLines.length * (lineHeight + 2) + 8;
+    var renderQuestionReview = function (startY, startPage) {
+      if (startY === undefined || startY === null) startY = margin;
+      var y = startY;
+      var pageNum = startPage || 1;
 
-    doc.setFontSize(13);
-    doc.setFont('helvetica', 'normal');
-    doc.setTextColor(91, 95, 122);
-
-    var detailLeft = [
-      ['Module', moduleMark || '—'],
-      ['Level', levelLabel || '—'],
-      ['Year', yearLabel || '—'],
-      ['Email', userEmail || '(not signed in)']
-    ];
-    doc.setTextColor(30, 35, 64);
-    detailLeft.forEach(function (row) {
-      doc.setFont('helvetica', 'bold');
-      doc.text(row[0], margin, y);
-      doc.setFont('helvetica', 'normal');
-      doc.text(row[1], margin + 70, y);
-      y += lineHeight;
-    });
-    y += 6;
-
-    doc.setDrawColor(225, 225, 238);
-    doc.setLineWidth(0.5);
-    doc.line(margin, y, 555, y);
-    y += 14;
-
-    doc.setFontSize(26);
-    doc.setFont('helvetica', 'bold');
-    doc.setTextColor(statusColor[0], statusColor[1], statusColor[2]);
-    doc.text(statusLabel, margin, y);
-    y += 6;
-
-    doc.setFontSize(32);
-    doc.setTextColor(30, 35, 64);
-    doc.text(scorePct + '%', margin, y);
-    y += 22;
-
-    doc.setFontSize(12);
-    doc.setFont('helvetica', 'normal');
-    doc.setTextColor(91, 95, 122);
-    doc.text(correct + ' of ' + total + ' correct — ' + attemptDate.toLocaleDateString('en-GB', {
-      year: 'numeric', month: 'short', day: 'numeric'
-    }), margin, y);
-    y += 22;
-
-    if (questions.length > 0) {
       doc.setTextColor(30, 35, 64);
-      doc.setFontSize(14);
+      doc.setFontSize(16);
       doc.setFont('helvetica', 'bold');
       doc.text('Question Review', margin, y);
-      y += 22;
+      y += 24;
 
       questions.forEach(function (q, i) {
         if (y > 760) {
-          drawFooter();
+          drawFooter(pageNum);
           doc.addPage();
-          drawHeader();
-          y = 80;
+          pageNum++;
+          drawHeader('Module Result');
+          y = 60;
           doc.setTextColor(30, 35, 64);
-          doc.setFontSize(14);
+          doc.setFontSize(16);
           doc.setFont('helvetica', 'bold');
           doc.text('Question Review (continued)', margin, y);
-          y += 22;
+          y += 24;
         }
 
         var gotIt = app.checkQuestionCorrect(q);
@@ -532,7 +493,7 @@
         }
 
         doc.setTextColor(gotIt ? [46, 130, 91] : [198, 75, 75]);
-        var tag = gotIt ? 'Correct' : 'Incorrect';
+        var tag = gotIt ? '\u2713 Correct' : '\u2717 Incorrect';
         doc.text(tag + ' — ' + yourAnswer, margin, y);
         y += lineHeight + 2;
 
@@ -545,9 +506,145 @@
         }
         y += 4;
       });
-    }
 
-    drawFooter();
-    doc.save('induction-' + (moduleMark || moduleId || 'result') + '-' + attemptDate.getFullYear() + '.pdf');
+      drawFooter(pageNum);
+    };
+
+    if (isPassed) {
+      drawCertBorder();
+      drawHeader('Certificate');
+
+      y = 130;
+
+      doc.setTextColor(30, 35, 64);
+      doc.setFontSize(24);
+      doc.setFont('helvetica', 'bold');
+      doc.text('Certificate of Completion', 297, y, { align: 'center' });
+      y += 40;
+
+      doc.setFontSize(12);
+      doc.setFont('helvetica', 'normal');
+      doc.text('This is to certify that', 297, y, { align: 'center' });
+      y += 30;
+
+      doc.setFontSize(22);
+      doc.setFont('helvetica', 'bold');
+      doc.setTextColor(30, 35, 64);
+      var nameLines = doc.splitTextToSize(userName, 480);
+      doc.text(nameLines, 297, y, { align: 'center' });
+      y += nameLines.length * 28 + 10;
+
+      doc.setFontSize(12);
+      doc.setFont('helvetica', 'normal');
+      doc.setTextColor(91, 95, 122);
+      var certSub = 'has successfully completed the';
+      doc.text(certSub, 297, y, { align: 'center' });
+      y += 26;
+
+      doc.setFontSize(18);
+      doc.setFont('helvetica', 'bold');
+      doc.setTextColor(30, 35, 64);
+      var titleLines = doc.splitTextToSize(moduleTitle, 480);
+      doc.text(titleLines, 297, y, { align: 'center' });
+      y += titleLines.length * 22 + 14;
+
+      doc.setFontSize(12);
+      doc.setFont('helvetica', 'normal');
+      doc.setTextColor(91, 95, 122);
+      var certDetail = 'Module ' + (moduleMark || '—') + ' \u2022 ' + levelLabel + ' ' + yearLabel;
+      doc.text(certDetail, 297, y, { align: 'center' });
+      y += 26;
+
+      doc.setTextColor(91, 95, 122);
+      doc.text('Score: ' + scorePct + '%  (' + correct + '/' + total + ' correct)', 297, y, { align: 'center' });
+      y += 26;
+
+      doc.setTextColor(30, 35, 64);
+      doc.text('Date: ' + dateStr, 297, y, { align: 'center' });
+      y += 40;
+
+      doc.setDrawColor(181, 121, 42);
+      doc.setLineWidth(1);
+      doc.line(180, y, 414, y);
+      y += 6;
+
+      doc.setFontSize(11);
+      doc.setTextColor(91, 95, 122);
+      doc.text('College Programme Leader', 297, y, { align: 'center' });
+      y += 20;
+
+      doc.setFontSize(10);
+      doc.setTextColor(91, 95, 122);
+      doc.text('Student: ' + userEmail, 297, y, { align: 'center' });
+
+      drawFooter(1);
+
+      if (questions.length > 0) {
+        doc.addPage();
+        drawHeader('Module Result');
+        renderQuestionReview(margin, 2);
+      }
+
+      doc.save('induction-certificate-' + (moduleMark || moduleId || 'module') + '-' + attemptDate.getFullYear() + '.pdf');
+    } else {
+      drawHeader('Module Result');
+      y = 60;
+
+      var titleLines2 = doc.splitTextToSize(moduleTitle, 480);
+      doc.setFontSize(20);
+      doc.setFont('helvetica', 'bold');
+      doc.setTextColor(30, 35, 64);
+      doc.text(titleLines2, margin, y);
+      y += titleLines2.length * (lineHeight + 2) + 8;
+
+      doc.setFontSize(13);
+      doc.setFont('helvetica', 'normal');
+      doc.setTextColor(91, 95, 122);
+      var detailLines = [
+        ['Module', moduleMark || '\u2014'],
+        ['Level', levelLabel || '\u2014'],
+        ['Year', yearLabel || '\u2014'],
+        ['Email', userEmail || '(not signed in)']
+      ];
+      doc.setTextColor(30, 35, 64);
+      detailLines.forEach(function (row) {
+        doc.setFont('helvetica', 'bold');
+        doc.text(row[0], margin, y);
+        doc.setFont('helvetica', 'normal');
+        doc.text(row[1], margin + 70, y);
+        y += lineHeight;
+      });
+      y += 6;
+
+      doc.setDrawColor(225, 225, 238);
+      doc.setLineWidth(0.5);
+      doc.line(margin, y, 555, y);
+      y += 14;
+
+      doc.setFontSize(26);
+      doc.setFont('helvetica', 'bold');
+      doc.setTextColor(statusColor[0], statusColor[1], statusColor[2]);
+      doc.text('Needs Review', margin, y);
+      y += 6;
+
+      doc.setFontSize(32);
+      doc.setTextColor(30, 35, 64);
+      doc.text(scorePct + '%', margin, y);
+      y += 22;
+
+      doc.setFontSize(12);
+      doc.setFont('helvetica', 'normal');
+      doc.setTextColor(91, 95, 122);
+      doc.text(correct + ' of ' + total + ' correct \u2014 ' + dateStr, margin, y);
+      y += 22;
+
+      if (questions.length > 0) {
+        renderQuestionReview(y, 1);
+      } else {
+        drawFooter(1);
+      }
+
+      doc.save('induction-result-' + (moduleMark || moduleId || 'result') + '-' + attemptDate.getFullYear() + '.pdf');
+    }
   };
 })();

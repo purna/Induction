@@ -199,9 +199,6 @@
           selectedBtn.classList.remove('selected');
           selectedBtn.classList.add('wrong');
         }
-        options.querySelectorAll('.exercise-option').forEach(function (b) {
-          if (b.textContent === exercise.answer) b.classList.add('correct');
-        });
         app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
         app.el.exerciseFeedback.className = 'exercise-feedback wrong';
         setTimeout(function () { app.resetLearnExercise(); }, 2000);
@@ -258,9 +255,6 @@
           selectedBtn.classList.remove('selected');
           selectedBtn.classList.add('wrong');
         }
-        options.querySelectorAll('.exercise-option').forEach(function (b, i) {
-          if (i === answerIndex) b.classList.add('correct');
-        });
         app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
         app.el.exerciseFeedback.className = 'exercise-feedback wrong';
         setTimeout(function () { app.resetLearnExercise(); }, 2000);
@@ -325,10 +319,12 @@
 
       options.querySelectorAll('.exercise-option').forEach(function (btn, i) {
         btn.classList.remove('selected', 'correct', 'wrong');
-        if (correctIndices.indexOf(i) !== -1) {
-          btn.classList.add('correct');
-        } else if (selected.indexOf(i) !== -1) {
-          btn.classList.add('wrong');
+        if (selected.indexOf(i) !== -1) {
+          if (correctIndices.indexOf(i) !== -1) {
+            btn.classList.add('correct');
+          } else {
+            btn.classList.add('wrong');
+          }
         }
       });
 
@@ -448,9 +444,6 @@
           selectedBtn.classList.remove('selected');
           selectedBtn.classList.add('wrong');
         }
-        options.querySelectorAll('.exercise-option').forEach(function (b, i) {
-          if (i === answerIndex) b.classList.add('correct');
-        });
         app.el.exerciseFeedback.textContent = 'Not quite. Try again!';
         app.el.exerciseFeedback.className = 'exercise-feedback wrong';
         setTimeout(function () { app.resetLearnExercise(); }, 2000);
