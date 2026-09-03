@@ -85,7 +85,7 @@
           const btn = document.createElement('button');
           btn.className = 'btn btn-secondary download-cert-btn';
           btn.title = 'Download certificate';
-          btn.innerHTML = '<span class="fa-stack"><i class="fa-solid fa-download fa-stack-2x"></i><i class="fa-solid fa-crown fa-stack-1x"></i></span>';
+          btn.innerHTML = '<span class="fa-stack"><i class="fa-solid fa-certificate fa-stack-2x"></i><i class="fa-solid fa-download fa-stack-1x"></i></span>';
           btn.addEventListener('click', function (e) {
             e.stopPropagation();
             app.downloadModuleCertificate(section, level);

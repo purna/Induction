@@ -590,7 +590,7 @@
         doc.setFontSize(9);
         doc.setFont('helvetica', 'italic');
         doc.text('(print name here)', 297, y + 24, { align: 'center' });
-        y += 28;
+        y += 40;
       }
 
       doc.setFontSize(12);
@@ -625,12 +625,12 @@
       doc.setDrawColor(181, 121, 42);
       doc.setLineWidth(1);
       doc.line(180, y, 414, y);
-      y += 6;
+      y += 24;
 
       doc.setFontSize(11);
       doc.setTextColor(91, 95, 122);
       doc.text('College Programme Leader', 297, y, { align: 'center' });
-      y += 20;
+      y += 24;
 
       doc.setFontSize(10);
       doc.setTextColor(91, 95, 122);
