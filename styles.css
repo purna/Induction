@@ -1715,6 +1715,39 @@ input[type="checkbox"] {
   flex-wrap: wrap;
 }
 
+.download-cert-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0;
+  transition: var(--transition-fast);
+  position: relative;
+}
+
+.download-cert-btn:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--on-accent);
+  transform: translateY(-1px);
+}
+
+.download-cert-btn .crown-icon {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.75rem;
+  color: var(--accent);
+}
+
 footer {
   text-align: center;
   padding: 1.5rem 1rem;

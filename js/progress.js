@@ -5,7 +5,7 @@
     return (app.state.data.meta && app.state.data.meta.title) || app.state.section;
   };
 
-  app.updateCompletionBadges = function () {
+   app.updateCompletionBadges = function () {
     const cards = document.querySelectorAll('.section-card');
     cards.forEach(function (card, index) {
       const section = card.getAttribute('data-section');
@@ -63,6 +63,37 @@
           learnBadge.className = 'learn-badge';
           learnBadge.textContent = '';
         }
+      }
+    });
+
+    app.updateDownloadButtons();
+  };
+
+  app.updateDownloadButtons = function () {
+    const cards = document.querySelectorAll('.section-card');
+    cards.forEach(function (card) {
+      const section = card.getAttribute('data-section');
+      const level = card.getAttribute('data-level');
+      const actions = card.querySelector('.section-actions');
+      if (!actions) return;
+
+      let existing = actions.querySelector('.download-cert-btn');
+      const status = app.getSectionStatus(section, level);
+
+      if (status && status.passed) {
+        if (!existing) {
+          const btn = document.createElement('button');
+          btn.className = 'download-cert-btn';
+          btn.title = 'Download certificate';
+          btn.innerHTML = '<i class="fa-solid fa-crown crown-icon"></i><i class="fa-solid fa-download"></i>';
+          btn.addEventListener('click', function (e) {
+            e.stopPropagation();
+            app.downloadModuleCertificate(section, level);
+          });
+          actions.appendChild(btn);
+        }
+      } else if (existing) {
+        existing.remove();
       }
     });
   };

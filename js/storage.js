@@ -46,7 +46,7 @@
     return results[key] || null;
   };
 
-  app.getLearnProgress = function (section, level) {
+   app.getLearnProgress = function (section, level) {
     try {
       const all = JSON.parse(localStorage.getItem('learnProgress')) || {};
       return all[section + '|' + level] || null;
@@ -88,6 +88,44 @@
       prev.lastUpdated = Date.now();
       all[key] = prev;
       localStorage.setItem('learnProgress', JSON.stringify(all));
+    } catch (e) {}
+  };
+
+  app.saveQuizSession = function (section, level, data, answers, score, correct, total, variant) {
+    try {
+      const sessions = JSON.parse(localStorage.getItem('quizSessions')) || {};
+      const key = section + '|' + level;
+      sessions[key] = {
+        data: data,
+        answers: answers,
+        score: score,
+        correct: correct,
+        total: total,
+        variant: variant,
+        savedAt: new Date().toISOString()
+      };
+      localStorage.setItem('quizSessions', JSON.stringify(sessions));
+    } catch (e) {}
+  };
+
+  app.getQuizSession = function (section, level) {
+    try {
+      const sessions = JSON.parse(localStorage.getItem('quizSessions')) || {};
+      const key = section + '|' + level;
+      return sessions[key] || null;
+    } catch (e) {
+      return null;
+    }
+  };
+
+  app.clearQuizSession = function (section, level) {
+    try {
+      const sessions = JSON.parse(localStorage.getItem('quizSessions')) || {};
+      const key = section + '|' + level;
+      if (sessions[key]) {
+        delete sessions[key];
+        localStorage.setItem('quizSessions', JSON.stringify(sessions));
+      }
     } catch (e) {}
   };
 })();

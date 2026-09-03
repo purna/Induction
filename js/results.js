@@ -22,6 +22,7 @@
 
     app.updateCompletionBadges();
     app.updateOverallProgress();
+    app.updateDownloadButtons();
 
     const actions = document.createElement('div');
     actions.className = 'results-actions';
@@ -103,6 +104,7 @@
     }
 
     app.saveQuizResult(app.state.section, app.state.level, app.state.quizVariant, pct, correct, questions.length);
+    app.saveQuizSession(app.state.section, app.state.level, app.state.data, app.state.answers, pct, correct, questions.length, app.state.quizVariant);
 
     const hero = document.createElement('div');
     hero.className = 'results-hero';
@@ -355,6 +357,48 @@
     return userAnswers === q.answerIndex;
   };
 
+  app.downloadModuleCertificate = function (section, level) {
+    var session = app.getQuizSession(section, level);
+    if (!session) {
+      if (app.speak) app.speak('Certificate data not available yet. Please complete the quiz first.');
+      return;
+    }
+    var saved = {
+      data: app.state.data,
+      section: app.state.section,
+      level: app.state.level,
+      score: app.state.score,
+      correct: app.state.correct,
+      total: app.state.total,
+      passed: app.state.passed,
+      answers: app.state.answers,
+      quizVariant: app.state.quizVariant,
+      year: app.state.year,
+    };
+    app.state.data = session.data;
+    app.state.section = section;
+    app.state.level = level;
+    app.state.score = session.score;
+    app.state.correct = session.correct;
+    app.state.total = session.total;
+    app.state.passed = session.score >= (app.config.PASS_THRESHOLD || 80);
+    app.state.answers = session.answers;
+    app.state.quizVariant = session.variant || 'A';
+
+    app.generateResultsPDF();
+
+    app.state.data = saved.data;
+    app.state.section = saved.section;
+    app.state.level = saved.level;
+    app.state.score = saved.score;
+    app.state.correct = saved.correct;
+    app.state.total = saved.total;
+    app.state.passed = saved.passed;
+    app.state.answers = saved.answers;
+    app.state.quizVariant = saved.quizVariant;
+    app.state.year = saved.year;
+  };
+
   app.generateResultsPDF = function () {
     var _jspdf = window.jspdf;
     if (!_jspdf || !_jspdf.jsPDF) {
@@ -492,7 +536,11 @@
           }
         }
 
-        doc.setTextColor(gotIt ? [46, 130, 91] : [198, 75, 75]);
+        if (gotIt) {
+          doc.setTextColor(46, 130, 91);
+        } else {
+          doc.setTextColor(198, 75, 75);
+        }
         var tag = gotIt ? '\u2713 Correct' : '\u2717 Incorrect';
         doc.text(tag + ' — ' + yourAnswer, margin, y);
         y += lineHeight + 2;
