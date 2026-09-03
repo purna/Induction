@@ -20,15 +20,15 @@
   --badge-pass-light: #4CAF50;
   --badge-pass-dark: #2E8B57;
   --badge-pass-darker: #1E5E3A;
-  --badge-fail: #E67C7C;
-  --badge-fail-dark: #C64B4B;
-  --badge-fail-darker: #A33A3A;
-  --badge-fail-mid: #FFB366;
-  --badge-fail-mid-mid: #FF8C42;
-  --badge-fail-mid-dark: #E67A2D;
-  --badge-fail-high: #FFE066;
-  --badge-fail-high-mid: #FFCC33;
-  --badge-fail-high-dark: #E6B800;
+  --badge-review-low: #E67C7C;
+  --badge-review-low-dark: #C64B4B;
+  --badge-review-low-darker: #A33A3A;
+  --badge-review-mid: #FFB366;
+  --badge-review-mid-mid: #FF8C42;
+  --badge-review-mid-dark: #E67A2D;
+  --badge-review-high: #FFE066;
+  --badge-review-high-mid: #FFCC33;
+  --badge-review-high-dark: #E6B800;
   --black-20: rgba(0, 0, 0, 0.2);
   --black-25: rgba(0, 0, 0, 0.25);
   --black-15: rgba(0, 0, 0, 0.15);
@@ -451,8 +451,8 @@ html[data-theme="dark"] .quiz-title .logo-dark {
   opacity: 0.9;
 }
 
-.completion-badge.failed {
-  background: radial-gradient(circle at 35% 35%, var(--badge-fail) 0%, var(--badge-fail-dark) 50%, var(--badge-fail-darker) 100%);
+.completion-badge.review-low {
+  background: radial-gradient(circle at 35% 35%, var(--badge-review-low) 0%, var(--badge-review-low-dark) 50%, var(--badge-review-low-darker) 100%);
   color: var(--white);
   border: 3px solid var(--white-40);
   box-shadow:
@@ -464,8 +464,8 @@ html[data-theme="dark"] .quiz-title .logo-dark {
   animation-delay: 0.6s;
 }
 
-.completion-badge.failed-low {
-  background: radial-gradient(circle at 35% 35%, var(--badge-fail) 0%, var(--badge-fail-dark) 50%, var(--badge-fail-darker) 100%);
+.completion-badge.review-mid {
+  background: radial-gradient(circle at 35% 35%, var(--badge-review-mid) 0%, var(--badge-review-mid-mid) 50%, var(--badge-review-mid-dark) 100%);
   color: var(--white);
   border: 3px solid var(--white-40);
   box-shadow:
@@ -477,21 +477,8 @@ html[data-theme="dark"] .quiz-title .logo-dark {
   animation-delay: 0.6s;
 }
 
-.completion-badge.failed-mid {
-  background: radial-gradient(circle at 35% 35%, var(--badge-fail-mid) 0%, var(--badge-fail-mid-mid) 50%, var(--badge-fail-mid-dark) 100%);
-  color: var(--white);
-  border: 3px solid var(--white-40);
-  box-shadow:
-    inset -0.5rem -0.5rem 0 var(--black-20),
-    inset 0.2rem 0.2rem 0 var(--white-10),
-    0 6px 20px var(--bad-glow-40),
-    0 2px 6px var(--black-15);
-  animation: badgeUnlock 0.7s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
-  animation-delay: 0.6s;
-}
-
-.completion-badge.failed-high {
-  background: radial-gradient(circle at 35% 35%, var(--badge-fail-high) 0%, var(--badge-fail-high-mid) 50%, var(--badge-fail-high-dark) 100%);
+.completion-badge.review-high {
+  background: radial-gradient(circle at 35% 35%, var(--badge-review-high) 0%, var(--badge-review-high-mid) 50%, var(--badge-review-high-dark) 100%);
   color: var(--white);
   border: 3px solid var(--white-40);
   box-shadow:
@@ -503,18 +490,18 @@ html[data-theme="dark"] .quiz-title .logo-dark {
   animation-delay: 0.6s;
 }
 
-.completion-badge.failed-high .progress-circle {
+.completion-badge.review-high .progress-circle {
   stroke: var(--white);
   animation: none;
 }
 
-.completion-badge.failed-high svg text {
+.completion-badge.review-high svg text {
   fill: var(--white);
   font-weight: 800;
   text-shadow: 0 1px 2px var(--black-30);
 }
 
-.completion-badge.failed-high svg {
+.completion-badge.review-high svg {
   width: 80px;
   height: 80px;
   opacity: 1;
@@ -1610,7 +1597,7 @@ input[type="checkbox"] {
   animation: feedbackPulse 0.4s ease;
 }
 
-.fail-badge {
+.review-badge {
   display: inline-block;
   font-family: var(--font-mono);
   font-size: 0.8rem;

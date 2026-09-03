@@ -73,7 +73,7 @@ have finished.
    - 80 % pass mark.
 
 5. **Results / review** (`#resultsContainer`)
-   - Shows score, pass/fail, and a per-question review.
+    - Shows score, pass/retry, and a per-question review.
    - Saves the attempt to `localStorage` and (if Firebase is configured)
      pushes it to Firestore under the user's email/level/year.
 
@@ -402,7 +402,7 @@ users/{uid}/
   - empty — never attempted
   - "Learned" badge — learn slides completed
   - gold star + 100 % — quiz passed (≥ 80 %)
-  - percentage circle — quiz attempted but not passed
+   - percentage circle — quiz attempted but not yet passed
 
 ### Quiz rules
 - 80 % pass mark.

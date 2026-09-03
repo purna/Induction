@@ -28,13 +28,13 @@
         });
       } else if (status && status.attempts > 0) {
         const pct = Math.round(status.bestPct);
-        let failClass = 'completion-badge failed-low';
+        let badgeClass = 'completion-badge review-low';
         if (pct >= 70) {
-          failClass = 'completion-badge failed-high';
+          badgeClass = 'completion-badge review-high';
         } else if (pct >= 50) {
-          failClass = 'completion-badge failed-mid';
+          badgeClass = 'completion-badge review-mid';
         }
-        badge.className = failClass;
+        badge.className = badgeClass;
         badge.innerHTML = app.renderProgressCircle(pct, 80, 6, 32, '#ffffff', true);
         requestAnimationFrame(function () {
           app.animateProgressCircle(badge);

@@ -43,7 +43,16 @@
       app.startQuiz(app.state.section, app.state.level);
     });
 
+    const pdfBtn = document.createElement('button');
+    pdfBtn.className = 'btn btn-secondary';
+    pdfBtn.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Download PDF';
+    pdfBtn.title = 'Download this result as a PDF';
+    pdfBtn.addEventListener('click', app.generateResultsPDF);
+
     actions.appendChild(retryBtn);
+    if (app.state.passed) {
+      actions.appendChild(pdfBtn);
+    }
     actions.appendChild(backBtn);
     wrap.appendChild(actions);
 
@@ -99,7 +108,7 @@
     hero.className = 'results-hero';
     const passBadge = app.state.passed
       ? '<span class="pass-badge">PASS</span>'
-      : '<span class="fail-badge">FAIL</span>';
+      : '<span class="review-badge">Needs Review</span>';
     hero.innerHTML =
       '<p class="settings-hint" style="margin:0;padding:1rem 0;">' + app.sectionTitle() + '</p>' +
       passBadge +
@@ -320,5 +329,225 @@
         '<div class="trait-track"><div class="trait-fill" style="width:' + pct + '%"></div></div>';
       wrap.appendChild(row);
     });
+  };
+
+  app.checkQuestionCorrect = function (q) {
+    const userAnswers = app.state.answers[q.id];
+    if (q.type === 'pyramid') {
+      return app.checkPyramidAnswer(q, userAnswers);
+    } else if (q.type === 'typing') {
+      const user = userAnswers || [];
+      const expected = q.blanks || [];
+      return user.length === expected.length && expected.every(function (v, i) {
+        return String(user[i]).trim().toLowerCase() === String(v).trim().toLowerCase();
+      });
+    } else if (q.type === 'dragorder') {
+      return JSON.stringify(userAnswers || []) === JSON.stringify(q.solution || []);
+    } else if (q.type === 'coderunner') {
+      return app.simulateCSharp(userAnswers || '', q).ok;
+    } else if (q.type === 'insert') {
+      return (userAnswers || [])[0] === q.answerIndex;
+    } else if (Array.isArray(q.correctIndices)) {
+      const user = (userAnswers || []).sort(function (a, b) { return a - b; });
+      const expected = q.correctIndices.slice().sort(function (a, b) { return a - b; });
+      return JSON.stringify(user) === JSON.stringify(expected);
+    }
+    return userAnswers === q.answerIndex;
+  };
+
+  app.generateResultsPDF = function () {
+    var _jspdf = window.jspdf;
+    if (!_jspdf || !_jspdf.jsPDF) {
+      if (app.speak) app.speak('PDF download is not available at the moment.');
+      return;
+    }
+    var jsPDF = _jspdf.jsPDF;
+    var doc = new jsPDF({ unit: 'pt', format: 'a4' });
+    var lineHeight = 14;
+    var margin = 56;
+    var y = 0;
+    var questions = app.state.data.questions || [];
+    var moduleId = app.state.section || '';
+    var moduleMeta = app.config.MODULES ? app.config.MODULES.find(function (m) {
+      return m.id === moduleId;
+    }) : null;
+    var moduleTitle = (app.state.data.meta && app.state.data.meta.title) || app.sectionTitle() || moduleId;
+    var moduleMark = (moduleMeta && moduleMeta.module) || '';
+    var userEmail = (app.state.user && app.state.user.email) || '';
+    var levelLabel = '';
+    var levelObj = (app.config.LEVELS || []).find(function (l) { return l.id === app.state.level; });
+    if (levelObj) levelLabel = levelObj.label;
+    var yearLabel = app.state.year === 'y1' ? 'Year 1' : app.state.year === 'y2' ? 'Year 2' : '';
+    var isPassed = app.state.passed || false;
+    var scorePct = app.state.score || 0;
+    var correct = app.state.correct || 0;
+    var total = app.state.total || questions.length;
+    var attemptDate = new Date();
+    var statusLabel = isPassed ? 'PASS' : 'Needs Review';
+    var statusColor = isPassed ? [46, 130, 91] : [198, 75, 75];
+
+    var drawHeader = function () {
+      doc.setFillColor(30, 35, 64);
+      doc.rect(0, 0, 595, 56);
+      doc.setTextColor(255, 255, 255);
+      doc.setFontSize(20);
+      doc.setFont('helvetica', 'bold');
+      doc.text('ESC&G — Induction Quiz', 24, 34);
+      doc.setFontSize(11);
+      doc.setFont('helvetica', 'normal');
+      doc.text('Module Result', 480, 34, { align: 'right' });
+    };
+
+    var drawFooter = function () {
+      doc.setDrawColor(225, 225, 238);
+      doc.setLineWidth(0.5);
+      doc.line(40, 800, 555, 800);
+      doc.setTextColor(91, 95, 122);
+      doc.setFontSize(8);
+      doc.setFont('helvetica', 'normal');
+      doc.text('Page 1 of 1', 297, 820, { align: 'center' });
+      doc.text('This is a practice result, not an official test.', 297, 835, { align: 'center' });
+    };
+
+    drawHeader();
+    y = 80;
+    doc.setTextColor(30, 35, 64);
+
+    var titleLines = doc.splitTextToSize(moduleTitle, 480);
+    doc.setFontSize(20);
+    doc.setFont('helvetica', 'bold');
+    doc.text(titleLines, margin, y);
+    y += titleLines.length * (lineHeight + 2) + 8;
+
+    doc.setFontSize(13);
+    doc.setFont('helvetica', 'normal');
+    doc.setTextColor(91, 95, 122);
+
+    var detailLeft = [
+      ['Module', moduleMark || '—'],
+      ['Level', levelLabel || '—'],
+      ['Year', yearLabel || '—'],
+      ['Email', userEmail || '(not signed in)']
+    ];
+    doc.setTextColor(30, 35, 64);
+    detailLeft.forEach(function (row) {
+      doc.setFont('helvetica', 'bold');
+      doc.text(row[0], margin, y);
+      doc.setFont('helvetica', 'normal');
+      doc.text(row[1], margin + 70, y);
+      y += lineHeight;
+    });
+    y += 6;
+
+    doc.setDrawColor(225, 225, 238);
+    doc.setLineWidth(0.5);
+    doc.line(margin, y, 555, y);
+    y += 14;
+
+    doc.setFontSize(26);
+    doc.setFont('helvetica', 'bold');
+    doc.setTextColor(statusColor[0], statusColor[1], statusColor[2]);
+    doc.text(statusLabel, margin, y);
+    y += 6;
+
+    doc.setFontSize(32);
+    doc.setTextColor(30, 35, 64);
+    doc.text(scorePct + '%', margin, y);
+    y += 22;
+
+    doc.setFontSize(12);
+    doc.setFont('helvetica', 'normal');
+    doc.setTextColor(91, 95, 122);
+    doc.text(correct + ' of ' + total + ' correct — ' + attemptDate.toLocaleDateString('en-GB', {
+      year: 'numeric', month: 'short', day: 'numeric'
+    }), margin, y);
+    y += 22;
+
+    if (questions.length > 0) {
+      doc.setTextColor(30, 35, 64);
+      doc.setFontSize(14);
+      doc.setFont('helvetica', 'bold');
+      doc.text('Question Review', margin, y);
+      y += 22;
+
+      questions.forEach(function (q, i) {
+        if (y > 760) {
+          drawFooter();
+          doc.addPage();
+          drawHeader();
+          y = 80;
+          doc.setTextColor(30, 35, 64);
+          doc.setFontSize(14);
+          doc.setFont('helvetica', 'bold');
+          doc.text('Question Review (continued)', margin, y);
+          y += 22;
+        }
+
+        var gotIt = app.checkQuestionCorrect(q);
+        doc.setFontSize(11);
+        doc.setFont('helvetica', 'bold');
+        doc.setTextColor(30, 35, 64);
+        var qText = (i + 1) + '. ' + q.prompt;
+        var qLines = doc.splitTextToSize(qText, 480);
+        doc.text(qLines, margin, y);
+        y += qLines.length * (lineHeight) + 4;
+
+        doc.setFont('helvetica', 'normal');
+        doc.setTextColor(91, 95, 122);
+        doc.setFontSize(10);
+
+        var yourAnswer = '(no answer)';
+        if (q.type === 'typing') {
+          var u = (app.state.answers[q.id] || []);
+          var exp = q.blanks || [];
+          yourAnswer = u.length ? u.join(', ') : '(skipped)';
+          if (!gotIt && exp.length) {
+            yourAnswer += ' — expected: ' + exp.join(', ');
+          }
+        } else if (q.type === 'insert' || (q.type === 'visual')) {
+          var idx = app.state.answers[q.id];
+          yourAnswer = idx !== undefined ? (q.options ? q.options[idx] : ('Option ' + (idx + 1))) : '(skipped)';
+          if (q.type !== 'visual' && !gotIt && q.options && q.options[q.answerIndex]) {
+            yourAnswer += ' — expected: ' + q.options[q.answerIndex];
+          }
+        } else if (q.type === 'dragorder') {
+          var order = app.state.answers[q.id] || [];
+          yourAnswer = order.length ? order.join(', ') : '(skipped)';
+          if (!gotIt && q.solution) {
+            yourAnswer += ' — expected: ' + q.solution.join(', ');
+          }
+        } else if (q.type === 'coderunner') {
+          yourAnswer = (app.state.answers[q.id] || '(skipped)');
+          if (!gotIt && q.expectedOutput) {
+            yourAnswer += ' — expected output: ' + q.expectedOutput;
+          }
+        } else if (q.type === 'pyramid') {
+          yourAnswer = gotIt ? 'Correct' : 'Incorrect — see explanation';
+        } else {
+          var uIdx = app.state.answers[q.id];
+          yourAnswer = uIdx !== undefined ? (q.options ? q.options[uIdx] : uIdx) : '(skipped)';
+          if (!gotIt && q.options && q.options[q.answerIndex]) {
+            yourAnswer += ' — expected: ' + q.options[q.answerIndex];
+          }
+        }
+
+        doc.setTextColor(gotIt ? [46, 130, 91] : [198, 75, 75]);
+        var tag = gotIt ? 'Correct' : 'Incorrect';
+        doc.text(tag + ' — ' + yourAnswer, margin, y);
+        y += lineHeight + 2;
+
+        if (q.explanation) {
+          doc.setTextColor(91, 95, 122);
+          doc.setFontSize(9);
+          var expLines = doc.splitTextToSize('Note: ' + q.explanation, 480);
+          doc.text(expLines, margin, y);
+          y += expLines.length * (lineHeight - 2) + 6;
+        }
+        y += 4;
+      });
+    }
+
+    drawFooter();
+    doc.save('induction-' + (moduleMark || moduleId || 'result') + '-' + attemptDate.getFullYear() + '.pdf');
   };
 })();
