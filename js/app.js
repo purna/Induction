@@ -36,6 +36,7 @@
     PASS_THRESHOLD: 80,
     QUIZ_VARIANTS: ['A', 'B', 'C'],
     REQUIRE_EMAIL: false,
+    CERT_LOGO_DATAURL: null,
     LEVELS: [
       { id: 'l3', label: 'Level 3', blurb: 'A Level / T-Level — Year 1 & Year 2', years: ['y1', 'y2'] },
       { id: 'l2', label: 'Level 2', blurb: 'BTEC / Vocational — Year 1 & Year 2', years: ['y1', 'y2'] },

@@ -562,6 +562,10 @@
       drawCertBorder();
       drawHeader('Certificate');
 
+      if (app.config && app.config.CERT_LOGO_DATAURL) {
+        doc.addImage(app.config.CERT_LOGO_DATAURL, 'PNG', 205, 60, 90, 45);
+      }
+
       y = 130;
 
       doc.setTextColor(30, 35, 64);
