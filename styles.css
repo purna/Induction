@@ -1717,17 +1717,24 @@ input[type="checkbox"] {
 
 .download-cert-btn {
   display: inline-flex;
-  flex-direction: column;
   align-items: center;
-  gap: 0.15rem;
+  justify-content: center;
   font-size: 0.8rem;
   font-weight: 600;
   padding: 0.4rem 0.6rem;
   border-radius: 8px;
 }
 
-.download-cert-btn i:first-child {
-  font-size: 0.7rem;
+.download-cert-btn .fa-stack {
+  font-size: 0.9rem;
+}
+
+.download-cert-btn .fa-stack .fa-crown {
+  color: var(--accent);
+}
+
+.download-cert-btn .fa-stack .fa-download {
+  color: inherit;
 }
 
 footer {
