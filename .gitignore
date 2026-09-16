@@ -9,3 +9,5 @@ js/firebase-config.js
 kilo
 .DS_Store
 js/firebaseConfig.js
+.DS_Store
+_docs/.DS_Store
